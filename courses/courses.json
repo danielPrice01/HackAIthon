@@ -181,7 +181,7 @@
       "available": "Not Offered Every Year",
       "cu": "0-0.5 Course Units",
       "prereq": "CIS 1200 or previous programming experience",
-      "syllabus": "courses/syllabi/cis1952.txt"
+      "syllabus": ""
     },
     {
       "id": "CIS 1961",
@@ -308,7 +308,7 @@
       "available": "Not Offered Every Year",
       "cu": "1 Course Unit",
       "prereq": "CIS 1210 AND MATH 2400",
-      "syllabus": "courses/syllabi/cis3900.txt"
+      "syllabus": ""
     },
     {
       "id": "CIS 3980",

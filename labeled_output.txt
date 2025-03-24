@@ -1,0 +1,1560 @@
+Course: CIS 0099 - Undergraduate Research/Independent Study
+Assigned Labels:
+  - Computer Networks
+  - Game Development
+  - Independent Study
+  - Internet and Web Systems
+  - Neural Networks
+  - Operating Systems
+==================================================
+Course: CIS 1050 - Computational Data Exploration
+Assigned Labels:
+  - Data Science
+  - Data Structures
+  - Data Visualization
+  - Introductory Programming
+  - Machine Learning
+  - Operating Systems
+  - Probability and Statistics
+  - Python Programming
+  - Reinforcement Learning
+  - Statistical Inference
+==================================================
+Course: CIS 1070 - Visual Culture through the Computer's Eye
+Assigned Labels:
+  - Computer Vision
+  - Machine Learning
+  - Operating Systems
+  - Reinforcement Learning
+==================================================
+Course: CIS 1100 - Introduction to Computer Programming
+Assigned Labels:
+  - Computer Networks
+  - Functional Programming
+  - Game Development
+  - JavaScript Programming
+  - Machine Learning
+  - Neural Networks
+  - Object-Oriented Programming
+  - Operating Systems
+  - Recursion Techniques
+  - Reinforcement Learning
+  - Software Engineering
+  - Unit Testing
+==================================================
+Course: CIS 1200 - Programming Languages and Techniques I
+Assigned Labels:
+  - Artificial Intelligence
+  - Computer Networks
+  - Data Structures
+  - Debugging Techniques
+  - Frontend Development
+  - Functional Programming
+  - Game Development
+  - Internet and Web Systems
+  - Iterative Methods
+  - Java Programming
+  - Machine Learning
+  - Neural Networks
+  - OCaml Programming
+  - Operating Systems
+  - Recursion Techniques
+  - Reinforcement Learning
+  - Simulation and Modeling
+  - Software Design
+  - Software Engineering
+  - Unit Testing
+  - User Interface Design
+==================================================
+Course: CIS 1210 - Programming Languages and Techniques II
+Assigned Labels:
+  - Computer Networks
+  - Data Structures
+  - Data Visualization
+  - Debugging Techniques
+  - Discrete Mathematics
+  - Ethical Algorithm Design
+  - Graph Algorithms
+  - Internet and Web Systems
+  - Java Programming
+  - Mathematical Foundations
+  - Neural Networks
+  - Operating Systems
+  - Probability and Statistics
+  - Proof Techniques
+  - Reinforcement Learning
+  - Ruby on Rails
+  - Unit Testing
+==================================================
+Course: CIS 1250 - Technology and Policy
+Assigned Labels:
+  - Operating Systems
+==================================================
+Course: CIS 1400 - Introduction to Cognitive Science
+Assigned Labels:
+  - Cognitive Science
+  - Operating Systems
+==================================================
+Course: CIS 1600 - Mathematical Foundations of Computer Science
+Assigned Labels:
+  - Data Structures
+  - Data Visualization
+  - Discrete Mathematics
+  - Internet and Web Systems
+  - Mathematical Foundations
+  - Neural Networks
+  - Operating Systems
+  - Probability and Statistics
+==================================================
+Course: CIS 1810 - The Quantum and the Computer
+Assigned Labels:
+  - Operating Systems
+  - Quantum Information Science
+  - Seminar Courses
+==================================================
+Course: CIS 1901 - C++ Programming
+Assigned Labels:
+  - Computer Networks
+  - Introductory Programming
+==================================================
+Course: CIS 1902 - Python Programming
+Assigned Labels:
+  - Backend Development
+  - Capstone Projects
+  - Computer Networks
+  - Data Science
+  - Data Structures
+  - Data Visualization
+  - Deep Learning
+  - DevOps
+  - Functional Programming
+  - Internet and Web Systems
+  - Machine Learning
+  - Object-Oriented Programming
+  - Operating Systems
+  - Reinforcement Learning
+  - Scientific Computing
+  - Systems Programming
+  - Virtual Reality
+  - Web Development
+==================================================
+Course: CIS 1903 - Go Programming
+Assigned Labels:
+  - Computer Networks
+  - Concurrent Programming Techniques
+  - Data Structures
+  - Machine Learning
+  - Mobile App Development
+  - Neural Networks
+  - Parallel Computing
+  - Reinforcement Learning
+  - Systems Programming
+==================================================
+Course: CIS 1904 - Introduction to Haskell Programming
+Assigned Labels:
+  - Computer Networks
+  - Functional Programming
+  - Haskell Programming
+  - Recursion Techniques
+==================================================
+Course: CIS 1905 - Rust Programming
+Assigned Labels:
+  - Artificial Intelligence
+  - Capstone Projects
+  - Computer Networks
+  - Concurrent Programming Techniques
+  - Game Development
+  - Neural Networks
+  - Operating Systems
+  - Parallel Computing
+  - Ruby on Rails
+  - Rust Programming
+  - Systems Programming
+==================================================
+Course: CIS 1911 - Using and Understanding Unix and Linux
+Assigned Labels:
+  - Human–Computer Interaction
+  - Reinforcement Learning
+==================================================
+Course: CIS 1912 - DevOps
+Assigned Labels:
+  - Capstone Projects
+  - Computer Architecture
+  - Data Structures
+  - DevOps
+  - DevOps Practices
+  - Internet and Web Systems
+  - Operating Systems
+  - Test-Driven Development
+  - Unit Testing
+==================================================
+Course: CIS 1921 - Solving Hard Problems in Practice
+Assigned Labels:
+  - Computer Networks
+  - Debugging Techniques
+  - Heuristic Algorithms
+  - Operating Systems
+==================================================
+Course: CIS 1951 - iOS Programming
+Assigned Labels:
+  - Artificial Intelligence
+  - Augmented Reality
+  - Capstone Projects
+  - Cognitive Science
+  - Compiler Design Techniques
+  - Computer Animation
+  - Computer Networks
+  - Data Structures
+  - Database Systems
+  - Debugging Techniques
+  - Discrete Mathematics
+  - Frontend Development
+  - Human–Computer Interaction
+  - Interaction Design
+  - Internet and Web Systems
+  - JavaScript Programming
+  - Machine Learning
+  - Mobile App Development
+  - Neural Networks
+  - Object-Oriented Design Patterns
+  - Object-Oriented Programming
+  - Operating Systems
+  - Reinforcement Learning
+  - Ruby on Rails
+  - Swift Programming
+  - User Interface Design
+  - iOS Programming
+==================================================
+Course: CIS 1952 - Android Programming
+Assigned Labels:
+  - Mobile App Development
+==================================================
+Course: CIS 1961 - Ruby on Rails Web Development
+Assigned Labels:
+  - Computer Networks
+  - Frontend Development
+  - Internet and Web Systems
+  - Machine Learning
+  - Operating Systems
+  - Ruby on Rails
+  - Web Development
+==================================================
+Course: CIS 1962 - JavaScript Programming
+Assigned Labels:
+  - Backend Development
+  - Capstone Projects
+  - Computer Networks
+  - Debugging Techniques
+  - Frontend Development
+  - Internet and Web Systems
+  - JavaScript Programming
+  - Machine Learning
+  - NoSQL Databases
+  - Object-Oriented Design Patterns
+  - Operating Systems
+  - Reinforcement Learning
+  - Ruby on Rails
+  - Software Design
+  - TypeScript
+  - Web Development
+==================================================
+Course: CIS 1990 - Special Topics
+Assigned Labels:
+  - Operating Systems
+==================================================
+Course: CIS 2330 - Introduction to Blockchain
+Assigned Labels:
+  - Blockchain Technology
+  - Cryptography
+  - Data Structures
+  - Distributed Ledger Technology
+  - Distributed Systems
+  - Mathematical Foundations
+  - Reinforcement Learning
+==================================================
+Course: CIS 2400 - Introduction to Computer Systems
+Assigned Labels:
+  - C Programming
+  - C++ Programming
+  - Compiler Design Techniques
+  - Computer Architecture
+  - Computer Networks
+  - Data Structures
+  - Discrete Mathematics
+  - Game Development
+  - Human–Computer Interaction
+  - Internet and Web Systems
+  - Memory Management Techniques
+  - Neural Networks
+  - Operating Systems
+  - Optimization Techniques
+  - Probability and Statistics
+  - Reinforcement Learning
+  - Special Topics
+  - Systems Programming
+==================================================
+Course: CIS 2450 - Big Data Analytics
+Assigned Labels:
+  - Artificial Intelligence
+  - Big Data Analytics
+  - Computer Networks
+  - Data Mining
+  - Data Science
+  - Data Structures
+  - Data Visualization
+  - Database Systems
+  - Debugging Techniques
+  - Discrete Mathematics
+  - MATLAB Programming
+  - Machine Learning
+  - Machine Learning Techniques
+  - Natural Language Processing
+  - Neural Networks
+  - Operating Systems
+  - Probability and Statistics
+  - SQL and Relational Databases
+  - Simulation and Modeling
+==================================================
+Course: CIS 2610 - Discrete Probability, Stochastic Processes, and Statistical Inference
+Assigned Labels:
+  - Cloud Computing
+  - Computer Networks
+  - Data Structures
+  - Discrete Mathematics
+  - Frontend Development
+  - Internet and Web Systems
+  - Machine Learning
+  - Mathematical Foundations
+  - Object-Oriented Design Patterns
+  - Operating Systems
+  - Probability and Statistics
+  - Proof Techniques
+  - Reinforcement Learning
+  - Simulation and Modeling
+  - Statistical Inference
+  - Stochastic Processes
+==================================================
+Course: CIS 2620 - Automata, Computability, and Complexity
+Assigned Labels:
+  - Compiler Design Techniques
+  - Computational Complexity
+  - Computer Networks
+  - Discrete Mathematics
+  - Functional Programming
+  - Logic and Reasoning
+  - Machine Learning
+  - Mathematical Foundations
+  - Neural Networks
+  - Operating Systems
+  - Reinforcement Learning
+  - Stochastic Processes
+  - Theory of Computation
+==================================================
+Course: CIS 3200 - Introduction to Algorithms
+Assigned Labels:
+  - Algorithms
+  - Computational Complexity
+  - Data Structures
+  - Dynamic Programming
+  - Graph Algorithms
+  - Heuristic Algorithms
+  - Internet and Web Systems
+  - Neural Networks
+  - Operating Systems
+  - Optimization Techniques
+  - Probability and Statistics
+  - Randomized Algorithms
+  - Research Methods
+==================================================
+Course: CIS 3333 - Mathematics of Machine Learning
+Assigned Labels:
+  - Internet and Web Systems
+  - Machine Learning
+  - Mathematical Foundations
+  - Operating Systems
+  - Optimization Techniques
+  - Probability and Statistics
+  - Reinforcement Learning
+  - Stochastic Processes
+==================================================
+Course: CIS 3340 - Advanced Topics in Algorithms
+Assigned Labels:
+  - Cryptography
+  - Data Structures
+  - Heuristic Algorithms
+  - Randomized Algorithms
+==================================================
+Course: CIS 3410 - Compilers and Interpreters
+Assigned Labels:
+  - Compiler Design Techniques
+  - Computer Networks
+  - Functional Programming
+  - Machine Learning
+  - Memory Management Techniques
+  - OCaml Programming
+  - Object-Oriented Programming
+  - Operating Systems
+  - Optimization Techniques
+==================================================
+Course: CIS 3500 - Software Design/Engineering
+Assigned Labels:
+  - Agile Development
+  - Backend Development
+  - DevOps
+  - DevOps Practices
+  - Distributed Systems
+  - Frontend Development
+  - Game Development
+  - Internet and Web Systems
+  - JavaScript Programming
+  - Machine Learning
+  - NoSQL Databases
+  - Object-Oriented Design Patterns
+  - Operating Systems
+  - Reinforcement Learning
+  - Robotics
+  - Simulation and Modeling
+  - Software Architecture
+  - Software Design
+  - Software Engineering
+  - Test-Driven Development
+  - Unit Testing
+  - User Interface Design
+  - Web Development
+==================================================
+Course: CIS 3900 - Robotics: Planning Perception
+Assigned Labels:
+  - Artificial Intelligence
+  - Cognitive Science
+  - Computer Networks
+  - Data Structures
+  - Neural Networks
+  - Probability and Statistics
+  - Robotics
+==================================================
+Course: CIS 3980 - Quantum Computer and Information Science
+Assigned Labels:
+  - Operating Systems
+  - Quantum Information Science
+  - Reinforcement Learning
+==================================================
+Course: CIS 3990 - Special Topics
+Assigned Labels:
+  - Capstone Projects
+  - Computer Networks
+  - Frontend Development
+  - Human–Computer Interaction
+  - Internet and Web Systems
+  - Machine Learning
+  - Operating Systems
+  - Reinforcement Learning
+  - Special Topics
+  - Visual Design
+==================================================
+Course: CIS 4000 - Senior Project
+Assigned Labels:
+  - Capstone Projects
+==================================================
+Course: CIS 4010 - Senior Project (Continuation)
+Assigned Labels: None
+==================================================
+Course: CIS 4100 - CIS Senior Thesis
+Assigned Labels:
+  - Computer Networks
+  - Independent Study
+  - Operating Systems
+  - Reinforcement Learning
+  - Senior Thesis
+==================================================
+Course: CIS 4120 - Introduction to Human Computer Interaction
+Assigned Labels:
+  - Artificial Intelligence
+  - Capstone Projects
+  - Computer Networks
+  - Frontend Development
+  - Human–Computer Interaction
+  - Internet and Web Systems
+  - Neural Networks
+  - Operating Systems
+  - Reinforcement Learning
+  - User Interface Design
+  - Visual Design
+==================================================
+Course: CIS 4190 - Applied Machine Learning
+Assigned Labels:
+  - Artificial Intelligence
+  - Bioinformatics
+  - Capstone Projects
+  - Cognitive Science
+  - Computer Architecture
+  - Computer Networks
+  - Computer Vision
+  - Data Mining
+  - Data Science
+  - Data Structures
+  - Data Visualization
+  - Deep Learning
+  - Deep Learning Techniques
+  - Machine Learning
+  - Natural Language Processing
+  - Neural Networks
+  - Operating Systems
+  - Probability and Statistics
+  - Reinforcement Learning
+==================================================
+Course: CIS 4210 - Artificial Intelligence
+Assigned Labels:
+  - Algorithms
+  - Artificial Intelligence
+  - Code Profiling
+  - Computer Networks
+  - Debugging Techniques
+  - Discrete Mathematics
+  - Dynamic Programming
+  - Machine Learning
+  - Natural Language Processing
+  - Neural Networks
+  - Operating Systems
+  - Reinforcement Learning
+  - Robotics
+  - Stochastic Processes
+==================================================
+Course: CIS 4230 - Ethical Algorithm Design
+Assigned Labels:
+  - Algorithms
+  - Artificial Intelligence
+  - Data Science
+  - Ethical Algorithm Design
+  - Machine Learning
+  - Operating Systems
+  - Privacy and Security
+  - Probability and Statistics
+==================================================
+Course: CIS 4300 - Natural Language Processing
+Assigned Labels:
+  - Computer Networks
+  - Natural Language Processing
+==================================================
+Course: CIS 4360 - Introduction to Computational Biology & Biological Modeling
+Assigned Labels:
+  - Algorithms
+  - Computational Biology
+  - Computer Architecture
+  - Data Science
+  - Machine Learning
+  - Neural Networks
+  - Probability and Statistics
+  - Simulation and Modeling
+==================================================
+Course: CIS 4410 - Embedded Software for Life-Critical Applications
+Assigned Labels:
+  - Computer Networks
+  - Embedded Systems
+  - Neural Networks
+  - Object-Oriented Programming
+  - Operating Systems
+  - Optimization Techniques
+  - Programming Paradigms
+  - Simulation and Modeling
+  - Software Architecture
+==================================================
+Course: CIS 4480 - Operating Systems Design and Implementation
+Assigned Labels:
+  - Advanced Programming
+  - Artificial Intelligence
+  - C Programming
+  - C++ Programming
+  - Capstone Projects
+  - Computer Networks
+  - Concurrent Programming Techniques
+  - Data Structures
+  - Data Visualization
+  - DevOps
+  - Frontend Development
+  - Game Development
+  - Human–Computer Interaction
+  - Internet and Web Systems
+  - Machine Learning
+  - Memory Management Techniques
+  - Neural Networks
+  - Operating Systems
+  - Parallel Computing
+  - Privacy and Security
+  - Reinforcement Learning
+  - Software Engineering
+  - Systems Programming
+==================================================
+Course: CIS 4500 - Database and Information Systems
+Assigned Labels:
+  - Computer Networks
+  - Data Science
+  - Database Systems
+  - Discrete Mathematics
+  - JavaScript Programming
+  - Machine Learning
+  - NoSQL Databases
+  - Object-Oriented Programming
+  - Operating Systems
+  - Optimization Techniques
+  - SQL and Relational Databases
+  - Simulation and Modeling
+==================================================
+Course: CIS 4510 - Computer and Network Security
+Assigned Labels:
+  - Computer Networks
+  - Computer and Network Security
+  - Cryptography
+  - Data Structures
+  - Database Systems
+  - Game Development
+  - Internet and Web Systems
+  - Mathematical Foundations
+  - Operating Systems
+  - Privacy and Security
+  - SQL and Relational Databases
+==================================================
+Course: CIS 4550 - Internet and Web Systems
+Assigned Labels:
+  - Augmented Reality
+  - Backend Development
+  - Big Data Analytics
+  - Capstone Projects
+  - Cloud Computing
+  - Computer Networks
+  - Concurrent Programming Techniques
+  - Data Structures
+  - Debugging Techniques
+  - Distributed Systems
+  - Dynamic Programming
+  - Frontend Development
+  - Graph Algorithms
+  - Human–Computer Interaction
+  - Internet and Web Systems
+  - Java Programming
+  - Machine Learning
+  - NLP Techniques
+  - Neural Networks
+  - Operating Systems
+  - Parallel Computing
+  - Reinforcement Learning
+  - Web Development
+==================================================
+Course: CIS 4600 - Interactive Computer Graphics
+Assigned Labels:
+  - Capstone Projects
+  - Computer Animation
+  - Computer Networks
+  - Data Structures
+  - Neural Networks
+  - Operating Systems
+  - Reinforcement Learning
+  - Simulation and Modeling
+==================================================
+Course: CIS 4610 - Advanced Rendering
+Assigned Labels:
+  - C++ Programming
+  - Data Structures
+  - Operating Systems
+  - Randomized Algorithms
+  - Reinforcement Learning
+  - Simulation and Modeling
+  - Software Systems
+==================================================
+Course: CIS 4620 - Computer Animation
+Assigned Labels:
+  - Computer Animation
+  - Computer Networks
+  - Data Structures
+  - Operating Systems
+  - Robotics
+  - Simulation and Modeling
+  - Simulation and Modeling Techniques
+  - Virtual Reality
+==================================================
+Course: CIS 4670 - Scientific Computing
+Assigned Labels:
+  - Data Visualization
+  - MATLAB Programming
+  - Numerical Methods
+  - Parallel Computing
+  - Scientific Computing
+==================================================
+Course: CIS 4710 - Computer Organization and Design
+Assigned Labels:
+  - Computer Architecture
+  - Computer Networks
+  - Concurrent Programming Techniques
+  - Digital Systems
+  - Discrete Mathematics
+  - Human–Computer Interaction
+  - Operating Systems
+  - Software Design
+  - Systems Programming
+==================================================
+Course: CIS 4810 - Computer Vision & Computational Photography
+Assigned Labels:
+  - Cognitive Science
+  - Computational Photography
+  - Computer Vision
+  - Data Structures
+  - Internet and Web Systems
+  - Operating Systems
+  - Reinforcement Learning
+==================================================
+Course: CIS 4970 - DMD Senior Project
+Assigned Labels:
+  - Computer Networks
+  - Game Development
+  - Internet and Web Systems
+  - Operating Systems
+==================================================
+Course: CIS 4980 - Senior Capstone Project
+Assigned Labels:
+  - Capstone Projects
+  - Game Development
+  - Operating Systems
+  - Reinforcement Learning
+==================================================
+Course: CIS 5000 - Software Foundations
+Assigned Labels:
+  - Advanced Programming
+  - Computer Networks
+  - Discrete Mathematics
+  - Functional Programming
+  - Logic and Reasoning
+  - Mathematical Foundations
+  - Neural Networks
+  - Object-Oriented Programming
+  - Operating Systems
+  - Proof Techniques
+  - Reinforcement Learning
+==================================================
+Course: CIS 5010 - Computer Architecture
+Assigned Labels:
+  - Computer Architecture
+  - Computer Networks
+  - Concurrent Programming Techniques
+  - Debugging Techniques
+  - Discrete Mathematics
+  - Iterative Methods
+  - Operating Systems
+  - Parallel Computing
+  - Parallel Processing Techniques
+==================================================
+Course: CIS 5020 - Analysis of Algorithms
+Assigned Labels:
+  - Computer Architecture
+  - Computer Networks
+  - Data Structures
+  - Debugging Techniques
+  - Discrete Mathematics
+  - Dynamic Programming
+  - Heuristic Algorithms
+  - Iterative Methods
+  - Operating Systems
+  - Optimization Techniques
+  - Randomized Algorithms
+==================================================
+Course: CIS 5050 - Software Systems
+Assigned Labels:
+  - Big Data Analytics
+  - C++ Programming
+  - Computational Photography
+  - Computer Networks
+  - Concurrent Programming Techniques
+  - Data Structures
+  - Discrete Mathematics
+  - Distributed Systems
+  - Machine Learning
+  - Operating Systems
+  - Parallel Computing
+  - Programming Paradigms
+  - Reinforcement Learning
+  - Software Architecture
+  - Systems Programming
+==================================================
+Course: CIS 5110 - Theory of Computation
+Assigned Labels:
+  - Compiler Design Techniques
+  - Computational Complexity
+  - Computer Networks
+  - Cryptography
+  - Data Structures
+  - Data Visualization
+  - Discrete Mathematics
+  - Dynamic Programming
+  - Logic and Reasoning
+  - Mathematical Foundations
+  - Operating Systems
+  - Recursion Techniques
+  - Reinforcement Learning
+  - Stochastic Processes
+  - Theory of Computation
+==================================================
+Course: CIS 5120 - Introduction to Human Computer Interaction
+Assigned Labels:
+  - Artificial Intelligence
+  - Capstone Projects
+  - Computer Networks
+  - Frontend Development
+  - Human–Computer Interaction
+  - Internet and Web Systems
+  - Neural Networks
+  - Operating Systems
+  - Reinforcement Learning
+  - User Interface Design
+  - Visual Design
+==================================================
+Course: CIS 5150 - Fundamentals of Linear Algebra and Optimization
+Assigned Labels:
+  - Code Optimization
+  - Optimization Techniques
+==================================================
+Course: CIS 5180 - Topics in Logic: Finite Model Theory and Descriptive Complexity
+Assigned Labels:
+  - Computational Complexity
+  - Computer Networks
+  - Discrete Mathematics
+  - Operating Systems
+  - Theory of Computation
+==================================================
+Course: CIS 5190 - Applied Machine Learning
+Assigned Labels:
+  - Bioinformatics
+  - Cognitive Science
+  - Computer Vision
+  - Data Mining
+  - Data Science
+  - Deep Learning
+  - Machine Learning
+  - Neural Networks
+  - Operating Systems
+  - Reinforcement Learning
+==================================================
+Course: CIS 5200 - Machine Learning
+Assigned Labels:
+  - Capstone Projects
+  - Cognitive Science
+  - Computer Networks
+  - Data Mining
+  - Deep Learning
+  - Internet and Web Systems
+  - Machine Learning
+  - Neural Networks
+  - Operating Systems
+  - Optimization Techniques
+  - Probability and Statistics
+  - Reinforcement Learning
+==================================================
+Course: CIS 5210 - Artificial Intelligence
+Assigned Labels:
+  - Computer Networks
+  - Discrete Mathematics
+  - Machine Learning
+  - Natural Language Processing
+  - Reinforcement Learning
+==================================================
+Course: CIS 5220 - Deep Learning for Data Science
+Assigned Labels:
+  - Code Optimization
+  - Cognitive Science
+  - Compiler Design Techniques
+  - Computer Architecture
+  - Computer Networks
+  - Data Structures
+  - Debugging Techniques
+  - Deep Learning
+  - Deep Learning Techniques
+  - Image Processing
+  - Image Processing Techniques
+  - Internet and Web Systems
+  - Machine Learning
+  - Natural Language Processing
+  - Neural Networks
+  - Operating Systems
+  - Optimization Techniques
+  - Reinforcement Learning
+==================================================
+Course: CIS 5230 - Ethical Algorithm Design
+Assigned Labels:
+  - Artificial Intelligence
+  - Data Science
+  - Discrete Mathematics
+  - Ethical Algorithm Design
+  - Privacy and Security
+==================================================
+Course: CIS 5260 - Machine Translation
+Assigned Labels:
+  - Artificial Intelligence
+  - Computer Networks
+  - Data Structures
+  - Machine Learning
+  - Operating Systems
+  - Ruby on Rails
+==================================================
+Course: CIS 5300 - Natural Language Processing
+Assigned Labels:
+  - Capstone Projects
+  - Cloud Computing
+  - Compiler Design Techniques
+  - Computer Networks
+  - Data Structures
+  - Machine Learning
+  - Natural Language Processing
+  - Neural Networks
+  - Operating Systems
+  - Probability and Statistics
+  - Reinforcement Learning
+  - Simulation and Modeling
+  - Stochastic Processes
+==================================================
+Course: CIS 5350 - Introduction to Blockchain
+Assigned Labels:
+  - Artificial Intelligence
+  - Bioinformatics
+  - Computational Biology
+  - Computer Architecture
+  - Computer Networks
+  - Data Science
+  - Data Visualization
+  - Discrete Mathematics
+  - Frontend Development
+  - Internet and Web Systems
+  - Machine Learning
+  - Natural Language Processing
+  - Operating Systems
+  - Policy and Technology
+  - Probability and Statistics
+  - Reinforcement Learning
+  - Research Methods
+  - Statistical Inference
+==================================================
+Course: CIS 5360 - Fundamentals of Computational Biology
+Assigned Labels:
+  - Bioinformatics
+  - Computational Biology
+  - Discrete Mathematics
+  - Neural Networks
+  - Probability and Statistics
+  - Simulation and Modeling
+==================================================
+Course: CIS 5370 - Biomedical Image Analysis
+Assigned Labels:
+  - Biomedical Image Analysis
+  - Discrete Mathematics
+  - Image Processing
+  - Image Processing Techniques
+  - Probability and Statistics
+==================================================
+Course: CIS 5400 - Principles of Embedded Computation
+Assigned Labels:
+  - Embedded Systems
+  - JavaScript Programming
+  - Neural Networks
+  - Reinforcement Learning
+  - Theory of Computation
+==================================================
+Course: CIS 5410 - Embedded Software for Life-Critical Applications
+Assigned Labels:
+  - Computer Networks
+  - Embedded Systems
+  - Neural Networks
+  - Object-Oriented Programming
+  - Operating Systems
+  - Optimization Techniques
+  - Programming Paradigms
+  - Simulation and Modeling
+  - Software Architecture
+==================================================
+Course: CIS 5420 - Embedded Systems Programming
+Assigned Labels:
+  - Concurrent Programming Techniques
+  - Data Structures
+  - Parallel Computing
+  - Simulation and Modeling
+==================================================
+Course: CIS 5450 - Big Data Analytics
+Assigned Labels:
+  - Artificial Intelligence
+  - Big Data Analytics
+  - Computer Networks
+  - Data Mining
+  - Data Science
+  - Data Structures
+  - Data Visualization
+  - Game Development
+  - MATLAB Programming
+  - Machine Learning
+  - Natural Language Processing
+  - Neural Networks
+  - Operating Systems
+  - Privacy and Security
+  - Probability and Statistics
+  - Ruby on Rails
+  - Statistical Inference
+==================================================
+Course: CIS 5470 - Software Analysis
+Assigned Labels:
+  - Data Structures
+  - Debugging Techniques
+  - Discrete Mathematics
+  - Graph Algorithms
+  - Mathematical Foundations
+  - Neural Networks
+  - Operating Systems
+  - Probability and Statistics
+  - Research Methods
+  - Ruby on Rails
+  - Software Engineering
+  - Systems Programming
+  - Unit Testing
+==================================================
+Course: CIS 5480 - Operating Systems Design and Implementation
+Assigned Labels:
+  - Advanced Programming
+  - Artificial Intelligence
+  - C Programming
+  - C++ Programming
+  - Capstone Projects
+  - Computer Networks
+  - Concurrent Programming Techniques
+  - Data Structures
+  - Data Visualization
+  - DevOps
+  - Frontend Development
+  - Game Development
+  - Human–Computer Interaction
+  - Internet and Web Systems
+  - Machine Learning
+  - Memory Management Techniques
+  - Neural Networks
+  - Operating Systems
+  - Parallel Computing
+  - Privacy and Security
+  - Reinforcement Learning
+  - Software Engineering
+  - Systems Programming
+==================================================
+Course: CIS 5490 - Wireless Communications for Mobile Networks and IoT
+Assigned Labels:
+  - Cloud Computing
+  - Computer Networks
+  - Concurrent Programming Techniques
+  - Cryptography
+  - Data Structures
+  - DevOps
+  - Dynamic Programming
+  - Frontend Development
+  - Game Development
+  - Internet and Web Systems
+  - Machine Learning
+  - Neural Networks
+  - Operating Systems
+  - Ruby on Rails
+  - Simulation and Modeling
+  - Software Architecture
+==================================================
+Course: CIS 5500 - Database and Information Systems
+Assigned Labels:
+  - Computer Networks
+  - Data Science
+  - Database Systems
+  - Discrete Mathematics
+  - JavaScript Programming
+  - Machine Learning
+  - NoSQL Databases
+  - Object-Oriented Programming
+  - Operating Systems
+  - Optimization Techniques
+  - SQL and Relational Databases
+  - Simulation and Modeling
+==================================================
+Course: CIS 5510 - Computer and Network Security
+Assigned Labels:
+  - Computer Networks
+  - Computer and Network Security
+  - Cryptography
+  - Data Structures
+  - Database Systems
+  - Game Development
+  - Internet and Web Systems
+  - Mathematical Foundations
+  - Operating Systems
+  - Privacy and Security
+  - SQL and Relational Databases
+==================================================
+Course: CIS 5520 - Advanced Programming
+Assigned Labels:
+  - Capstone Projects
+  - Computer Networks
+  - Discrete Mathematics
+  - Functional Programming
+  - Haskell Programming
+  - Machine Learning
+  - Operating Systems
+  - Reinforcement Learning
+  - Software Design
+  - Software Engineering
+==================================================
+Course: CIS 5530 - Networked Systems
+Assigned Labels:
+  - Augmented Reality
+  - Computer Networks
+  - Computer and Network Security
+  - Data Structures
+  - Discrete Mathematics
+  - Internet and Web Systems
+  - Operating Systems
+  - Reinforcement Learning
+==================================================
+Course: CIS 5540 - Programming Paradigms
+Assigned Labels:
+  - Computer Networks
+  - Concurrent Programming Techniques
+  - Discrete Mathematics
+  - Functional Programming
+  - Programming Paradigms
+==================================================
+Course: CIS 5550 - Internet and Web Systems
+Assigned Labels:
+  - Backend Development
+  - Big Data Analytics
+  - Capstone Projects
+  - Cloud Computing
+  - Computer Networks
+  - Concurrent Programming Techniques
+  - Debugging Techniques
+  - Distributed Systems
+  - Human–Computer Interaction
+  - Internet and Web Systems
+  - Java Programming
+  - Machine Learning
+  - Neural Networks
+  - NoSQL Databases
+  - Operating Systems
+  - Parallel Computing
+  - Reinforcement Learning
+  - Web Development
+==================================================
+Course: CIS 5560 - Cryptography
+Assigned Labels:
+  - Cryptography
+  - Data Structures
+  - Mathematical Foundations
+  - Neural Networks
+  - Privacy and Security
+==================================================
+Course: CIS 5570 - Programming for the Web
+Assigned Labels:
+  - Agile Development
+  - Backend Development
+  - Frontend Development
+  - Internet and Web Systems
+  - Machine Learning
+  - Ruby on Rails
+  - Software Engineering
+==================================================
+Course: CIS 5590 - Programming and Problem Solving
+Assigned Labels:
+  - Artificial Intelligence
+  - Data Structures
+  - Internet and Web Systems
+  - Machine Learning
+  - Neural Networks
+  - Operating Systems
+  - Optimization Techniques
+  - Seminar Courses
+  - Simulation and Modeling
+==================================================
+Course: CIS 5600 - Interactive Computer Graphics
+Assigned Labels:
+  - Computer Animation
+  - Computer Networks
+  - Data Structures
+  - Reinforcement Learning
+==================================================
+Course: CIS 5610 - Advanced Computer Graphics
+Assigned Labels:
+  - C++ Programming
+  - Data Structures
+  - Operating Systems
+  - Randomized Algorithms
+  - Reinforcement Learning
+  - Simulation and Modeling
+  - Software Systems
+==================================================
+Course: CIS 5620 - Computer Animation
+Assigned Labels:
+  - Computer Animation
+  - Computer Networks
+  - Data Structures
+  - Robotics
+  - Simulation and Modeling
+  - Simulation and Modeling Techniques
+  - Virtual Reality
+==================================================
+Course: CIS 5630 - Physically Based Animation
+Assigned Labels:
+  - Computer Animation
+  - Data Structures
+  - Game Development
+  - Object-Oriented Programming
+  - Operating Systems
+  - Simulation and Modeling
+  - Simulation and Modeling Techniques
+==================================================
+Course: CIS 5640 - Game Design and Development
+Assigned Labels:
+  - Computer Animation
+  - Computer Architecture
+  - Computer Networks
+  - Data Structures
+  - Frontend Development
+  - Game Design
+  - Game Development
+  - Operating Systems
+  - Reinforcement Learning
+==================================================
+Course: CIS 5650 - GPU Programming and Architecture
+Assigned Labels:
+  - Code Optimization
+  - Computer Architecture
+  - Concurrent Programming Techniques
+  - Data Structures
+  - Debugging Techniques
+  - GPU Programming
+  - Machine Learning
+  - Memory Management Techniques
+  - Object-Oriented Programming
+  - Operating Systems
+  - Optimization Techniques
+  - Parallel Computing
+  - Parallel Processing Techniques
+  - Reinforcement Learning
+  - Scientific Computing
+  - Simulation and Modeling
+==================================================
+Course: CIS 5660 - Procedural Computer Graphics
+Assigned Labels:
+  - Capstone Projects
+  - Computer Animation
+  - Data Structures
+  - Interaction Design
+  - Internet and Web Systems
+  - Reinforcement Learning
+  - Simulation and Modeling
+  - Special Topics
+==================================================
+Course: CIS 5670 - Scientific Computing
+Assigned Labels:
+  - Data Visualization
+  - MATLAB Programming
+  - Numerical Methods
+  - Parallel Computing
+  - Scientific Computing
+==================================================
+Course: CIS 5680 - Game Design Practicum
+Assigned Labels:
+  - Artificial Intelligence
+  - Augmented Reality
+  - Cognitive Science
+  - Computer Animation
+  - Computer Architecture
+  - Computer Networks
+  - Data Structures
+  - Frontend Development
+  - Game Design
+  - Game Development
+  - Interaction Design
+  - Internet and Web Systems
+  - Iterative Methods
+  - Neural Networks
+  - Operating Systems
+  - Software Design
+  - Virtual Reality
+==================================================
+Course: CIS 5690 - GPU Computing for Machine Learning Systems
+Assigned Labels:
+  - Artificial Intelligence
+  - Data Structures
+  - Debugging Techniques
+  - Deep Learning
+  - GPU Programming
+  - Machine Learning
+  - Neural Networks
+==================================================
+Course: CIS 5710 - Computer Organization and Design (Graduate)
+Assigned Labels:
+  - Computer Architecture
+  - Computer Networks
+  - Concurrent Programming Techniques
+  - Digital Systems
+  - Discrete Mathematics
+  - Human–Computer Interaction
+  - Operating Systems
+  - Software Design
+  - Systems Programming
+==================================================
+Course: CIS 5730 - Software Engineering
+Assigned Labels:
+  - Debugging Techniques
+  - Machine Learning
+  - Operating Systems
+  - Software Design
+  - Software Engineering
+  - Unit Testing
+==================================================
+Course: CIS 5800 - Machine Perception
+Assigned Labels:
+  - Cognitive Science
+  - Computer Networks
+  - Computer Vision
+  - Data Structures
+  - MATLAB Programming
+  - Operating Systems
+  - Probability and Statistics
+  - Robotics
+  - Simulation and Modeling
+==================================================
+Course: CIS 5810 - Computer Vision & Computational Photography (Graduate)
+Assigned Labels:
+  - Cognitive Science
+  - Computational Photography
+  - Computer Vision
+  - Data Structures
+  - Internet and Web Systems
+  - Operating Systems
+  - Reinforcement Learning
+==================================================
+Course: CIS 5970 - Master's Thesis Research
+Assigned Labels: None
+==================================================
+Course: CIS 5990 - Independent Study for Masters Students
+Assigned Labels:
+  - Independent Study
+==================================================
+Course: CIS 6010 - Advanced Topics in Computer Architecture
+Assigned Labels:
+  - Computer Architecture
+  - Concurrent Programming Techniques
+  - Data Structures
+  - GPU Programming
+  - Internet and Web Systems
+  - Operating Systems
+  - Parallel Computing
+  - Reinforcement Learning
+  - Seminar Courses
+  - Software Architecture
+  - Special Topics
+==================================================
+Course: CIS 6100 - Advanced Geometric Methods in Computer Science
+Assigned Labels:
+  - Computer Networks
+  - Computer Vision
+  - Data Structures
+  - Data Visualization
+  - Game Development
+  - JavaScript Programming
+  - Machine Learning
+  - Neural Networks
+  - Operating Systems
+  - Robotics
+  - Simulation and Modeling
+==================================================
+Course: CIS 6200 - Advanced Topics in Machine Learning
+Assigned Labels:
+  - Cognitive Science
+  - Compiler Design Techniques
+  - Computer Networks
+  - Computer Vision
+  - Data Structures
+  - Discrete Mathematics
+  - Internet and Web Systems
+  - Machine Learning
+  - Natural Language Processing
+  - Neural Networks
+  - Operating Systems
+==================================================
+Course: CIS 6250 - Theory of Machine Learning
+Assigned Labels:
+  - Artificial Intelligence
+  - Capstone Projects
+  - Cryptography
+  - Data Structures
+  - Discrete Mathematics
+  - Ethical Algorithm Design
+  - Game Design
+  - Game Development
+  - Machine Learning
+  - Mathematical Foundations
+  - Neural Networks
+  - Operating Systems
+  - Optimization Techniques
+  - Privacy and Security
+  - Probability and Statistics
+  - Reinforcement Learning
+==================================================
+Course: CIS 6300 - Advanced Topics in Natural Language Processing
+Assigned Labels:
+  - Capstone Projects
+  - Computer Networks
+  - Deep Learning
+  - Frontend Development
+  - Internet and Web Systems
+  - Machine Learning
+  - Natural Language Processing
+  - Operating Systems
+  - Reinforcement Learning
+  - Seminar Courses
+==================================================
+Course: CIS 6400 - Advanced Topics in Software Systems: Data Driven IoT/Edge Computing
+Assigned Labels:
+  - Discrete Mathematics
+  - Memory Management Techniques
+  - Object-Oriented Programming
+  - Operating Systems
+  - Privacy and Security
+==================================================
+Course: CIS 6500 - Advanced Topics in Databases
+Assigned Labels:
+  - Capstone Projects
+  - Code Optimization
+  - Computer Networks
+  - Concurrent Programming Techniques
+  - Data Structures
+  - Database Systems
+  - Internet and Web Systems
+  - Machine Learning
+  - Machine Learning Techniques
+  - Neural Networks
+  - Operating Systems
+  - Optimization Techniques
+  - Parallel Computing
+  - Probability and Statistics
+  - Reinforcement Learning
+  - Ruby on Rails
+  - SQL Programming
+  - SQL and Relational Databases
+  - Seminar Courses
+==================================================
+Course: CIS 6600 - Advanced Topics in Computer Graphics and Animation
+Assigned Labels:
+  - Computer Animation
+  - Computer Networks
+  - Data Structures
+  - Frontend Development
+  - Game Design
+  - Interaction Design
+  - Simulation and Modeling
+  - Software Design
+==================================================
+Course: CIS 6700 - Advanced Topics in Programming Languages
+Assigned Labels:
+  - Computer Networks
+  - Concurrent Programming Techniques
+  - Discrete Mathematics
+  - Functional Programming
+  - Haskell Programming
+  - Internet and Web Systems
+  - Machine Learning
+  - Mathematical Foundations
+  - Neural Networks
+  - OCaml Programming
+  - Object-Oriented Design Patterns
+  - Object-Oriented Programming
+  - Operating Systems
+  - Parallel Computing
+  - Recursion Techniques
+  - Seminar Courses
+  - Simulation and Modeling
+  - Theory of Computation
+==================================================
+Course: CIS 6730 - Computer-Aided Verification
+Assigned Labels:
+  - Cloud Computing
+  - Computational Complexity
+  - Computer Networks
+  - Data Structures
+  - Debugging Techniques
+  - Discrete Mathematics
+  - Distributed Systems
+  - Embedded Systems
+  - Heuristic Algorithms
+  - Internet and Web Systems
+  - JavaScript Programming
+  - Logic and Reasoning
+  - Machine Learning
+  - Neural Networks
+  - Numerical Methods
+  - Object-Oriented Programming
+  - Operating Systems
+  - Reinforcement Learning
+  - Robotics
+  - Simulation and Modeling
+  - Software Design
+  - Theory of Computation
+==================================================
+Course: CIS 6770 - Advanced Topics in Algorithms and Complexity
+Assigned Labels:
+  - Computational Biology
+  - Data Structures
+  - Graph Algorithms
+  - Heuristic Algorithms
+  - Internet and Web Systems
+  - Randomized Algorithms
+==================================================
+Course: CIS 6800 - Advanced Topics in Machine Perception
+Assigned Labels:
+  - Cognitive Science
+  - Computer Networks
+  - Image Processing
+  - Operating Systems
+  - Robotics
+  - Seminar Courses
+  - Simulation and Modeling
+==================================================
+Course: CIS 6820 - Friendly Logics
+Assigned Labels:
+  - Discrete Mathematics
+  - Internet and Web Systems
+  - Theory of Computation
+==================================================
+Course: CIS 7000 - Special Topics
+Assigned Labels:
+  - Artificial Intelligence
+  - Computer Networks
+  - Deep Learning
+  - Internet and Web Systems
+  - Machine Learning
+  - Mathematical Foundations
+  - Natural Language Processing
+  - Neural Networks
+==================================================
+Course: CIS 7980 - Explaining Explanation
+Assigned Labels:
+  - Computer Networks
+  - Discrete Mathematics
+  - Machine Learning
+  - Operating Systems
+  - Statistical Inference
+==================================================
+Course: CIS 8000 - PhD Special Topics
+Assigned Labels:
+  - Internet and Web Systems
+  - Seminar Courses
+==================================================
+Course: CIS 8100 - Writing and Speaking with Style
+Assigned Labels: None
+==================================================
+Course: CIS 8950 - Teaching Practicum
+Assigned Labels: None
+==================================================
+Course: CIS 8990 - Doctoral Independent Study
+Assigned Labels: None
+==================================================
+Course: CIS 9950 - Dissertation
+Assigned Labels: None
+==================================================
+Course: CIS 9990 - Thesis/Dissertation Research
+Assigned Labels: None
+==================================================
