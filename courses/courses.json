@@ -35,7 +35,8 @@
       "available": "Fall or Spring",
       "cu": "1 Course Unit",
       "prereq": "",
-      "syllabus": ""
+      "syllabus": "courses/syllabi/cis1100.txt",
+      "labels" : "Intro to Programming, Data Structures, Functional Programming, Object-Oriented Programming, Recursion, Algorithms, Unit Testing, File I/O, Type Annotations, Code Comprehension, Interactivity, Search, JSON/XML Traversal, Software Design, Homework-Driven Learning"
     },
     {
       "id": "CIS 1200",
