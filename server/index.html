@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Course Filter UI</title>
+  <link rel="stylesheet" href="index.css">
+</head>
+<body>
+  <h1>Course Filter UI</h1>
+  
+  <!-- Section: Table -->
+  <div id="table-container">
+    <table id="course-table">
+      <thead>
+        <!-- Dynamically generated -->
+      </thead>
+      <tbody>
+        <!-- Dynamically generated -->
+      </tbody>
+    </table>
+  </div>
+
+  <!-- Section: Add Filter -->
+  <div class="control-section">
+    <h2>Add Filter</h2>
+    <label for="filter-attr">Attribute:</label>
+    <input type="text" id="filter-attr" placeholder="e.g., prereq">
+    <label for="filter-val">Value (optional):</label>
+    <input type="text" id="filter-val" placeholder="e.g., CIS 1200">
+    <button id="add-filter-btn">Add Filter</button>
+  </div>
+
+  <!-- Section: Delete Filter -->
+  <div class="control-section">
+    <h2>Delete Filter</h2>
+    <label for="delete-attr">Attribute to remove:</label>
+    <input type="text" id="delete-attr" placeholder="e.g., prereq">
+    <button id="delete-filter-btn">Delete Filter</button>
+  </div>
+
+  <!-- Section: Prompt AI -->
+  <div class="control-section">
+    <h2>Prompt AI</h2>
+    <label for="prompt-input">Input:</label>
+    <input type="text" id="prompt-input" placeholder="Type your prompt here">
+    <button id="prompt-btn">Run Prompt AI</button>
+    <div id="prompt-output"></div>
+  </div>
+
+  <!-- JavaScript Section -->
+  <script>
+    // Global state variables
+    let allCourses = [];
+    let currentCourses = [];
+    let filters = {};  // Object: attribute -> value
+    const defaultColumns = ["id", "name"];
+
+    // Compute current state: apply filters to allCourses and compute current columns.
+    function updateState() {
+      // Start with all courses
+      currentCourses = allCourses.slice();
+
+      // For each filter attribute that has a non-empty value, filter courses.
+      for (const attr in filters) {
+        const value = filters[attr];
+        if (value) {
+          currentCourses = currentCourses.filter(course => 
+            course[attr] && course[attr].includes(value)
+          );
+        }
+      }
+    }
+
+    // Get the list of columns: default columns plus filter keys.
+    function getCurrentColumns() {
+      // Use default columns and then add any filter attributes not already present.
+      let cols = defaultColumns.slice();
+      for (const attr in filters) {
+        if (!cols.includes(attr)) {
+          cols.push(attr);
+        }
+      }
+      return cols;
+    }
+
+    // Render the table based on the current state.
+    function updateTable() {
+      updateState();
+      const columns = getCurrentColumns();
+      const thead = document.querySelector("#course-table thead");
+      const tbody = document.querySelector("#course-table tbody");
+
+      // Clear current table content
+      thead.innerHTML = "";
+      tbody.innerHTML = "";
+
+      // Create header row
+      const headerRow = document.createElement("tr");
+      columns.forEach(col => {
+        const th = document.createElement("th");
+        th.textContent = col;
+        headerRow.appendChild(th);
+      });
+      thead.appendChild(headerRow);
+
+      // Create rows
+      currentCourses.forEach(course => {
+        const row = document.createElement("tr");
+        columns.forEach(col => {
+          const cell = document.createElement("td");
+          cell.textContent = course[col] || "";
+          row.appendChild(cell);
+        });
+        tbody.appendChild(row);
+      });
+    }
+
+    // Add a filter: attribute and value (value may be empty, in which case no filtering is done but column is added)
+    function addFilter() {
+      const attrInput = document.getElementById("filter-attr");
+      const valInput = document.getElementById("filter-val");
+      const attr = attrInput.value.trim();
+      const val = valInput.value.trim();
+
+      if (attr) {
+        filters[attr] = val; // Add or update filter
+        updateTable();
+      }
+      // Clear the inputs
+      attrInput.value = "";
+      valInput.value = "";
+    }
+
+    // Delete a filter based on the attribute
+    function deleteFilter() {
+      const delInput = document.getElementById("delete-attr");
+      const attr = delInput.value.trim();
+      if (attr && filters.hasOwnProperty(attr)) {
+        delete filters[attr];
+        updateTable();
+      }
+      delInput.value = "";
+    }
+
+    // Prompt AI: tokenize the input and display the tokens.
+    function promptAI() {
+      const promptInput = document.getElementById("prompt-input");
+      const promptOutput = document.getElementById("prompt-output");
+      const inputText = promptInput.value.trim();
+      const tokens = inputText.split(/\s+/);
+      promptOutput.textContent = "Tokens: " + JSON.stringify(tokens);
+    }
+
+    // Set up event listeners after the DOM is loaded
+    window.addEventListener("DOMContentLoaded", () => {
+      // Fetch courses data from courses/courses.json
+      fetch("courses/courses.json")
+        .then(response => response.json())
+        .then(data => {
+          allCourses = data;
+          updateTable();
+        })
+        .catch(error => {
+          console.error("Error fetching course data:", error);
+        });
+
+      document.getElementById("add-filter-btn").addEventListener("click", addFilter);
+      document.getElementById("delete-filter-btn").addEventListener("click", deleteFilter);
+      document.getElementById("prompt-btn").addEventListener("click", promptAI);
+    });
+  </script>
+</body>
+</html>
