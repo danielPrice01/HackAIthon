@@ -1,0 +1,98 @@
+Basics
+
+Course description
+This course is an introduction to the theory and applications of cryptography intended for advanced undergraduates and graduate students. Topics covered include:
+
+cryptographic security: one-way functions, pseudorandomness, computational indistinguishability
+symmetric cryptography: stream ciphers, block ciphers, message authentication codes, and hash functions
+public-key cryptography: key exchange, public-key encryption, digital signatures
+We will also cover a selection of more advanced topics such as identification protocols, zero-knowledge proofs, secure multiparty computation, and homomorphic encryption.
+
+Prerequisites
+This course requires a basic background in discrete mathematics (at the level of CIS 1600). Prior exposure to algorithms and complexity (at the level of CIS 3200) will be helpful.
+
+Grading
+Your grade in the course is determined by the following components:
+
+Homework (40%)
+Participation (5%)
+Midterm (25%)
+Final (30%)
+Course staff
+Jack Hourigan: Office hours: Wednesday 2:30-3:30PM, Levine 601 bump space
+Tushar Mopuri: Office hours: Monday 4-5PM, Levine 601 bump space
+Alireza Shirzad: Office hours: Tuesday 5-6PM, Levine 301 bump space
+Matan Shtepel: Office hours: Friday 4:30-5:30PM, Levine 501 bump space
+Resources
+While there is no required textbook for the course, the following books are recommended:
+
+Introduction to Modern Cryptography (MC), by Jonathan Katz and Yehuda Lindell.
+Graduate Course in Applied Cryptography (AC), by Dan Boneh and Victor Shoup.
+
+
+Below is a list of topics only:
+
+Introduction and overview
+
+Computational indistinguishability and pseudorandomness
+
+One-way functions and permutations
+
+One-way functions
+
+OWFs → PRGs
+
+Pseudorandom functions
+
+Encryption for multiple messages
+
+Message integrity
+
+Collision-resistant hashing
+
+Authenticated Encryption
+
+Number theory background
+
+Key exchange
+
+Review of material
+
+Public key encryption
+
+RSA
+
+Digital signatures I
+
+Digital signatures II
+
+Zero Knowledge and Interactive Proofs (ZK I, II, III, IV)
+
+MPC (I, II, III and Wrap up)
+
+
+
+Homework
+Homework is released on Canvas at Tuesday 12PM, and is due the following Monday at 5PM. Homework submissions are to be made on Gradescope. Your lowest 2 homework scores will be dropped. Please use the template here.
+
+You are encouraged to discuss homework problems with your classmates, but you must write up your solutions on your own. In particular, you must adhere to Penn’s Code of Academic Integrity; for more information, see the Office of Student Conduct.
+
+Participation
+You are expected to attend lectures and participate in class and on EdStem.
+
+Exams
+The course has two exams: a midterm and a final. The midterm will be held in class on March 14th (03/14/2024), and the final will be held on May 10th (05/10/2024) 9AM-11AM in DRLB A2.
+
+Students with disabilities
+The University of Pennsylvania provides reasonable accommodations to students with disabilities who have self-identified and received approval from the Office of Student Disabilities Services (SDS). If SDS has approved your request for accommodations, please make an appointment to meet with me as soon as possible in order to discuss the arrangements for your accommodations. SDS services are free and confidential.
+
+Wellness
+Your emotional and physical wellness is a priority for us. We are aware of the stress you are under. If you find yourself needing help, please don’t hesitate to reach out to us if you encounter any extenuating circumstances.
+
+Please also be aware of the following resources you can reach out to for help:
+
+Student health and counseling services.
+Penn’s Student Wellness Hub.
+If there is an urgent concern, please contact CAPS at 215-898-7021 or at 3624 Market St.
+Inclusion and belonging
+At Penn, in the CIS department, and in this class, we strive to create an environment that is inclusive and welcoming to all students, regardless of their race, ethnicity, gender identity, sexuality, or socioeconomic status. All our faculty and staff are committed to making your studies here at Penn a safe and rewarding experience. You belong here, and we are here to support you. If you have any concerns or experiences that make you feel unwelcome, please feel reach out to any of us.

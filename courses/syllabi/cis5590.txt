@@ -1,0 +1,42 @@
+About the course
+This course is unlike any CS course you've taken! There are no lectures or exams. The goal is to develop problem solving skills using techniques that you have learned during your CS training. The course focuses on four open-ended projects. There are no "correct" answers to these problems; rather, the focus is on the four steps of the problem solving process:
+
+Algorithmic thinking: creating an approach
+Programming: implementing a solution
+Analysis: understanding the behavior of the implementation
+Communication: through discussion, presentations, and writing
+All projects will be done in groups of three or four. You will work with a different team for every project. You cannot be in the same group as another person more than once.
+
+In each project cycle, the instructor first presents the problem to be solved. Subsequent class meetings will consist of discussions of your insights into the problem and the progress so far. There will be a series of team deliverables due at the start of every class and each group will demonstrate their progress to the rest of the class. Each project cycle will end with tournaments run by the TA. Every team will prepare a short presentation and final report that discusses their approach, details of the solution, and analysis of the tournament results.
+
+This course is based on the excellent COMS 4444 course taught by Ken Ross at Columbia University.
+
+A few years ago, we wrote a CS Education paper about this class. Please see this link for more details about the educational objectives, course structure, and sample problems.
+
+Note: This class can be used as a seminar-level course by PhD students, and is appropriate for upper-level undergraduates and graduate students.
+
+Instructor
+Swapneel Sheth
+swapneel [at] cis.upenn.edu
+
+Enrollment
+Enrollment will be limited to 25 students. Permission to register for the class will be given after the first class meeting.
+
+If you're on the CIS waitlist as of Monday (1/13), you should have gotten an email with details for the first class (along with a zoom link). If you weren't on the waitlist or didn't get the email, please contact the instructor.
+
+Class Meeting Times and Participation
+Mondays and Wednesdays from 3.30-5pm ET.
+
+A significant part of the grade is based on class participation. Due to this, class attendance is mandatory.
+
+Prerequisites
+You should be proficient in Java (at least two years of experience). Experience with upper-level CS courses such algorithms, data structures, artificial intelligence, and machine learning will be beneficial.
+
+Permission of the instructor is required for all students.
+
+Grading
+The guidelines for the grades are:
+
+60% quality of your solutions
+15% individual contribution to group project
+25% individual contribution to class discussion

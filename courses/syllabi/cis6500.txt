@@ -1,0 +1,163 @@
+Course overview
+CIS 6500 is a “seminar” style course where you will learn about the internals and implementation of
+database systems. Specifically, this course will focus on “analytics” or OLAP database systems, along
+with recent advances in machine learning that aid those systems. Topics will include indexing, query
+processing and compilation, query optimization, learned systems, and instance-optimized systems.
+Prerequisites
+This course will assume students are familiar with:
+• The basic operation and usage of a SQL database (e.g., issuing queries, inserting data, creating
+tables, creating indexes)
+• Data structures and algorithms knowledge
+◦ Hashing
+◦ Sorting
+◦ Big-O notation (asymptotic behavior)
+• Programming knowledge, as the course involves a significant programming project
+◦ Some familiarity with a “systems” programming language, like C/C++ or Rust, will be
+helpful, but is not strictly required.
+• Basic principles of statistics and probability
+Learning goals
+After completing this course, you should be able to:
+1. Pick up and read an academic paper about database systems (e.g., from VLDB or SIGMOD)
+2. Have practice giving a lecture and provoking discussion about an advanced technical topic
+3. Understand the tradeoffs involved in different data layouts
+4. Understand the principles of efficient query execution in modern systems
+5. Understand the basic principles of query optimization in modern systems
+6. Develop a deep understanding of index structures and access methods
+7. Learn how machine learning techniques can improve (and complicate) traditional database
+management systems
+Grade breakdown & course structure
+Grade breakdown:
+Short paper summaries 10%
+Long paper summary 10%
+Lecture and seminar 30%
+Final exam 20%
+Final project 20%
+Attendance and participation 10%
+This course will be split into two parts:
+• Initial lectures: for the first three weeks of the class, there will be traditional lectures and
+discussions to ensure everyone has an appropriate level of background knowledge. These
+lectures will include instruction on how to read a research paper, along with basic database
+concepts.
+• Seminar lectures: the remainder of the class time will be used for students to present papers.
+Each student will be assigned a paper and a class period, and on that class period the student
+will give a brief lecture and lead the class in a discussion about the paper. Students assigned to
+earlier class periods will get extra credit.
+You will be responsible for several assignments:
+1. Your paper presentation. When it is your turn to present:
+1. Due 1 week before your seminar: you will write a 3-page summary of the paper, using
+LaTeX, which should give an intuitive overview of the paper, highlighting important
+experimental results and including a worked example not found in the paper. These 3-page
+summaries will be combined together at the end of the semester to give everyone an
+annotated bibliography of the semester. Upload both a PDF and source files to Canvas. After
+your summary is graded, you are welcome to work with me to correct any errors and make
+any needed improvements, and I will update your grade accordingly.
+2. On the day of your seminar: you will plan to give an approximately ~45m lecture about
+the paper you were assigned, and then lead the class in a ~45m discussion. It is of extreme
+importance that you take this seriously, as if you do not put sufficient effort into your
+seminar, the entire class will suffer. You can work with me ahead of your seminar as much
+as you’d like to get your seminar ready. Aside from uncontrollable sickness or other medical
+emergencies, there is no way to makeup or redo your seminar.
+2. Paper summaries. When it is not your turn to present:
+1. Due before class: you will write a 1 paragraph (maximum 300 words) summary of the
+paper, and turn it in via Canvas. These will be graded based on completion, but keep in
+mind that you may bring all of your 1 paragraph summaries, as they were submitted, as
+“notes” to the final exam.
+2. During class: actively engage with the lecture! You will be up there soon – don’t leave your
+classmates hanging.
+3. Final project: you will propose a final project Oct 18, and the final projects and reports will be
+due on Dec 11.
+1. Proposal: You will write < 1 page document describing what you will set out to do. More
+details will be provided about the project proposal on the last day of initial lectures.
+2. Projects and reports: a 2-5 page document describing what you did, what worked, and what
+didn’t, along with any code for your project.
+3. Example final projects:
+1. Implementing and experimenting with an idea from a paper in the course, such as
+learned index structures or multi-armed bandits. Note that many of the papers will not
+be presented in class until after the proposal deadline, so you should skim the list of
+papers to see if anything strikes you as particularly interesting.
+2. A topic from your own research that is similar to a topic discussed in this class.
+3. “Canned” project 1: exploring the PostgreSQL query optimizer. Execute three
+workloads (for example, the JOB, TPC-C, and Stack) on PostgreSQL, computing the
+expected and actual cardinality estimates of each subpart. Analyze the cardinality
+estimation errors: do they correlate with the number of joins? Size of the table? Etc.
+Suggest a way to improve the estimates, and test it.
+4. “Canned” project 2: data structure implementation. Implement a column sketch or
+learned index on top of a data file, and analyze the performance of that data structure for
+a number of queries. Suggest a way to improve the structure, and test it.
+Attendance and (lack of) virtual options
+All classes will be held in person barring extreme circumstances. Since seminar courses are centered
+around discussion, the course will not be recorded so that students do not need to fear their questions or
+comments being immortalized. As a result, (1) participation and discussion is highly encouraged, and I
+suggest you bring a pen(cil) and paper to take notes and leave your electronics in your bag (still bring
+them – some lectures will have online interactive components), although this is not mandatory and you
+are welcome to take electronic notes if you prefer. (2) There is essentially no way to “make up” a
+missed class, so I will expect students miss no more than 4 class periods throughout the semester. 
+
+
+
+Below is a list of topics only:
+
+Part 1: Initial Lectures and Seminar Assignment
+
+Welcome, syllabus, and DB overview
+
+Architecture of a DBMS
+
+Overview of data layout and compression
+
+Overview of query execution and index structures
+
+How to read a research paper
+
+Overview of query optimization
+
+Teaser of machine learning for systems, caching, branch prediction, and final projects
+
+Part 2: Rows and Columns
+
+How column stores take advantage of compression
+
+Comparison of column stores versus row stores for compression benefits
+
+Part 3: Execution Models
+
+Decomposing a query execution plan into compile-able steps
+
+Compiled versus vectorized execution engines
+
+Part 4: Index Structures
+
+Design of index structures with caching considerations
+
+Column sketches for column-oriented analytics databases
+
+Use of statistical/learned models for improved index structures
+
+Designing workload-aware indexes for multi-column predicates
+
+Part 5: Join Algorithms
+
+Improving naive sort-merge join algorithms
+
+Techniques and conditions for efficient hash joins
+
+Alternative join ordering (e.g., worst-case optimal joins)
+
+Part 6: Query Optimization
+
+Current state of query optimization and its challenges
+
+Improving cardinality estimation with learned models
+
+Learning a query optimizer from data (e.g., Balsa, Neo)
+
+Practical approaches to learned query optimization (e.g., Bao)
+
+Techniques for reusing optimization work for repeated queries (e.g., Kepler)
+
+Integrating query planning and execution (adaptive query processing)
+
+Broader challenges in smart database management systems
+
+Final Projects and Final Exam
+

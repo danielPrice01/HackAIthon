@@ -1,0 +1,34 @@
+About the course
+This course will focus on web programming and good software development techniques. Teams (of size 2-3) will build and deploy a web application as the class project. We'll explore the "culture" of web programming such as agile methodology, testing, key aspects of software engineering, using web services and APIs, and deploying to the cloud.
+
+Throughout the semester, teams will learn and use the same world-class tools that are used to deploy and build real world web apps such as NodeJS, GitHub, MongoDB, MySQL, Heroku, React, Jest, Selenium, Redux, etc.
+
+Instructor
+Eric Fouh
+efouh [at] cis.upenn.edu
+
+Prerequisites
+You should be comfortable with programming (in Java) and data structures - i.e., CIS 121, CIT 594, or equivalent.
+
+Topics
+Here's the tentative list of topics:
+
+Basics of the Internet and the Web
+HTML, CSS
+JavaScript - basics and advanced
+Software Architecture, Software as a Service, REST, MVC
+Databases: SQL and NoSQL
+Testing, TDD
+Security
+State management
+Deployment and Monitoring
+Grading
+The (tentative) guidelines for the final grade are:
+
+35% individual homework
+35% team project
+20% midterm exams 1 and 2
+10% reading quizzes + class participation
+Textbook
+No textbook.
+

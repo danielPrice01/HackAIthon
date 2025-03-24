@@ -1,0 +1,43 @@
+Prerequisites: Natural language processing - CIS 5300 or equivalent, Deep learning - CIS 5220 or equivalent, research experience highly recommend.
+
+Description: This course will focus on natural language processing with limited resources. In current machine learning approaches, resources can be constrained along several dimensions, including hardware resources, or data resourses. The course is meant as a survey of several sub-areas in efficient NLP, focusing first on data efficiency (few and zero shot methods), and model efficiency ( compression, quantization, and novel architectures). We will primarily discuss recent advances in the form of published papers in the last 5-10 years. The main goals are to understand existing literature, and find opportunities to apply methods to existing problem domains. The course is research oriented, and students must be prepared to read and understand papers largely independently.
+
+Format: Every class period will either be
+Lecture / talk introducing a topic or background or recent work
+A discussion group in the form a roles seminar led by participants of the class
+
+Attendance is mandatory, and sessions will not be recorded.
+
+Meeting time: Monday, Wednesday 1:45-3:15pm TOWN 337
+
+Enrollment Apply via the waitlist (only by permission)
+
+Evaluation: class participation (10%), discussion questions (10%), paper presenter role for reading group (20%), 2 x other presentation roles for a paper (30%), final project, done in pairs (30%)
+
+Reading group sign up and paper list can be found on the here.
+Roles Seminar
+The roles seminar is an approach desinged to help participants engage in different perspectives to analyze a paper. The goal is to engage with the paper along different dimensions, to properly understand its impact. In CIS 6300, groups of 3 will be assigned to lead a paper. One member will be the presenter, and then the other two must select from distinct the other roles described below. For part of the time in the seminar, you must take the perspective of your role.
+	Presenter	Create the main presentation, describing the motivation, problem definition, method, and experimental findings of this paper.
+	Peer reviewer	Complete a full NEURIPS style review of the paper. It is important to be critical but not negative. Your goal is nuanced weighing of positive and negative arguments for the paper.
+	Futurist	Propose an imaginary follow-up project that builds on, or deepens the paper we are discussing. Focus on scientific extensions.
+	Social impact assesor	Identify how this paper self-assessed its (likely positive) impact on the world. Have any additional positive social impacts been left out? What are possible negative social impacts that were overlooked or omitted? What has been the impact (good or bad) of this paper on the economy, society, and/or the environment?
+	Hacker	You are a hacker who needs a demo of this paper ASAP. Implement a small part or simplified version of the paper on a small dataset or toy problem. Prepare to share the core code of the algorithm to the class and demo your implementation. Do not simply download and run an existing implementation, though you are welcome to use (and give credit to) an existing implementation for backbone code.
+	Archeologist	This paper was found buried under ground in the desert. You're an archeologist who must determine where this paper sits in the context of previous and subsequent work. Find and report on one older paper cited within the current paper that substantially influenced the current paper and one newer paper that cites this current paper. If the paper is too new to have signficant follow up, report on two previous works.
+	Investigator	You are a detective who needs to run a background check on one of the paper authors. Where have they worked? What did they study? What previous projects might have led to working on this one? What motivated them to work on this project? Find and report on one older paper by the author that influenced the current paper.
+Project
+The goal of the project is allow you to explore ideas you are learning about in more depth on a problem domain of your choice. There will be three forms of a project:
+Survey	Complete a literature survey of efficiency in a problem formulation you are interested in. For example, you may survey work on zero-shot image captioning. Your presentation should organize the literature into groups, and present high level summaries of at least 3 important papers.
+Reimplementation	Complete a partial reimplementation of a method in a domain you are interested in. You can use modern tools (i.e. pytorch), but you must implement all non-boiler plate code yourself. Your presentation should report on what you accomplished, and the main challanages for reproducing the result.
+New Application	Propose a novel extension or application of the methods we are disucssing. Be sure to scope it appropriately for a semester. Your presentation should motivate the extension, and explain novel experiemnts.
+Deliverables
+Project Proposal: A 1-2 page report establishing a title for your project, a motivation for the area you want to work in, and a summary of what you expect to accomplish in the project. Include a specific timeline, and what you expect to accomplish by the check-in.
+Due 2/24, 5% of the grade.
+
+Project Update: A 2 page summary of progress so far, including changes to direction. This is your half-way point, so I expect you to have made signficant progress toward your project.
+Due 3/26, 5% of the grade.
+
+Project Presentation: A 12 minute in-class presentation summarizing your project.
+Due 4/28 and 4/30. 10% of the grade.
+
+Project Report: A 6 page neurips formated report.
+Due 5/1. 10% of the grade

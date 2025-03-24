@@ -1,0 +1,26 @@
+Short Description
+In this course, we will explore massively parallel programming, specifically on graphics processing units (GPUs), with immediate application to machine learning (ML) and artificial intelligence (AI). We’ll first outline computational aspects of ML and connect parallel programming to common components of deep learning. You will gain proficiency in GPU programming basics through hands-on projects with industry best practices and tools, eventually building up to implementing components of modern neural models. Please note that upon registration, this course requires a $300 Computing Resources Fee in addition to the Online Services Fee.
+
+Portfolio Building Course
+No
+
+Content
+In this course, we will explore massively parallel programming, specifically on graphics processing units (GPUs), with immediate application to machine learning (ML) and artificial intelligence (AI). We’ll first outline computational aspects of ML and connect parallel programming to common components of deep learning. You will gain proficiency in GPU programming basics through hands-on projects with industry best practices and tools, eventually building up to implementing components of modern neural models.
+
+After completing the course, you will have knowledge of:
+
+– parallel programming concepts (hardware, software, and networks) working together to accelerate performance;
+
+– modern distributed ML computation in a GPU datacenter setting as it relates to large-scale neural networks;
+
+– machine and deep learning workloads from a computational perspective to build more efficient systems;
+
+– using tools like profilers and debuggers to accelerate performance and solve programming challenges.
+
+Please note that upon registration, this course requires a $300 Computing Resources Fee in addition to the Online Services Fee.
+
+WATCH COURSE PREVIEW HERE
+
+Course Creators
+Shehzan Mohammed
+Jacob Kahn

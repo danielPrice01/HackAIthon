@@ -1,0 +1,218 @@
+Course Description
+This course covers today's state-of-the-art wireless technology 5G New Radio, 4G LTE, the next-generation wireless technology vision for 6G, and fundamental Wi-Fi technologies. Internet of Things (IoT) and the network slicing technologies in the 4G and 5G mobile networks, which are the parts of the main drivers for 5G, and the Docker container and Kubernetes will be also covered. Students will use an end-to-end 4G LTE and Wi-Fi application performance simulation platform to analyze network protocols and analyze the impact on end-to-end application performance over the wireless network. Students will also build a simple IoT service with a real IoT client device and IoT server platform on the Internet. The course starts with the fundamental wireless technology background and networking topics with hands-on projects to help students building a foundation for the course, and the course includes contemporary research paper readings, assignments to utilize the simulation platform and implementation projects. The simulation platform provides network protocol stacks and base source code.
+
+ 
+
+Course Learning Objectives
+●      Understand the technology evolution path of, and the demands driving, wireless technology and mobile networks, the global technology standardization process, some of the major mobile network technologies and IoT technologies.
+
+●      Confidently discuss key wireless mobile terms and technologies with wireless mobile network domain experts as one of their own.
+
+●      Use new technology design principles, and the key factors that can improve the wireless network performance to build a proof of concept network system.
+
+●      Read and analyze technical papers from the wireless communications domain, extract and evaluate their key messages, and write comparisons between them.
+
+●      Set up a variety of real-time traffic monitoring systems and use them to analyze network traffic
+
+●      Design a traffic split and aggregation algorithm that utilizes both LTE and Wi-Fi networks to increase the network throughput under various network conditions.
+
+●      Build your own IoT device emulator and setup an end-to-end IoT service through a real public IoT server.
+
+ 
+
+Course Prerequisites
+The course projects require knowledge of C/C++. Any undergraduate networking courses are suggested but not required as this course covers necessary networking topics.
+ 
+
+Course Material
+●      Lecture note will be available, and additional reading material will be drawn from selected research publications and standard specifications
+
+●      Textbook Recommended
+
+o   Computer Networks: A Systems Approach (5th Edition). Larry L. Peterson and Bruce S. Davie. You can use this link as well: https://book.systemsapproach.org/index.html
+
+ 
+
+o   5G NR: The Next Generation Wireless Access Technology, 1st edition, Elsevier, 2018  By: Erik Dahlman, Stefan Parkvall, Johan Skold
+
+ISBN: 978-0128143230
+
+ 
+
+o   4G, LTE -Advanced Pro and The Road to 5G, Erik Dahlman, Stefan Parkvall, Johan Skold, Elsevier, 2016
+
+Grading & Assessment
+You must attempt all graded assignments to pass the course. If you have any questions or concerns about grading or progress in the course, please reach out to the instructor.
+
+ 
+
+This course will use a variety of assessments to determine whether learners understand and can apply the key concepts and skills that the course teaches. This includes:
+
+ 
+
+Type
+
+%
+
+Description
+
+Quizzes
+
+(Take home)
+
+14%
+
+There are seven on-line short quizzes, providing an opportunity to review the lectures. You will complete the quizzes at home by the due date and you can try two attempts for each quiz.
+
+Projects
+
+43%
+
+ 
+
+ 
+
+There are 5 projects, providing an opportunity to apply lectures to real-life wireless communications applications and programming. Project 1, 2, 3, and 4 will be done in a team, and the project 5 will be done individually.
+
+
+Team projects:
+
+Project 1(8%): Network Packet manipulation and TCP packet trace analysis
+
+Project 2(8%): Build Wi-Fi simulation in NS3 and TCP performance analysis over Wi-Fi
+
+Project 3(7%): Build LTE simulation in NS3 and TCP performance analysis over LTE
+
+Project 4(15%): Traffic split and aggregation over Multi-Radio Access Technology (LTE and Wi-Fi) simulation
+
+ 
+
+Individual project:
+
+Project 5 (5%): Build a simple IoT service using LoRaWAN devices (hardware or emulator) and an IoT server platform on the Internet
+
+Midterm Paper
+
+18%
+
+(15%) There is one midterm paper, which will be a comparison paper (using three reference papers) on existing research. This paper includes a peer review component.
+
+(3%) Peer paper review
+
+Final Exam
+
+25%
+
+There is one final exam. The final exam will cover from the LTE lecture to the last lecture. A final exam preparation slide deck (about 55 pages) will be provided, and you are allowed to bring one page hand written summary paper (letter size) prepared by you.
+
+Please read the instructions for each assignment very carefully to make sure you know what to submit to receive credit!
+
+ 
+
+Late Policy/Extensions
+
+An assignment that is turned in late will receive a 10% grade reduction per day up to 2 days. No other extensions unless there is an acceptable reason with prior notification.
+
+ 
+
+Regrade Requests
+
+Regrade requests are handled on a case-by-case basis and are allowed up to 1 week after the grades are released. Regrade requests may take up to a week to process. When submitting a regrade request, please explain (in detail) why you feel the grading is incorrect.
+
+ 
+
+Extra Credit
+
+ 
+
+Students may earn extra credit at the discretion of the faculty if a student goes above and beyond during assignments.
+
+Other Course Activities
+The following activities are not mandatory, but will greatly support your success on the graded assignments.
+
+Discussion Forum
+Discussion forums (Ed Discussion) are designed to give you optional extra practice with the material and to see examples of how your classmates are thinking and working.  
+
+On-Demand Office Hour
+The instructor will provide one-on-one session to the student who needs more focused support. If a student sent an email for support, then the instructor will arrange a time slot with the student and prepare a one-on-one zoom session.
+
+The instructor encourages students to use this opportunity to gain knowledge as much as possible from this course.
+
+Additional Segments
+The professor may add additional optional segments to support the class as needed.
+
+ 
+Getting and Giving Help
+Collaboration Guidelines
+Discussion forums and recitations are collaborative—please take advantage of those times to work with your colleagues. For general communication with your colleagues, use the Piazza messages.
+
+ 
+
+Forming study groups to understand the material is also a good idea, as long as you stay on the conceptual level and are not collaborating on the graded assignments directly.
+
+ 
+
+Note: When in doubt always ask the instructor or TA first, to avoid any potential collaboration that can lead to academic dishonesty.
+
+ 
+
+Do not cheat. Please note that searching for previous solutions online is the same as cheating.
+
+ 
+
+You can further read Penn's Code of Academic Integrity page on this subject matter, as well as the SEAS Graduate Student guidelines on the code of ethics.
+
+
+
+
+Below is a list of the topics only:
+
+Course overview, Future Networks, Network Function Virtualization, Wireless Mobile Standards, 3GPP Standard Process, Technology Evolution, 5G and Beyond
+
+Network and OSI Reference Model, Network Devices, Network KPIs, Transport Protocols (TCP, UDP)
+
+TCP/IP and Ethernet: TCP/IP headers and options, Ethernet frame, IP addressing, Wireshark demonstration
+
+Network Address Translation, TCP connection management (open, close, reset), TCP retransmission, Acknowledgement, Flow Control, Throughput
+
+TCP Performance Analysis, Error Detection, Analog/Digital Modulation, Coding, WLAN 802.11ac, Project environment setup
+
+Multiple Access Control: Aloha variants, CSMA/CD, IEEE 802.11 MAC (CSMA/CA), WLAN Architecture
+
+IEEE 802.11 MAC: Hidden/Exposed Station Problems, RTS/CTS, Wireless TCP Performance, Radio Link Solutions
+
+Split TCP Solutions, Performance over 4G LTE/3G, End-to-end performance simulation, Network simulation basics, NS3 overview
+
+Direct Sequence CDMA, Near/Far problem, 4G LTE Evolutions, LTE Network Architecture, EPS Bearer Service
+
+LTE Protocol and Channel Architecture: Downlink, Uplink, Frame structure, Cyclic Prefix, Reference Signals
+
+LTE Downlink Control Signaling (PCFICH, PHICH, PDCCH) and Resource Block Mapping
+
+LTE Scheduling: Uplink scheduling (persistent, semi-persistent, dynamic), Synchronization, Cell search and selection
+
+Random Access Procedures, Timing Advance, LTE Attachment, Mobility (Tracking Area Update), Power Management (DRX)
+
+HARQ Retransmission, Multi-RAT Overview, HTTP/MPTCP/MPIP, LTE-U, LAA, Dual Connectivity, LWA, LWIP, Throughput Aggregation
+
+IoT Introduction, IoT Standards and Protocol Stacks, IEEE 802.15.4, Bluetooth Smart, MQTT
+
+LPWAN/LPWA Landscape, SigFox, LoRa and LoRaWAN, Modulation Techniques, Device Activation (OTAA, ABP)
+
+LoRaWAN MAC Format, Security (Encryption, MIC, Decryption), Device Classes, Attacks, Midterm Paper Writing
+
+Security Attacks on LoRa, Timing Diagrams, Cellular IoT: LTE UE Categories, Cost Reduction, LTE enhancements for MTC
+
+Narrow-Band IoT: Requirements, Deployment Scenarios, Coverage Enhancement, NB-IoT Physical Channels
+
+5G New Radio: Design Principles, Numerology, Frame Structure, Initial Access, Beam Management, NG RAN Architecture
+
+5G System Architecture: Deployment Options, 5GC Functions, Service-Based Architecture
+
+Network Slicing: Rationale, SDN/NFV, Docker, Kubernetes
+
+Network Slicing in 5G: Types, Challenges, gNB Architecture, Slices in RAN and Core, UE Registration, PDU Session
+
+5G Evolution and 6G Vision
+
+Final Exam

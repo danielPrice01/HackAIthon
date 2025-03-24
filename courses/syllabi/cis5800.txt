@@ -1,0 +1,63 @@
+Below is a list of topics only:
+
+Projection model
+
+Projective Geometry
+
+Projective Transformations (and SVD concepts)
+
+Projective transformations and Vanishing Points
+
+Pose from Projective Transformation
+
+PnP
+
+3D-3D Procrustes
+
+Intrinsics from Vanishing Points and Calibration
+
+Single View Geometry I
+
+Two View Collineations
+
+Two View Collineations (continued) and Review Start
+
+Midterm Review I
+
+Midterm Review II
+
+Midterm 1
+
+Structure from Motion I
+
+Structure from Motion II
+
+Hough Transform and RANSAC
+
+Special cases of Structure from Motion (HW3 explanation)
+
+Two-view Stereo
+
+Two-view Stereo (continuation)
+
+Optical Flow
+
+Multiple Views, Bundle Adjustment, and Visual Odometry
+
+Multi-View Reconstruction and Image Based Rendering I
+
+Multi-View Reconstruction and Image Based Rendering II, NeRFs
+
+NeRF II
+
+HW5 Presentation
+
+Single View Reconstruction: Objects and Humans
+
+Free topics
+
+
+
+
+
+

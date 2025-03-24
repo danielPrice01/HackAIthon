@@ -6,7 +6,7 @@
       "available": "Fall or Spring",
       "cu": "1 Course Unit",
       "prereq": "A maximum of 2 c.u. of CIS 0099 may be applied toward the B.A.S. or B.S.E. degree requirements.",
-      "syllabus": ""
+      "syllabus": "courses/syllabi/cis0099.txt"
     },
     {
       "id": "CIS 1050",
@@ -15,7 +15,7 @@
       "available": "Fall or Spring",
       "cu": "1 Course Unit",
       "prereq": "",
-      "syllabus": "",
+      "syllabus": "courses/syllabi/cis1050.txt",
       "mutuallyExclusive": "PHYS 1100"
     },
     {
@@ -45,7 +45,7 @@
       "available": "Fall or Spring",
       "cu": "1 Course Unit",
       "prereq": "",
-      "syllabus": ""
+      "syllabus": "courses/syllabi/cis1200.txt"
     },
     {
       "id": "CIS 1210",
@@ -54,7 +54,7 @@
       "available": "Spring",
       "cu": "1 Course Unit",
       "prereq": "CIS 1200 AND CIS 1600",
-      "syllabus": ""
+      "syllabus": "courses/syllabi/cis1210.txt"
     },
     {
       "id": "CIS 1250",
@@ -82,7 +82,7 @@
       "available": "Spring",
       "cu": "1 Course Unit",
       "prereq": "",
-      "syllabus": ""
+      "syllabus": "courses/syllabi/cis1600.txt"
     },
     {
       "id": "CIS 1810",
@@ -109,7 +109,7 @@
       "available": "Not Offered Every Year",
       "cu": "0-0.5 Course Units",
       "prereq": "CIS 1200",
-      "syllabus": ""
+      "syllabus": "courses/syllabi/cis1902.txt"
     },
     {
       "id": "CIS 1903",
@@ -127,7 +127,7 @@
       "available": "Not Offered Every Year",
       "cu": "0-0.5 Course Units",
       "prereq": "CIS 1200",
-      "syllabus": ""
+      "syllabus": "courses/syllabi/cis1904.txt"
     },
     {
       "id": "CIS 1905",
@@ -136,7 +136,7 @@
       "available": "Not Offered Every Year",
       "cu": "0-0.5 Course Units",
       "prereq": "CIS 1200",
-      "syllabus": ""
+      "syllabus": "courses/syllabi/cis1905.txt"
     },
     {
       "id": "CIS 1911",
@@ -154,7 +154,7 @@
       "available": "Not Offered Every Year",
       "cu": "0-0.5 Course Units",
       "prereq": "",
-      "syllabus": ""
+      "syllabus": "courses/syllabi/cis1912.txt"
     },
     {
       "id": "CIS 1921",
@@ -172,7 +172,7 @@
       "available": "Not Offered Every Year",
       "cu": "0-0.5 Course Units",
       "prereq": "CIS 1200 or previous programming experience",
-      "syllabus": ""
+      "syllabus": "courses/syllabi/cis1951.txt"
     },
     {
       "id": "CIS 1952",
@@ -181,7 +181,7 @@
       "available": "Not Offered Every Year",
       "cu": "0-0.5 Course Units",
       "prereq": "CIS 1200 or previous programming experience",
-      "syllabus": ""
+      "syllabus": "courses/syllabi/cis1952.txt"
     },
     {
       "id": "CIS 1961",
@@ -199,7 +199,7 @@
       "available": "Not Offered Every Year",
       "cu": "0-0.5 Course Units",
       "prereq": "",
-      "syllabus": ""
+      "syllabus": "courses/syllabi/cis1962.txt"
     },
     {
       "id": "CIS 1990",
@@ -226,7 +226,7 @@
       "available": "Fall or Spring",
       "cu": "1 Course Unit",
       "prereq": "CIS 1200",
-      "syllabus": ""
+      "syllabus": "courses/syllabi/cis2400.txt"
     },
     {
       "id": "CIS 2450",
@@ -235,7 +235,7 @@
       "available": "Fall or Spring",
       "cu": "1 Course Unit",
       "prereq": "CIS 1200",
-      "syllabus": "",
+      "syllabus": "courses/syllabi/cis2450.txt",
       "mutuallyExclusive": "CIS 5450"
     },
     {
@@ -245,7 +245,7 @@
       "available": "Fall",
       "cu": "1 Course Unit",
       "prereq": "CIS 1600",
-      "syllabus": ""
+      "syllabus": "courses/syllabi/cis2610.txt"
     },
     {
       "id": "CIS 2620",
@@ -254,7 +254,7 @@
       "available": "Fall",
       "cu": "1 Course Unit",
       "prereq": "CIS 1600",
-      "syllabus": ""
+      "syllabus": "courses/syllabi/cis2620.txt"
     },
     {
       "id": "CIS 3200",
@@ -263,7 +263,7 @@
       "available": "Fall or Spring",
       "cu": "1 Course Unit",
       "prereq": "CIS 1210 AND CIS 2620",
-      "syllabus": ""
+      "syllabus": "courses/syllabi/cis3200.txt"
     },
     {
       "id": "CIS 3333",
@@ -272,7 +272,7 @@
       "available": "Fall or Spring",
       "cu": "1 Course Unit",
       "prereq": "CIS 1600 AND STAT 4300 AND MATH 2400",
-      "syllabus": ""
+      "syllabus": "courses/syllabi/cis3333.txt"
     },
     {
       "id": "CIS 3340",
@@ -290,7 +290,7 @@
       "available": "Not Offered Every Year",
       "cu": "1 Course Unit",
       "prereq": "Two semesters of programming courses (e.g., CIS 1200, CIS 1210, CIS 2400)",
-      "syllabus": ""
+      "syllabus": "courses/syllabi/cis3410.txt"
     },
     {
       "id": "CIS 3500",
@@ -299,7 +299,7 @@
       "available": "Not Offered Every Year",
       "cu": "1 Course Unit",
       "prereq": "CIS 1210",
-      "syllabus": ""
+      "syllabus": "courses/syllabi/cis3500.txt"
     },
     {
       "id": "CIS 3900",
@@ -308,7 +308,7 @@
       "available": "Not Offered Every Year",
       "cu": "1 Course Unit",
       "prereq": "CIS 1210 AND MATH 2400",
-      "syllabus": ""
+      "syllabus": "courses/syllabi/cis3900.txt"
     },
     {
       "id": "CIS 3980",
@@ -326,7 +326,7 @@
       "available": "Not Offered Every Year",
       "cu": "0.5-1 Course Unit",
       "prereq": "",
-      "syllabus": ""
+      "syllabus": "courses/syllabi/cis3990.txt"
     },
     {
       "id": "CIS 4000",
@@ -353,7 +353,7 @@
       "available": "",
       "cu": "1 Course Unit",
       "prereq": "",
-      "syllabus": ""
+      "syllabus": "courses/syllabi/cis4100.txt"
     },
     {
       "id": "CIS 4120",
@@ -362,7 +362,7 @@
       "available": "Fall",
       "cu": "1 Course Unit",
       "prereq": "Prior programming experience",
-      "syllabus": ""
+      "syllabus": "courses/syllabi/cis4120.txt"
     },
     {
       "id": "CIS 4190",
@@ -371,7 +371,7 @@
       "available": "Fall or Spring",
       "cu": "1 Course Unit",
       "prereq": "CIS 1210",
-      "syllabus": "",
+      "syllabus": "courses/syllabi/cis4190.txt",
       "mutuallyExclusive": "CIS 5190"
     },
     {
@@ -381,7 +381,7 @@
       "available": "Fall",
       "cu": "1 Course Unit",
       "prereq": "CIS 1210",
-      "syllabus": "",
+      "syllabus": "courses/syllabi/cis4210.txt",
       "mutuallyExclusive": "CIS 5210"
     },
     {
@@ -391,7 +391,7 @@
       "available": "Fall or Spring",
       "cu": "1 Course Unit",
       "prereq": "CIS 1210",
-      "syllabus": "",
+      "syllabus": "courses/syllabi/cis4230.txt",
       "mutuallyExclusive": "CIS 5230"
     },
     {
@@ -431,7 +431,7 @@
       "available": "Fall",
       "cu": "1 Course Unit",
       "prereq": "CIS 2400",
-      "syllabus": "",
+      "syllabus": "courses/syllabi/cis4480.txt",
       "mutuallyExclusive": "CIS 5480"
     },
     {
@@ -441,7 +441,7 @@
       "available": "Fall or Spring",
       "cu": "1 Course Unit",
       "prereq": "CIS 1210 AND CIS 1600",
-      "syllabus": "",
+      "syllabus": "courses/syllabi/cis4500.txt",
       "mutuallyExclusive": "CIS 5500"
     },
     {
@@ -451,7 +451,7 @@
       "available": "Fall or Spring",
       "cu": "1 Course Unit",
       "prereq": "CIS 1600 AND CIS 2400",
-      "syllabus": "",
+      "syllabus": "courses/syllabi/cis4510.txt",
       "mutuallyExclusive": "CIS 5510"
     },
     {
@@ -461,7 +461,7 @@
       "available": "Fall or Spring",
       "cu": "1 Course Unit",
       "prereq": "",
-      "syllabus": "",
+      "syllabus": "courses/syllabi/cis4550.txt",
       "mutuallyExclusive": "CIS 5550"
     },
     {
@@ -471,7 +471,7 @@
       "available": "Fall or Spring",
       "cu": "1 Course Unit",
       "prereq": "CIS 1210",
-      "syllabus": ""
+      "syllabus": "courses/syllabi/cis4600.txt"
     },
     {
       "id": "CIS 4610",
@@ -510,7 +510,7 @@
       "available" : "",
       "cu": "1 Course Unit",
       "prereq": "CIS 2400",
-      "syllabus": "",
+      "syllabus": "courses/syllabi/cis4710.txt",
       "mutuallyExclusive" : "CIS 5710"
     },
     {
@@ -548,7 +548,7 @@
         "available": "Fall or Spring",
         "cu": "1",
         "prereq": "Programming experience and mathematical maturity recommended",
-        "syllabus": ""
+        "syllabus": "courses/syllabi/cis5000.txt"
       },
       {
         "id": "CIS 5010",
@@ -557,7 +557,7 @@
         "available": "Fall or Spring",
         "cu": "1",
         "prereq": "Knowledge of computer organization and basic programming skills",
-        "syllabus": ""
+        "syllabus": "courses/syllabi/cis5010.txt"
       },
       {
         "id": "CIS 5020",
@@ -566,7 +566,7 @@
         "available": "Fall or Spring",
         "cu": "1",
         "prereq": "Data Structures and Algorithms at the undergraduate level",
-        "syllabus": ""
+        "syllabus": "courses/syllabi/cis5020.txt"
       },
       {
         "id": "CIS 5050",
@@ -575,7 +575,7 @@
         "available": "Fall or Spring",
         "cu": "1",
         "prereq": "Undergraduate-level Operating Systems and Networking knowledge plus programming experience",
-        "syllabus": ""
+        "syllabus": "courses/syllabi/cis5050.txt"
       },
       {
         "id": "CIS 5110",
@@ -584,7 +584,7 @@
         "available": "Fall or Spring",
         "cu": "1",
         "prereq": "Discrete Mathematics, Automata Theory or Algorithms at the undergraduate level",
-        "syllabus": ""
+        "syllabus": "courses/syllabi/cis5110.txt"
       },
       {
         "id": "CIS 5120",
@@ -593,7 +593,7 @@
         "available": "Fall",
         "cu": "1",
         "prereq": "Prior programming experience",
-        "syllabus": "",
+        "syllabus": "courses/syllabi/cis4120.txt",
         "mutuallyExclusive": "CIS 4120"
       },
       {
@@ -602,7 +602,7 @@
         "description": "Provides firm foundations in linear algebra and introduces basic optimization techniques with an emphasis on methods widely used in computer science applications.",
         "available": "Fall or Spring",
         "cu": "1",
-        "prereq": "",
+        "prereq": "courses/syllabi/cis5150.txt",
         "syllabus": ""
       },
       {
@@ -630,7 +630,7 @@
         "available": "Fall",
         "cu": "1",
         "prereq": "Elementary probability, calculus, and linear algebra; basic programming experience",
-        "syllabus": ""
+        "syllabus": "courses/syllabi/cis5200.txt"
       },
       {
         "id": "CIS 5210",
@@ -648,7 +648,7 @@
         "available": "Fall",
         "cu": "1",
         "prereq": "",
-        "syllabus": ""
+        "syllabus": "courses/syllabi/cis5220.txt"
       },
       {
         "id": "CIS 5230",
@@ -666,7 +666,7 @@
         "available": "Fall or Spring",
         "cu": "1",
         "prereq": "",
-        "syllabus": ""
+        "syllabus": "courses/syllabi/cis5260.txt"
       },
       {
         "id": "CIS 5300",
@@ -675,7 +675,7 @@
         "available": "Fall",
         "cu": "1",
         "prereq": "CIS 1210 and CIS 1600",
-        "syllabus": "",
+        "syllabus": "courses/syllabi/cis5300.txt",
         "mutuallyExclusive": "CIS 4300"
       },
       {
@@ -685,7 +685,7 @@
         "available": "Spring",
         "cu": "1",
         "prereq": "CIS 1200",
-        "syllabus": ""
+        "syllabus": "courses/syllabi/cis5350.txt"
       },
       {
         "id": "CIS 5360",
@@ -741,7 +741,7 @@
         "available": "Fall or Spring",
         "cu": "1",
         "prereq": "CIS 1200",
-        "syllabus": "",
+        "syllabus": "courses/syllabi/cis5450.txt",
         "mutuallyExclusive": "CIS 2450"
       },
       {
@@ -751,7 +751,7 @@
         "available": "Fall or Spring",
         "cu": "1",
         "prereq": "CIS 1200, CIS 1210, CIS 1600",
-        "syllabus": ""
+        "syllabus": "courses/syllabi/cis5470.txt"
       },
       {
         "id": "CIS 5480",
@@ -760,7 +760,7 @@
         "available": "Fall or Spring",
         "cu": "1",
         "prereq": "CIS 2400",
-        "syllabus": "",
+        "syllabus": "courses/syllabi/cis5480.txt",
         "mutuallyExclusive": "CIS 4480"
       },
       {
@@ -770,7 +770,7 @@
         "available": "Fall or Spring",
         "cu": "1",
         "prereq": "Knowledge of C/C++ and basic networking concepts",
-        "syllabus": ""
+        "syllabus": "courses/syllabi/cis5490.txt"
       },
       {
         "id": "CIS 5500",
@@ -779,7 +779,7 @@
         "available": "Fall",
         "cu": "1",
         "prereq": "CIS 1210 and CIS 1600",
-        "syllabus": "",
+        "syllabus": "courses/syllabi/cis4500.txt",
         "mutuallyExclusive": "CIS 4500"
       },
       {
@@ -789,7 +789,7 @@
         "available": "Fall or Spring",
         "cu": "1",
         "prereq": "CIS 1600 and CIS 2400",
-        "syllabus": "",
+        "syllabus": "courses/syllabi/cis5510.txt",
         "mutuallyExclusive": "CIS 4510"
       },
       {
@@ -799,7 +799,7 @@
         "available": "Fall or Spring",
         "cu": "1",
         "prereq": "Enrollment by permission",
-        "syllabus": ""
+        "syllabus": "courses/syllabi/cis5520.txt"
       },
       {
         "id": "CIS 5530",
@@ -808,7 +808,7 @@
         "available": "Fall or Spring",
         "cu": "1",
         "prereq": "CIS 1210",
-        "syllabus": ""
+        "syllabus": "courses/syllabi/cis5530.txt"
       },
       {
         "id": "CIS 5540",
@@ -826,7 +826,7 @@
         "available": "Fall or Spring",
         "cu": "1",
         "prereq": "Familiarity with threads, concurrency, and strong Java programming skills",
-        "syllabus": "",
+        "syllabus": "courses/syllabi/cis5550.txt",
         "mutuallyExclusive": "CIS 5550"
       },
       {
@@ -835,7 +835,7 @@
         "description": "This course is an introduction to cryptography, both theory and applications, intended for advanced undergraduates and graduate students. Topics covered include symmetric cryptography, message authentication, public-key cryptography, digital signatures, cryptanalysis, cryptographic security, and secure channels, as well as a selection of more advanced topics such as zero-knowledge proofs, secure multiparty computation, privacy-enhancing technologies, or lattice-based cryptography.",
         "available": "Fall or Spring",
         "cu": "1",
-        "prereq": "",
+        "prereq": "courses/syllabi/cis5560.txt",
         "syllabus": ""
       },
       {
@@ -844,7 +844,7 @@
         "description": "This course will focus on web programming. The first half will focus on the basics of the internet and the Web, HTML and CSS, and basic and advanced Ruby. The second half will focus on Rails. Teams (of size 2-3) will build a web application in the second half of the semester as the class project. Through Rails, we'll ex;ore the 'culture' of web programming such as agile methodology, testing, key aspects of software engineering, using web services and APIs, and deploying to the cloud.",
         "available": "Fall or Spring",
         "cu": "1",
-        "prereq": "",
+        "prereq": "courses/syllabi/cis5570.txt",
         "syllabus": ""
       },
       {
@@ -854,7 +854,7 @@
         "available": "Fall or Spring",
         "cu": "1",
         "prereq": "Proficiency in Java",
-        "syllabus": ""
+        "syllabus": "courses/syllabi/cis5590.txt"
       },
       {
         "id": "CIS 5600",
@@ -909,7 +909,7 @@
         "available": "Fall",
         "cu": "1",
         "prereq": "Background in computer architecture, graphics, and proficiency in C/C++",
-        "syllabus": ""
+        "syllabus": "courses/syllabi/cis5650.txt"
       },
       {
         "id": "CIS 5660",
@@ -918,7 +918,7 @@
         "available": "Fall or Spring",
         "cu": "1",
         "prereq": "CIS 4600 or CIS 5600",
-        "syllabus": ""
+        "syllabus": "courses/syllabi/cis5660.txt"
       },
       {
         "id": "CIS 5670",
@@ -946,7 +946,7 @@
         "available": "Fall",
         "cu": "1",
         "prereq": "Recommended: ESE 5460; knowledge of C/C++; also requires CIT 5930, CIT 5940, CIT 5950, CIT 5960",
-        "syllabus": ""
+        "syllabus": "courses/syllabi/cis5690.txt"
       },
       {
         "id": "CIS 5710",
@@ -955,7 +955,7 @@
         "available": "Spring",
         "cu": "1",
         "prereq": "CIS 2400 or equivalent",
-        "syllabus": "",
+        "syllabus": "courses/syllabi/cis5710.txt",
         "mutuallyExclusive": "CIS 4710"
       },
       {
@@ -974,7 +974,7 @@
         "available": "Fall",
         "cu": "1",
         "prereq": "Solid grasp of linear algebra; programming in C or Matlab",
-        "syllabus": ""
+        "syllabus": "courses/syllabi/cis5800.txt"
       },
       {
         "id": "CIS 5810",
@@ -1011,7 +1011,7 @@
         "available": "Fall",
         "cu": "1",
         "prereq": "CIS 5710 or CIS 4710",
-        "syllabus": ""
+        "syllabus": "courses/syllabi/cis6010.txt"
       },
       {
         "id": "CIS 6100",
@@ -1020,7 +1020,7 @@
         "available": "Spring",
         "cu": "1",
         "prereq": "",
-        "syllabus": ""
+        "syllabus": "courses/syllabi/cis6100.txt"
       },
       {
         "id": "CIS 6200",
@@ -1029,7 +1029,7 @@
         "available": "Fall",
         "cu": "1",
         "prereq": "CIS 5200",
-        "syllabus": ""
+        "syllabus": "courses/syllabi/cis6200.txt"
       },
       {
         "id": "CIS 6250",
@@ -1038,7 +1038,7 @@
         "available": "Fall or Spring",
         "cu": "1",
         "prereq": "",
-        "syllabus": ""
+        "syllabus": "courses/syllabi/cis6250.txt"
       },
       {
         "id": "CIS 6300",
@@ -1047,7 +1047,7 @@
         "available": "Fall or Spring",
         "cu": "1",
         "prereq": "CIS 5300",
-        "syllabus": ""
+        "syllabus": "courses/syllabi/cis6300.txt"
       },
       {
         "id": "CIS 6400",
@@ -1065,7 +1065,7 @@
         "available": "Fall",
         "cu": "1",
         "prereq": "CIS 5500 or CIS 4500",
-        "syllabus": ""
+        "syllabus": "courses/syllabi/cis6500.txt"
       },
       {
         "id": "CIS 6600",
@@ -1083,7 +1083,7 @@
         "available": "Fall or Spring",
         "cu": "1",
         "prereq": "CIS 5000",
-        "syllabus": ""
+        "syllabus": "courses/syllabi/cis6700.txt"
       },
       {
         "id": "CIS 6730",
@@ -1092,7 +1092,7 @@
         "available": "Fall or Spring",
         "cu": "1",
         "prereq": "Background in algorithms, data structures, automata theory, propositional logic, operating systems, and communication protocols",
-        "syllabus": ""
+        "syllabus": "courses/syllabi/cis6730.txt"
       },
       {
         "id": "CIS 6770",
@@ -1128,7 +1128,7 @@
         "available": "Not Offered Every Year",
         "cu": "1",
         "prereq": "",
-        "syllabus": ""
+        "syllabus": "courses/syllabi/cis7000.txt"
       },
       {
         "id": "CIS 7980",
@@ -1153,15 +1153,6 @@
         "id": "CIS 8100",
         "name": "Writing and Speaking with Style",
         "description": "Trains CIS PhD students to excel in writing and presenting research results.",
-        "available": "Fall or Spring",
-        "cu": "1",
-        "prereq": "",
-        "syllabus": ""
-      },
-      {
-        "id": "CIS 8950",
-        "name": "Teaching Practicum",
-        "description": "Provides practical experience for students participating in a teaching practicum.",
         "available": "Fall or Spring",
         "cu": "1",
         "prereq": "",

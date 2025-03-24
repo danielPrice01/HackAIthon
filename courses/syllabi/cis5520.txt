@@ -1,0 +1,54 @@
+What is the content?
+
+Functional Programming
+– Black-belt Haskell
+– Mathematical approach to programming
+– Focus on semantics and types
+– Many small-scale case studies
+Advanced Techniques
+– Modular design and abstraction
+– How to make types work for you
+– Test and property driven development
+– Collaboration (pair programming)
+Lots of programming!
+– Small in-class exercises
+– Bi-weekly homework assignments
+– End of semester project
+
+
+What are you most excited about for CIS 5520?
+
+• Functional Programming (11x)
+• Haskell (6x)
+• Learning to be a better programmer (5x)
+• Learning different programming techniques and new ways to
+solve problems
+• Learning the fundamentals behind compilers and query
+languages
+• Fun with monads. Also really looking forward to the project
+• Reassociating with what real-world programming is like.
+
+
+What type people will likely succeed in the course?
+
+• People with strong background in programming and
+mathematics
+• No experience with FP expected, but helps
+• Undergraduates, Masters, and PhD students together
+
+
+What is the grading Structure?
+
+• 15 % Quizzes
+– quizzes (usually due Mondays, can complete before or during class)
+– first module/quiz available now
+• 15 % Active learning / engagement
+– in class exercises
+– office hours – let's chat!
+• 50 % Programming assignments
+– in pairs, most randomly assigned
+– graded on correctness, style and (asymptotic) efficiency
+– first assignment available now
+• 20 % Final Projects (your choice)
+
+

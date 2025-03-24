@@ -1,0 +1,59 @@
+Brief description:
+This course covers some basic material on manifolds, Riemannian metrics, Lie groups, Lie algebras, and homogeneous manifolds, keeping in mind applications of these theories to machine learning, computer vision and robotics. The treatment will be rigorous but we will try very hard to convey intuitions and to give many examples illustrating all these concepts.
+
+Syllabus:
+The matrix exponential
+The surjectivity of exp: so(n) -> SO(n)
+Rodrigues formula
+The surjectivity of exp: su(n) -> SU(n)
+Symmetric positive definite matrices (SPD).
+The bijection exp: S(n) -> SPD
+Manifolds, Tangent Spaces, Cotangent Space
+Introduction to manifolds
+Manifolds in R^n (charts, etc.)
+Tangent Vectors, Tangent Space, Cotangent Spaces
+Vector Fields
+Submanifolds, Immersions, Embeddings
+Integral Curves, Flow, One-Parameter Groups
+Abstract manifolds (charts, atlases, etc);
+Partitions of unity
+(*) Orientation of manifolds
+Lie Groups, Lie Algebra, Exponential Map
+Lie Groups and Lie Algebras
+Left and Right Invariant Vector Fields, Exponential Map
+Homomorphisms, Lie Subgroups
+The Correspondence Lie Groups--Lie Algebras
+Riemannian Manifolds and Connections
+Riemannian metrics
+Connections on manifolds
+Parallel transport
+Connections compatible with a metric; Levi-Civita connections
+Geodesics on Riemannian Manifolds
+Geodesics, local existence and uniqueness
+The exponential map
+Complete Riemannian manifolds, Hopf-Rinow Theorem, Cut-Locus
+The calculus of variation applied to geodesics
+Curvature in Riemanian Manifolds
+The curvature tensor
+Sectional curvature
+Ricci curvature
+Isometries and local isometries
+Riemannian covering maps
+(*) The second variation formula and the index form
+(*) Jacobi fields
+(*) Applications of Jacobi fields and conjugate points
+Cut locus and injectivity radius: some properties
+Metrics and curvature on Lie groups
+Left and right invariant metrics
+Bi-invariant metrics
+Connections and curvature of left-invariant metrics
+The Killing form
+Semisimple Lie algebras; a glimpse at the classification theorem
+Riemannian submersions
+Homogeneous manifolds
+Reductive homogeneous manifolds
+Symmetric spaces
+Specific Groups, Manifolds and Applications
+SO(3), SE(3), RP^3 (Vision)
+Stiefel manifolds S(m,n)
+Grassmann manifolds G(m,n) (learning)
