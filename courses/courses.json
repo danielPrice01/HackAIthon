@@ -1,0 +1,1234 @@
+[
+    {
+      "id": "CIS 0099",
+      "name": "Undergraduate Research/Independent Study",
+      "description": "An opportunity for the student to become closely associated with a professor (1) in a research effort to develop research skills and techniques and/or (2) to develop a program of independent in‐depth study in a subject area in which the professor and student have a common interest. The challenge of the task undertaken must be consistent with the student's academic level. To register for this course, the student must submit a detailed proposal, signed by the independent study supervisor, to the SEAS Office of Academic Programs (111 Towne) no later than the end of the \"add\" period.",
+      "available": "Fall or Spring",
+      "cu": "1 Course Unit",
+      "prereq": "A maximum of 2 c.u. of CIS 0099 may be applied toward the B.A.S. or B.S.E. degree requirements.",
+      "syllabus": ""
+    },
+    {
+      "id": "CIS 1050",
+      "name": "Computational Data Exploration",
+      "description": "The primary goal of this course is to introduce computational methods of interacting with data. In this course, students will be introduced to the IPython programming environment. They will learn how to gather data, store it in appropriate data structures and then either write their own functions or use libraries to analyze and then display the salient information in that data. Data will be drawn from a variety of domains, including but not limited to travel, entertainment, politics, economics, and biology.",
+      "available": "Fall or Spring",
+      "cu": "1 Course Unit",
+      "prereq": "",
+      "syllabus": "",
+      "mutually_exclusive": "PHYS 1100"
+    },
+    {
+      "id": "CIS 1070",
+      "name": "Visual Culture through the Computer's Eye",
+      "description": "Visual studies and the humanities have long modeled the act of seeing. This course explores how machine learning tools can be developed from art historical image databases or other visual culture datasets, and whether these tools can help ask new questions about visual learning. It welcomes students from diverse backgrounds and does not require programming or prior machine learning experience.",
+      "available": "Fall or Spring",
+      "cu": "1 Course Unit",
+      "prereq": "",
+      "syllabus": "",
+      "also_offered_as": "VLST 2090"
+    },
+    {
+      "id": "CIS 1100",
+      "name": "Introduction to Computer Programming",
+      "description": "Introduction to Computer Programming is the first course in our series introducing students to computer science. In this class you will learn the fundamentals of computer programming, with emphasis on applications in science and engineering. You will also learn about the broader field of computer science and algorithmic thinking.",
+      "available": "Fall or Spring",
+      "cu": "1 Course Unit",
+      "prereq": "",
+      "syllabus": ""
+    },
+    {
+      "id": "CIS 1200",
+      "name": "Programming Languages and Techniques I",
+      "description": "A fast‐paced introduction to the fundamental concepts of programming and software design. The course assumes some previous programming experience (at the high school level or from CIS 1100). No specific programming language background is assumed, though familiarity with any language is helpful. If you have never programmed before, you should take CIS 1100 first.",
+      "available": "Fall or Spring",
+      "cu": "1 Course Unit",
+      "prereq": "",
+      "syllabus": ""
+    },
+    {
+      "id": "CIS 1210",
+      "name": "Programming Languages and Techniques II",
+      "description": "This course focuses on algorithms and data structures using Java. Topics include computational complexity, stacks, queues, maps, trees, graphs, and efficient algorithm design. It builds upon implementations from earlier courses and extends them to study performance and real-world efficiency.",
+      "available": "Spring",
+      "cu": "1 Course Unit",
+      "prereq": "CIS 1200 AND CIS 1600",
+      "syllabus": ""
+    },
+    {
+      "id": "CIS 1250",
+      "name": "Technology and Policy",
+      "description": "This course develops an understanding of emerging technologies and their political, societal, and economic impacts. It explores controversies such as digital piracy and privacy concerns, without assuming any technical prerequisites.",
+      "available": "",
+      "cu": "1 Course Unit",
+      "prereq": "",
+      "syllabus": ""
+    },
+    {
+      "id": "CIS 1400",
+      "name": "Introduction to Cognitive Science",
+      "description": "How do minds work? This course surveys theories from philosophy, neuroscience, and computational models to understand perception, learning, memory, decision making, emotion, and consciousness. It is required for several cognitive science programs and provides a primer on computational approaches.",
+      "available": "Fall",
+      "cu": "1 Course Unit",
+      "prereq": "",
+      "syllabus": "",
+      "also_offered_as": "COGS 1001, LING 1005, PHIL 1840, PSYC 1333"
+    },
+    {
+      "id": "CIS 1600",
+      "name": "Mathematical Foundations of Computer Science",
+      "description": "This course provides an introduction to the mathematical concepts and techniques needed in computer science, including proof principles, logic, functions, relations, combinatorics, and graph theory, as well as the fundamentals of mathematical proofs.",
+      "available": "Spring",
+      "cu": "1 Course Unit",
+      "prereq": "",
+      "syllabus": ""
+    },
+    {
+      "id": "CIS 1810",
+      "name": "The Quantum and the Computer",
+      "description": "A Freshman Seminar offering a gentle introduction to quantum computation and quantum information science. No formal prerequisites are required and the course is designed for freshmen.",
+      "available": "Fall or Spring",
+      "cu": "1 Course Unit",
+      "prereq": "",
+      "syllabus": ""
+    },
+    {
+      "id": "CIS 1901",
+      "name": "C++ Programming",
+      "description": "An introduction to programming in C++ for students with previous experience in C or object‐oriented languages like Java. The course covers how C++ provides low-level control and performance benefits. Recommended prerequisites are CIS 1200 and CIS 2400.",
+      "available": "Not Offered Every Year",
+      "cu": "0-0.5 Course Units",
+      "prereq": "CIS 1200 and CIS 2400",
+      "syllabus": ""
+    },
+    {
+      "id": "CIS 1902",
+      "name": "Python Programming",
+      "description": "This course introduces Python, a modern high-level language, through hands-on programming assignments and a collaborative final project.",
+      "available": "Not Offered Every Year",
+      "cu": "0-0.5 Course Units",
+      "prereq": "CIS 1200",
+      "syllabus": ""
+    },
+    {
+      "id": "CIS 1903",
+      "name": "Go Programming",
+      "description": "An introduction to Go, a language created by Google that emphasizes speed and efficiency, with topics including concurrency, parallelism, and practical applications like web scraping.",
+      "available": "Not Offered Every Year",
+      "cu": "0-0.5 Course Units",
+      "prereq": "CIS 1100",
+      "syllabus": ""
+    },
+    {
+      "id": "CIS 1904",
+      "name": "Introduction to Haskell Programming",
+      "description": "An introduction to Haskell, a purely functional programming language with a strong static type system. Students will explore functional programming techniques and complete regular homework assignments.",
+      "available": "Not Offered Every Year",
+      "cu": "0-0.5 Course Units",
+      "prereq": "CIS 1200",
+      "syllabus": ""
+    },
+    {
+      "id": "CIS 1905",
+      "name": "Rust Programming",
+      "description": "This course covers Rust—a modern systems programming language emphasizing speed and safety. Topics include traits, generics, memory safety (move semantics, borrowing, lifetimes), macros, closures, and concurrency. Recommended additional exposure to CIS 2400 or similar.",
+      "available": "Not Offered Every Year",
+      "cu": "0-0.5 Course Units",
+      "prereq": "CIS 1200",
+      "syllabus": ""
+    },
+    {
+      "id": "CIS 1911",
+      "name": "Using and Understanding Unix and Linux",
+      "description": "A half-credit course that provides a thorough introduction to Unix and Linux, covering essential skills like file editing, compiling programs, shell scripting, and an overview of Unix architecture.",
+      "available": "Not Offered Every Year",
+      "cu": "0-0.5 Course Units",
+      "prereq": "CIS 1100",
+      "syllabus": ""
+    },
+    {
+      "id": "CIS 1912",
+      "name": "DevOps",
+      "description": "This course offers a hands-on look at DevOps practices including automated testing, containerization, continuous integration and deployment, and building an end-to-end pipeline using technologies such as Kubernetes and Docker.",
+      "available": "Not Offered Every Year",
+      "cu": "0-0.5 Course Units",
+      "prereq": "",
+      "syllabus": ""
+    },
+    {
+      "id": "CIS 1921",
+      "name": "Solving Hard Problems in Practice",
+      "description": "Explore how seemingly intractable problems like Sudoku, debugging, exam scheduling, and shipment routing are solved at scale using clever systems and heuristics from organizations like Microsoft, Google, and NASA.",
+      "available": "Not Offered Every Year",
+      "cu": "0-0.5 Course Units",
+      "prereq": "CIS 1210",
+      "syllabus": ""
+    },
+    {
+      "id": "CIS 1951",
+      "name": "iOS Programming",
+      "description": "A project-oriented course centered on developing mobile applications for iOS. The first half covers fundamentals of mobile app development, and the second half involves team projects to design and build a mobile application.",
+      "available": "Not Offered Every Year",
+      "cu": "0-0.5 Course Units",
+      "prereq": "CIS 1200 or previous programming experience",
+      "syllabus": ""
+    },
+    {
+      "id": "CIS 1952",
+      "name": "Android Programming",
+      "description": "A project-oriented course on developing mobile applications for Android. It covers app lifecycles, event-based programming, and resource management, culminating in a team project.",
+      "available": "Not Offered Every Year",
+      "cu": "0-0.5 Course Units",
+      "prereq": "CIS 1200 or previous programming experience",
+      "syllabus": ""
+    },
+    {
+      "id": "CIS 1961",
+      "name": "Ruby on Rails Web Development",
+      "description": "This course teaches the fundamentals of web application development using Ruby on Rails. It covers Ruby basics, essential tools like git and bash, and culminates in a project where students develop and deploy a web application.",
+      "available": "Not Offered Every Year",
+      "cu": "0-0.5 Course Units",
+      "prereq": "CIS 1200",
+      "syllabus": ""
+    },
+    {
+      "id": "CIS 1962",
+      "name": "JavaScript Programming",
+      "description": "An introduction to modern web development with JavaScript. The course covers the JavaScript language, browser internals, DOM manipulation, HTML5, and client-side application architectures.",
+      "available": "Not Offered Every Year",
+      "cu": "0-0.5 Course Units",
+      "prereq": "",
+      "syllabus": ""
+    },
+    {
+      "id": "CIS 1990",
+      "name": "Special Topics",
+      "description": "A pilot course used for testing new CIS course formats. A given course will be offered as CIS 1990 at most twice before a permanent number is assigned.",
+      "available": "",
+      "cu": "0-0.5 Course Units",
+      "prereq": "",
+      "syllabus": ""
+    },
+    {
+      "id": "CIS 2330",
+      "name": "Introduction to Blockchain",
+      "description": "This practical course introduces blockchain (distributed ledger technology) by covering cryptographic fundamentals, distributed ledger structure, consensus methods (from proof-of-work to proof-of-stake), and includes both written and practical assignments to build components of a blockchain solution.",
+      "available": "Spring",
+      "cu": "1 Course Unit",
+      "prereq": "CIS 1200",
+      "syllabus": ""
+    },
+    {
+      "id": "CIS 2400",
+      "name": "Introduction to Computer Systems",
+      "description": "A bottom-up introduction to computer systems architecture that starts with transistors and hardware structures, proceeds to low-level programming in machine language, and concludes with an introduction to the C programming language. It serves as a foundation for further courses in computer systems.",
+      "available": "Fall or Spring",
+      "cu": "1 Course Unit",
+      "prereq": "CIS 1200",
+      "syllabus": ""
+    },
+    {
+      "id": "CIS 2450",
+      "name": "Big Data Analytics",
+      "description": "This course focuses on scaling computation to handle big data. Students learn about data collection, wrangling, and structuring; scalable programming models; standard data analysis toolkits; and distributed frameworks for tasks such as filtering, clustering, and classification.",
+      "available": "Fall or Spring",
+      "cu": "1 Course Unit",
+      "prereq": "CIS 1200",
+      "syllabus": "",
+      "mutually_exclusive": "CIS 5450"
+    },
+    {
+      "id": "CIS 2610",
+      "name": "Discrete Probability, Stochastic Processes, and Statistical Inference",
+      "description": "This course integrates discrete probability, stochastic processes, and statistical inference with applications in computer science. It assumes prior knowledge in topics such as set theory, induction, number theory, combinatorics, and graph theory (as covered in CIS 1600) and uses the Maple environment for computational exercises.",
+      "available": "Fall",
+      "cu": "1 Course Unit",
+      "prereq": "CIS 1600",
+      "syllabus": ""
+    },
+    {
+      "id": "CIS 2620",
+      "name": "Automata, Computability, and Complexity",
+      "description": "Explores fundamental questions of computer science including unsolvable problems, formalizing computation without specific programming languages, and efficient computability. Topics include finite automata, context-free grammars, Turing machines, undecidability, and NP-completeness, with connections to practical computing issues.",
+      "available": "Fall",
+      "cu": "1 Course Unit",
+      "prereq": "CIS 1600",
+      "syllabus": ""
+    },
+    {
+      "id": "CIS 3200",
+      "name": "Introduction to Algorithms",
+      "description": "A comprehensive introduction to algorithm design and analysis. Topics include encoding methods, shortest paths, communication network design, advanced data structures (e.g., red-black trees), dynamic programming, amortized analysis, graph algorithms, NP-completeness, and approximation algorithms.",
+      "available": "Fall or Spring",
+      "cu": "1 Course Unit",
+      "prereq": "CIS 1210 AND CIS 2620",
+      "syllabus": ""
+    },
+    {
+      "id": "CIS 3333",
+      "name": "Mathematics of Machine Learning",
+      "description": "This course provides the mathematical background for machine learning, covering continuous probability, parametric distributions, concentration inequalities, inner product spaces, functional analysis, Hilbert spaces, multivariate calculus, Taylor’s theorem, and convexity.",
+      "available": "Fall or Spring",
+      "cu": "1 Course Unit",
+      "prereq": "CIS 1600 AND STAT 4300 AND MATH 2400",
+      "syllabus": ""
+    },
+    {
+      "id": "CIS 3340",
+      "name": "Advanced Topics in Algorithms",
+      "description": "Focuses on randomized algorithms and other advanced techniques in algorithm design. Topics include verifying document identity with small samples, efficient verification of program computations, and randomized approaches in various applications.",
+      "available": "Not Offered Every Year",
+      "cu": "1 Course Unit",
+      "prereq": "CIS 3200",
+      "syllabus": ""
+    },
+    {
+      "id": "CIS 3410",
+      "name": "Compilers and Interpreters",
+      "description": "Learn how to build a compiler through topics such as lexical analysis, parsing, intermediate representations, code generation, type checking, and optimizations. The course is project-based and uses OCaml for implementation, though no prior OCaml knowledge is required.",
+      "available": "Not Offered Every Year",
+      "cu": "1 Course Unit",
+      "prereq": "Two semesters of programming courses (e.g., CIS 1200, CIS 1210, CIS 2400)",
+      "syllabus": ""
+    },
+    {
+      "id": "CIS 3500",
+      "name": "Software Design/Engineering",
+      "description": "This course introduces professional software engineering tools and processes including source control, automated builds, test automation, agile and test-driven development, requirements analysis, and object-oriented design, all within a team-based environment.",
+      "available": "Not Offered Every Year",
+      "cu": "1 Course Unit",
+      "prereq": "CIS 1210",
+      "syllabus": ""
+    },
+    {
+      "id": "CIS 3900",
+      "name": "Robotics: Planning Perception",
+      "description": "An introductory course on robotics with a focus on planning and perception. Topics include path planning under kinematic constraints and perception for estimating robot motion and environmental shape, with implementations in Python.",
+      "available": "Not Offered Every Year",
+      "cu": "1 Course Unit",
+      "prereq": "CIS 1210 AND MATH 2400",
+      "syllabus": ""
+    },
+    {
+      "id": "CIS 3980",
+      "name": "Quantum Computer and Information Science",
+      "description": "Introduces undergraduate students in computer science and engineering to quantum computers and quantum information science. No prior knowledge of quantum mechanics is required, and enrollment is by instructor permission.",
+      "available": "Fall or Spring",
+      "cu": "1 Course Unit",
+      "prereq": "(PHYS 0151 OR PHYS 0171) AND MATH 2400 AND MATH 3120 AND MATH 3140 AND CIS 1600 AND CIS 2620",
+      "syllabus": ""
+    },
+    {
+      "id": "CIS 3990",
+      "name": "Special Topics",
+      "description": "Visit the CIS department website for descriptions of available Special Topics classes.",
+      "available": "Not Offered Every Year",
+      "cu": "0.5-1 Course Unit",
+      "prereq": "",
+      "syllabus": ""
+    },
+    {
+      "id": "CIS 4000",
+      "name": "Senior Project",
+      "description": "Design and implementation of a significant piece of work (software, hardware, or theory) with an emphasis on technical writing and oral communication. Includes submission of an abstract, an intermediate report and presentation, with evaluation by the Project Adviser and Course Instructor.",
+      "available": "Fall",
+      "cu": "1 Course Unit",
+      "prereq": "",
+      "syllabus": ""
+    },
+    {
+      "id": "CIS 4010",
+      "name": "Senior Project (Continuation)",
+      "description": "Continuation of CIS 4000. Students submit a final written report and give a final presentation/demonstration of their project. Evaluation is based on the report, presentation, and project completion.",
+      "available": "Spring",
+      "cu": "1 Course Unit",
+      "prereq": "CIS 4000",
+      "syllabus": ""
+    },
+    {
+      "id": "CIS 4100",
+      "name": "CIS Senior Thesis",
+      "description": "A two‐semester research project under faculty supervision. Students develop an abstract, submit an intermediate report (to qualify for continuation), and eventually produce a written thesis with a public presentation. The program is selective and aimed at high-achieving seniors.",
+      "available": "",
+      "cu": "1 Course Unit",
+      "prereq": "",
+      "syllabus": ""
+    },
+    {
+      "id": "CIS 4110",
+      "name": "CIS Senior Thesis (Continuation)",
+      "description": "Continuation of the senior thesis project (CIS 4100). Students complete their research by writing a thesis and presenting their findings at a conference or public talk. Evaluation is based on the thesis quality and presentation.",
+      "available": "",
+      "cu": "1 Course Unit",
+      "prereq": "",
+      "syllabus": ""
+    },
+    {
+      "id": "CIS 4120",
+      "name": "Introduction to Human Computer Interaction",
+      "description": "Learn the fundamentals of HCI by designing interactive systems through a human-centered design process—from ideation to prototyping and evaluation. Topics include need-finding, user studies, visual design, cognitive models, and ethics in HCI, with a group project as the final deliverable.",
+      "available": "Fall",
+      "cu": "1 Course Unit",
+      "prereq": "Prior programming experience",
+      "syllabus": ""
+    },
+    {
+      "id": "CIS 4190",
+      "name": "Applied Machine Learning",
+      "description": "Introduces fundamental machine learning concepts and algorithms with emphasis on practical applications. Topics include supervised learning (e.g., decision trees, logistic regression, neural networks), unsupervised learning (e.g., clustering), and reinforcement learning, along with evaluation methodologies.",
+      "available": "Fall or Spring",
+      "cu": "1 Course Unit",
+      "prereq": "CIS 1210",
+      "syllabus": "",
+      "mutually_exclusive": "CIS 5190"
+    },
+    {
+      "id": "CIS 4210",
+      "name": "Artificial Intelligence",
+      "description": "Investigates algorithms for implementing resource-limited, knowledge-based agents. Topics include search, machine learning, probabilistic reasoning, natural language processing, and logic. Programming assignments are in Python.",
+      "available": "Fall",
+      "cu": "1 Course Unit",
+      "prereq": "CIS 1210",
+      "syllabus": "",
+      "mutually_exclusive": "CIS 5210"
+    },
+    {
+      "id": "CIS 4230",
+      "name": "Ethical Algorithm Design",
+      "description": "Introduces the ethical concerns in data science such as fairness, transparency, and privacy. The course covers technical approaches to these issues including tradeoffs in predictive technology and guidelines for examining bias and representation in data.",
+      "available": "Fall or Spring",
+      "cu": "1 Course Unit",
+      "prereq": "CIS 1210",
+      "syllabus": "",
+      "mutually_exclusive": "CIS 5230"
+    },
+    {
+      "id": "CIS 4300",
+      "name": "Natural Language Processing",
+      "description": "Provides an overview of NLP including machine translation, automatic summarization, question answering, and dialog systems. The course introduces technologies such as Amazon Alexa and Google Translate.",
+      "available": "Fall",
+      "cu": "1 Course Unit",
+      "prereq": "CIS 1210 AND CIS 1600",
+      "syllabus": "",
+      "mutually_exclusive": "CIS 5300"
+    },
+    {
+      "id": "CIS 4360",
+      "name": "Introduction to Computational Biology & Biological Modeling",
+      "description": "Develop a deeper understanding of computational biology through theoretical and practical methods. Topics include genome browsing, alignment algorithms, classical and non-parametric statistics, pathway analysis, dimensionality reduction, GWAS, and machine learning applied to biomedical data. UNIX, R, and Python are used for big data analysis pipelines.",
+      "available": "Fall",
+      "cu": "1 Course Unit",
+      "prereq": "MATH 1400 AND (BIOL 2510 OR BIOL 5510)",
+      "syllabus": "",
+      "also_offered_as": "BIOL 4536",
+      "mutually_exclusive": "BIOL 5535"
+    },
+    {
+      "id": "CIS 4410",
+      "name": "Embedded Software for Life-Critical Applications",
+      "description": "Focuses on design and implementation of life-critical embedded systems. Topics include modeling, design, verification, validation, real-time programming paradigms, and safety-critical projects (e.g., pacemakers, infusion pumps).",
+      "available": "Fall",
+      "cu": "1 Course Unit",
+      "prereq": "CIS 2400",
+      "syllabus": ""
+    },
+    {
+      "id": "CIS 4480",
+      "name": "Operating Systems Design and Implementation",
+      "description": "Teaches the design and implementation of operating systems with an emphasis on concurrency, memory management, and file systems. The course concludes with case studies and specialized topics such as virtual machines.",
+      "available": "Fall",
+      "cu": "1 Course Unit",
+      "prereq": "CIS 2400",
+      "syllabus": "",
+      "mutually_exclusive": "CIS 5480"
+    },
+    {
+      "id": "CIS 4500",
+      "name": "Database and Information Systems",
+      "description": "Introduces structured data concepts including relational and XML design, query languages, storage, query optimization, transactions, web-database development, and NoSQL systems.",
+      "available": "Fall or Spring",
+      "cu": "1 Course Unit",
+      "prereq": "CIS 1210 AND CIS 1600",
+      "syllabus": "",
+      "mutually_exclusive": "CIS 5500"
+    },
+    {
+      "id": "CIS 4510",
+      "name": "Computer and Network Security",
+      "description": "Covers fundamentals of cryptography, security protocols, operating system security, and electronic commerce security. Topics include passwords, DES, RSA, DSA, SSL, IPSec, DDoS, biometric authentication, and more.",
+      "available": "Fall or Spring",
+      "cu": "1 Course Unit",
+      "prereq": "CIS 1600 AND CIS 2400",
+      "syllabus": "",
+      "mutually_exclusive": "CIS 5510"
+    },
+    {
+      "id": "CIS 4550",
+      "name": "Internet and Web Systems",
+      "description": "Focuses on building Internet and web systems with challenges including scalability, interoperability, security, fault tolerance, and resource location. The course includes a hands-on project to build a peer-to-peer search engine.",
+      "available": "Fall or Spring",
+      "cu": "1 Course Unit",
+      "prereq": "",
+      "syllabus": "",
+      "mutually_exclusive": "CIS 5550"
+    },
+    {
+      "id": "CIS 4600",
+      "name": "Interactive Computer Graphics",
+      "description": "Covers essential mathematical and geometric concepts in computer graphics using 3D interactive implementations. Topics include mesh data structures, transformations, rendering algorithms, and curve interpolation, with practical projects using C++ and GLSL.",
+      "available": "Fall or Spring",
+      "cu": "1 Course Unit",
+      "prereq": "CIS 1210",
+      "syllabus": ""
+    },
+    {
+      "id": "CIS 4610",
+      "name": "Advanced Rendering",
+      "description": "Provides a comprehensive overview of 3D modeling, image synthesis, and rendering techniques including ray tracing, radiosity, global illumination, Monte Carlo path tracing, and photon mapping. Requires working knowledge of C++.",
+      "available": "Fall or Spring",
+      "cu": "1 Course Unit",
+      "prereq": "C++ programming experience",
+      "syllabus": "",
+      "mutually_exclusive": "CIS 5610"
+    },
+    {
+      "id": "CIS 4620",
+      "name": "Computer Animation",
+      "description": "Covers theory and practice of animation for robotics, games, and virtual reality. Topics include coordinate systems, quaternions, kinematics, dynamic systems, simulation, and various animation techniques. Prior exposure to linear algebra, curves, dynamical systems, and 3D graphics is assumed.",
+      "available": "Fall or Spring",
+      "cu": "1 Course Unit",
+      "prereq": "Exposure to linear algebra, curves, dynamical systems, and 3D graphics",
+      "syllabus": "",
+      "mutually_exclusive": "CIS 5620"
+    },
+    {
+      "id": "CIS 4670",
+      "name": "Scientific Computing",
+      "description": "Focuses on numerical algorithms and scientific computing techniques for engineering applications. Emphasizes numerical methods derived from multivariable calculus and linear algebra, with implementation using MATLAB/C++, and includes modern parallel computing paradigms and visualization techniques.",
+      "available": "Fall or Spring",
+      "cu": "1 Course Unit",
+      "prereq": "MATH 240; knowledge of C++, Python or MATLAB",
+      "syllabus": "",
+      "mutually_exclusive": "CIS 5670"
+    },
+    {
+      "id": "CIS 4710",
+      "name": "Computer Organization and Design",
+      "description": "This is the second computer organization course and focuses on computer hardware design. Topics covered are: (1) basic digital system design including finite state machines, (2) instruction set design and simple RISC assembly programming, (3) quantitative evaluation of computer performance, (4) circuits for integer and floating-point arithmatic, (5) datapath and control, (6) micro-programming, (7) pipeling, (8) storage hierarchy and virtual memory, (9) input/output, (10) different forms of parallelism including instruction level parallelism, data-level parallelism using both vectors and message-passing multi-processors, and thread-level parallelism using shared memory multiprocessors. Basic cache coherence and synchronization.",
+      "available" : "",
+      "cu": "1 Course Unit",
+      "prereq": "CIS 2400",
+      "syllabus": "",
+      "mutually_exclusive" : "CIS 5710"
+    },
+    {
+        "id": "cis 4810",
+        "name": "Computer Vision & Computational Photography",
+        "description": "This is an introductory course to Computer Vision and Computational Photography. The course explores image morphing, image matching and stitching, and image recognition to provide hands-on experience with innovative imaging techniques in an increasingly image-centric world.",
+        "available": "Fall",
+        "cu": "1",
+        "prereq": "",
+        "syllabus": "",
+        "mutuallyExclusive": "CIS 5810"
+      },
+      {
+        "id": "cis 4970",
+        "name": "DMD Senior Project",
+        "description": "Provides an opportunity for seniors to define, design, and execute a project that demonstrates the technical skills acquired during undergraduate study. Evaluation is based on research, communication, planning, coding, and execution. Senior standing or instructor permission is required.",
+        "available": "Fall or Spring",
+        "cu": "1",
+        "prereq": "",
+        "syllabus": ""
+      },
+      {
+        "id": "cis 4980",
+        "name": "Senior Capstone Project",
+        "description": "A required applied project for BAS degree students that focuses on real-world problems related to career goals. Students must submit a detailed proposal and work under faculty supervision during one semester.",
+        "available": "Fall or Spring",
+        "cu": "1",
+        "prereq": "",
+        "syllabus": ""
+      },
+      {
+        "id": "cis 5000",
+        "name": "Software Foundations",
+        "description": "Introduces foundational concepts in programming languages by treating programs as mathematical objects. Topics include formal definitions, type systems, polymorphism, constructive logic, and the Coq proof assistant.",
+        "available": "Fall or Spring",
+        "cu": "1",
+        "prereq": "Programming experience and mathematical maturity recommended",
+        "syllabus": ""
+      },
+      {
+        "id": "cis 5000",
+        "name": "Software Foundations",
+        "description": "Introduces foundational concepts in programming languages by treating programs as mathematical objects. Topics include formal definitions, type systems, polymorphism, constructive logic, and the Coq proof assistant.",
+        "available": "Fall or Spring",
+        "cu": "1",
+        "prereq": "Programming experience and mathematical maturity recommended",
+        "syllabus": ""
+      },
+      {
+        "id": "cis 5010",
+        "name": "Computer Architecture",
+        "description": "An introductory graduate course that emphasizes quantitative cost/performance tradeoffs in classical and modern uniprocessor design. Topics include pipelining, execution mechanisms, caches, memory systems, and multiprocessor design.",
+        "available": "Fall or Spring",
+        "cu": "1",
+        "prereq": "Knowledge of computer organization and basic programming skills",
+        "syllabus": ""
+      },
+      {
+        "id": "cis 5020",
+        "name": "Analysis of Algorithms",
+        "description": "Investigates design and analysis paradigms such as dynamic programming, combinatorial optimization, linear programming, and randomization, with an introduction to intractability and approximation algorithms.",
+        "available": "Fall or Spring",
+        "cu": "1",
+        "prereq": "Data Structures and Algorithms at the undergraduate level",
+        "syllabus": ""
+      },
+      {
+        "id": "cis 5020",
+        "name": "Analysis of Algorithms",
+        "description": "Investigates design and analysis paradigms such as dynamic programming, combinatorial optimization, linear programming, and randomization, with an introduction to intractability and approximation algorithms.",
+        "available": "Fall or Spring",
+        "cu": "1",
+        "prereq": "Data Structures and Algorithms at the undergraduate level",
+        "syllabus": ""
+      },
+      {
+        "id": "cis 5050",
+        "name": "Software Systems",
+        "description": "Introduces fundamental concepts of distributed systems and the design principles for building large-scale computational systems. Topics include communication, concurrency, synchronization, fault tolerance, and middleware.",
+        "available": "Fall or Spring",
+        "cu": "1",
+        "prereq": "Undergraduate-level Operating Systems and Networking knowledge plus programming experience",
+        "syllabus": ""
+      },
+      {
+        "id": "cis 5110",
+        "name": "Theory of Computation",
+        "description": "Reviews regular and context-free languages, Turing machines, decidability, complexity classes (P, NP, PSPACE, etc.), and advanced topics like circuit complexity and randomized complexity.",
+        "available": "Fall or Spring",
+        "cu": "1",
+        "prereq": "Discrete Mathematics, Automata Theory or Algorithms at the undergraduate level",
+        "syllabus": ""
+      },
+      {
+        "id": "cis 5120",
+        "name": "Introduction to Human Computer Interaction",
+        "description": "Covers the essentials of HCI by teaching the human-centered design process—from ideation through prototyping and testing—using tools such as need-finding, user studies, and visual design. Includes a group project developing an interactive prototype.",
+        "available": "Fall",
+        "cu": "1",
+        "prereq": "Prior programming experience",
+        "syllabus": "",
+        "mutuallyExclusive": "CIS 4120"
+      },
+      {
+        "id": "cis 5150",
+        "name": "Fundamentals of Linear Algebra and Optimization",
+        "description": "Provides firm foundations in linear algebra and introduces basic optimization techniques with an emphasis on methods widely used in computer science applications.",
+        "available": "Fall or Spring",
+        "cu": "1",
+        "prereq": "",
+        "syllabus": ""
+      },
+      {
+        "id": "cis 5180",
+        "name": "Topics in Logic: Finite Model Theory and Descriptive Complexity",
+        "description": "Examines the expressive power of logical languages over finite structures, covering key theorems and extensions of first-order logic with connections to computational complexity.",
+        "available": "Fall or Spring",
+        "cu": "1",
+        "prereq": "",
+        "syllabus": ""
+      },
+      {
+        "id": "cis 5190",
+        "name": "Applied Machine Learning",
+        "description": "Introduces core machine learning concepts and algorithms—including supervised, unsupervised, and reinforcement learning—with a focus on practical applications and evaluation methodologies.",
+        "available": "Fall or Spring",
+        "cu": "1",
+        "prereq": "CIS 1210",
+        "syllabus": ""
+      },
+      {
+        "id": "cis 5200",
+        "name": "Machine Learning",
+        "description": "Covers the foundations of statistical machine learning with an emphasis on probabilistic methods for prediction and clustering. Topics include regression, SVMs, PCA, EM, HMMs, and deep learning.",
+        "available": "Fall",
+        "cu": "1",
+        "prereq": "Elementary probability, calculus, and linear algebra; basic programming experience",
+        "syllabus": ""
+      },
+      {
+        "id": "cis 5210",
+        "name": "Artificial Intelligence",
+        "description": "Investigates algorithms for building resource-limited, knowledge-based agents. Topics include search, machine learning, probabilistic reasoning, natural language processing, and knowledge representation with Python assignments.",
+        "available": "Fall or Spring",
+        "cu": "1",
+        "prereq": "CIS 1210",
+        "syllabus": ""
+      },
+      {
+        "id": "cis 5220",
+        "name": "Deep Learning for Data Science",
+        "description": "Deconstructs the hype around deep learning by teaching its theories, models, skills, and applications in data systems, with hands-on projects to build components of neural models.",
+        "available": "Fall",
+        "cu": "1",
+        "prereq": "",
+        "syllabus": ""
+      },
+      {
+        "id": "cis 5230",
+        "name": "Ethical Algorithm Design",
+        "description": "Introduces ethical concerns in data science, focusing on fairness, transparency, and privacy. Covers technical approaches to tradeoffs in predictive technology and guidelines for auditing bias in training data.",
+        "available": "Fall or Spring",
+        "cu": "1",
+        "prereq": "CIS 1210",
+        "syllabus": ""
+      },
+      {
+        "id": "cis 5260",
+        "name": "Machine Translation",
+        "description": "Explores the building blocks of modern translation systems—including linguistics, machine learning, and formal language theory—to understand and implement machine translation solutions.",
+        "available": "Fall or Spring",
+        "cu": "1",
+        "prereq": "",
+        "syllabus": ""
+      },
+      {
+        "id": "cis 5300",
+        "name": "Natural Language Processing",
+        "description": "Provides an overview of natural language processing, covering technologies that enable machines to understand human language, such as machine translation, summarization, question answering, and dialog systems.",
+        "available": "Fall",
+        "cu": "1",
+        "prereq": "CIS 1210 and CIS 1600",
+        "syllabus": "",
+        "mutuallyExclusive": "CIS 4300"
+      },
+      {
+        "id": "cis 5350",
+        "name": "Introduction to Blockchain",
+        "description": "Introduces blockchain and distributed ledger technology through the fundamentals of cryptography and consensus methods, including proof-of-work and proof-of-stake, with practical assignments to build blockchain components.",
+        "available": "Spring",
+        "cu": "1",
+        "prereq": "CIS 1200",
+        "syllabus": ""
+      },
+      {
+        "id": "cis 5360",
+        "name": "Fundamentals of Computational Biology",
+        "description": "An introductory course covering algorithms, statistics, and mathematics applied to biological problems with an emphasis on theoretical modeling rather than practical implementation.",
+        "available": "Fall",
+        "cu": "1",
+        "prereq": "((BIOL 1101 AND BIOL 1102) OR BIOL 1121) AND STAT 111 AND STAT 112",
+        "syllabus": "",
+        "alsoOfferedAs": "BIOL 5536, GCB 5360"
+      },
+      {
+        "id": "cis 5370",
+        "name": "Biomedical Image Analysis",
+        "description": "Covers advanced quantitative image analysis techniques applied to biomedical imaging, including registration, segmentation, and statistical analysis, reinforced by state-of-the-art research and clinical applications.",
+        "available": "Fall or Spring",
+        "cu": "1",
+        "prereq": "Multivariate calculus (MATH 2410), programming experience, and familiarity with linear algebra, physics, and statistics",
+        "syllabus": "",
+        "alsoOfferedAs": "BE 5370, MPHY 6090"
+      },
+      {
+        "id": "cis 5400",
+        "name": "Principles of Embedded Computation",
+        "description": "Focuses on the design and analysis of computational elements that interact with the physical world. Topics include reactive interaction, continuous dynamics, communication among components, and performance requirements for embedded systems.",
+        "available": "Fall",
+        "cu": "1",
+        "prereq": "ESE 2100 or CIS 2620 recommended",
+        "syllabus": ""
+      },
+      {
+        "id": "cis 5410",
+        "name": "Embedded Software for Life-Critical Applications",
+        "description": "Teaches design and implementation techniques for safety-critical embedded systems. Topics include requirements, modeling, design, verification, and validation, with projects simulating systems such as pacemakers or infusion pumps.",
+        "available": "Fall or Spring",
+        "cu": "1",
+        "prereq": "CIS 2400",
+        "syllabus": ""
+      },
+      {
+        "id": "cis 5420",
+        "name": "Embedded Systems Programming",
+        "description": "Explores techniques for writing correct and efficient embedded code. Topics include C/C++ idioms, data abstraction, data structures, environment modeling, concurrency, and real-time programming.",
+        "available": "Fall or Spring",
+        "cu": "1",
+        "prereq": "C fluency",
+        "syllabus": ""
+      },
+      {
+        "id": "cis 5450",
+        "name": "Big Data Analytics",
+        "description": "Focuses on scalable computation for big data analytics. Topics include data collection, wrangling, distributed programming models, and frameworks for filtering, graph analysis, clustering, and classification.",
+        "available": "Fall or Spring",
+        "cu": "1",
+        "prereq": "CIS 1200",
+        "syllabus": "",
+        "mutuallyExclusive": "CIS 2450"
+      },
+      {
+        "id": "cis 5470",
+        "name": "Software Analysis",
+        "description": "Covers the theory and practice of software analysis techniques used to test, debug, and secure large codebases. Includes methods for proving program correctness and discovering vulnerabilities using C/C++ and LLVM.",
+        "available": "Fall or Spring",
+        "cu": "1",
+        "prereq": "CIS 1200, CIS 1210, CIS 1600",
+        "syllabus": ""
+      },
+      {
+        "id": "cis 5480",
+        "name": "Operating Systems Design and Implementation",
+        "description": "A masters-level course covering the design and implementation of operating systems. Topics include concurrency, memory management, file systems, and specialized topics such as virtual machines. (Mutually exclusive with CIS 4480.)",
+        "available": "Fall or Spring",
+        "cu": "1",
+        "prereq": "CIS 2400",
+        "syllabus": "",
+        "mutuallyExclusive": "CIS 4480"
+      },
+      {
+        "id": "cis 5490",
+        "name": "Wireless Communications for Mobile Networks and IoT",
+        "description": "Covers the evolution of wireless mobile network standards—from 3G to 4G LTE and 5G—with an emphasis on programming in C/C++ and the networking principles that underlie modern telecommunications.",
+        "available": "Fall or Spring",
+        "cu": "1",
+        "prereq": "Knowledge of C/C++ and basic networking concepts",
+        "syllabus": ""
+      },
+      {
+        "id": "cis 5500",
+        "name": "Database and Information Systems",
+        "description": "Introduces the broad field of databases and information systems including data modeling, relational and XML design, query languages, storage, optimization, and NoSQL systems.",
+        "available": "Fall",
+        "cu": "1",
+        "prereq": "CIS 1210 and CIS 1600",
+        "syllabus": "",
+        "mutuallyExclusive": "CIS 4500"
+      },
+      {
+        "id": "cis 5510",
+        "name": "Computer and Network Security",
+        "description": "Introduces security topics for computer systems and networks. Topics include cryptography, protocol security, operating system and mobile security, and e-commerce security, assessed via both theory and programming assignments.",
+        "available": "Fall or Spring",
+        "cu": "1",
+        "prereq": "CIS 1600 and CIS 2400",
+        "syllabus": "",
+        "mutuallyExclusive": "CIS 4510"
+      },
+      {
+        "id": "cis 5520",
+        "name": "Advanced Programming",
+        "description": "Aims to transform good programmers into excellent ones by introducing modern software engineering practices, particularly those found in advanced functional programming languages. Enrollment is by instructor permission.",
+        "available": "Fall or Spring",
+        "cu": "1",
+        "prereq": "Enrollment by permission",
+        "syllabus": ""
+      },
+      {
+        "id": "cis 5530",
+        "name": "Networked Systems",
+        "description": "Introduces fundamental concepts in designing and implementing networked systems, including Internet architecture, protocols, routing, security, and peer-to-peer networks with team-based projects.",
+        "available": "Fall or Spring",
+        "cu": "1",
+        "prereq": "CIS 1210",
+        "syllabus": ""
+      },
+      {
+        "id": "cis 5540",
+        "name": "Programming Paradigms",
+        "description": "Provides a basic understanding of diverse programming paradigms including logic, functional, concurrent, and rule-based programming, to broaden problem-solving approaches.",
+        "available": "Fall or Spring",
+        "cu": "1",
+        "prereq": "CIS 1210 or equivalent",
+        "syllabus": ""
+      },
+      {
+        "id": "cis 5550",
+        "name": "Internet and Web Systems",
+        "description": "Focuses on the challenges of building scalable and interoperable Internet and web systems. Topics include XML, web services, cloud computing, content distribution, and a major project involving a peer-to-peer search engine.",
+        "available": "Fall or Spring",
+        "cu": "1",
+        "prereq": "Familiarity with threads, concurrency, and strong Java programming skills",
+        "syllabus": "",
+        "mutuallyExclusive": "CIS 5550"
+      },
+      {
+        "id": "cis 5560",
+        "name": "Cryptography",
+        "description": "Introduces both theoretical and practical aspects of cryptography, including symmetric and public-key methods, digital signatures, and advanced topics such as zero-knowledge proofs and secure multiparty computation.",
+        "available": "Fall or Spring",
+        "cu": "1",
+        "prereq": "",
+        "syllabus": ""
+      },
+      {
+        "id": "cis 5570",
+        "name": "Programming for the Web",
+        "description": "Covers the basics of web programming—including HTML, CSS, Ruby, and Rails—through team projects that explore agile methodologies, testing, web services, and cloud deployment.",
+        "available": "Fall or Spring",
+        "cu": "1",
+        "prereq": "",
+        "syllabus": ""
+      },
+      {
+        "id": "cis 5590",
+        "name": "Programming and Problem Solving",
+        "description": "Develops problem-solving skills by applying programming techniques to open-ended problems in group projects. Emphasizes algorithmic thinking, programming, analysis, and communication.",
+        "available": "Fall or Spring",
+        "cu": "1",
+        "prereq": "Proficiency in Java",
+        "syllabus": ""
+      },
+      {
+        "id": "cis 5600",
+        "name": "Interactive Computer Graphics",
+        "description": "Focuses on the mathematical and geometric concepts underlying modern computer graphics. Topics include mesh structures, transformations, rendering algorithms, and curve interpolation, with hands-on projects using C++ and GLSL.",
+        "available": "Fall",
+        "cu": "1",
+        "prereq": "CIS 1210 (recommended CIS 2400)",
+        "syllabus": ""
+      },
+      {
+        "id": "cis 5610",
+        "name": "Advanced Computer Graphics",
+        "description": "Provides a comprehensive overview of 3D modeling, image synthesis, and rendering techniques, including ray tracing, radiosity, and global illumination. Requires a working knowledge of C++ and vector geometry.",
+        "available": "Fall or Spring",
+        "cu": "1",
+        "prereq": "C++ programming and vector geometry",
+        "syllabus": "",
+        "mutuallyExclusive": "CIS 4610"
+      },
+      {
+        "id": "cis 5620",
+        "name": "Computer Animation",
+        "description": "Offers a technical foundation for developing and controlling animated, articulated systems for games, VR, and high-end applications. Topics include kinematics, dynamic systems, simulation, and motion capture.",
+        "available": "Fall or Spring",
+        "cu": "1",
+        "prereq": "Exposure to linear algebra, curves/surfaces, dynamical systems, and 3D computer graphics",
+        "syllabus": ""
+      },
+      {
+        "id": "cis 5630",
+        "name": "Physically Based Animation",
+        "description": "Introduces simulation techniques for animating fluids, solids, cloth, explosions, and other systems to create realistic special effects. Emphasizes hands-on implementation of basic simulators.",
+        "available": "Fall or Spring",
+        "cu": "1",
+        "prereq": "C++ programming, basic linear algebra, physics, and background in computer graphics (CIS 461/561)",
+        "syllabus": ""
+      },
+      {
+        "id": "cis 5640",
+        "name": "Game Design and Development",
+        "description": "Provides both theoretical and engineering perspectives on game design, covering gameplay mechanics, engine architectures, user interfaces, and production methodologies.",
+        "available": "Fall or Spring",
+        "cu": "1",
+        "prereq": "Basic understanding of 3D graphics, animation, and scripting/programming (e.g., Python, C, C++)",
+        "syllabus": ""
+      },
+      {
+        "id": "cis 5650",
+        "name": "GPU Programming and Architecture",
+        "description": "Examines modern GPU architecture and teaches massively parallel programming using CUDA, with applications in geometry modeling, simulation, scientific computing, and games.",
+        "available": "Fall",
+        "cu": "1",
+        "prereq": "Background in computer architecture, graphics, and proficiency in C/C++",
+        "syllabus": ""
+      },
+      {
+        "id": "cis 5660",
+        "name": "Procedural Computer Graphics",
+        "description": "Introduces the mathematical and algorithmic foundations of procedural modeling and animation, enabling the creation of complex digital assets through original visual recipes.",
+        "available": "Fall or Spring",
+        "cu": "1",
+        "prereq": "CIS 4600 or CIS 5600",
+        "syllabus": ""
+      },
+      {
+        "id": "cis 5670",
+        "name": "Scientific Computing",
+        "description": "Focuses on numerical algorithms and scientific computing techniques for engineering applications. Emphasizes implementation using MATLAB/C++ and modern parallel computing paradigms along with scientific visualization.",
+        "available": "Fall or Spring",
+        "cu": "1",
+        "prereq": "MATH 2400; knowledge of C++, Python or MATLAB",
+        "syllabus": "",
+        "mutuallyExclusive": "CIS 4670"
+      },
+      {
+        "id": "cis 5680",
+        "name": "Game Design Practicum",
+        "description": "Provides hands-on experience designing and developing 3D games, VR, and AR applications in teams. Emphasizes concept brainstorming, design documentation, prototype development, and play-testing using industry-standard game engines.",
+        "available": "Fall, Spring, and Summer Terms",
+        "cu": "1",
+        "prereq": "CIS 4600 or CIS 5600",
+        "syllabus": ""
+      },
+      {
+        "id": "cis 5690",
+        "name": "GPU Computing for Machine Learning Systems",
+        "description": "Explores massively parallel programming on GPUs with applications to machine learning and AI. Provides hands-on projects that build up to implementing components of modern neural models.",
+        "available": "Fall",
+        "cu": "1",
+        "prereq": "Recommended: ESE 5460; knowledge of C/C++; also requires CIT 5930, CIT 5940, CIT 5950, CIT 5960",
+        "syllabus": ""
+      },
+      {
+        "id": "cis 5710",
+        "name": "Computer Organization and Design (Graduate)",
+        "description": "Focuses on advanced computer hardware design including digital systems, RISC assembly programming, pipelining, memory hierarchy, and various forms of parallelism. (Mutually exclusive with CIS 4710.)",
+        "available": "Spring",
+        "cu": "1",
+        "prereq": "CIS 2400 or equivalent",
+        "syllabus": "",
+        "mutuallyExclusive": "CIS 4710"
+      },
+      {
+        "id": "cis 5730",
+        "name": "Software Engineering",
+        "description": "Examines best practices in professional software engineering with a focus on software maintenance, testing, code analysis, verification, debugging, and refactoring.",
+        "available": "Fall",
+        "cu": "1",
+        "prereq": "CIS 3500 or equivalent",
+        "syllabus": ""
+      },
+      {
+        "id": "cis 5800",
+        "name": "Machine Perception",
+        "description": "Introduces computer vision and other machine perception problems solvable via geometric methods. Topics include projective geometry, camera calibration, image formation, and 3D reconstruction, with applications in vision, graphics, and robotics.",
+        "available": "Fall",
+        "cu": "1",
+        "prereq": "Solid grasp of linear algebra; programming in C or Matlab",
+        "syllabus": ""
+      },
+      {
+        "id": "cis 5810",
+        "name": "Computer Vision & Computational Photography (Graduate)",
+        "description": "A graduate-level introduction to computer vision and computational photography. Explores image morphing, matching, stitching, and recognition through hands-on projects.",
+        "available": "Fall",
+        "cu": "1",
+        "prereq": "CIS 1210 and CIS 1600",
+        "syllabus": "",
+        "mutuallyExclusive": "CIS 4810"
+      },
+      {
+        "id": "cis 5970",
+        "name": "Master's Thesis Research",
+        "description": "For students engaged in advanced research leading to a Master’s thesis.",
+        "available": "Fall or Spring",
+        "cu": "1-2",
+        "prereq": "",
+        "syllabus": ""
+      },
+      {
+        "id": "cis 5990",
+        "name": "Independent Study for Masters Students",
+        "description": "Allows Master’s students to explore an advanced subject area through coursework and presentations, with work comparable to a CIS 500-level course. Scope and expectations are set with the faculty supervisor.",
+        "available": "Fall or Spring",
+        "cu": "1-4",
+        "prereq": "",
+        "syllabus": ""
+      },
+      {
+        "id": "cis 6010",
+        "name": "Advanced Topics in Computer Architecture",
+        "description": "Focuses on research topics in computer architecture through reading, presenting research papers, and an optional project. Topics include multicore programmability, datacenter computing, security, and energy-efficient designs.",
+        "available": "Fall",
+        "cu": "1",
+        "prereq": "CIS 5710 or CIS 4710",
+        "syllabus": ""
+      },
+      {
+        "id": "cis 6100",
+        "name": "Advanced Geometric Methods in Computer Science",
+        "description": "Presents advanced geometric methods used in modeling, graphics, and vision. Topics range from projective geometry to differential geometry of curves and surfaces.",
+        "available": "Spring",
+        "cu": "1",
+        "prereq": "",
+        "syllabus": ""
+      },
+      {
+        "id": "cis 6200",
+        "name": "Advanced Topics in Machine Learning",
+        "description": "Covers advanced machine learning topics including statistical learning theory, approximate inference, structured prediction, and online learning. Topics may vary with each offering.",
+        "available": "Fall",
+        "cu": "1",
+        "prereq": "CIS 5200",
+        "syllabus": ""
+      },
+      {
+        "id": "cis 6250",
+        "name": "Theory of Machine Learning",
+        "description": "Introduces the algorithmic, complexity-theoretic, and statistical foundations of modern machine learning, targeting researchers and students in AI and theoretical computer science.",
+        "available": "Fall or Spring",
+        "cu": "1",
+        "prereq": "",
+        "syllabus": ""
+      },
+      {
+        "id": "cis 6300",
+        "name": "Advanced Topics in Natural Language Processing",
+        "description": "Explores advanced NLP topics—such as natural language generation, question-answering, information extraction, and computational lexical semantics—with topics varying by offering.",
+        "available": "Fall or Spring",
+        "cu": "1",
+        "prereq": "CIS 5300",
+        "syllabus": ""
+      },
+      {
+        "id": "cis 6400",
+        "name": "Advanced Topics in Software Systems: Data Driven IoT/Edge Computing",
+        "description": "Examines emerging paradigms in IoT/Edge computing and the development of data-driven applications for domains such as connected health and automotive systems. Includes a significant term project.",
+        "available": "Spring",
+        "cu": "1",
+        "prereq": "(CIS 5450 OR CIS 5190) AND (CIS 5050 or CIS 5410)",
+        "syllabus": ""
+      },
+      {
+        "id": "cis 6500",
+        "name": "Advanced Topics in Databases",
+        "description": "Covers advanced topics in databases including distributed systems, integrity constraints, concurrency control, and the interface between programming languages and databases.",
+        "available": "Fall",
+        "cu": "1",
+        "prereq": "CIS 5500 or CIS 4500",
+        "syllabus": ""
+      },
+      {
+        "id": "cis 6600",
+        "name": "Advanced Topics in Computer Graphics and Animation",
+        "description": "Reviews state-of-the-art research in computer graphics and animation and involves developing a graphics/animation authoring tool through primers, presentations, and a group project.",
+        "available": "Spring",
+        "cu": "1",
+        "prereq": "CIS 5600",
+        "syllabus": ""
+      },
+      {
+        "id": "cis 6700",
+        "name": "Advanced Topics in Programming Languages",
+        "description": "Covers theoretical topics in programming languages including semantics, domain theory, lambda calculus, type theory, and concurrency models. Requires a high degree of mathematical sophistication.",
+        "available": "Fall or Spring",
+        "cu": "1",
+        "prereq": "CIS 5000",
+        "syllabus": ""
+      },
+      {
+        "id": "cis 6730",
+        "name": "Computer-Aided Verification",
+        "description": "Introduces formal methods for the design and analysis of concurrent and embedded systems, covering logical and automata-theoretic concepts along with verification algorithms and techniques.",
+        "available": "Fall or Spring",
+        "cu": "1",
+        "prereq": "Background in algorithms, data structures, automata theory, propositional logic, operating systems, and communication protocols",
+        "syllabus": ""
+      },
+      {
+        "id": "cis 6770",
+        "name": "Advanced Topics in Algorithms and Complexity",
+        "description": "Explores advanced aspects of discrete algorithms including graph-theoretic algorithms, randomization, dynamic graphs, and approximation algorithms, with topics tailored to student interests.",
+        "available": "Fall",
+        "cu": "1",
+        "prereq": "Consent of the instructor",
+        "syllabus": ""
+      },
+      {
+        "id": "cis 6800",
+        "name": "Advanced Topics in Machine Perception",
+        "description": "A graduate seminar covering advanced topics in machine perception as applied to robotics and human perception modeling. Requires background in machine perception or image processing and proficiency in Unix/C programming.",
+        "available": "Spring",
+        "cu": "1",
+        "prereq": "Background in machine perception/image processing and Unix/C programming",
+        "syllabus": ""
+      },
+      {
+        "id": "cis 6820",
+        "name": "Friendly Logics",
+        "description": "Examines the tradeoff between expressiveness and algorithmic tractability in logical formalisms, including database constraint, temporal, and description logics, and their connections to verification and AI.",
+        "available": "Fall or Spring",
+        "cu": "1",
+        "prereq": "",
+        "syllabus": ""
+      },
+      {
+        "id": "cis 7000",
+        "name": "Special Topics",
+        "description": "One-time course offerings of special interest at the CIS 5XX level.",
+        "available": "Not Offered Every Year",
+        "cu": "1",
+        "prereq": "",
+        "syllabus": ""
+      },
+      {
+        "id": "cis 7980",
+        "name": "Explaining Explanation",
+        "description": "Critically examines the various meanings of 'explanation' used in the social sciences and their impact on scientific progress. Includes discussions on causal mechanisms, prediction, and subjective interpretation.",
+        "available": "Fall or Spring",
+        "cu": "1",
+        "prereq": "",
+        "syllabus": "",
+        "alsoOfferedAs": "COMM 8980, OIDD 9530"
+      },
+      {
+        "id": "cis 8000",
+        "name": "PhD Special Topics",
+        "description": "One-time course offerings of special interest at the PhD level, equivalent to a CIS seminar course. Topics vary with each offering.",
+        "available": "Fall or Spring",
+        "cu": "1",
+        "prereq": "",
+        "syllabus": ""
+      },
+      {
+        "id": "cis 8100",
+        "name": "Writing and Speaking with Style",
+        "description": "Trains CIS PhD students to excel in writing and presenting research results.",
+        "available": "Fall or Spring",
+        "cu": "1",
+        "prereq": "",
+        "syllabus": ""
+      },
+      {
+        "id": "cis 8950",
+        "name": "Teaching Practicum",
+        "description": "Provides practical experience for students participating in a teaching practicum.",
+        "available": "Fall or Spring",
+        "cu": "1",
+        "prereq": "",
+        "syllabus": ""
+      },
+      {
+        "id": "cis 8950",
+        "name": "Teaching Practicum",
+        "description": "Provides practical experience for students participating in a teaching practicum.",
+        "available": "Fall or Spring",
+        "cu": "1",
+        "prereq": "",
+        "syllabus": ""
+      },
+      {
+        "id": "cis 8990",
+        "name": "Doctoral Independent Study",
+        "description": "Allows doctoral students to study an advanced subject area through coursework, presentations, and gradable work comparable to CIS 5000/6000, or to explore research options prior to selecting a thesis topic.",
+        "available": "Fall or Spring",
+        "cu": "1-4",
+        "prereq": "",
+        "syllabus": ""
+      },
+      {
+        "id": "cis 9950",
+        "name": "Dissertation",
+        "description": "For Ph.D. candidates working exclusively on dissertation research; no credit or grade is awarded.",
+        "available": "",
+        "cu": "0",
+        "prereq": "",
+        "syllabus": ""
+      },
+      {
+        "id": "cis 9990",
+        "name": "Thesis/Dissertation Research",
+        "description": "For students pursuing advanced research to fulfill Ph.D. dissertation requirements.",
+        "available": "Fall or Spring",
+        "cu": "1-4",
+        "prereq": "",
+        "syllabus": ""
+      }
+    ]                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+            
+  
