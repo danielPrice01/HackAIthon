@@ -1,0 +1,149 @@
+Logistics
+Time: Mon/Wed 10:15am-11:44am
+
+Location: Town 100
+
+Instructors:
+Prof. Dinesh Jayaraman (dineshj@seas.upenn.edu)
+Prof. Mingmin Zhao (mingminz@seas.upenn.edu)
+
+Teaching Assistants:
+We have the following wonderful team of TAs this semester
+(with bios introducing them here)
+
+Tongtong Liu (Head TA) - liufrank@seas.upenn.edu
+Zelong Wang (Head TA) - zew@seas.upenn.edu
+Chandler Cheung - cheungch@seas.upenn.edu
+Deeksha Sethi - deesethi@seas.upenn.edu
+Edward Hu - hued@seas.upenn.edu
+Guangyao Dou - gydou@seas.upenn.edu
+Haorui Li - haoruili@seas.upenn.edu
+Harshwardhan Yadav - hyadav@seas.upenn.edu
+Helen Nguyen - helenvn@seas.upenn.edu
+Jianing Qian - jianingq@seas.upenn.edu
+Jocelyn Gao - joceilyh@seas.upenn.edu
+Wendy Deng - haoyund@sas.upenn.edu
+Daniel Alexander - alexdan@seas.upenn.edu
+Office Hours: We are currently holding the office hours listed below. Please note that the schedule is subject to change. Check Edstem for the latest updates or announcements, as it usually has the most current information.
+
+Name	Time slot	Location
+Prof. Dinesh Jayaraman	Monday 12-1 PM	Levine 401
+Prof. Mingmin Zhao	Thursday 11-12 PM	Levine 503
+Edward Hu	Monday 12-1 PM	Levine 5th floor Bump space
+Wendy Deng	Monday 8-10 PM	Levine 612
+Guangyao Dou	Tuesday 3-5 PM	Levine 3 Bump Space
+Chandler Cheung	Tuesday 5:30-7:30 PM	OHQ
+Deeksha Sethi	Wednesday 9-10 AM	OHQ
+Harshwardhan Yadav	Wednesday 12-2 PM	Levine 6th floor Bump space
+Jianing Qian	Wednesday 2-3 PM	Levine 6th floor Bump space
+Daniel Alexander	Wednesday 2-3 PM	OHQ
+Helen Nguyen	Thursday 12:45-1:45 PM	OHQ
+Tongtong Liu	Thursday 1:30-3 PM	Levine 5th floor bump space
+Haorui Li	Friday 10 AM-12 PM	OHQ
+Jocelyn Gao	Friday 2-3 PM	OHQ
+Deeksha Sethi	Friday 6-8 PM	OHQ
+
+Collaboration policy: You are responsible for knowing Penn's Code of Academic Integrity. In particular, copying solutions from other students or other resources (e.g. the web or from students who have taken the class in previous years) is NOT allowed. Making answers to homeworks or exams available to others either directly or by posting on the web is also NOT allowed. We will not have a sense of humor about violations of this policy!
+
+AI/LLM policy: Modern AI tools (e.g., ChatGPT, Claude, Gemini, etc.) can be of great help in understanding concepts, and we have no concerns about you using them to get alternative explanations for topics. Always dig a bit deeper when learning from an LLM, like following up links to make sure the LLM did not simply make something up. Given that we are trying to teach general, reusable skills -- we expect you to write your homework without help from an LLM or from a classmate. Please note that the exams will be tailored with this in mind (i.e., closed-book exams focusing on the ability to tackle problems) so you should make sure you can solve problems on your own!
+
+Links: We will use Ed Discussion for questions and communication, and GradeScope to submit assignments. Canvas is just the â€œofficialâ€ LMS of the university, but in practice we will not use it very much after the first week. It serves as the hub for Gradescope, Ed Forum etc. All other materials will be posted on the course website. We encourage students to use Google Colab for coding assignments.
+
+Waitlist: We have a very large amount of demand for just a few remaining slots in the class. As such, we are currently only considering students who are graduating this fall and who need to take the course this fall for credit to graduate. In addition, all prerequisites must be satisfied and all waitlist application questions must have been answered correctly, and all decisions are at the discretion of the instructors. Please only reach out to us if you believe you qualify and have not yet heard back.
+
+Attendance: We expect students to attend classes regularly; weekly quizzes designed to make sure students are following course material. However, please do not come to class if you are not feeling well or test positive for Covid-19. We will provide course recordings (on Canvas) and lecture notes (on this website) for students unable to make it to class.
+
+
+Content
+Description: Machine learning has been essential to the success of many recent technologies, including autonomous vehicles, search engines, genomics, automated medical diagnosis, image recognition, and social network analysis. This course will introduce the fundamental concepts and algorithms that enable computers to learn from experience, with an emphasis on their practical application. It will introduce supervised learning (linear and logistic regression, decision trees, neural networks and deep learning, and Bayesian networks), unsupervised learning (clustering and dimensionality reduction), and reinforcement learning.
+
+CIS 4190 vs. 5190: This course has an undergraduate version (CIS 4190) and a graduate version (CIS 5190). The lectures are the same, but you may be evaluated differently on your homeworks and projects; in particular, some homeworks will have components that are mandatory for CIS 5190 but optional for CIS 4190. Importantly, since the two versions have different requirements, you cannot complete the course as CIS 4190 and petition afterwards to have it changed to CIS 5190 for graduate credit.
+
+CIS 5190 vs. 5200: Penn CIS offers two different introductory machine learning courses: CIS 4190/5190 (Applied Machine Learning) and CIS 5200 (Machine Learning). While there is overlap, the former (this course!) emphasizes practical application of existing machine learning methods, whereas the latter emphasizes the statistical foundations and theory of ML. CIS 5190 is NOT a prerequisite for CIS 5200. It makes little sense to take both courses (though taking CIS 4190/5190 and later CIS 5200 is possible).
+
+CIS 5190 vs. 5450: Penn CIS also offers CIS 5450, which offers a holistic view of the data science pipeline, including data wrangling, data visualization, machine learning, and scalable data processing. In contrast, this course focuses primarily on machine learning, covering machine learning algorithms in greater breadth and depth. The two courses can be taken in either order, but students should consider taking CIS 5450 first.
+
+Prerequisites: Introductory probability and statistics, multivariable calculus, and linear algebra are required (HW 0 will test your knowledge of this material). In addition, you are expected to be able to program comfortably in some language. We will use Python throughout the course, and can help you pick it up (primer + office hours). If you are not confident of your coding skills in any language at all, the homework may be very difficult.
+
+Textbook: There is no required textbook, but you can find useful resources here.
+
+
+Grading
+Homework (25%): There will be 5 homework assignments, each containing both a written component and a coding component. The written portion will be submitted via GradeScope; the coding portion will be submitted both via GradeScope and programmatically to an autograder. Detailed instructions will be provided in the assignment.
+
+Project (30%): We will provide more details on the final project shortly.
+
+Mid-term Exams (30%): There will be two Mid-term exams, one in the middle of the semester and one at the end. The exams will be closed-book and will test your understanding of the material covered in the course.
+
+Quizzes (10%): There will be 12 (roughly weekly) quizzes testing basic understanding of the material covered that week; these will be submitted on GradeScope. You will receive full credit if you correctly answer at least 50% of the questions.
+
+Good citizenship points (5%): Everyone has them by default, you can lose them for disruptive behaviors in class/on Ed discussions.
+
+Grading scheme: A+: 90+, A: 85-90, A-: 80-85, B+: 75-80, B: 70-75, B-: 65-70, lower passing grades: 50-65. Grades might be curved, but only upwards. i.e. your grade will only improve.
+
+Late policy: For homework assignments, you will lose 0.5% per late hour (rounded up), with a maximum of 48 late hours per assignment. For example, if you submit HW 1 20 hours late, you lose 10% of points on HW 1 (which is 0.5% of your overall course grade). If you have medical reason for an extension, send both professors a copy of your medical visit report, and we will grant an penalty-free extension (typically 2 days); we will consider other requests on a case-by-case basis.
+
+
+Here’s the list of topics extracted from the schedule:
+
+Lecture 1: Introduction to ML
+
+Lecture 2: Linear Regression Part 1
+
+Lecture 3: Linear Regression Part 2
+
+Lecture 4: Linear Regression Part 3
+
+Lecture 5: Logistic Regression Part 1
+
+Lecture 6: Logistic Regression Part 2
+
+Lecture 7: Neural Networks Part 1
+
+Lecture 8: Neural Networks Part 2
+
+Lecture 9: KNNs and Decision Trees Part 1
+
+Lecture 10: Decision Trees Part 2
+
+Lecture 11: K-Means
+
+Lecture 12: PCA
+
+Midterm 1 Review
+
+Midterm 1
+
+Lecture 13: Convolutional Neural Networks Part 1
+
+Lecture 14: Convolutional Neural Networks Part 2
+
+Lecture 15: Natural Language Processing Part 1
+
+Lecture 16: Natural Language Processing Part 2
+
+Lecture 17: Reinforcement Learning Part 1
+
+Lecture 18: Reinforcement Learning Part 2
+
+Lecture 19: Ensembles Part 1
+
+Lecture 20: Ensembles Part 2
+
+Lecture 21: Recommender Systems and Graph Neural Networks
+
+Lecture 22: Reinforcement Learning Review + Part 3
+
+Lecture 23: Intro to Generative Models
+
+Lecture 24: Ethics
+
+Midterm 2 Review
+
+Midterm 2
+
+
+
+
+
+

@@ -1,0 +1,164 @@
+Course number
+CIS 4210/5210 - Artificial Intelligence
+Prerequisites
+CIS 121 (for undergraduates)
+CIT 594 and CIT 596 (for MCIT students)
+A data structure and algorithms course, plus substantial programming experience (for everyone)
+Instructor
+Chris Callison-Burch
+Discussion Forum
+Ed Discussion
+Time and place
+The class meets on Tuesday/Thursday from noon-1:30pm Eastern.
+In Fall 2022, the course will be in-person in Meyerson B1. You are not obligated to attend in person.
+All lecture materials will be recorded and uploaded for students wishing to participate remotely. We also have pre-recorded lectures available for review.
+The first day of class is Tuesday, August 30, 2022.
+The first day of office hours will be Tuesday, September 6, 2022.
+The final day of lecture will be Thursday, December 8, 2022.
+Midterm 2 will be held in-person on December 15, 2022.
+Masking policy
+You must wear a mask during lectures and exams.
+Office hours (1-on-1 on OHQ.io)_
+Find the full schedule here.
+Instructor’s Group Office Hours (Recorded)
+Thursday 2-4pm Eastern via Zoom
+Weekly Homework Recitation
+Fridays from 8pm-9pm Eastern via Zoom.
+Textbooks
+Required: Artificial Intelligence: A Modern Approach (4th edition) by Russel and Norvig. Note that the 4th edition adds substantial new material over the 3rd edition, so you should buy the 4th edition. You can buy the textbook on Amazon or from the UPenn bookstore, where you can rent the digital version for $40.
+Supplemental: Speech and Language Processing (3rd ed. draft) by Jurafsky and Martin. This textbook is currently free online while the textbook authors are revising it to write their 3rd edition. We will use it in the last third of the course.
+Materials for Extra Credit Assignments
+In addition to the normal homework assignments, we will have a series of optional extra credit assignments that use programmable toy R2D2s. These assignments can be done in groups. Each extra credit homework assignment if worth up to about 1% towards your final grade. The total amount of extra credit earned will be divided among each student in a group (so students in a large group get less extra credit than students in smaller groups to refelct the effort done).
+You can borrow one of the R2D2 robots from us. It must be returned at the end of the semester in good working order, or you will have to pay $100 to replace it.
+Grading
+70% Homework Assignments
+30% Exams and Quizzes
+10% for weekly quizzes (equally weighted)
+10% for midterm 1
+10% for midterm 2
+Up to 3-5% in Optional Extra Credit
+The course is not curved. Your overall score is computed as 0.3 * exam score + 0.7 * homework score. All homeworks are equally weighted. Here is how letter grades are assigned based on your overall score:
+Score	Grade
+≥ 97	A+
+93-97	A
+90-93	A-
+87-90	B+
+83-87	B
+80-83	B-
+75-80	C+
+70-75	C
+65-70	C-
+50-65	D
+below 50	F
+Differences between 4210 and 5210
+There is roughly one homework assignment per week, aside from weeks with exams. Students enrolled in CIS 4210 may skip one HW assignment, or they may discard their lowest scoring HW assignment. You do not get late days back on the homework that you discard. Students enrolled in CIS 5210 must complete all HW assignments and cannot discard their lowest scoring assignment. If you are an undergraduate who is considering submatriculating into the master’s program then you should enroll in CIS 5210.
+Collaboration Policy
+Quizzes and exams must be completed on your own without help from others. For quizzes or exams that are open notes or allow a “cheatsheet”, you must create the notes yourself and not use anyone else’s notes. Since exams are sometimes administered on different days, you should not discuss the exam with anyone else in the course until after the scores have been released.
+Unless otherwise noted, you are not allowed to work in groups on the homework assignments. You can discuss homework problems with others (you must explicitly list who you discussed problems with on each homework submission), but all code must be your own independent work. You are not allowed to upload your code to publicly accessible places (like public github repositories), and you are not allowed to access anyone else’s code. If you discover someone else’s code online, please report it to the course staff via a private note on Piazza.
+Late Day Policy
+Each student has 5 free “late days”. Homeworks can be submitted at most two days late. If you are out of late days, then you will not be able to get credit for subsequent late assignments. One “day” is defined as anytime between 1 second and 24 hours after the homework deadline. The intent of the late day policy it to allow you to take extra time due to unforseen circumstances like illnesses or family emergencies, and for forseeable interruptions like on campus interviewing and religious holidays. You do not need to ask permission to use your late days. No additional late days are granted.
+
+
+
+
+Here's a concise list of the topics extracted from the schedule:
+
+Start of Module 2 – Intro to Python
+
+Python Bootcamp – part 1
+
+Recitation on Debugging and Profiling Python
+
+Python Bootcamp – part 2
+
+Rational Agents and Task Environments
+
+Start of Module 3 – Search Problems
+
+Search Problems and Uniformed Search Algorithms
+
+Start of Module 4 – Informed Search
+
+Uniform Cost Search, Informed Search, A* Search
+
+A* Search Wrap-Up and Games
+
+Recitation on HW2 – Uninformed Search
+
+Start of Module 5 – Games and Adversarial Search
+
+Adversarial Search
+
+Recitation on HW3 – Informed Search
+
+Start of Module 6 – Constraint Satisfaction Problems
+
+Constraint Satisfaction Problems
+
+Constraint Satisfaction Problems – part 2
+
+Recitation on HW4 – Adversarial Search
+
+Start of Module 7 – Logical Agents
+
+Logical Agents
+
+Logical Agents – part 2
+
+Start of Module 8 – Markov Decision Process
+
+Markov Decision Processes (MDPs)
+
+MDPs – part 2
+
+Midterm 1
+
+Start of Module 9 – Reinforcement Learning
+
+Utilities and Reinforcement Learning
+
+Reinforcement Learning Part 2
+
+Recitation on HW6 – MDPs
+
+Start of Module 10 – Probabilities and Language Models
+
+Probabilities and Language Models
+
+Language Models and Independence
+
+Recitation on HW7 – Reinforcement Learning
+
+Start of Module 11 – Probabilistic Reasoning and Bayes’ Nets
+
+Bayes Nets
+
+Recitation on HW8 – Language Models
+
+Start of Module 12 – Naive Bayes and Perceptrons
+
+Bayes Nets Wrapup and Machine Learning
+
+Perceptrons
+
+Recitation on HW9 – Perceptrons
+
+Start of Module 13 – Neural Networks
+
+Logistic Regression
+
+Neural Networks
+
+Start of Module 14 – Natural Language Processing
+
+Natural Language Processing (NLP)
+
+NLP Part 2 and Ethics in AI
+
+Recitation on HW10 – Large Language Models
+
+
+
+
+
+

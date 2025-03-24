@@ -1,0 +1,138 @@
+Logistics
+Instructor: Prof. Zachary Ives, office hours Thursday 11:30am - 12:30pm
+
+Your fantastic TAs: Ben Chan (Head TA), Aashvi Manakiwala (Head TA), Arjun Arasappan, Binbin Chen, Edmund Doerksen, Sisley Duan, Via Liu, Arush Mehrotra, Grace Chanya Thanglerdsumpan,  Aashika Vishwanath, Vivian Xiao
+
+Classroom: Wu and Chen Auditorium, 101 Levine.  Lectures will be recorded, but in-person attendance is expected.
+
+Lectures will be Tuesday & Thursday, 1:45pm - 3:15pm.
+
+Additional "lab session" videos will provide hands-on experiences.
+
+Course Description
+In the era of big data, we are increasingly faced with the challenges of converting massive amounts of data to actionable knowledge. Given the limits of individual machines (compute power, memory, bandwidth), increasingly the solution is to clean, integrate, and process the data using statistical machine learning techniques, in parallel on many machines. This course focuses on the fundamentals of scaling computation to handle common data analytics tasks. You will learn about basic tasks in collecting, wrangling, and structuring data; programming models for performing certain kinds of computation in a scalable way across many compute nodes; common approaches to converting algorithms to such programming models; standard toolkits for data analysis consisting of a wide variety of primitives; and popular distributed frameworks for analytics tasks such as filtering, graph analysis, clustering, and classification.
+
+Prerequisites
+CIS 1200 (or equivalent) is required.  Basic familiarity with Python is expected.  We have some learning resources about Python for Java programmers.
+
+Grading
+The grade breakdown will be as follows:  
+
+homeworks (5-6 expected) 40%,
+
+term project 20%,
+
+midterm 15%,
+
+final exam (2nd midterm) 15%,
+
+quizzes and exercises (1 week deadline from lecture!) 8%,
+
+participation (participating in person, posting to Ed) combine to make 2%.
+
+Late Days:
+Students can submit homework assignments (including HW0 but not the term project), up to 48 hours late cumulatively, with no penalty.  In other words, split across all homeworks, you have 48 late hours. If you exceed those 48 hours, a penalty of -1% per hour will be applied to that HW. Please note that we will be rounding up (e.g. Gradescope will count a submission that is even 1 minute late as using up 1 late hour)
+
+Collaboration Policy:
+You are responsible for knowing Penn's Code of Academic Integrity.  In particular, copying solutions from other students or other resources (e.g. the Web or from students who have taken the class in previous years) is NOT allowed.  While you can verbally discuss high level ideas and discuss concepts, you are NOT allowed to share code with each other. Needless to say, making answers to homework assignments or exams available to others either directly or by posting on the web is NOT allowed.
+
+We will not have a sense of humor about violations of this policy! 
+
+AI/Large Language Model (LLM) Policy:
+Modern AI tools can be of great help in understanding concepts, and we have no concerns about you using ChatGPT, Bard, etc. to get alternative explanations for topics.  However -- given that we are trying to teach general, reusable skills: we expect you to write your code without help from an LLM or from a classmate.  Please note that the exams will be tailored with this in mind (not focused on syntactic details, but on the ability to tackle problems, including those that appear in the homework) so you should make sure you can solve problems on your own without AI help!
+
+Readings and Resources
+Colab (for homeworks; you'll need a Google@SEAS or GMail ID)
+
+Ed Discussion (questions, discussion)
+
+Canvas (for access to the lecture recordings, which will be linked below)
+
+Gradescope (for homework submission and exams; you'll be auto-added to this via Canvas)
+
+OHQ (for less frustrating office hour queuing)
+
+Please contact your staff in case of any trouble accessing these resources!
+
+Readings:
+We recommend several supplementary books for students of different skill levels..
+
+Python for Data Analysis, by McKinney, from O'Reilly.  An online version is accessible via the Penn libraries.
+
+Python Machine Learning, 3rd edition by Raschka, from Packt. Again, an online version of this book is also accessible via the Penn libraries.
+
+If you are new to Python and data science, you may find the UC Berkeley free book The Foundations of Data Science useful.
+
+Here's a streamlined list of topics from the CIS 2450 Fall 2024 schedule:
+
+Introduction to Big Data Analytics
+
+Data Acquisition, Wrangling, and Data from the Web
+
+Python Review and Getting Started with Colab
+
+Combining DataFrames with Queries
+
+Data Cleaning & Record Linking
+
+Data Acquisition Ethics; NLP and Information Extraction I
+
+NLP and Information Extraction II
+
+Logically Modeling Concepts and Data
+
+Hierarchical Data and Efficient Computation
+
+Extracting Information from Documents and Synthetic Data Generation
+
+Efficiently Computing over Data (Advanced SQL and Debugging)
+
+Cloud and Cluster Data Processing
+
+Big Data and the Cloud; Graph Data
+
+Big Graph Data and Link Analysis
+
+Data Visualization
+
+Spark and Data Visualization
+
+Dashboards and Statistical Tests
+
+Principal Components Analysis
+
+Clustering
+
+Classification
+
+Regression
+
+Logistic Regression and Model Tuning
+
+Building Better ML Models
+
+Neural Networks
+
+Neural Networks for Images
+
+Neural Nets with PyTorch
+
+Analyzing Time-Varying Data
+
+Declarative Data Stream Processing
+
+Tuple-Level Stream Processing
+
+Transformers and Time-Varying Data
+
+Machine Learning Operations / Course Review
+
+Final Examinations
+
+Final Examination
+
+
+
+
+
+

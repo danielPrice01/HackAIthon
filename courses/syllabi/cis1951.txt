@@ -1,0 +1,107 @@
+Syllabus
+Course Structure
+Lectures: Once a week, 1.5 hours each.
+Assignments: 5 homework assignments, and 1 team final project.
+Attendance Policy
+You are allowed 2 free absences before deductions are made.
+If for some reason you cannot make a lecture for a week, you may join the other section for full attendance.
+You do not have to ask us beforehand for permission.
+If you are unable to attend class due to a health-related reason or family emergency, please let us know on Ed.
+Late Policy
+You will be given 10 late days throughout the semester.
+A maximum of 5 can be used on a single assignment.
+Late days cannot be used on the final project.
+Late days are automatically applied. You do not have to let us know beforehand.
+Any late submissions made outside this policy will receive a 0%, unless an exception applies.
+If you are unable to submit an assignment due to a health-related reason or family emergency, please let us know on Ed.
+AI Policy
+You may use ChatGPT or other generative AI tools, but we advise against relying on them.
+AI-based tools are usually outdated on iOS development practices - oftentimes, ChatGPT will give you way more code (both in terms of quantity and complexity) than you actually need to implement.
+We suggest starting and writing up the code structure on your own, and then potentially using ChatGPT to fill in the blanks.
+Relying on AI from the start may lead to UI and logic bugs that are difficult to debug later down the line.
+At the very least, make sure to understand every line you write.
+Grading
+Attendance and Participation: 10%
+Homework Assignments: 60%
+HW0: 20 points
+HW1-4: 100 points each
+Final Project: 30%
+Topics Covered
+For a weekly schedule, consult the schedule page.
+
+Week 1: Introduction to iOS Development and Xcode
+Overview of the iOS platform and its evolution.`
+Installing Xcode and understanding its interface.
+Creating a simple "Hello, World!" app in Xcode.
+Introduction to the Swift Playgrounds for experimenting with Swift code.
+Week 2: Swift Basics
+Swift language fundamentals: variables, constants, data types.
+Control Flow: if-else statements, loops, switch cases.
+Functions: declaration, parameters, return types.
+Structs, classes, and protocols.
+Basic error handling in Swift.
+Week 3: SwiftUI Fundamentals
+Introduction to SwiftUI and its declarative syntax.
+Building basic user interfaces: Text, Image, Button.
+Understanding the SwiftUI layout system: VStack, HStack, ZStack.
+Modifiers: applying basic modifiers to SwiftUI views.
+Lists and scrolling views.
+Sidebar: Debugging tools in Xcode: breakpoints, console, and debugging commands.
+Week 4: SwiftUI State Management
+View hierarchy in SwiftUI.
+Data passing and state management in views.
+Property wrappers in SwiftUI: @State, @Binding, @ObservedObject, @StateObject, @EnvironmentObject.
+Building forms and handling user input: Button, TextField, .onChange.
+Basic animations and transitions in SwiftUI.
+Week 5: App Lifecycle and Structure
+Lifecycle events: onAppear, onDisappear.
+Navigation in SwiftUI: NavigationStack, NavigationLink. TabView.
+MVVM (model–view–viewmodel) architecture.
+Modal presentations: .sheet, .alert.
+Week 6: Custom Views & Event Handling
+GeometryReader, safe area.
+SwiftUI shapes, .fill/.stroke.
+Understanding event propagation and handling in iOS.
+Keyboard handling and text input events.
+Custom gesture recognition in SwiftUI.
+Week 7: Working with Sensors
+Accessing device sensors: GPS, accelerometer, gyroscope.
+Using Core Motion to access motion data.
+Handling location data with Core Location.
+Practical use cases of sensor data in apps.
+Week 8: Networking in iOS
+Making HTTP requests and handling responses (async/await).
+Working with URLSession for network tasks.
+Parsing JSON data and integrating it into the app.
+Error handling and network best practices.
+Week 9: Data Persistence
+Introduction to UserDefaults for simple data storage.
+Using Core Data for complex data models and persistent storage.
+CRUD operations in Core Data.
+File management: reading and writing files on the device.
+Other data storages: Keychain, SwiftData
+Week 10: UIKit & UIKit Integration with SwiftUI
+UIKit basics: MVC architecture in iOS.
+Integrating UIKit in SwiftUI: using UIViewRepresentable.
+User interaction in UIKit: event and input management.
+Combining UIKit & SwiftUI: navigation and data sharing strategies.
+Week 11: App Design and User Experience
+The UI design process: steps toward a UI from scratch.
+Design principles for mobile apps: clarity, efficiency, consistency.
+Multi-platform and OS version compatibility: adapting to different devices.
+Accessibility in iOS: making apps accessible to all users.
+Week 12: Bonus Lecture (TBD)
+Potential Topics:
+
+Advanced UI/UX Design Concepts (Animations, Transitions, AR/voice-based Interfaces)
+Integrating Machine Learning with Core ML
+Augmented Reality with ARKit
+Designing Home Screen Widgets with WidgetKit
+Apple Watch and Wearable Integration
+Internet of Things (IoT) and HomeKit
+…
+Final Project
+Duration: See the Schedule page.
+Team Composition: 3 students per team.
+Objective: Develop a fully functional and creative iOS app.
+Presentation: Demonstrate the app and discuss design and development challenges.

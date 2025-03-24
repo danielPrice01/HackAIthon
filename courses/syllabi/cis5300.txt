@@ -1,0 +1,109 @@
+This course provides an introductory overview of the field of natural language processing. The goal of the field is to build technologies that will allow machines to understand human langauges. Applications include machine translation, automatic summarization, question answering systems, and dialog systems.
+
+Prerequisits: You should be comfortable with linear alegbra and probability. Previous machine learning expierence is strongly recommended, although not strictly required.
+
+You do not need to email the instructor to receive a permit, instead you should sign yourself up for the waitlist After you’ve added yourself to the waitlist, the instructor can issue you a permit. You will receive an email saying permit available. You will receive another email when the permit is issued. At that point, you may register on CoursesInTouch. We are not currently issueing more permits unless students drop the course.
+
+Homework 4 - Finetuning BERT has been released. –> It is due before 11:59PM on Monday, November 6, 2023.
+Homework 5 - Prompting has been released. –> It is due before 11:59PM on Monday, November 20, 2023.
+The Term Project has been released. –> The assignment has multiple deliverables.
+Course number
+CIS 5300 - Natural Language Processing
+Instructor
+Mark Yatskar
+Discussion Forum
+Ed
+TAs will be actively watching and responding to posts Monday-Friday.
+Please feel free to respond to posts as well.
+If you are posting code on piazza to get help from TAs, you must follow our code posting policy
+Time and place
+Fall 2023, Monday, Wednesday, 3:30-5:00pm DRLB A1.
+Lectures will be recorded and posted on Canvas.
+First day of class is August 30, 2023
+Last day of class is December 11, 2023
+TAs
+Yifei Li, Yufei Wang, Monda Ghandi, Yu Feng, Alyssa Nie, Runsheng Huang
+Office hours
+in-person, starting September 5. Times and locations posted on ED
+Textbooks
+Both textbooks are available for free on the web.
+Speech and Language Processing (3rd edition draft) by Dan Jurafsky and James H. Martin
+Natural Language Processing by Jacob Eisenstein
+The course will have weekly required readings.
+Grading
+The grading for the course will consist of:
+40% for Homework 1,3,4,5 weighted equally, done in pairs
+15% for Homework 2 weighted equally, done in pairs
+15% for 11 Quizzes, roughly weekly, weighted equally, done individually on GradeScope
+30% for the final project, done in a group of four.
+The class is not curved. Your grade will be determined as (total regular points + extra credit points) / (total regular points) using standard grade ranges.
+
+Collaboration Policy
+Unless otherwise noted, you should work in pairs on the homework assignments. Both partners will receive the same grade. The final projects will have be done in groups of 4. Quizes must be done individually.
+Late Day Policy
+Each student has six free “late days,” applicable to homework or quizes. Assigments can be submitted at most three days late. If you are out of late days, then you will not be able to get credit for subsequent late assignments. One “day” is defined as anytime between 1 second and 24 hours after the homework deadline. The intent of the late day policy it to allow you to take extra time due to unforseen circumstances like illnesses. You do not need to ask permission to use your late days. Unused late days cannot be used as extra credit at the end of the semester.
+
+
+Below is a list of topics only:
+
+Course Introduction
+
+Text Classification and Sentiment Analysis
+
+Word Sense, Log-linear Model, and Perceptron
+
+N-gram Language Modeling
+
+Part of Speech Tagging with Hidden Markov Models
+
+POS Tagging and Dependency Parsing
+
+Vector Spaces and Neural Word Vectors
+
+Neural Word Vectors and Applications
+
+Introduction to Neural Networks
+
+Neural Nets and Early Neural Network Language Models
+
+Recurrent Language Models
+
+Sequence-to-Sequence Models and Attention
+
+Attention and Neural Machine Translation
+
+Transformers and Contextualized Embeddings
+
+Finetuning and Other LLMs (GPT, BART, T5)
+
+GPT-3 and Scaling Laws
+
+Prompting, Zero-shot, and In-context Learning
+
+Efficiency in LLMs
+
+Fine Tuning LLMs
+
+Information Extraction and Semantic Role Labeling
+
+Coreference Resolution
+
+Question Answering
+
+Multimodality
+
+Generation
+
+Interpretability
+
+Gender Bias in NLP
+
+Guest Lecture
+
+Wrap Up and Final Thoughts
+
+
+
+
+
+

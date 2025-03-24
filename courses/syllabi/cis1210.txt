@@ -1,0 +1,234 @@
+Grading:
+The grading for the course will tentatively consist of:
+
+24% - Homework Assignments
+22% - Midterm 1 Exam
+22% - Midterm 2 Exam
+27% - Final Exam
+5% - Lecture Quizzes, Recitation Attendance, Feedback/Surveys
+The professor reserves the right to adjust grading policies. Any cheating or violations of the collaboration policy will result in severe penalties to your grade, and may be escalated further.
+
+You will be guaranteed a passing grade in the course if you meet all of the following conditions at the end of the semester:
+
+Your average score on programming homeworks is greater than or equal to 40%
+Your cumulative exam score is greater than or equal to 1.5 standard deviations below the course average cumulative exam score
+If you do not meet these conditions, you will not necessarily fail the course; however, there is no guarantee that you will pass. Professor Rajiv, or the TAs will not be able to answer questions like “do I have a passing grade?” or “what score do I need on the final exam to pass?” at any point throughout the course. It is very unlikely that we will further deviate from the above criteria.
+
+Late submission policy:
+The following applies to all homeworks, both written and programming, unless otherwise specified. We will give you 2 free late days to use during the semester. This policy is meant to account for sickness and any other circumstances that may arise during the semester. To use your late days fill out the coresponding form for that homework on Ed. You can use a maximum of 2 late days on an assignment. All submissions must be withen 48 hours of the deadline and there is no limit to the number of assignments submited late. If you use up your 2 free late days, submissions within the first day after the deadline will be penalized 10%, and submissions within the second day after the deadline will be penalized 20%. Additionally, late days and deductions cannot compound. i.e. you cannot submit 3 days late.
+With the above late policy in mind we will not grant aditional extensions past the allotted 2 late days.
+
+In the case of extreme circumstances, please contact us at cis1210@seas.upenn.edu! Please also check out the Resources tab.
+
+A word of advice:
+We highly recommend using Overleaf for typing up written homeworks. This way if your computer crashes, you won’t lose all your hard work. For programming homeworks, we recommend backing up your computer regularly (Google, Microsoft OneDrive, etc. provide tools for automatically backing up your computer at scheduled intervals, or you can do this manually). You can also use GitHub, though make sure you only use private repos.
+
+Collaboration policy for written homeworks:
+You are allowed to discuss ideas for solving homework problems in groups of three, documenting who you discussed with at the top of your assignment. These students must also list you as a collaborator. The composition of your team may change from one homework to another. You are not allowed to write up the solutions together.
+
+It is fine to discuss the topics covered in the homeworks, to discuss approaches to problems, and to sketch out general solutions. However, you MUST write up the homework answers and solutions individually. You are not permitted to share specific solutions, mathematical results, etc.
+Our suggestion is to discuss the problems together, but if you made any notes or worked out something on a white board with another person while you were discussing the homework, then erase or destroy those notes as soon as the discussion is over. You shouldn’t use those notes while writing up your answer, however tempted you may be to do so. This will force you to write up the solutions yourself and to make sure that you genuinely and fully understand them.
+Any violation of the collaboration policy will be dealt with severely.
+
+Collaboration policy for programming homeworks:
+You are allowed to discuss low-level issues like the meaning of Java constructs, or how to use the computing environment. You are allowed to discuss high-level questions such as what the instructor/lab TA said, the content of the textbook or other general resources. At no time – prior to submitting an assignment, after submitting an assignment, or after the course has ended – are you allowed to…
+
+Discuss issues directly pertaining to the homework questions or their solutions.
+See another student’s homework solutions.
+Show your solutions to another student.
+This includes asking a classmate to debug your code and agreeing to debug a classmate’s code. If you do this in view of a TA, know that the TAs are required to report your names to the instructor.
+Share any code except the code that is being made available by us on the course website to be used specifically with your solutions
+Occasionally, a small snippet of code from the textbook may help your work. You can use such a snippet with attribution, i.e., provided you add a comment in which you make clear you copied it from the textbook.
+You may NOT use snippets of code from the Internet (e.g., StackOverflow.com and similar).
+You may NOT share test cases.
+Post your code where it may be accessible to others. This is largely a clarification of the previous rule. This means that you may NOT seek help from online forums, like StackOverflow or similar. You may NOT push your code to a public repository like GitHub (private repositories, however, are permitted. Note that if you use a private repo, you must keep it private, even after the course ends). When in doubt, ask on Ed Discussion.
+Share the material that we post for this course with anybody who is not a registered student in this course or a staff member.
+If you find any such material already posted somewhere else you must inform the course staff immediately. Use your common sense and ask any member of the staff if you are not sure about a resource you are considering.
+You may NOT share course materials without the prior approval of the course staff. You may NOT post course materials on sites such as CourseHero. This infringes upon the copyright of materials authored by the course staff.
+Please keep your code and written solutions in a safe location. Do not leave your computer vulnerable for other students to copy from without your knowledge. If your solutions is flagged with another student you will both be held accountable regardless of if you knew they copied or not.
+Any violation of the collaboration policy will be dealt with severely.
+
+Regrade policy for written homeworks and exams:
+Each written assignment and each midterm exam will have a regrade request deadline that will be posted typically one week after the assignment or exam has been returned with your score. Beyond that deadline, regrades can only be given by permission of the instructor. Regrade requests are meant for cases such as arithmetic mistakes in tabulating a final score, or for a grader not seeing that you continued your solution on the back of the page (as an example). In the interest of transparency, the course staff makes its best effort to indicate exactly where points are docked with the associated reasons. For the written assignments, solutions will be provided. For the midterms, solutions will be presented in class (lecture or recitation). Please consult these carefully before requesting a regrade. Please submit a regrade request via Gradescope by the regrade deadline.
+
+Please note that we regrade the entire submission, so it’s possible for your score to go both up and down.
+
+Regrade policy for programming homeworks:
+Regrade requests will only be accepted when they are a result of our mistake. For submissions where the autograder caught the error, we will not accept any regrade requests.
+
+
+Table of Contents:
+
+1 Review of Terms, Proofs, and Probability 1
+1.1 Review of Proofs and Proof Techniques . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+Induction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+1.2 Graphs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+Trees . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Eulerian and Hamiltonian Graphs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+1.3 Probability . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+1.4 Linearity of Expectation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+1.5 Probability Distributions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+The Geometric Distribution . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Binomial Distributions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Examples . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+2 Gale-Shapley Stable Matching 15
+2.1 Background and Intuition . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+2.2 Formulating the Problem . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+2.3 Examples . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+2.4 Designing an Algorithm . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+2.5 Runtime of the GS Algorithm . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+2.6 Correctness of the GS Algorithm . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+2.7 Extensions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+3 Greatest Common Divisor 24
+3.1 Definitions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+3.2 Calculating the GCD . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+3.3 Correctness of Euclid’s Algorithm . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+3.4 Runtime of Euclid’s Algorithm . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+4 Insertion Sort 29
+4.1 Insertion Sort . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+4.2 Correctness of Insertion Sort . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+4.3 Running Time of Insertion Sort . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+5 Running Time and Growth Functions 32
+5.1 Measuring Running Time of Algorithms . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+5.2 RAM Model of Computation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+5.3 Average Case and Worst Case . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+5.4 Order of Growth . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
+Definitions of Asymptotic Notations – O, Ω, Θ, o, ω . . . . . . . . . . . . . . . . . . . . . . . . 33
+5.5 Properties of Asymptotic Growth Functions . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+6 Analyzing Runtime of Code Snippets 38
+7 Divide & Conquer and Recurrence Relations 41
+7.1 Computing Powers of Two . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41
+7.2 Linear Search and Binary Search . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43
+7.3 MergeSort . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43
+7.4 More Recurrence Practice . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 46
+7.5 Simplified Master Theorem . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 48
+8 Quicksort 49
+8.1 Deterministic Quicksort . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 49
+8.2 Randomized Quicksort . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 50
+9 Counting Inversions 52
+9.1 Introduction and Problem Description . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 52
+9.2 Designing an Algorithm . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 53
+9.3 Runtime . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 55
+10 Selection Problem 56
+10.1 Introduction to Problem . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 56
+10.2 Selection in Worst-Case Linear Time . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 56
+11 Closest Pair 59
+11.1 Closest Pair . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 59
+11.2 Divide and Conquer Algorithm . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 60
+11.3 Closest Pair Between the Sets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 61
+12 Integer Multiplication 63
+12.1 Introduction and Problem Statement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 63
+12.2 Designing the Algorithm . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 63
+12.3 Runtime . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 65
+13 Stacks and Queues 66
+13.1 The Stack ADT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 66
+13.2 Queues . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 69
+14 Binary Heaps and Heapsort 70
+14.1 Definitions and Implementation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 70
+14.2 Maintaining the Heap Property . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 71
+14.3 Building a Heap . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 72
+Correctness . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 73
+Runtime . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 73
+14.4 Heapsort . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 75
+14.5 Priority Queues . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 75
+15 Huffman Coding 79
+15.1 From Text to Bits . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 79
+15.2 Variable-Length Encoding Schemes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 79
+Prefix Codes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 80
+Optimal Prefix Codes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 80
+15.3 Huffman Encoding . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 81
+Binary Trees and Prefix Codes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 81
+Huffman’s Algorithm . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 84
+Designing the Algorithm . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 85
+Correctness of Huffman’s Algorithm . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 86
+Running Time . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 87
+15.4 Extensions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 88
+16 Graph Traversals: BFS and DFS 90
+16.1 Graphs and Graph Representations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 90
+Graph Representations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 90
+16.2 Connectivity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 91
+16.3 Breadth-First Search (BFS) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 91
+BFS Properties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 93
+Runtime of BFS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 94
+16.4 Depth-First Search (DFS) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 94
+Runtime of DFS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 96
+DFS Properties and Extensions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 97
+Classifying Edges . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 99
+17 Application of BFS: Bipartiteness 101
+17.1 Definitions and Properties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 101
+17.2 Algorithm . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 101
+17.3 Analysis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 101
+18 DAGs and Topological Sorting 103
+18.1 DAGs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 103
+18.2 Topological Sorting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 103
+18.3 Kahn’s Algorithm . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 104
+18.4 Tarjan’s Algorithm . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 106
+19 Strongly Connected Components 107
+19.1 Introduction and Definitions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 107
+19.2 Kosaraju’s Algorithm . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 109
+Proof of Correctness . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 109
+20 Shortest Path 112
+20.1 The Shortest Path Problem . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 112
+20.2 Dijkstra’s Algorithm . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 112
+Analyzing the Algorithm . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 113
+Implementation and Running Time . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 115
+20.3 Shortest Path in DAGs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 115
+21 Minimum Spanning Trees 118
+21.1 Introduction and Background . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 118
+21.2 MST Algorithms . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 119
+Prim’s Algorithm . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 119
+Kruskal’s Algorithm . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 120
+Reverse-Delete . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 121
+21.3 Correctness of Prim’s, Kruskal’s, and Reverse-Delete . . . . . . . . . . . . . . . . . . . . . . . 122
+Prim’s Algorithm: Correctness . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 124
+Kruskal’s Algorithm: Correctness . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 124
+Reverse-Delete Algorithm: Correctness . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 124
+21.4 Eliminating the Assumption that All Edge Weights are Distinct . . . . . . . . . . . . . . . . . 124
+22 Union Find 126
+22.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 126
+22.2 Union by Rank . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 126
+22.3 Path Compression . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 129
+23 Hashing 132
+23.1 Direct-Address Tables . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 132
+23.2 Hash Tables . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 133
+Collision Resolution by Chaining . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 134
+Analysis of Hashing with Chaining . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 134
+23.3 Hash Functions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 136
+What makes a good hash function? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 136
+Interpreting Keys as Natural Numbers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 136
+The Division Method . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 137
+The Multiplication Method . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 137
+23.4 Open Addressing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 137
+Linear Probing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 138
+Quadratic Probing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 139
+Double Hashing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 139
+Analysis of Open-Address Hashing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 140
+24 Tries 142
+24.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 142
+24.2 Standard Tries . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 142
+24.3 Compressed Tries . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 144
+24.4 Suffix Tries . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 146
+Saving Space . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 147
+Construction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 147
+Using a Suffix Trie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 147
+25 Balanced BSTs: AVL Trees 148
+25.1 Review: Binary Search Tree . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 148
+25.2 Definition of an AVL Tree . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 148
+25.3 Update Operations: Insertion and Deletion . . . . . . . . . . . . . . . . . . . . . . . . . . . . 150
+Insertion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 150
+Deletion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 153
+Advanced Topics 155
+26 Skip Lists 156
+26.1 Skip Lists . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 156
+26.2 Analysis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 158
+27 Bloom Filters 162
+27.1 Bloom Filters . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 162
+28 Balanced BSTs: Red-Black Trees 164
+28.1 Properties of Red-Black Trees . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 164
+29 Minimum Cut 166
+29.1 The Minimum Cut Problem . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 166
+29.2 A Randomized Approach . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 166
+29.3 Probabilistic Analysis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 167
+30 2-SAT 169
+30.1 Introduction to the 2-SAT Problem . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 169
+30.2 Randomized 2-SAT Algorithm . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 169

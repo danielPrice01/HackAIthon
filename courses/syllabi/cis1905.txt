@@ -1,0 +1,95 @@
+Syllabus
+Contacting Course Staff and Course Announcements
+You're expected to follow announcements on the course's EdStem. Ed is useful for a variety of topics, ranging from lecture clarifications, to project help, to questions that go beyond what was covered in class. Please default to posting publicly unless you have a good reason not to (for example, if you are posting code that you have written for a project).
+
+Please direct all course staff contact through EdStem unless you have a reason not to. This will guarantee you get the quickest response.
+
+Assignments/Exams
+This course consists of a number of programming assignments and a final project. There will not be any exams.
+
+Post-Lecture Quizzes
+Post-lecture quizzes (PLQs) are due by 11:59 PM on the Wednesday following the lecture. 3/5 credit is given for completion, and 2/5 credit for correctness. The link will be posted on the course website after lecture is completed.
+
+Anonymous Submissions
+All programming assignment submissions should be anonymous. Maintaining anonymity helps reduce bias in grading and evaluation. From your perspective as a student, anonymity is generally taken care of by Gradescope, but you should take care to not include any identifying information (name, email, PennKey, etc.) in the source code or configuration files that you submit.
+
+Deadlines
+Turning in programming assignments on time helps course staff get grades back promptly and helps you stay up-to-date on material. However, we understand unexpected situations arise. Therefore, each student has five total late days to use across the semester. The following exceptions apply
+
+You may not take more than two late days on one assignment.
+You cannot use late days on the final project.
+To take a late day, simply submit to Gradescope after the deadline. We will automatically note the number of late days used.
+
+You do not need to use late days if you have extenuating circumstances and a Dean's note. Simply contact me when you're able to and a new deadline can be worked out.
+
+Grading
+The grading breakdown is as follows:
+
+Post-lecture quizzes: 10%
+Participation: 10%
+Projects: 40%
+Final Project: 40%
+Course Materials
+The primary textbook for this class is The Rust Programming Language. It is available online for free (find the link on the homepage of this website). Assignments will be completed in Rust, which is available for free for all major operating systems.
+
+Feedback
+Feedback is always appreciated! If you have feedback, please contact the course staff. If you don't feel comfortable contacting us directly, you can also contact the cs19xx course facilitators, Swapneel Sheth and Harry Smith
+
+Collaboration
+All programming assignments in this course are designed to be completed individually. This means you are free to discuss lecture content and concepts with other students, but all the code you submit must be your own work.
+
+The exception to this rule is the final project, in which collaborating with a project group is encouraged.
+
+Usage of AI
+The below language is borrowed (with modification) from cis2400
+
+This isn’t as much a policy as it is advice. For this class, I recommend against using generative AI like ChatGPT or related technologies. I am not denying that ChatGPT can be a useful tool, I am just not convinced it is useful for your growth and learning of the material in this class.
+
+ChatGPT is pretty good at making things sound correct, in ways that can make it hard to discern when it is actually incorrect vs when it is spouting nonsense. (See ChatGPT is a bullshit generator. But it can still be amazingly useful). When you are first learning about a topic, it can be especially hard to determine what is correct and what is “incorrect but articulated in a way that sounds like it is correct”.
+
+There are also issues with how correct GPT is in general. People with more expertise than I on this matter hypothesize that many claims of ChatGPT ability to pass exams and solve coding problems come from the fact that it memorized the solutions enough during training. In other words, ChatGPT is being evaluated on its training data, biasing the results. Tests on questions outside of its training data give a much more negative evaluation of ChatGPT’s abilities to solve problems. As a person, you are likely to encounter many issues that can’t be solved only via internet memorization. See GPT-4 and professional benchmarks: the wrong answer to the wrong question.
+
+I do not claim that ChatGPT is useless by these statements. There are many things it can do, I just doubt their usefulness in this class. We will not ban the usage of ChatGPT or similar tools except for during exams, but we expect you to be able to:
+
+Explain and reason about your code yourself during office hours or for regrade requests.
+All in all, use your best judgement.
+
+Disability Services
+The University of Pennsylvania is committed to the accessibility of its programs and services. Students with a disability or medical condition can request reasonable accommodations through the Weingarten Center website. Disability Services determines accommodations on an individualized basis through an interactive process, including a meeting with the student and a review of their disability documentation. Students who have approved accommodations are encouraged to notify their faculty members and share their accommodation letters at the start of each semester. Students can contact Disability Services by calling 215-573-9235.
+
+Lectures
+Lecture is held on Tuesdays from 3:30-5:00 PM in Towne 337.
+
+Post-lecture quizzes (PLQs) are due by 11:59 PM on the Wednesday following the corresponding lecture. 3/5 credit is given for completion, and 2/5 credit for correctness.
+
+Date	Section	Topic	Book Ch.	PLQ
+8/27	Basics	"Why Rust?" and Rust Basics	3	PLQ 1
+9/3	Basics	Ownership	4	PLQ 2
+9/10	Basics	Structs, Enums, Errors	5,6	PLQ 3
+9/17	Basics	Generics and Traits	10.1, 10.2	PLQ 4
+9/24	Basics	Modules Collections, Iterators [code]	8	PLQ 5
+10/1	Advanced	Lifetimes, Closures [code]	10.3, 13	PLQ 6
+10/8	Advanced	Smart Pointers, Trait Objects	15	PLQ 7
+10/15	Parallel	Shared Memory [code]	16	PLQ 8
+10/22	Parallel	Message Passing [code]	16	PLQ 9
+10/29	Unsafe	Unsafe	19.1	PLQ 10
+11/5		No class (election day)		
+11/12	Parallel	Async Rust	None	
+11/19	Advanced	Guest Lecture: Joe Devietti on interfacing Rust with other languages [code1, code2]	None	
+11/26		No Class (Thursday Schedule)		
+12/3		Final Project Presentations		
+12/10		Reading Period		
+12/17		Final Exams		
+Assignments
+Assignments are due 10pm Eastern Time on Fridays. See the syllabus for information about late submissions.
+
+Title	Due Date
+Project 0: Warmup	9/6
+Project 1: Theseus	9/22
+Project 2: Links	10/8
+Project 3: Ngram	11/8
+Final Project Proposal	11/10
+Final Project	12/3
+Final Project
+The final project is a chance for you to explore a topic of your choosing over a longer time period. Working in groups is encouraged, and every project will be presented to the class during the last lecture. Look out for more information as the semester progresses.
+

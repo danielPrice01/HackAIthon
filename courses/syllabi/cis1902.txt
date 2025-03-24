@@ -1,0 +1,134 @@
+Welcome! Python is a powerful language with both imperative and functional paradigms. As one of the fastest growing languages of all time, Python is widely used across academia and industry. Our goal with this course is to familiarize you with Pythonic coding principles as well as introduce you to the wide use cases of Python and its packages.
+
+Logistics
+
+Time: Thursdays 8:30am - 10:00 am ET
+Location: Towne 315
+Instructor: Tony Liu
+Teaching Assistant: Nichole Chau
+Office Hours (Zoom links on Ed)
+Tony:
+Thursdays 3:00pm - 4:30pm
+Nicole:
+Wednesdays 4 − 5pm
+Fridays 3:30pm - 4:30pm
+Schedule
+Lecture slides, recordings, and assignments will be linked below.
+
+Exact due dates for assignments will be shown in Gradescope, but in general:
+
+
+Assignments will be released after lecture on Thursdays
+Homeworks (HW) will be due the following Friday at 11:59pm ET
+Worksheets (WS) will be due the following Wednesday at 11:59pm ET
+Pythonic Foundations
+
+Date	Topic	Optional Readings	Assignments
+1/12	Logistics, Python Basics
+[pdf] [recording]	What is Python?	WS 1: due 1/18
+1/19	Data Structures
+[pdf] [recording]		HW 1: due 1/27
+1/26	Pythonic Programming I
+[pdf] [recording]	Namespaces	WS 2: due 2/1
+2/2	Pythonic Programming II
+[pq.py] [pq_solution.py]
+[python_zen.txt]
+[pdf] [recording]		HW 2: due 2/10
+2/9	Modules, Testing, Scripting
+[generators.py] [solution]
+[test_gen.py] [solution]
+[wiki.py] [solution]
+[pdf] [recording]		HW 3: due 2/17 2/20
+Data Science
+
+Date	Topic	Optional Readings	Assignments
+2/16	Scientific computing: NumPy
+[pdf] [recording]		WS 3: due 2/24
+2/23	Plotting & Machine Learning
+[plot_ml.py] [solution]
+[ml_utils.py]
+[pdf] [recording]	A few things about
+machine learning	HW 4: due 3/3
+3/2	Jupyter Notebooks/Pandas
+Zoom lecture, link on Ed
+[demo colab] [solution]
+[stack_overflow.zip]
+[pdf] [recording]		WS 4: due 3/15
+Final project released
+3/9	🌼 Spring break 🌷		
+3/16	Deep Learning
+[demo colab] [solution]
+[pdf] [recording]		HW 5 part 1: due 3/31
+Milestone 1: due 3/24
+Web Development
+
+Week	Topic	Optional Readings	Assignments
+3/23	Web Scraping
+[demo colab] [solution]
+[mnist_model.pkl]
+[pdf][recording]	Scraping
+Hospital Prices	HW 5 part 2: due 3/31
+3/30	Flask
+[demo zip]
+[pdf] [recording]		HW 6: due 4/14
+4/6	Flask and Django
+[demo zip]
+[pdf] [recording]		
+4/13	Docker for App Deployment
+[Dockerfile]
+[pdf] [recording]		WS 5: due 4/19 4/21
+4/20	Lightning topics
+and course wrap-up
+[pdf] [recording]		
+Final Project Milestone 2
+due 4/28 4/30		
+Syllabus
+A list of the topics we will cover can be found below. Note that topics are subject to change.
+
+
+Pythonic Foundations
+Data structures and file I/O
+Exceptions, modules, and OOP
+Virtual environments and workflows
+Testing and scripting
+
+Data Science and Machine Learning
+Data manipulation using NumPy and Pandas
+Data visualization using Matplotlib and Seaborn
+Machine learning with Scikit-learn
+Deep learning with Pytorch
+
+Web Development and Deployment
+REST APIs with Flask
+Web dev with Django
+Cloud deployment with Docker
+Web scraping
+Course Policies
+Communication
+We will primarily use Ed for discussion outside of lecture and office hours. The system is highly catered to getting you help fast and efficiently from classmates and the teaching staff. Rather than emailing, we encourage you to post your questions on Ed.
+
+Grading
+The grading breakdown is as follows:
+
+
+Six homeworks (60%)
+Final project (25%)
+Completion-graded worksheets (10%)
+Participation (5%)
+Late assignments
+Everybody gets five late days for homeworks, and up to two can be used for a single assignment. We'll track late submissions via Gradescope and will record your late day usage automatically, though definitely feel free to ask us at any point in the semester how many late days you have remaining. Beyond these, any late day will incur a penalty of 20% as of the change of date.
+
+Late days only apply to homeworks, so they may not be used for worksheets or the final project.
+
+Collaboration
+You are permitted (and encouraged) to discuss the homework problems with other class members, but these discussions are to be limited to high-level concepts. In particular, you are absolutely not permitted to copy/share code or implementation details. Similarly, you are not permitted to use or consult code found on the internet for any of your assignments. The only context where it is permitted to share code is during the final project, during which you are allowed to collaborate with your team members.
+
+Attribution and Licensing
+This course would not be possible without the lecture and homework content created by Arun Kirubarajan and Jorge Mendez.
+
+You are free to use or extend these projects for educational purposes provided that:
+
+
+you do not distribute or publish solutions
+you retain this notice
+you provide clear attribution to the University of Pennsylvania, including a link to https://www.cis.upenn.edu/~cis1920/

@@ -1,0 +1,323 @@
+Table of Contents
+Overview
+Prerequisites
+Course Description
+Course Materials
+Virtual Machine
+Website
+Canvas
+Ed Discussion Board
+OHQ
+Textbook
+Course Components
+Lectures
+Recitations
+Course-wide Participation
+Homework Assignments
+Exams
+Policies
+Getting Help
+Inclusion
+Disability Services
+Grading Breakdown
+Assessment Policies
+Late Policy
+Midterm Clobber Policy
+Rescheduling Exams
+Collaboration & Academic Misconduct
+Overview
+Prerequisites
+Required: Experience programming in Java or similar high-level programming languages will be assumed. We also assume some decent expereince programming. As a result, the official prerequisites for this course are CIS 1200.
+Suggested: While CIS 1200 can be sufficient for some, it is recommended that each student feels comfortable designing and writing programs from scratch. If you are unsure of your abilities, please feel free to discuss this with Travis within the first few weeks of class.
+Course Description
+You know how to program, but do you know what is going on behind the scenes to make the computer work? This course is designed to give you an introductory understanding of how your computer works as a physical device that executes lines of code. To do this, we will start with transistors and build up to gates, memory, a simple processor and assembly instructions. In the second half of the course we will explore C, a low-level programming language, and how it is translated into assembly instructions.
+
+After completing this course, you should have knowledge in C and computer architecture that will provide a solid foundation for future courses relating to systems. Some of these courses include CIS 4710 (Computer Organization and Design), CIS 4480 (Computer Operating Systems), CIS 1900 (C++ Programming), CIS 3410 (Compilers), and many other courses.
+
+Course Materials
+Virtual Machine
+For this course, we will be providing a Virtual Machine for you to complete your homework. We strongly recommend that you work on any coding assignments in this same environment. Assignments will be graded in an environment as close to the virtual machine as possible, and behavior of low-level programs can change based on the environment it is run in. You are responsible for making sure that the programs you write work in the provided environment.
+
+Website
+The website acts as the central place for organizing material for the course. All essential material for the course is delivered through or linked through the course website. As an example, the website contains the course schedule, lecture materials, recitation materials, homework specifications, and this syllabus. We highly encourage you to explore, try some of the resources that are available, and become familiar with the site early on in the course.
+
+Canvas
+The canvas site contains the gradebook, surveys, zoom links, and class recordings. It is not used outside of these purposes and will be usef infrequently. The only thing that is required that is on Canvas are the surveys (which are graded), but we will link to canvas from the course website when it is something required.
+
+Ed Discussion Board
+The Ed Discussion board provides a place for students to get support from course staff. Ed is also the primary mechanism for announcements, though we will try to repeat announcements at the beginning of recitation and lecture for convenience.
+
+OHQ
+The course has an OHQ that we will be using for virtual office hours. Please write at least a somewhat detailed explanation of your question/problem and what you have tried so far to fix it.
+
+Textbook
+There are no strictly required texts for this course, however, some find it helpful to read the course material from a textbook. Note that none of the textbooks listed will have everything used in this course. As a result, we are suggesting the following texts:
+
+Dive Into Systems (https://diveintosystems.org/book/): this is a free online textbook that is well written and contains useful information about everything in the class, except for CMOS transistors and the LC4 assembly language.
+cppreference.com (https://en.cppreference.com/w/c): This website provides a useful reference for C programmers, and highlights many useful headers and functions that may be useful to your C program writing.
+linux.die.net (https://linux.die.net/man): This website is an online equivalent of the man terminal command. It contains useful information on user terminal commands (section 1) and C standard library functions (section 3).
+If you are looking for a more traditional textbook, past versions of the course have required or recommended:
+
+Patt and Patel, “Introduction to Computer Systems”, 2nd Edition: This is the textbook that the original version of the course was based off of!
+Past versions of the course also suggested that you had a copy of a C manual or reference. We provided some online referenes with cppreference.com and linux.die.net, but here are some that have been recommended in the past:
+
+Kernighan and Ritchie, “The C Programming Language”: A classic reference by the people that designed C
+Harbison and Steele, “C: A Reference Manual”
+“C How to Program” Deitel and Deitel
+“A Book on C 4th Ed,” Kelley and Pohl
+“Problem Solving and Program Design in C,” Hanly and Koffman
+“Practical C Programming,” Online
+Course Components
+Lectures
+There are approximately 28 lectures throughout the semester, which occur from 1:45 to 3:15 on Tuesdays and Thursdays. Attendance is not mandatory, but highly encouraged and is related to the Course-wide Participation portion of the grade
+
+Recitations
+The TA’s will hold weekly recitations throughout the semester. These are not required, but participating can contribute to the course-wide participation portion of your grade. While these are not required, feedback from when I taught the course last suggests that students who attend can find these “incredibly helpful” or “life-saving”, though your experience may vary. In these recitations, TAs will often go over course material covered in the last week and/or help students with getting started on the upcoming homework. Recitations will also be a great opportunity for you to ask questions about course topics and homework assignments. Recordings will be made available for those who cannot attend.
+
+Course-wide Participation
+Course-wide participation is an umbrella term that encompasses a few things. There are three ways you can earn credit toward your course-wide participation grade:
+
+Completing in-class lecture polls
+You will receive credit for voting on peer instruction questions in lecture (you will receive credit based on participation – your response does not need to be correct). HOWEVER, we highly encourage you to try and find the correct answers as this will be beneficial towards your learning.
+To account for students who may have to miss some lectures, poll questions will remain open after lecture has ended and close shortly before the next lecture begins.
+Attending and participating in recitation
+Attending Office Hours
+Making Posts, Reading Posts, and/or Answering Questions on Ed
+Ed automatically keeps track of these statistics and we use these to add to course participation.
+Watching Lecture Recordings
+Canvas automatically keeps track of who is watching the lecture recordings and we can use this to give some participation credit
+Completing assignments
+a small amount of this grade can be earned by simply turning in assignments to the course, and thus showing your participation
+Note that you do not have to complete all of the listed activities to get full credit for course-wide participation. The threshold for getting all participation points is Very Low. As long as you try, you will almost certainly get full participation points. For example, full participation points can be earned just by doing the most of the lecture polls and interacing some on Ed. Participation grades are kept internal to the staff (i.e. not disclosed to students).
+
+Homework Assignments
+Homework will be distributed, through the course website, but will be graded, and submitted through the course gradescope. There will be approximately 12 homework assignments spread out through the semester, typically with an assignment due every week.
+
+Late submissions and the opportunity to fix assignments will be possible. More information can be found in the assignment policies section here
+
+Weekly Check-in assignments
+These will be “open-book quizzes” on gradescope that will be due before the first lecture of the week. These assignments will have unlimited submissions, so you can resubmit as many times as you wish. When you submit a question on the check-in and get it correct, Gradescope should automatically tell you when you got something correct. If it does not change, then you probably got something wrong. Some weeks will not have such an assignment, details can be found on the course calendar
+
+We will drop the lowest two check-ins at the end of the semester (including check-ins that you forgot to do)
+
+Exams
+There will be a midterm exam in class that is currently scheduled for Thursday October 17th. If you cannnot make this time, you must let us know ahead of time so you can take it during the make-up session. Failure to take the exam during the make-up session will result in us deriving your midterm score from your final exam performance.
+
+There will be a final exam as well, but details on when this is scheduled has yet to be released to us.
+
+Policies
+Getting Help
+It is very important to us that you succeed in CIS 2400. As a result, we are providing many resources to help you succeed. These include:
+
+Many office hours held by course staff
+The Ed discussion board
+Contacting staff directly via email
+Scheduling a meeting with Travis here: https://www.cis.upenn.edu/~tqmcgaha/#meetings
+Please do not be afraid to ask for help if you don’t understand something. We are here to help you succeed. Additionally, some of the course staff will get lonely and bored if no one shows up to their office hours.
+
+It is also very important to us that you maintain your mental wellness throughout the course. A few points are not worth losing sleep over. Everyone on the course staff is available to chat, and you can always attend office hours for a non-academic conversation if necessary.
+
+Additionally, if you are experiencing some unforeseen and extenuating circumstances, please feel free to reach out to course staff for help. Notably, we are still in a global pandemic! Hopefully the pandemic is winding down for everyone, but we know things can come up in the middle of the quarter (whether it is related to the pandemic or not), and we are here to help.
+
+Inclusion
+You have a right to a learning environment that feels safe, where you are treated with respect and feel that you can contribute ideas constructively. Put another way, you have the right to an inclusive learning environment.
+
+We want every student to feel that they have a safe and healthy learning environment, and if at any point you feel like this is not the case in any way, please let course staff know and we will see what we can do to help.
+
+You can contact staff by making a private post on Ed, reaching out to course staff via email, talking to course staff at office hours, or scheduling a 1-on-1 with the instructor here: https://www.cis.upenn.edu/~tqmcgaha/#meetings
+
+Disability Services
+The Student Disability Services (SDS) is a unit within the Weingarten Learning Resources Center (WLRC) dedicated to ensure equal access to all University programs, activities and services. They offer a wide range of services for students with disabilities that are individually designed and remove the need to reveal sensitive medical information to the course staff. Please submit a request if you will have a medical need for extensions of exam times or assignment deadlines.
+
+Grading Breakdown
+Course-Wide Participation (3%)
+Weekly Check-ins (5%)
+Homework Assignments: (62%)
+Midterm Exam: (15%)
+Final Exam: (15%)
+Assessment Policies
+Late Policy
+For exams, lecture polls and weekly check-ins, no late submissions will be accepted, or extensions granted, except outside of special circumstances. We will automatically drop the lowest two check-in grades at the end of the semester (this can include check-ins that you did not submit).
+
+For Homework assignments, there are no late penalties or late submissions. Instead, homeworks will have an assigned due date and the ability to request for an extension. Extensions requests must be made by making a private (but NOT anonymous) post to the Ed discussion board, where you must detail:
+
+Which assignment you would like an extension on
+How long of an extension you would like
+If this would be for more than 3 days after the deadline, you MUST reach out to the instructor specifically for this extension request. Reaching out to the instructor should be done over email, over zoom, or in-person.
+Why you are requesting an extension
+If it is a delicate situation, please feel free to state so and keep details private. You may also reach out to the instructor if you feel more comfortable with that.
+Your post will be reviewed by a course staff member and we will let you know if we grant the request. Note that we are lenient and will likely grant most requests, and it doesn’t hurt to ask.
+
+It is also worth noting a few things about the system:
+
+You may ask for an extension request at any point, before or after the deadline
+This means that if you would like to “fix” or “reattempt” an assignment from earlier in the semester, you can ask for an extension to fix or reattempt this. Note that this type of request requires you reach out to the instructor directly
+If you find an extension request is not enough, you may follow-up with another extension request.
+We will NOT be granting an extension 3 days past the deadline for written homework assignments as these take much more work to grade and usually by the time we have finished grading them, we will have to release the answers so that students can use the assignments to study for the midterm exam.
+Midterm Clobber Policy
+The clobber policy allows you to demonstrate mastery of past material with regard to exams. In particular, you can replace your midterm exam score with the score of the midterm section of the final exam. This does not apply in reverse, we will not replace your midterm section of the final with your midterm exam score.
+
+To accommodate for the midterm subsection of the final exam being harder/easier than the midterm exam itself, we have a formula that accounts for average and standard deviation.
+
+First, we calculate Potential Midterm Clobber Score with: (final_midterm_subscore - final_midterm_mean) / final_midterm_std_deviation * midterm_std_deviation + midterm_mean, capped at 100
+Then we take the maximum score between the calculated potential clobber score and the grade you had on the midterm. The higher of the two will be used to calculate your final grade.
+Rescheduling Exams
+If you know in advance that you will be unable to take an exam, please discuss it with the instructor as soon as possible, at least a day before the exam so that the reason can be verified and plans can be put in place. Make-up exams would likely take place after the initial exam. Make-up exams will be taken shortly after the initial exam and course staff will schedule it. Failure to take the midterm or the make-up will make it so that we instead derive your midterm score from the final exam following the midterm clobber policy (see above).
+
+For emergency absences, please reach out to the instructor when possible so that plans can be put in place.
+
+Policies regarding absences for the Final Exam are covered by the University Provost; for Spring semester courses, a makeup Final Exam would be scheduled at the start of the following Fall semester. Requests for a makeup Final Exam due to reasons that could reasonably be anticipated (e.g. traveling for summer break) are unlikely to be approved.
+
+Collaboration & Academic Misconduct
+In general, we encourage collaboration, but there is a very fine line between collaboration and cheating. We can learn a lot from working with each other and it can make the course more fun, but we also want to ensure that every student can get the maximum benefit from the material this course has to offer. Keep in mind that the overall goal is for YOU to learn the material so you will be prepared for the exams and for job interviews etc. in the future. Cheating turns the assignments into an exercise that is a waste of both your time and ours; save us both by not doing it.
+
+Cheating consists of sharing code or solutions to assignments by either copying, retyping, looking at, or supplying a copy of a file. Examples include:
+
+Coaching a friend to arrive at a solution by simply following your instructions (i.e. no thinking involved). An example is helping a friend write a program line-by-line.
+Copying code from:
+a similar course at another university
+using solutions/code on the web, including GitHub.
+Copying from another student or using their code as reference.
+Similarly, you are not allowed to show your work with anyone outside of the current CIS 2400 course staff via electronic or non-electronic means. You are also not allowed to post this work publicly.
+Cheating is a very serious offense. If you are caught cheating, you can expect an initiation of a cheating case in the University system and a zero for the assignment. Depending on circumstances, you may receive a failing grade in the course. Cheating is an insult to the instructor and course staff, to the department and major program, and most importantly, to you and your fellow students. If you feel that you are having a problem with the material, or don’t have time to finish an assignment, or have any number of other reasons to cheat, then PLEASE talk with the instructor, we are more than happy to work with students as needed. Just don’t cheat.
+
+If you are in doubt about what might constitute cheating, send the instructor an email describing the situation and we will be happy to clarify it for you.
+
+See Penn’s Code of Academic Integrity for more information.
+
+
+Content:
+Week 0
+
+L00: Introduction and C Intro
+
+L01: C Intro (cont.) – C Pointers & Compilation
+
+Week 1
+
+Check-in00 Due (Syllabus, Pointers & Compilation)
+
+L02: Bits, Bytes, 2's Compliment, Overflow
+
+L03: Binary Wrap Up & Basic C Memory Model
+
+Week 2
+
+Check-in01 Due
+
+L04: C Memory Model cont. & Dynamic Memory Allocation
+
+R00: Recitation00: Binary Representation
+
+L05: C Memory Model cont.
+
+Week 3
+
+Check-in02 Due
+
+L06: C Wrap-up
+
+R01: Recitation01: Makefiles & C Tools
+
+L07: Intro to CMOS & Logic Gates
+
+Week 4
+
+Check-in03 Due
+
+L08: Logic Gates, PLAs, Timing & Delay
+
+R02: Recitation02: Reading & Parsing User Input, Hardware Start
+
+L09: Boolean Logic & Simplification, Combinational Logic
+
+Week 5
+
+Check-in04 Due
+
+L10: Mux, and More Practice
+
+R03: Recitation03: CMOS & Logic Gates
+
+Week 6
+
+L11: Sequential Logic
+
+R04: Recitation04: Combinatorial Logic
+
+L12: Sequential Logic Cont. & Memory & Registers
+
+Week 7
+
+L13: Midterm Review
+
+R05: Recitation05: Midterm Review
+
+Ex0: Midterm Exam
+
+Week 8
+
+L14: RISC-V ISA
+
+R06: Recitation06: Sequential Logic
+
+L15: RISC-V, RISC-V Control Structures & RISC-V Memory
+
+Week 9
+
+Check-in05 Due
+
+L16: RISC-V Subroutines, C File I/O & RISC-V Single Cycle Processor
+
+R07: Recitation07: RISC-V
+
+L17: RISC-V Single Cycle Processor & Control Signals Cont.
+
+Week 10
+
+(No Class on Tuesday)
+
+R08: Recitation08: Control Signals and RISC-V Assembly
+
+Check-in06 Due
+
+L18: File I/O & Binary Files
+
+Week 11
+
+L19: Translating C to ASM
+
+R09: Recitation09: Binary Files
+
+L20: Translating C to ASM
+
+Week 12
+
+Check-in Due
+
+L21: C → RISC-V
+
+R10: Recitation10: J Compiler
+
+L22: Optimizations & Implications of the Stack
+
+Week 13
+
+Check-in11 Due
+
+L23: Special Topics: C++ & Saftey
+
+R11: Recitation11: J Compiler OH
+
+Week 14
+
+L24: Special Topics: Intro to Threads & Data Races
+
+R12: Recitation12: J Compiler Pt. 2
+
+L25: Course Wrap-Up
+
+Week 15
+
+Survey02 Due (End of Semester Survey)
+

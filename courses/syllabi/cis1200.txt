@@ -1,0 +1,198 @@
+The goal of the course is to teach fundamental concepts of programming that will enable you to solve interesting, challenging real-world problems with reliable, modular programs that can be tested, extended, shared with others, and combined effectively with other programs. You will learn about data types and data abstraction, how data is represented in memory, how to decompose complex programming problems into manageable subproblems, how and when to use elementary data structures such as arrays, lists, trees, and maps, different approaches to structuring programs (object-oriented, imperative, functional), communication between programs and their environment (basic user interface, input/output, networked communication), and how to test and fix programs (unit testing, debugging). While this course focuses on the fundamentals of programming, we will use examples and assignments that give you a first taste of important areas of computer science, including computer graphics and multimedia – how to process and present images and sounds; databases and search – how to organize and search complex data; networking – how to manage communication among computers; artificial intelligence – how to write programs that generate language and learn from experience; and games and simulation – how to model a complex world.
+
+CIS120 students are not expected to have any prior experience with OCaml (or even Java). We assume some previous programming experience at the level of a high school computer science class. If you got at least 4 in the AP Computer Science A or AB exam, you will do great. Basic experience with any programming language (for instance C, C++, Python, VB, or Scheme) will be sufficient. If you have never programmed before, you should take CIS 110 first.
+
+We will use the OCaml and Java programming languages.
+
+Textbook
+There is no required textbook for this course – no existing textbook fits the requirements of this course closely. Instead, we provide lecture notes tailored for this class.
+
+Grading
+Homework	40%
+Recitations	8%
+Class Participation	2%
+First Midterm	14%
+Second Midterm	14%
+Final Exam	22%
+Lecture Attendance
+Lecture attendance is required and will be recorded using Poll Everywhere. If you know that you must miss class, submit a Course Action Notice. (Such a notice does NOT excuse you from lecture.) Your class participation grade will be based on your lecture attendance; in general, you will be allowed to miss a few classes (for any reason) and still get full credit. However, if you miss many lectures, your grade will be affected.
+
+The course lectures will be held in person, at the time and location indicated by Penn’s Registrar.
+
+Class Recordings
+The course lectures will be recorded and made available (along with supplemental videos) on the web site. These videos will be available shortly after each class session.
+
+Recitation Credit
+Recitations (sometimes referred to as labs) are weekly review and problem-solving sessions for groups of ten to twenty students led by two TAs. Recitation attendance is required and this will help you, both, to find a community within CIS 1200 and to review the course concepts in a small group environment.
+
+Homework Submission Policy
+Homework is submitted online. Feedback on the correctness of your homework submission will be given immediately by an automatic grading script. A small part of the homework grade will also be derived from the code style and design and the implementation of test cases. You will receive this feedback separately. Some assignments will be graded completely by hand, but the grading policy will be made clear when the homework is distributed.
+
+Your homework submission must compile for you to receive credit on the assignment. If it does not, you will be assigned a zero for the assignment.
+
+You may submit the same assignment multiple times without penalty up to a limit that will be announced for each assignment. Additional submissions beyond this limit will cost a number of points per submission, which is also indicated on the assignment.
+
+Homework Late Policy
+Late submissions are allowed within 48 hours of the deadline. Submissions within the first day after the deadline will be penalized 10 points. Submissions within the second day after the deadline will be penalized 20 points.
+
+If you have an extremely unusual circumstance, such as a serious and extended illness, contact the course instructor for special consideration.
+
+Code Reviews
+Some homeworks will have code reviews (meetings with your recitation TA in which your TA goes over your code with you and gives you feedback). Attendance of code reviews will factor into your homework grade. To reschedule a code review, you must contact your TA at least 24 hours before your code review time.
+
+Regrade Policy
+Unless otherwise announced, you will have one week after you receive the grade for your assignment or exam to request a regrade.
+
+Honesty Policy for Homework
+This course will abide by the University’s Code of Academic Integrity.
+
+You must type in and edit your own code.
+
+Copying someone else’s file is not allowed.
+Using an AI tool to generate code, such as ChatGPT, is not allowed.
+Allowing someone else to copy a file of yours, either explicitly or implicitly by leaving your code unprotected, is not allowed.
+Editing each other’s files is not allowed.
+You may not show your code to others
+
+Showing your code to someone else who is having trouble is not allowed.
+Having someone else debug your code is not allowed.
+Asking a tool, such as ChatGPT, to debug your code is not allowed.
+You should never email any part of your assignment to another student.
+Use your best judgement.
+
+Protect both yourself and your friends. In Penn Engineering, in cases of unwarranted collaboration all participating parties are typically penalized (both helpers and helpees).
+
+Use judgement about asking or answering questions of other students. For example, if you are supposed to implement Algorithm X that is described in the book, and you don’t understand Algorithm X, then you can ask another student to explain it to you. However, if you are supposed to come up with your own algorithm to solve a problem, then you can not ask another student to tell you their algorithm.
+
+Please see the Rules about acceptable behavior in the CIS 1200 FAQ for more clarification.
+
+When in doubt about whether it is ethical to ask or answer a question of another student, ask a TA or the instructor.
+
+Inclusion and Diversity
+At Penn, we value the backgrounds and identities of all students (including but not limited to country of origin, race, class, religion, ethnicity, gender, sexual orientation and identity, and disability status), and are committed to providing an inclusive climate. If there are elements of your experiences, culture or identity that you would like to share with us as they relate to your success in this class, please feel free to reach out (anonymously on Ed, or by email to [cis1200@seas.upenn.edu]). Likewise, if you have any concerns in this area or are facing any special issues or challenges, you are encouraged to discuss the matter with the course staff (set up a meeting by email) with an assurance of full confidentiality.
+
+Recording Policy
+To facilitate access for all class members, lectures, including your participation, are being recorded and the recordings will be made available to the class, for the duration of this course. These recordings, as well as previously recorded lectures and other course materials, are made available solely for your personal, educational use and may not be shared, copied or redistributed without the permission of Penn and the instructor. You are also not allowed to record class sessions yourselves. Unauthorized sharing or recording is a violation of the Code of Academic Integrity.
+
+Questions and Comments
+Your feedback is valuable and we want to do our best to answer your questions! For questions about:
+
+Course material (concepts, homework, labs, logistics): Post a message on the CIS1200 discussion group
+
+Grading of a homework: contact your recitation TA or ask on the CIS1200 discussion group
+
+Grading of an exam: Post an online Regrade Request through Gradescope
+
+The curriculum, e.g. becoming a CSCI major/minor, submatriculating in to a masters program: Email cis-undergrad-advising@seas.upenn.edu
+
+AP credit, waiver exam, prerequisites for upper level courses: Email cis-undergrad-advising@seas.upenn.edu
+
+Matters that can’t be resolved by the means listed above: Email cis1200@seas.upenn.edu
+
+Here is the list of topics:
+
+Introductions, Program Design
+
+Value-Oriented Programming
+
+Functions, Lists and Recursion
+
+Lists, Tuples, Nested Patterns
+
+Datatypes and Trees
+
+HW01 (Finger Exercises) due
+
+Trees and Binary Search
+
+BST Insert & Delete
+
+Generics and Higher-order Functions
+
+HW02 (Computing Human Evolution) due
+
+Higher-order Functions: Transform and Fold
+
+Abstract Types: Sets
+
+Abstract Types II: Sets
+
+HW03 (Abstraction and Modularity) due
+
+Finite maps and Typechecking
+
+Midterm 1
+
+Mutable Data Structures, Abstract Stack Machine
+
+Mutable Queues
+
+Iteration and Tail Recursion
+
+HW04 (Mutable Queues) due
+
+Closures and Objects
+
+GUI Design: Gctx and Widgets
+
+GUI Design: Widgets, Layout, and Events
+
+GUI Design: Events, Notifiers, and Controllers
+
+Transition to Java
+
+HW05 (GUI Library and Paint) due
+
+Interfaces, Static Methods
+
+Arrays and Java ASM
+
+Java ASM, Subtyping and Extension
+
+HW06 (Pennstagram) due
+
+Java ASM, Dynamic Dispatch
+
+Midterm 2
+
+Generic Types and Collections
+
+Overriding, Equality
+
+Enums, Iteration
+
+Exceptions
+
+HW07 (PennPals) due
+
+Java I/O
+
+I/O: Histogram Demo
+
+Swing I: Drawing and Event Handling
+
+HW09 (Game Checkpoint) due
+
+Swing II: Inner Classes and Layout
+
+HW08 (Chatterbot) due
+
+Swing III: MoD
+
+Swing IV: Reimplementing Paint / Advanced Java
+
+Bonus Lecture: Code is data
+
+Bonus Lecture: CIS and Sustainability
+
+HW09 (Make Your Own Game) due
+
+Semester Recap
+
+Final Exam
+
+
+
+
+
+

@@ -1,0 +1,149 @@
+Overview
+
+Image of a routerThis course provides an introduction to fundamental concepts of distributed systems, and the design principles for building large-scale computational systems.
+We will study some of the key building blocks – such as synchronization primitives, group communication protocols, and replication techniques – that form the foundation of modern distributed systems, such as cloud-computing platforms or the Internet. We will also look at some real-world examples of distributed systems, such as GFS, MapReduce, Spark, and Dynamo, and we will gain some hands-on experience with building and running distributed systems.
+
+CIS 5050 is one of the core courses in the MSE program, as well as an option for the WPE-I requirement for PhD students.
+
+Logistics
+Instructor:
+Linh Thi Xuan Phan
+Office hours: Thursdays 12:00-1:00pm (Levine 576)
+
+When and where:
+Tuesdays/Thursdays 10:15-11:45am, LRSM AUD
+
+Teaching assistants and office hours:
+
+Xinran Liu (Lead TA)	OH: Mondays + Wednesdays 10:00am-12:00pm (Levine 612)
+Erik Wei	OH: Mondays 12-1pm (Levine 612) + Wednesdays 12-1pm ( Levine 3rd floor bump space) +
+       Fridays 3:30-4:30pm (Africk Lab AGH 104)
+Lang Qin	OH: Mondays 1:30-3:30pm + Wednesdays 1:30-3:30pm (Online)
+Abby Eisenklam	OH: Mondays 4:30-6:30pm (OHQ)
+Michael Yao	OH: Tuesdays 9:00-10:00am + Thursdays 2:00-3:00pm (Levine 612)
+Sriram Josyula	OH: Tuesdays 12:00-1:30pm + Thursdays 12:00-1:30pm (Levine 5th floor bump space)
+Emma Jin	OH: Tuesdays 2:00-3:30pm + Thursdays 8:30am-10:00am (OHQ)
+Joseph Cho	OH: Tuesdays 4:00-5:30pm (Levine 612) + Sundays 6:00-8:00pm (Online)
+Harshwardhan Yadav	OH: Tuesdays 7-9pm (Levine 601 bump space) + Wednesdays 2:00-4:00pm (Levine 612)
+Kunli Zhang	OH: Wednesdays 12:30-2:00pm (OHQ)
+Sahil Parekh	OH: Wednesdays + Fridays 2:00-4:00pm (Levine 601 bump space)
+Charis Gao	OH: Wednesdays 3:30-5:30pm (Levine 501 bump space)
+Ashwin Alaparthi	OH: Wednesdays 7:00-9:00pm (Levine 601 bump space)
+Amay Tripathi	OH: Thursdays 3:30-5:00pm (Levine 501 bump space)
+Rohan Moniz	OH: Thursdays 5:00-6:00pm (OHQ)
+Samarth Chandrawat	OH: Thursdays 5:00-7:00pm (Online)
+Tianrui Xia	OH: Fridays 9:00-11:00am (OHQ)
+Benjamin Le	OH: Fridays 9:00-10:00am + Saturdays 10:00-11:00am (Online)
+Joseph Zhang	OH: Saturdays 9:00am-10:00am (Online)
+Austin Yao	OH: Sundays 11:00am-1:00pm (Online)
+
+Note: Online office hours will be conducted via OHQ. Office hours will be conducted via OHQ until a location is assigned.
+
+
+
+Course policies
+Course textbook:
+Distributed Systems: Principles and Paradigms, 4th edition (by M. van Steen and A. Tanenbaum). You can get a digital version of this book for free; hardcopies will be available, e.g., from Amazon soon. Additional material will be drawn from selected research publications.
+
+Prerequisites:
+The course requires undergraduate-level operating systems and networking knowledge, such as CIS 4480 (formerly CIS 3800) and NETS 2120 (or the equivalence). You must also be proficient in C or C++ programming.
+
+Workload:
+The course will involve three substantial programming assignments, a group project, and two midterms. Both the programming assignments and the project involve a considerable amount of programming in C/C++, and the project requires the ability to work with your classmates in teams.
+
+Grading:
+Your letter grade will be based on the individual programming assignments (35%), the group project (30%), the midterm exams (30%), and participation (5%).
+
+Attendance and other policies:
+Class attendance is mandatory and will count towards your participation score. More details on attendance and key course policies can be found here.
+
+
+Resources
+We will be using Ed Discussion for all course-related discussions.
+
+Homework assignments and project are available for download from the assignments page. You can submit your solutions online via GradeScope.
+
+Special sessions
+The goal of the special sessions is to provide you with tools and resources that might be useful for the assignments and project. See the special sessions page for more details.
+
+
+
+Below is a streamlined list of topics extracted from the tentative schedule:
+
+Introduction
+(Course overview, policies; HW0 released)
+
+Processes and Threads
+(Basic concepts, the UNIX model, kernel implementation; HW1 released)
+
+System Calls
+(File API, kernel entry/exit; HW0 due)
+
+Concurrency Control
+(Synchronization primitives, race conditions, critical sections, deadlock, starvation)
+
+Synchronization
+(Semaphores, classical synchronization problems, monitors, condition variables; HW1 due)
+
+Communication
+(Sockets, socket programming, handling multiple connections; HW2 released)
+
+Remote Procedure Calls (RPCs)
+(Programming model, stub code, marshalling, binding, failure handling; HW2MS1 due)
+
+Naming
+(Namespaces, directory structures, DNS architecture, DNSSEC, Akamai; Chapter 6)
+
+Clock Synchronization
+(Logical clocks, NTP, Berkeley algorithms, Lamport and vector clocks; HW2MS2+3 due)
+
+Replication
+(Primary/backup protocols, quorum protocols, sequential/causal consistency, client-centric models; Project released)
+
+First Midterm Exam
+
+Group Communication
+(Reliable multicast, IP multicast, FIFO, causal and total ordering; HW3 released)
+
+Bigtable and Project Overview
+(Bigtable case study)
+
+Fault Tolerance
+(2PC, 3PC, logging and recovery, Chandy-Lamport algorithm)
+
+State-Machine Replication
+(Failure models, consensus problem, Paxos)
+
+Last Day to Withdraw
+
+Non-crash Fault Tolerance
+(Byzantine Generals problem, impossibility results, solutions; HW3 due)
+
+Distributed File Systems
+(NFS, Coda, disconnected operation)
+
+Google File System (GFS)
+(Google cluster architecture, reading/writing in GFS, consistency, fault tolerance)
+
+MapReduce
+(MapReduce programming model, system architecture)
+
+Spark
+(Differences to MapReduce, RDDs, case study: PageRank; HW4 due)
+
+Distributed Hash Tables (DHTs) and Dynamo
+(Distributed hash tables, the CAP dilemma, Amazon Dynamo; HW6 due)
+
+Second Midterm Exam
+
+Reading Days
+
+Project Demos and Reports
+
+This list condenses the schedule’s main topics and associated assignments or milestones.
+
+
+
+
+
+

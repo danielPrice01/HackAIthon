@@ -1,0 +1,115 @@
+CIS 5150
+Fundamentals of Linear Algebra and Optimization
+Syllabus
+(1) Vector Spaces, Bases, Linear Maps
+(a) Groups, Rings, Fields and Vector Spaces
+(b) Indexed Families
+(c) Linear Combinations and Linear Independence
+(d) Linear Subspaces
+(e) Bases, the Replacement Lemma
+(f) Matrices
+(g) Linear Maps, Kernels, Images, Isomorphisms
+(2) Matrices and Linear Maps
+(a) Matrix Representation of Linear Maps
+(b) Change of Basis Matrix
+(c) Direct Products and Direct Sums
+(d) Multiplication by Blocks
+(e) The Rank–Nullity Theorem and Applications
+(f) Grassmann’s Relation
+(g) Affine Maps
+(3) Haar Bases and Haar Wavelets
+(a) Signal Compression
+(b) Haar Matrices, Haar Wavelets
+(c) Digital Signal Resolution
+(4) Determinants
+(a) Alternating Multilinear Maps and Determinants
+(b) Calculating Determinants via Laplace Expansion
+(c) Invertibility and Linear Independence
+(d) The Cayley–Hamilton Theorem
+1
+(5) Vector Norms and Matrix Norms
+(a) Normed Vector Spaces
+(b) Matrix Norms
+(c) Subordinate Norms
+(d) Condition Number
+(6) Solving Systems of Linear Equations
+(a) Gaussian Elimination
+(b) LU-Factorization
+(c) LU-PA-Factorization
+(d) SPD Matrices and Cholesky Decomposition
+(e) Reduced Row Echelon Form (RREF)
+(7) The Dual Space and Duality
+(a) The Dual Space E
+∗ and Linear Forms
+(b) Pairing and Duality Between E and E
+∗
+(c) The Bidual and Canonical Pairing
+(d) Hyperplanes and Linear Forms
+(e) Transpose of a Linear Map and of a Matrix
+(f) The Four Fundamental Spaces
+(8) Euclidean and Hermitian Spaces
+(a) Inner Products, Cauchy-Schwarz Inequality
+(b) Orthogonality and Duality
+(c) Adjoint of a Linear Map
+(d) Construction of Orthonormal Bases; Gram–Schmidt Orthonormalization Procedure
+(e) Linear Isometries and the Orthogonal Group
+(f) Orthogonal Matrices and QR-Decomposition
+(g) Hermitian Spaces and Unitary Transformations
+(9) Eigenvalues, Eigenvectors and the Spectral Theorems
+(a) Eigenvalues and Eigenvectors
+(b) Triangular Form (Schur Form)
+2
+(c) Location of Eigenvalues (The Gershgorin Discs)
+(d) Normal Linear Maps
+(e) Spectral Theorem for Normal Linear Maps
+(f) Spectral Theorem for Self-Adjoint, Skew-Adjoint and Orthogonal Linear Maps
+(g) Matrix Versions of the Spectral Theorems
+(h) Rayleigh Ratio, Rayley–Ritz Theorem
+(10) Singular Value Decomposition
+(a) Properties of A>A and AA>
+(b) SVD for Square Matrices
+(c) Polar Form
+(d) SVD for Rectangular Matrices
+(11) Applications of SVD
+(a) Least Squares and the Pseudo-Inverse
+(b) Properties of the Pseudo-Inverse
+(c) Data compression; Best Rank k Approximation.
+(d) Principal Component Analysis (PCA)
+(e) Best Affine Approximation
+(12) Derivatives
+(a) Open Sets and Continuity in Metric Spaces and Normed Spaces
+(b) Limits and Continuity; Uniform Continuity
+(c) Continuous Linear Maps and Continuous Multilinear Maps
+(d) Directional Derivatives and Total Derivatives
+(e) Jacobian Matrices
+(f) Lagrange Multiplier Technique
+(13) Quadratic Optimization Problems
+(a) Unconstrained Positive Definite Optimization
+(b) Constrained Positive Definite Optimization
+(c) General Quadratic Optimization
+(d) Maximizing a Quadratic Function on the Unit Sphere
+(14) Introduction to Nonlinear Optimization
+3
+(a) Optimization Terminology
+(b) Convex Sets and Convex Functions
+(c) Active Constraints, Qualified Constaints
+(d) KKT Conditions
+(e) Duality
+(f) Equality Constraints
+(g) Hard Margin SVM (Support Vector Machine)
+(15) Soft Margin Support Vector Machine
+(a) Formulation of ν-Soft Margin SVM as an Optimization Problem
+(b) Classification of Data Points
+(c) Solving SVM Using ADMM
+(16) Regression
+(a) Ridge Regression; Learning a Linear Function
+(b) Ridge Regression; Learning an Affine Function
+(c) Lasso Regression; Learning a Linear Function
+(d) Lasso Regression; Learning an Affine Function
+(e) Elastic Net Regression; Learning an Affine Function
+(17) Introduction to Deep Learning
+(a) Deep Neural Nets
+(b) Stochastic Gradient Descent
+(c) Back Propagation and the Chain Rule
+(d) Convolutional Neural Networks
+4

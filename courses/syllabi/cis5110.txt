@@ -1,0 +1,141 @@
+CIS 5110, Spring 2025
+
+
+Brief description:
+The course provides an introduction to the theory of computation. The treatment is mathematical, but the point of view is that of Computer Science. Roughly speaking, the theory of computation consists of three overlapping subareas:
+(1) Formal languages and automata;
+(2) Models of computation, computability, undecidability,
+and basics of recursive function theory;
+(3) Complexity theory.
+This semester, we will put more emphasis on (2) and (3). In particular, for (3), we will cover the classes P and NP, NP-complete problems, co-NP, Pspace, Pspace-complete problems.
+In order to cover more material from (2) and (3), the order in which the material will be presented has been changed from previous years.
+
+Applications of (1) to programming (and natural) language specification and parsing (top-down and bottom-up parsing) will be mentioned, whenever appropriate.
+
+Due to its historical significance and because it is very relevant to the development of programming languages, I plan to explain how the (total) recursive functions are computable in the (pure) lambda-calculus (due to Church).
+
+It may also be fun to explain why primality testing is in NP. This requires presenting some number theory.
+
+Students are expected to have some undergraduate knowledge of the theory of computation. Some material assumed to be known will either not be covered in class or reviewed quickly. This material is marked with a (-).
+
+
+Syllabus:
+Topics will include: ((*) means: if time permits)
+PART 1: Languages and Automata
+
+
+Chapter 1
+Introduction
+Chapter 2
+(-) Basics of language theory: alphabets, strings, concatenation, languages, operations on languages (including Kleene *)
+Chapter 3
+(-) Deterministic finite automata (DFA's)
+The cross-product construction
+Maps (morphisms) of DFA's
+(-) Nondeterministic finite automata (NFA's)
+epsilon-closure
+From NFA's to DFA's, the subset algorithm (Rabin and Scott)
+Finite state automata with output; transducers
+Chapter 4 (*)
+Definition of a Hidden Markov Model (HMM)
+The Viterbi algorithm and the forward algorithm
+Chapter 6
+Right-invariant equivalence relations
+Finding minimal DFA's
+State equivalence, minimal DFA's
+The pumping lemma for regular languages
+A fast algorithm for checking state equivalence
+The following topics will most likely be omitted.
+(*) An Application of NFA's: Text Search
+(-) Regular languages and regular expressions
+(-) From regular expressions to NFA's
+(-) From NFA's to regular expressions (node elimination)
+Closure properties of the regular languages
+(*) Applications of regular expressions: Lexical analysis, finding patterns in text
+(-) Context-free grammars and context-free languages
+(-) Leftmost derivations, rightmost derivations, parse trees
+The universality of leftmost derivations
+(-) Cleaning-up context-free grammars (e-rules, chain rules)
+(-) Chomsky Normal Form
+(-) Right-linear grammars and regular languages
+(*) A glimpse at LR-parsing
+
+PART II: Models of Computation, Undecidability, Basics of Recursive Function Theory
+
+Chapter 1
+(-) Generalities on computability, Partial Functions
+RAM programs (Post machines)
+Turing Machines
+Equivalence of RAM programs and Turing machines
+Listable kanguages and computable languages
+A simple function not known to be computable
+The Primitive recursive functions
+Primitive Recursive Predicates
+The Partial computable functions
+Chapter 2
+Pairing Functions
+Equivalence of Alphabets
+Coding of RAM programs
+Unsolvability of the Halting Problem
+Universal RAM programs
+Indexing of RAM programs
+Kleenee's T-predicate
+A non-computable function: busy beavers
+Chapter 3
+Acceptable Indexings
+Undecidable Problems
+Reducibility and Rice's Theorem
+Listable (recursively enumerable) Sets
+Reducibility and Complete Sets (w.r.t. Many-One reducibility)
+Chapter 4
+Syntax of the lambda-calculus
+beta-reduction and beta-conversion; the Church-Rosser theorem
+Some useful combinators
+Representing the natural numbers
+Fixed point combinators and recursively defined functions
+lambda-definability of the computable functions
+Definability of functions in typed lambda-calculi
+head normal forms and the partial computable functions
+Chapter 5 (*)
+(*) The Recursion Theorem, versions 1, 2, 3
+(*) The Extended Rice Theorem
+(*) Creative and productive sets; incompleteness
+Chapter 6
+Diophantine equations; Hilbert's tenth problem
+Diophantine sets and listable sets
+Some applications of the DPRM theorem
+Godel's incompleteness theoeem
+Chapter 7
+The Post correspondence problem
+(*) Some undecidable results for CFG's
+(*) More undecidable properties of Languages
+(*) Undecidability of validity in first-order logic
+PART III: Computational Complexity
+
+Chapter 8
+The class P
+Directed graphs, Paths
+Eulerian cycles
+Hamiltonian cycles
+Propositional logic and satisfiability
+The class NP, NP-completeness
+The bounded tiling problem is NP-complete
+The Cook Levin Theorem
+Satisfiability of arbitrary propositions and CNF
+Chapter 9
+Statement of the problems
+Proofs of NP-completeness
+Succint certificates, co-NP, and EXP
+Chapter 10 (*)
+Prime numbers and composite numbers
+Methods for primality testing
+Modular arithmetic, the groups Z/nZ, (Z/nZ)*
+The Lucas theorem
+Lucas trees
+Algorithms for computing powers modulo m
+PRIMES is in in NP
+Chapter 11
+The class PS (PSPACE) and NPS
+Savitch's theorem: PS = NPS
+A complete problem in PS: QBF
+(*) Provability in intuitionistic propositional logic

@@ -1,0 +1,103 @@
+CIS 4120/5120 Syllabus - Spring 2025
+Course Basics
+Description: In this course, you will learn the essentials of human-computer interaction (HCI). Over the course of a semester, you will learn how to design interactive systems that satisfy and delight users by undertaking the human-centered design process, from ideation to prototyping, implementation, and assessment with human users. 
+You will learn key tools in the HCI toolkit, including need-finding, user studies, visual design, cognitive models, demo'ing, ethical considerations, and writing about your designs.
+To hone your craft as an HCI practitioner, during this course you will undertake a group project to design an innovative user interface. The final submission will include a working interactive prototype, demonstrations of the interface at a public departmental design showcase, and a written reflection on your design findings.
+Instructor: Andrew Head (head@seas.upenn.edu) 
+Lectures:  2 classes per week, Mon/Wed 1:45 - 3:15 pm ET
+Intended Audience: Undergraduate, Master’s and PhD students interested in researching, designing, or evaluating interactive systems.
+Prerequisites: Students should be comfortable enough with programming to be able to pick up a user interface implementation language (e.g., JavaScript) for their final project. We recommend a level of programming experience equivalent to taking CIS 1210.
+In some cases, students from outside SEAS lacking these skills can enroll, taking care to choose a final project group with the requisite skills to undertake the project. If you’re in the latter category, please discuss with the instructor at the start of the course.
+Contact: To contact the entire instructional staff, post on Ed Discussion (for personal matters, email the course instructor).
+Office Hours
+Professor office hours are Monday 3:30-4:30 pm in Levine 303— sign up using my calendly link.
+Head TA office hours are by appointment over Zoom:
+Aishwarya Balaji → email abalaji3@seas.upenn.edu
+Hillary Lim → email lyxhil@seas.upenn.edu 
+TA office hours are held in Levine 255 (opposite the elevators on the second floor, it's the first door on the left after the ramp, glass door), and will be:
+Jimin Choi, Tuesday 12:30 pm - 1:30 pm
+Nick Cirillo, Tuesday 3:30 pm - 4:30 pm
+Ximing Luo, Wednesday 12:00 pm - 1:00 pm
+Namita Sajai, Tuesday 2:00 pm - 3:00 pm
+Mia Ginsberg, Wednesday 5:00 pm - 6:00 pm
+Manas P S, Wednesday 6:00 pm - 7:00 pm
+Eric Dai, Friday 12:30 pm  - 1:30 pm
+Cindy Xu, Thursday 4:00 - 5:00 pm
+Dan Kim, Monday 12:00 - 1:00 pm
+Assignments and Grades
+Workload: Expect this class to take 10 hours a week outside of lecture in a typical week. Prepare for this course to take quite a bit more time in the final weeks of the course due to the high load of final project deliverables.
+Assignments: In this course, you will do four kinds of assignments:
+Core Assignments: These are the main “homework” assignments. They are due once every two weeks. Each core assignment guides you to take a major step in user interface design, implementation, or evaluation.
+“Add-on’s”: Because this course makes use of completion-based grading for most of its assignments, we need some way to recognize work that you have done that goes above and beyond the basics. That’s what the “add-on” assignments are for.
+“Add-ons” ask you to do extra work for a core assignment—like interviewing more prospective users, or creating more elaborate prototypes.  No single add-on is required of all students, but you must do a significant number to do well in the course. To get an A, you must do about one “add-on” per core assignment (a total of 6 add-ons, see “Grading” below).
+There is flexibility in how you do these add-ons—there are far more than you need to do, so pick the ones you think will be fun and rewarding. You can also skip doing add-ons for some core assignments—just make sure to do more add-ons for the other core-assignments. But get started early—if you wait until halfway through the course to start doing add-ons, there will not be enough add-ons available for you to complete to get an A.
+Note that while core assignments are typically team-based, add-ons are individual work. This allows us to recognize you for work where you (and not your teammates) have gone above and beyond the basics of the assignments.
+Final Project Assignments: These are what you submit and present at the very end of the semester. These assignments include a pitch deck, poster, and a demo.
+Miscellaneous Assignments: Sometimes you will be expected to do other little bits of work outside of the class. This includes course questionnaires, and finishing up an exercise we began during lecture. These assignments are smaller in point value, though they are graded nonetheless as it is very important that you complete them. Master’s and Ph.D. students: you are also expected to submit reading responses.
+Attendance: This class depends on your active participation for it to be productive and enjoyable. Attendance is required every day of class. Recognizing the importance of your attendance, we give pop quizzes in class, and take attendance in studios.
+Additionally,  check your calendar now, and remove conflicts for Monday 4/28, Wednesday 4/30, and Monday 5/5 (note that this last date is during finals week). These will be the days that you present your final projects. You are expected to be there.
+Grading: Your grade is made up of these components:
+30%: Core assignments
+20%: Add-on’s (*)
+40%: Final project deliverables
+10%: Attendance, quizzes, and miscellaneous submissions
+Letter grade cutoffs are as follows (**):
+A+
+100%
+A
+92 %
+A-
+90 %
+B+
+87 %
+B
+80 %
+C
+70 %
+D
+60 %
+F
+< 60 %
+
+
+With the exception of a few things (e.g., quizzes), grading is primarily completion-based. Of course, we have high expectations for what completion means, though typically if you take the assignment seriously, seriously engage with instructor feedback on your work, and submit on time, you get the credit.
+(*) To get higher than a B in this course, you must do add-ons (see above). Doing just the essentials (core-assignments, final project, quizzes, class attendance, and questionnaires) will get you a B. To get an A, first get full credit in the other grading categories, and then complete 6 add-ons (at 2 points each → 12 points total → 92% or A). Doing 10 add-ons will get you to 100%, or an A+, if you get full credit for everything else.
+(**) To find out what letter grade you are getting, look at your total percentage at the bottom of the page “Grades” pane on Canvas. 
+Extra credit. Extra credit is achieved by doing additional add-ons. You can max out add-ons all the way up to accounting for 26% of your grade—that means you can get up to 6% extra credit by doing these assignments!
+Note however that add-ons are only available through the last core assignment. This means there are no extra credit opportunities in the final weeks of the course, so be proactive in getting extra credit.
+Grading contract: We commit to grading you using the above system when you commit to expectations of good conduct and participation.
+That said, we reserve the right to depart from this system and demerit your grade without limit, regardless of your scores on prior assignments, if you do any of the following:
+You have plagiarized someone else’s work
+You use AI (GPT, Stable Diffusion, Sora) to generate something that is supposed to be your own creative or reflective work
+Your teammates tell us, and we have credible reason to believe, that you have not been carrying your weight in group assignments
+You attend fewer than half of class sessions
+Avoid this situation by doing your own work, being a reliable member of your team, and engaging in class.
+Group grades: For group assignments, we assign all group members the same grade. If you’re having an issue with coordinating with your group, bring it up with the instructor (email or in person) as soon as possible. 
+Policies
+Sick policy: If you are sick, please stay home. We build in flexibility to let you skip class when you need to (see “Skipping class”).
+Masking policy: If you are sick, we reiterate, please stay home. When you come to class, please respect that your fellow students have different states of health. We highly encourage use of masks in the class, even when you’re healthy. Widespread masking helps us respect those who are more at risk.
+Skipping class: To make it possible for you to stay home when sick or to accommodate other constraints in your life, we:
+Drop your lowest 2 pop quiz grades
+Drop attendance at 1 missed studio
+Allow all in-class studio work to be made up after class
+Please do not email us if you are sick and cannot attend class — just stay home, review the posted slides, and complete any miscellaneous assignments that we posted for that lecture or studio. If your health leads you to miss more than two pop quizzes, then you may message the Head TAs to ask for accommodation.
+Late policy: To acknowledge the unpredictability and occasional constraints of everyone’s lives, we provide a small number of slip days for submitting assignments. These slip days allow you to submit assignments later than the deadline without penalty. You are given:
+4 slip days to use on individual assignments (including “add-ons”)
+4 slip days to use on group assignments (the group as a whole uses the slip day together)
+Slip days can be split across assignments—for instance, you can use 1 slip day for one assignment, and 3 for another.
+Slip days can typically be used on the core assignments, add-ons, and most miscellaneous assignments. But make sure to check assignment descriptions on Canvas—we will note in the assignment description if you cannot use slip days on the assignment. Slip days cannot be used on the final project deliverables. 
+After you have used your slip days, your work will be penalized for late submission. The grade on an assignment decreases by 20% each day it is late. To keep slip day tracking feasible for the teaching staff, slip days are automatically applied to the first late submissions, without exception. We do not grant additional slip days or late submission allowances regardless of circumstances, so be judicious in your use of them.
+Laptop policy: Unless required for in-class activities, laptops and devices are prohibited during lectures. We ask that you take notes on paper, tablets, or (less preferably) phones.
+Regrade policy: If you want to submit a regrade request, make a private post on Ed with the title "Regrade Request for [HW#].” Include a description of why you want a regrade. We will accept regrade requests up to two weeks after the grades for that assignment have been released. Please note that if you request a regrade we will regrade the entire submission, so it’s possible for your score to go both up and down. In addition to Ed, add the same information as a comment on the Canvas assignment. 
+Well-being: Your mental health and wellbeing are incredibly important to us and we recognize the stresses (both school and non-school related) that many of you may be under here at Penn. We encourage you to come speak to the instructor as well as the TAs if you have any extenuating circumstances as you progress through this course.
+Honor code: We expect the homeworks you submit to be your own original work, and the original work of your group. That being said, this is a different course than many you’ve taken, since we highly encourage you to use outside resources (including for writing code or generating ideas) as you develop your projects. You are still bound by the University Code of Academic Integrity; plagiarizing the work of others will result in failure.
+Use of AI: We encourage the use of AI in ideation, programming, sketching, and even getting critiques of your designs. Your ability to use AI may well be pivotal to your success as a professional HCI practitioner. You might as well learn how to use it now.
+That said, we prohibit AI for the following uses:
+To generate fake user data and present it to us as if it were real user data
+To use the AI as the sole critic of your design when we asked for human critics
+To write your design reflections for you
+To write your reading responses for you
+… or any other case where AI is used to get around assignments that are meant to bring you into contact with real users and have you critically reflect on your design.
+While we do not expect to need to do so, we reserve the right to audit any of your assignments by calling you to office hours and asking to see your work if we suspect you used AI to skip the work that was intended by an assignment.
+Schedule
+The course schedule can be found here.

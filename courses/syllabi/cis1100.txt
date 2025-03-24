@@ -1,0 +1,127 @@
+Grading
+The grading for the course will tentatively consist of the components listed in the following table. The instructors reserves the right to adjust grading policies. Final grade determinations are made by the instructor.
+
+Assignment	Weight
+Homework	60%
+Midterm Exam 1	6%
+Midterm Exam 2	6%
+Final Exam	12%
+Recitation Attendance & Participation	5%
+Check-in Quizzes	10%
+Code Review	1%
+Homework Grades
+We use points on homework as a mechanism to provide feedback. You should be learning from doing the assignments and also from the feedback on them, which means homework grades may well be lower than you are used to. Don’t worry! In past semesters 30-40% of CIS 1100 students have received an A- or better in the course, and we expect this semester to be similar.
+We recognize that events outside your control may make it difficult to do well on all assignments. To allow some space for that, we will drop your lowest homework grade >= 30% when calculating your final grade in the class. The final homework assignment, cannot be dropped under any condition. The objective of this policy is to make sure that all students at least make a fair attempt on each assignment, and that students use the final assignment as an opportunity to demonstrate all of the skills that they have learned in the course.
+
+Exam Grades
+We publish raw exam grades and do not curve exams. Instead, we curve the class at the end of the semester if necessary. CIS 1100 exams are usually challenging, so a low raw score is not cause for panic.
+Clobber Policy
+The clobber policy allows you to demonstrate mastery of material on your final exam. You can replace your midterm 1 and/or your midterm 2 exam scores with higher scores if you do substantially better on questions pertaining to these earlier topics when taking the final exam. This does not apply in reverse: your earlier midterm grades cannot be used to replace worse performance on the final.
+
+Since the final is cumulative, you can think of it as being made of two kinds of material: material that was tested in midterm 1 and material that was tested in midterm 2.
+
+To accommodate for the final exam being harder or easier than the midterm(s), we compare how well you did to the class average for each. For example, if you got 1 standard deviation below the mean on the first midterm, but got exactly the mean on the corresponding content on the final, your midterm 1 grade would increase.
+
+You can stop reading the clobber policy here. If you want to know more than this, we have the exact formulas here, but you do not need to know them. This will be applied automatically for you when we calculate final grades.
+
+First we calculate how many standard deviations you are away from the mean on each midterm, for example midterm 1 (“MT1”):
+
+Then we calculate how many standard deviations you are away from the mean on the midterm 1 content on the final:
+
+We then compare the two. If 
+ then we replace your score with the following equation.
+
+If by these calculations 
+ then your midterm score is unchanged.
+
+We repeat this calculation for your midterm 2 scores. This means it is possible that only one midterm gets replaced, for both to get replaced, or neither to get replaced.
+
+Attendance
+Published evidence and anecdotal experience indicate that there are many pitfalls related to viewing lecture recordings in lieu of attending lecture, especially when watching the recordings at higher speeds or with diminished focus. We respect your independence as learners, but we believe that there is significant benefit to attending lectures, tackling sample exercises, and asking questions. Consequently, you are expected to attend all the lectures in person.
+Recitation attendance is mandatory.
+
+Check-in Assignments
+These quizzes are meant to help you gauge your understanding of the material. You will be graded on correctness, but you will be able to see which questions you got wrong and re-submit until you get them all right.
+Making up work
+Grades are based on your performance on work completed during the semester in accordance with course policies. It is not possible to make up work in order to improve your grade or compensate for violations of course policy.
+Incompletes, with permission to complete coursework after the semester ends, will be granted only in verifiable cases of serious, extended illness or similar extraordinary circumstances.
+
+Grounds for failure
+A serious lack of effort may be grounds for failure in the course. If you find yourself in any of the situations below, you should meet with the instructor promptly to discuss your situation:
+Numerous missed assignments or substantially blank assignments.
+Academic dishonesty (see the collaboration tab). If you believe you may have violated the collaboration policy, you are encouraged to explain what happened to the instructor. Even if your actions constitute a serious violation, the sanctions are likely to be considerably less if you admit to the violation before we detect it ourselves.
+Conversion to letter grades
+All graded work is converted to a percentage grade between 0% and 100%. Here is approximately how the percentage grades will map to final letter grades:
+97% <= A+ (4.0)
+93% <= A (4.0)
+90% <= A- (3.7)
+87% <= B+ (3.3)
+83% <= B (3.0)
+80% <= B- (2.7)
+77% <= C+ (2.3)
+73% <= C (2.0)
+70% <= C- (1.7)
+67% <= D+ (1.3)
+63% <= D (1.0)
+< 63% F (0.0)
+
+
+Here is the content:
+Hello, World!
+
+MLK Jr. Day (no class)
+
+PennDraw
+
+Variables & Types
+
+Variables & Types
+
+Conditionals
+
+Conditionals & Interactivity
+
+Sequences
+
+Loops & File Reading
+
+Loops & Comprehensions
+
+Functions
+
+Functions (same videos, make sure to watch the ones about Type Annotations)
+
+Caesar Stuff (No Class, but watch the videos & check the slides)
+
+Sets
+
+Dicts
+
+Writing Unit Tests
+
+Choosing a Data Structure
+
+Object Oriented Programming
+
+Object Oriented Programming
+
+Exam 1
+
+Functional Programming
+
+Functional Programming
+
+Spring Break (No Class)
+
+Spring Break (No Class)
+
+Spring Break (No Class)
+
+Search
+
+Traversing Nested Data (JSON)
+
+Traversing Nested Data (XML)
+
+Recursion
+

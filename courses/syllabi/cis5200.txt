@@ -1,0 +1,93 @@
+Description
+CIS 5200 provides a fundamental introduction to the mathematics, algorithms and practice of machine learning, focusing on representation, loss functions, and optimization. Topics covered include:
+
+Supervised learning: least squares regression, logistic regression, L0/L1/L2 feature selection/regularization, online learning, boosting, Naive Bayes, support vector machines, ensemble methods, neural nets/deep learning
+Unsupervised learning: PCA, K-means clustering, Gaussian Mixture Models, EM, HMMs, Bayesian networks
+Reinforcement learning: TD-learning, Q-learning, deep learning
+Contents [hide]
+Audience
+Software
+Pre-requisites
+Format
+Evaluation
+Reading Materials
+Audience
+The course is aimed broadly at advanced undergraduates and beginning graduate students in computer science, electrical engineering, mathematics, physics, and statistics. This is a hard course; A good alternative for those with less math background or time is CIS419/519 or, if you want a really nice, much easier intro, take the Coursera ML course. If unsure which to take, see this.
+
+Software
+We will be coding in Python, using the Jupyter/SKLearn/Pytorch libraries, running on Google Colab.
+
+Pre-requisites
+Basic probability and statistics (random variables, covariance matrix, CDF/PDF, Gaussian and other distributions, multiple regression). [CSE 261]
+Basic linear algebra (matrices, vectors, rank, basis, projection, inverse, eigenvectors).
+Reasonable programming skills, including basic knowledge of python.
+Format
+The format this year will be a mix of
+
+Lectures - these can be watched live or via video recording
+Worksheets - step-by-step jupyter notebooks that cover the core material
+Homework, quizzes, final project, midterm, final (see below)
+"Pods" - mandatory attendance, TA-led discussion groups that meet for one hour a week. They should help you meet other students, assure you understand the material, and allow for discussion of broader topics.
+Evaluation
+20% Worksheets: These are graded primarily on being completed on time (but answers need to be sensible).
+20% Problem Sets: Your lowest homework score will be dropped. Any homework turned in late will be penalized 25 points per late day or fraction of day.
+10% Participation/attendance: Only for your pod! One permitted absence.
+10% Final project: Late days are not permitted for the final project.
+10% Quizzes and Surveys
+10% Midterm
+20% Final (cumulative: 1/3 on pre-midterm; 2/3 on post-midterm)
+The problem sets include programming questions. The midterm and final will be semi-closed book exams (cheat sheet allowed: one 2-sided sheet for the midterm, two 2-sided sheets for the final), which will encompass material covered in the lectures and assigned in the readings. The project is an open-ended three-person team project.
+We do not take attendance except for the pods, but you will learn more if you attend lectures instead of watching the recordings.
+Worksheets, quizzes and surveys should be completed before your pod on the week after they are assigned.
+
+Reading Materials
+For the mathematical side of ML: C. Bishop, Pattern Recognition and Machine Learning. 2007
+For classical ML in Scikit-learn: hands on machine learning
+For deep learning in pytorch: Dive into Deep Learning
+example final projects demo1 and demo2
+See also Resources and Lectures
+
+
+
+
+Below is a list of topics only:
+
+Introduction, Python for ML, and Colab Basics
+
+Local Learning and Decision Trees
+
+MLE/MAP, Gaussians, and Linear Regression
+
+Overfitting, Regularization, Bias-Variance Decomposition, and Regression Penalties
+
+Logistic Regression and Generalized Linear Regression; Gradient Descent and KL-Divergence
+
+Random Forests and Boosting
+
+SVMs and Kernels
+
+Online Learning and Perceptrons
+
+Neural Networks and CNNs
+
+SVD, PCA, and Autoencoders
+
+Recommender Systems and Project Proposal
+
+Clustering, Expectation Maximization, and Missing Data
+
+Naive Bayes, LDA, Belief Networks, and HMMs
+
+Reinforcement Learning I
+
+Reinforcement Learning II (including DQN and AlphaZero)
+
+AutoML, Active Learning, and Causality
+
+Course Review and Final Projects/Exam
+
+
+
+
+
+

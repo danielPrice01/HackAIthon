@@ -1,0 +1,16 @@
+Course Description
+Welcome to CIS 4600: Introduction to Computer Graphics. This course covers the technical aspects of 3D Modeling including viewing transformations, polygon and mesh data structures, keyframe animation, and interactive manipulation. You will write a series program assignments in C++ that build up to a 3D game final project.
+
+Prerequisites
+CIS 4600 assumes a solid programming background in Java and/or C. CIS 240 is very strongly recommended. C++ experience is not required but is very helpful. We also expect you to have a minimal background in linear algebra: you should at least be comfortable with matrix multiplication and determinants.
+
+Textbook
+There is no required textbook for CIS 4600. We will be providing links to a series of helpful online resources, and may recommend some possible textbooks later in the semester.
+
+Course Details
+Lectures and recitations are live but their recordings will be made available through Canvas at or before the dates they are listed on the syllabus. Attendance is not required if you are unable to be physically present.
+All course announcements will be made via Canvas. This includes links to regularly scheduled Zoom meetings.
+Ed Discussion will also be used for addressing student questions on all course matters. You can find the Ed Discussion link on Canvas.
+There will be regular office hours held through OHQ  each week.
+To schedule a one-on-one meeting with the instructor, please send an email to the address listed on the Staff page.
+Assignment instructions will be released on this web site, and will be submitted through Canvas.

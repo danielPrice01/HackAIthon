@@ -1,0 +1,86 @@
+CIS 501: Computer Architecture Fall 2019
+Cerebras Wafer-Scale Engine die photo, c/o Cerebras
+
+CIS 501: Computer Architecture Fall 2019
+Frequently Asked Questions
+This iteration of CIS 501 is similar to the Spring 2019 iteration in that we will have the content from CIS 371: Computer Organization & Design (most notably the Verilog processor labs). CIS 240 is the pre-requisite, just like for CIS 371.
+
+Here are answers to some common questions about this offering of CIS 501.
+
+I'm an undergraduate (in CSCI or CMPE) who needs CIS 371 to graduate. What should I do?
+You should join the waitlist, and we will try hard to get you into the class.
+You should also fill out the electronic CIS Core Requirement Substitution Form. Note that the Petition for Action form is not needed.
+Are other iterations of CIS 501 eligible to stand in for CIS 371 credit?
+Only the iterations from Spring 2019 and Fall 2019 are eligible.
+Is the course content the same for graduate and undergraduate students?
+Yes.
+I am submatriculating into the CIS MSE. Can I double-count CIS 501 on my undergraduate and graduate degrees?
+Yes.
+Why was, in essence, the CIS 371 course number changed this semester?
+We are working toward a formal cross-listing for the two courses to avoid confusion going forward.
+Course Information
+instructor: Joe Devietti
+when: Monday/Wednesday 1:30-3pm
+where: Moore Building 216
+contact: campuswire (course code is 7125), canvas
+TAs:
+
+Alexander Do
+Brandon Gonzalez
+Grant Moberg
+Sameer Railkar
+office hours:
+
+See also the CIS 501 office hours calendar feed.
+
+Mondays 3-4:30pm, Levine 5th floor bump space (Alex)
+Tuesdays 3-4:30pm, K Lab aka Moore 200 (Grant)
+Wednesdays 3-4:30pm, Levine 5th floor bump space (Alex)
+Thursdays 10-11:30am, Levine 572 (Joe)
+Thursdays 3-4:30pm, K Lab aka Moore 200 (Grant)
+Sundays 6-9pm, K Lab aka Moore 200 (Brandon)
+Course Description
+This is a second computer organization course and focuses on computer hardware design. In this course you will design and implement a pipelined, superscalar processor for a simple RISC ISA using Verilog. You will learn the range of architectural techniques used in modern CPU design including superscalar design, out-of-order execution, and cache hierarchies.
+
+Prerequisites
+CIS 240 and knowledge of at least one software programming language. We do not assume you have any prior experience with Verilog.
+
+Course Materials
+The main textbook is Computer Organization and Design: The Hardware/Software Interface by Patterson and Hennessy. The 4th and 5th Editions are both fine. The 4th Edition is available for free on-line through the Penn Library.
+
+Introduction to Logic Synthesis using Verilog HDL by Reese and Thornton is also a nice introduction to hardware design and Verilog. It is also available as a free PDF via the Penn Library.
+
+LC4 ISA sheet
+
+Course Policies
+See details about course policies on late days, collaboration, etc.
+
+Lecture slides
+Lecture recordings are available via Canvas under Class Recordings.
+
+Lecture slides:
+
+Introduction (pptx, pdf)
+Hardware (pptx, pdf)
+Arithmetic (pptx, pdf)
+Single-Cycle Datapath (pptx, pdf)
+Performance (pptx, pdf)
+Pipelined Datapath (pptx, pdf)
+Debugging (pptx, pdf)
+Branch Prediction (pptx, pdf)
+Caches (pptx, pdf)
+Superscalar (pptx, pdf)
+Out-of-Order (pptx, pdf)
+Multicore (pptx, pdf)
+Virtual Memory (pptx, pdf)
+Meltdown/Spectre (pptx, pdf)
+Course Schedule
+The course schedule is maintained in Canvas. There is an iCal feed you can subscribe to with important class events (class meeting times, review sessions, assignment due dates, etc.)
+
+Office hours are on a separate iCal feed.
+
+Previous Editions of CIS 501 and CIS 371
+CIS 501, Spring 2019
+CIS 371, Spring 2018
+CIS 371, Spring 2017
+CIS 371, Spring 2016

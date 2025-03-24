@@ -1,0 +1,77 @@
+Grading¶
+Your grade for this class will be computed as follows:
+
+20% Midterm Exam - date: March 14, 2024
+
+20% Final Exam - date: TBD
+
+60% Course Projects (10% each)
+
+Academic Integrity¶
+This course will abide by the University’s Code of Academic Integrity. In particular, for individual projects and group projects, the following guidelines should be followed:
+
+For individual projects, you must type in and edit your own code, documentation, and any other materials submitted for grading.
+
+Copying someone else’s file is not allowed.
+
+Allowing someone else to copy a file of yours, either explicitly or implicitly by leaving your code unprotected, is not allowed.
+
+
+
+Here’s a concise list of topics extracted from the schedule:
+
+Introductions: Compilers, Interpreters, and OCaml
+
+OCaml Crash Course: the SIMPLE language
+
+SIMPLE to OCaml Translation / X86lite
+
+X86lite
+
+X86lite: Calling Conventions / Code Generation
+
+Intermediate Representations I
+
+Intermediate Representations II
+
+LLVM and Structured Data in the LLVM IR
+
+LLVM IR Data Types II
+
+Lexing: DFAs and ocamllex
+
+Parsing I: Context Free Grammars
+
+Parsing II: LR(0) Parsing
+
+Spring Break
+
+Parsing III: LR(1) Parsing
+
+Midterm
+
+OAT v1 Overview, First-class Functions I: Lambda Calculus
+
+First-class Functions II: Lambda Calculus
+
+Closure Conversion / Judgments & Derivations / Scope Checking
+
+Types I: Typechecking
+
+Types II: Rich Types, Subtyping
+
+Subtyping, Mutability
+
+Objects, Inheritance, and Dynamic Dispatch
+
+Optimizations I
+
+Data Flow Analysis
+
+Data Flow Analysis II
+
+Register Allocation / Control-flow Analysis
+
+Control-flow Analysis / Phi-Nodes / Course Wrap Up
+
+Final Exam

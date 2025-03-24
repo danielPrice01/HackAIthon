@@ -1,0 +1,88 @@
+Course Description:
+
+Purpose:
+
+The purpose of this course is to provide a mathematically rigorous foundation for probability theory, stochastic processes, and statistical inference.
+
+Intended Audience and Prerequisites:
+
+The intended audience for this class is students who are interested in learning about the mathematical foundations of probability theory, stochastic processes, and statistical inference using the language and ideas of measure theory. Proving mathematical results is an important part of this experience. The prerequisites for CIS 261 are CIS 160 and Math 114/116. There will be weekly homework sets, weekly quizzes, three hour-exams and a two-hour final exam. Computation and Programming will play an essential role in this course. The students will be expected to use the Mathematica programming environments in homework exercises, which will include: numerical and symbolic computations, simulations, and graphical displays.
+
+Instructors:
+
+Professor Max Mintz:
+
+Office: CIS Department, 462 GRW
+
+Office Hours: TBA
+
+Phone: 898-7909
+
+E-mail: mintz@cis.upenn.edu
+
+Home Page: http://www.cis.upenn.edu/~mintz/home.html
+
+Previous CIS 261 Course Evaluations:
+
+CIS 261 2007-2018:
+See Penn Course Review
+Teaching Assistants:
+
+Name:	E-Mail:	Office:	Office Hours:
+Adam Zheleznyak	azhel@sas.upenn.edu	
+TBA
+
+TBA
+
+TBA
+
+TBA
+
+Class Schedule:
+
+Lectures: Tuesday, Thursday, 13:30-14:50, Room: 315 TB
+
+Recitation: Friday 14:00-14:50, Room: 315 TB
+Preliminary Examination Schedule:
+
+Preliminary Examination I: 27 September, 14:00-14:50; Room: 315 TB
+
+Preliminary Examination II: 1 November, 14:00-14:50; Room: 315 TB
+
+Preliminary Examination III: 6 December, 14:00-14:50; Room: 315 TB
+
+NB: Makeup preliminary examinations will only be given for verified medical reasons. All makeup examinations are oral.
+Weekly Quizzes:
+
+There will be weekly written quizzes lasting 10-15 minutes. The quizzes are scheduled on Fridays. The purpose of the quizzes is to aid students in keeping current on the homework and lecture material. The subject material of the quizzes will be taken from the homework assignments and lectures. The tentative quiz schedule is: September 6, 13, 20; October 4, 18, 25; November 8, 15, 22. No makeup quizzes will be given.
+Examination Policy:
+
+NB: All preliminary examinations and quizzes are closed-book examinations. No written notes, personal assistants, or calculators are permitted.
+Written Assignments Policy:
+
+Written assignments (problem sets) will be given weekly during lecture and recitation. The problems will vary in difficulty and will be designed to reinforce and augment the material in the lectures and text.
+
+Assignments include: analytical work, derivations, proofs, algorithms, and computer program implementations.
+
+The assignments will be collected and graded. Each assignment must be submitted at the beginning of the class in which it is due. Late submissions will not be accepted. Our goal is to grade all of the homework that is submitted in a timely fashion.
+
+Solutions to the homework problems will be distributed in class.
+
+You are permitted to discuss the homework problems with other class members with the following limitations. These discussions are to be limited to high-level concepts. You are not permitted to copy or share written work or implementation details. It is understood that the work that you submit may be based on these discussions but has not been either copied directly from another student's paper nor is it, in part or in whole, the product of impermissible collaboration.
+
+All written work must be neat, well organized, and include sufficient explanations in the delineation of the solutions. Messy, poorly organized, or illegible material will be returned ungraded.
+
+Each homework set will be graded based on the following grade levels: E (excellent), S (satisfactory), U (unsatisfactory), NC (no credit).
+Grading Policy:
+
+The final course grade will be based entirely on the three preliminary examinations, the comprehensive two-hour final examination, the aggregate quiz scores, and the homework assignments. No exemptions from examinations will be made. The final grade will be based on the following units: (1) the quizzes; (2) prelim I; (3) prelim II; (4) prelim III; (5) the final exam, part I; and (6) the final exam, part II. The sum of these six components will constitute 90% of the final course grade. The remaining 10% of the final course grade will be based on the aggregate homework scores.
+
+Texts:
+
+In lieu of a required text, Lecture Notes will be distributed at the beginning of the course.
+
+
+
+CIS 261 Course Topics:
+
+An Axiomatic Approach to Measure and Probability Spaces; The Generation of Finite Sigma-Fields via Finite Partitions; The Generation of Countable and Nondenumerable Sigma-Fields; Lebesgue Measure and Nonmeasurable Sets; The Properties of the Probability Function; The Definition of Conditional Probability; Bayes' Theorems; The Polya Urn Scheme; Independent Events; Product Probability Spaces; Important Discrete Probability Laws; An Axiomatic Derivation of the Poisson Probability Law; Important Continuous Probability Laws; The Cantor Distribution; Discrete and Continuous Random Variables; Univariate and Joint Point-Mass Functions; Univariate and Joint Cumulative Distribution Functions; Univariate and Joint Density Functions; Independent Random Variables; Functions of One or More Random Variables; Conditional Univariate and Joint Point-Mass Functions; Conditional Univariate and Joint Cumulative Distribution Functions; Conditional Univariate and Joint Density Functions; Conditioning With Respect to a Sub-Sigma-Field; The Lebesgue Integral; The Definition of the Expected Value of a Random Variable; The Fourier Transform and the Characteristic Function; The Variance of a Random Variable; The Expected Value of a Function of One or More Random Variables; The Definition and Properties of Conditional Expectations; Uncorrelated Versus Independent Pairs of Random Variables; Convergence Concepts for a Sequence of Random Variables; The Laws of Large Numbers; Central Limit Theory; The Definition of a Stochastic Process; The Normalized Wiener Process; The Levy Oscillation Theorem; The Ito Stochastic Integral; Parameter Estimation Techniques and Their Properties.

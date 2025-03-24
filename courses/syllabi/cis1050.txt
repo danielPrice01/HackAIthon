@@ -1,0 +1,77 @@
+Course Overview
+This course is an introduction to programming through data science. Big Data, Data Visualization, Data Analysis, Data Scientist - these terms have become huge buzzwords. Any modern day analysis of data requires thoughtful programming. It is the goal of this course to teach students some of the basic ideas in data science.
+
+During this course students will use programming techniques on real world data sets in order to answer questions like
+
+Which month is the rainiest in the city of Philadelphia?
+How many puppies are available for adoption in the city of Austin, Texas? What percentage of them are Golden Retrievers?
+How do you compute probabilities without taking a formal probability course?
+Does class participation improve your GPA? By how much?
+Who is going to win the 2016 Presidential elections?
+This course is targeted towards freshmen. It has no prerequisites
+All programming will be in Python.
+The course does not count towards engineering credit. Students will be well positioned to take CIS110 after they do this course.
+
+Teaching Staff
+Instructor
+
+Arvind Bhusnurmath, bhusnur4@seas.upenn.edu
+
+Teaching Assistants
+
+Gina Liu
+Ada Li
+ 
+
+Class Meeting Times
+Lecture: Mon/Wed/Fri 10-11am, Towne 319
+Recitation: Mon 3-4:30pm, Towne 309
+
+Topics Covered
+Basic data manipulation
+
+single variable. datatypes
+numpy arrays
+dataframes
+applying functions to arrays
+group by, pivot.
+Data visualization
+Bar graphs
+Histograms
+Statistics and Hypothesis testing
+Sampling
+Mean, Variance
+Correlation
+Linear Regression
+Hypothesis testing
+
+ 
+
+Textbooks
+There will be no required textbook for this course.
+A fair amount of material will be from the book 'Python for Data Analysis' by 'Wes McKinney' but that book is dense and is best used as a reference once you have completed this course.
+All readings will be posted on Canvas
+
+ 
+
+Grading
+Note that these are only guidelines, but final course grades will likely be based on the following:
+
+Homework assignments (55%)
+There will be about 8 programming assignments over the course of the semester
+You must work on these assignments alone unless specifically noted
+Please note that looking at anyone else's code is a violation of the academic integrity policy in this course.
+Midterm exam (15% total)
+There will be one midterm exam over the course of the semester right before the fall break. It will be worth 15% of the grade
+Recitation (10%)
+Weekly recitation sessions will involve the TAs showing you more examples related to lecture material. Some recitations might involve a short quiz as well.
+Your grade will be determined by attendance, participation and performance in the quizzes.
+Group project (20%)
+This is a project that you will complete in groups of two.
+
+ 
+
+Course Policies
+All course policies will be made available to registered students via Canvas.
+ 
+

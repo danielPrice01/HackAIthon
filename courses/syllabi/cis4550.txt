@@ -1,0 +1,112 @@
+This course focuses on the issues encountered in building Internet and Web systems, such as scalability, interoperability, consistency, replication, fault tolerance, and security. We will examine how services like Google or Amazon handle billions of requests from all over the world each day, (almost) without failing or becoming unreachable. We will study how to collect massive-scale data sets, how to process them, and how to extract useful information from them, and we will have a look at the massive, heavily distributed infrastructure that is used to run these services and similar cloud-based services today.
+
+An important feature of the course is that we will not just discuss issues and solutions but also provide hands-on experience, using web search as our case study. There will be several substantial implementation projects throughout the semester, each of which will focus on a particular component of the search engine, such as frontend, storage, crawler, or indexer. The final project will be to build a Google-style search engine, and to deploy and run it on the cloud.
+
+Notice that this is NOT a course on web design or on web application development! Instead of learning how to use a web server such as Apache or a scalable analytics system such as Spark, we will actually build our own little web server, and a little mini-"Spark", from scratch. As a side effect, you will learn about some aspects of large-scale software development, such as working with APIs and specifications, thinking about modularity, reading other people's code, managing versions, and debugging.
+
+CIS 5550 is now a core course for the MSE degree as well as an option for the WPE I requirement for PhD students. The Daily Pennsylvanian published a nice article about this course.
+
+Instructor
+Vincent Liu
+Office hours: Wednesdays 2:00 - 3:00 pm (Levine 574)
+
+Teaching assistants
+[Head TA] Sid Sannapareddy		sidsan@seas.upenn.edu		OH: Fri 12:00 - 2:00 pm @ Levine 5th Floor Bump Space
+Yutai Zhang	yutai@seas.upenn.edu	OH: Fri 10:00 am - 12:00 pm @ OHQ
+Yuxuan Xiong	yuxuanx@design.upenn.edu	OH: Sat 9:00 - 11:00 am @ OHQ
+Grace Lee	glee1@seas.upenn.edu	OH: Sat 6:00 - 8:00 pm @ OHQ
+Xingjian Wang	xwang7@seas.upenn.edu	OH: Sun 10:00 am - 12:00 pm @ OHQ
+Kevin Liu	kliu2360@seas.upenn.edu	OH: Mon 7:00 - 9:00 pm @ OHQ
+Jason Ren	jren2@seas.upenn.edu	OH: Tue 1:00 - 3:00 pm @ Levine 3rd Floor Bump Space
+Tang Gao	tanggao@seas.upenn.edu	OH: Tue 3:00 - 5:00 pm @ OHQ
+Cyrus Singer	cysinger@seas.upenn.edu	OH: Wed 3:30 - 5:30 pm @ Levine 5th Floor Elevator Bump Space
+Rui Xia	xia7@seas.upenn.edu	OH: Thu 1:00 - 3:00 pm @ OHQ
+Emily Shang	emshg@seas.upenn.edu	OH: Thu 4:00 - 6:00 pm @ Levine 3rd Floor Bump Space
+
+
+Format
+The format will be two 1.5-hour lectures per week, plus assigned readings. There will be regular homework assignments, two in-class midterms, and a substantial implementation project with experimental validation and a report.
+
+Time and location
+Tuesdays and Thursdays 10:15-11:45am (COLL 200)
+Prerequisites
+This course expects familiarity with threads and concurrency, as well as strong Java programming skills. Those highly proficient in another programming language, such as C++ or C#, should be able to translate their skills easily. The course will require a considerable amount of programming, as well as the ability to work with your classmates in teams.
+
+Textbooks
+Distributed Systems: Principles and Paradigms, 3rd edition, by Tanenbaum and van Steen, Prentice Hall (ISBN 978-1530281756).
+You can buy a physical copy (e.g., for $35 on Amazon) or download a free digital copy here.
+
+Additional materials will be provided as handouts or in the form of light technical papers.
+
+Grading
+Homework 40%, Term project 25%, Exams 30%, Participation 5%
+Policies
+You can find a list of key course policies here.
+Assignments
+Homework assignments are available for download. Please join the discussion group as well!
+
+
+
+Below is a streamlined list of topics extracted from the schedule:
+
+Introduction (Overview, Logistics, Policies)
+
+Internet Basics (Interdomain routing, BGP, valley-free, path properties, TCP/UDP, socket basics, echo server)
+
+The Web (Hyperlinks, history, client–server model, HTTP/1, TLS, HTML/CSS basics, HTTP/2)
+
+Scalability (Parallelization, consistency, mutual exclusion, locking, deadlocks, NUMA, shared-nothing, frontend–backend, sharding)
+
+Dynamic Content (Routes, managing state, cookies, sessions, tracking, business models)
+
+The Client Side (JavaScript, DOM)
+
+The Client Side (cont.) (Dynamic requests, AJAX)
+
+Naming (Namespaces, directory structures, DNS architecture, security issues, DNSSEC, DANE)
+
+The Cloud (Data centers, cloud computing types, history, case study: EC2)
+
+RPCs (Web services, APIs, remote procedure calls, handling RPC failures, data interchange, XML)
+
+First Midterm Exam
+
+Key–Value Stores (Key–value stores on the cloud, sharding, coordination, case studies: S3, DynamoDB)
+
+Basic Fault Tolerance (Fault models, primary–backup replication)
+
+Basic Fault Tolerance (cont.) (Availability, durability, CAP theorem, quorum replication)
+
+Scalable Analytics (Introduction to scalable analytics, MapReduce, Streams API, Apache Spark, lambdas and serialization)
+
+Spark Basics (Spark jobs, file operations, transformations, actions, structured API)
+
+Spark Continued (HDFS, Apache Livy, distributed shared variables, graph algorithms in Spark)
+
+Crawling (Structure of the Web, crawling basics, SEO, crawler etiquette)
+
+Information Retrieval (IR models: precision/recall, Boolean and vector models, TF/IDF, stemming, lemmatization)
+
+Authoritativeness (Off-page features, HITS, PageRank, sinks and hogs)
+
+Search Engines (Building a search engine, case studies: Google and Mercator, project overview, modern search)
+
+Decentralized Systems (Centralization effects, partly centralized systems, unstructured and structured overlays)
+
+Key–Based Routing and DHTs (Consistent hashing, basic Chord, fault tolerance in Chord, security aspects)
+
+Advanced Fault Tolerance (Non–crash fault models)
+
+Advanced Fault Tolerance (cont.) (State–machine replication, Paxos, Byzantine Generals Problem, Byzantine fault tolerance)
+
+Security (Threat models, cryptographic basics, digital signatures, attacks and defenses)
+
+Second Midterm Exam
+
+Finals Period / Project Demos
+
+
+
+
+
+

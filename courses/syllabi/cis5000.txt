@@ -1,0 +1,95 @@
+Overview:
+This course introduces basic concepts and techniques in the foundational study of programming languages, as well as their formal logical underpinnings. The central theme is the view of individual programs and whole languages as mathematical objects about which precise claims may be made and proved. Particular topics include operational techniques for formal definition of language features, type systems and type safety properties, polymorphism and subtyping, and foundations of advanced programming-language features.
+
+Topics:
+Part I: Logical Foundations
+Functional programming
+Constructive logic
+Inductive definitions and proof techniques for informal and formal proof
+The Coq proof assistant
+Part II: Programming Language Basics
+Operational semantics
+Semantics of the imperative While language
+Part III: Type systems
+Simply typed λ-calculus
+Type safety
+Subtyping
+Textbook:
+Online textbooks: Logical Foundations and Programming Language Foundations
+
+Supplementary textbook: Types and Programming Languages. Benjamin C. Pierce. MIT Press, 2002.
+
+Prerequisites:
+An undergraduate-level course in programming languages or compilers; significant programming experience; mathematical sophistication.
+
+Grading:
+Breakdown for the course grade is as follows:
+
+Homework: 30%
+Midterm 1: 20%
+Midterm 2: 20%
+Final Exam: 30%
+Advanced/WPE Track
+Note that the information below applies to the CIS5000 course. The syllabus for the Software Foundations area of the WPE-I can be found here.
+
+CIS 5000 can be taken in one of two tracks: regular and advanced. The difference is that the advanced track features more and harder exercises; it also has more challenging exams, emphasizing written proofs. These two tracks will be considered separately for the purposes of determining final grades in the course (that is, regular track students will not be compared against advanced track students and vice-versa).
+
+Ph.D. students are required to take the "advanced" track.
+
+Undergraduate students and masters students are considered to be "regular" track by default, but they may take the advanced track (which may be desirable, for instance, if they plan to apply to PhD programs). Students wishing to do so should contact the course instructor.
+
+The homework assignments will clearly designate which problems are considered to be "regular" and which are considered "advanced".
+
+Regular-track students' homework grades will be based on the "regular" problems.
+
+Advanced-track students' homework grades will be based on all of the "regular" problems plus the additional "advanced" problems.
+
+Regular-track students are encouraged to attempt the "advanced" track problems. Any homework points earned by a regular-track student by completing advanced problems are "kudos-only" (i.e., they do not affect the grade for that particular homework, they are not bonus points, and they cannot replace the points earned from regular problems). However, if a regular-track student has a consistent, strong track record of completing advanced material, the instructor may take that into consideration when calculating the student's overall letter grade for the course. (For instance, a regular track student who consistently completes advanced-track homework problems but does poorly on an exam may have their letter grade improved relative to the raw computed score.)
+
+A regular-track student's grades cannot be harmed by their performance on advanced-track material.
+
+Homework
+Working with the CIS 5000 Coq Projects
+CIS 5000 has many homework assignments that build on each other. Keeping current with the course material is extremely important for successfully completing the course.
+
+CIS 5000 homework is designed to be completed by students individually. Students are not allowed to share code in any way. They may discuss general high-level concepts (e.g., "what is induction?") and low-level details (e.g., "what is the syntax for the apply tactic?"), but they are not permitted to discuss the details of particular homework problems.
+
+Each assignment consists of a few Coq *.v files that you will modify and submit for grading. We recommend that you use one project folder that holds all of the *.v files for each portion of the class. Further instructions will be provided along with the homework announcements, and you can find additional documentation about setting up your project environment on the Coq information page.
+
+WARNING: The difficulty level of homework assignments in this course ramps up significantly as the course progresses. If you find yourself struggling with the early homework, that is a bad sign, but they are also potentially deceptively simple.
+
+Submission Policy
+When submitting Coq files as homeworks, make sure that Coq accepts each file in its entirety. If Coq does not accept the file, it will not be graded. You can use Admitted to force Coq to accept incomplete proofs (but you will not get credit for those problems).
+
+Late Submission Policy
+The late submission policy is intended to encourage students to complete every homework to the best of their ability while still allowing them a bit of flexibility throughout the semester to account for scheduling challenges. If you have unusual circumstances please contact the instructor.
+
+Any homework submitted before the due date is considered on time.
+
+Any homework submitted after the due date is considered late. The difference between the submission time and the due date is the number of hours the assignment is overdue.
+
+In the absence of unusual circumstances, homework cannot be submitted after 48 hours past the due date. (We will close the submission site at that time.)
+
+For each 24 hours overdue (or fraction thereof) that a homework is submitted late, the student accrues one "late day". "Late days" are atomic, indivisible units, partial late days are not permitted.
+
+Any homework that is not submitted at all will receive a score of 0 and cause the student to accrue 2 late days.
+Accrued late days do not impact any individual homework score. Instead, they apply to the final weighted, letter grade of the class, as follows:
+
+0 - 8 late days: no grade penalty
+9 - 16 late days: one-third letter grade penalty (A becomes A-, A- becomes B+, B+ becomes B, etc.)
+17 - 20 two-thirds letter grade penalty (A becomes B+, A- becomes B, B+ becomes B-, etc.
+21 - 24 late days: one full grade penalty (A becomes B, A- becomes B-, B+ becomes C+, etc.)
+Students do not have to notify the course staff about late submissions.
+
+Students should be able to calculate the number of late days they have accrued by looking at the information on the homework submission site. However, any student wishing to know the total number of late days that they have accrued should contact the course staff.
+
+Unusual Circumstances
+If you have unusual medical, family, or other emergency circumstances, please contact the instructor as soon as possible so that an appropriate plan for completing the course material can be created. It is preferable that you contact the course staff before the homework due date or exam, in which case we will do our best to accommodate the unusal circumstances. If you do not contact the staff in advance, it is up to the instructor's discretion whether a late assignment falls into the unusual circumstances category, or whether it causes the student to accrue late days.
+
+Academic Integrity:
+This course will abide by the University’s Code of Academic Integrity. In particular, for individual projects and group projects, the following guidelines should be followed:
+
+For individual projects, you must type in and edit your own code, documentation, and any other materials submitted for grading.
+Copying contents from someone else’s file is not allowed.
+Allowing someone else to copy a file of yours, either explicitly or implicitly by leaving your code unprotected, is not allowed.
+Last modified: Sun Sep 1 10:43:56 EDT 2013

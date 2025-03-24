@@ -1,0 +1,65 @@
+Brief description:
+The course provides an introduction to the theory of computation. The treatment is mathematical, but the point of view is that of Computer Science. Roughly speaking, the theory of computation consists of three overlapping subareas: (1) formal languages and automata; (2) Models of computation, computability, decidability and undecidability ; (3) complexity theory.
+Applications of (1) to programming and language specification and parsing (top-down and bottom-up parsing), and to (2) and (3) to provability in propositional logic will be mentioned whenever appropriate.
+
+
+Syllabus:
+Topics will include: ((*) means: if time permits)
+PART I: Languages and Automata
+
+
+Basics of language theory: alphabets, strings, concatenation, languages, operations on languages (including Kleene *)
+Deterministic finite automata (DFA's)
+The cross-product construction
+Nondeterministic finite automata (NFA's)
+From NFA's to DFA's, the subset algorithm (Rabin and Scott)
+(*) An Application of NFA's: Text Search
+An introduction to hidden Markov models (HMMs)
+Regular languages and regular expressions
+From regular expressions to NFA's
+From NFA's to regular expressions (node elimination)
+Closure properties of the regular languages
+Right-invariant equivalence relations
+The Nerode/Myhill characterization theorem
+(*) The pumping lemma for regular languages
+(*) State equivalence, minimal DFA's
+Context-free grammars and context-free languages
+Leftmost derivations, rightmost derivations, parse trees
+The universality of leftmost derivations
+(*) Cleaning-up context-free grammars (e-rules, chain rules)
+(*) Chomsky Normal Form
+Right-linear grammars and regular languages
+(*) Eliminating useless productions
+(*) An Introduction to LR-parsing
+PART II: Models of Computation; Decidability and Undecidability
+
+Generalities on computability, Partial Functions
+RAM programs (Post machines)
+Turing Machines
+RAM computable functions are Turing computable
+Turing computable functions are RAM computable
+Recursively enumerable languages and recursive languages
+Pairing Functions
+Coding of RAM programs and Turing machines
+Undecidability of the Halting Problem
+A universal RAM program
+Undecidability and Reducibility
+Rice's Theorem
+The Lambda Calculus
+Definability of the computable functions using the Church numerals
+Listable Sets and Diophantine Sets; Hilbert's Tenth Problem
+(*) The undecidability of Post's Correspondence Problem
+(*) Undecidable Properties of CFL's
+PART III: Computational Complexity
+
+The class P
+Examples of Problems
+Boolean Satisfiability
+The class NP
+NP-completeness
+The Cook-Levin Theorem
+Polynomial-time reductions
+Pspace and NPspace
+Savitch's Theorem
+A complete problem for Pspace:
+Quantified Boolean Formulae (QBF)

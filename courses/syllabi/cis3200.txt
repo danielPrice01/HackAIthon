@@ -1,0 +1,69 @@
+CIS 3200: Introduction to Algorithms (Spring ’25)
+General Information
+Instructor: Sanjeev Khanna (sanjeev@cis.upenn.edu)
+Office hours: Mon & Wed: 5:00 – 6:00 pm.
+TAs: We have a great team of TAs:
+Skyler Cheung (skcheung@seas.upenn.edu), Sophie Courtney (sophieyl@wharton.upenn.edu),
+Mahika Calyanakoti (mahika@seas.upenn.edu), James Doh (dohj0109@seas.upenn.edu),
+Viraj Doshi (viraj108@seas.upenn.edu), William Guo (willguo6@seas.upenn.edu), Eugene Halim
+(ehalim@sas.upenn.edu), Sahishnu Hanumolu (hsahi@seas.upenn.edu), Vignesh Lakshmanan
+(vigneshl@seas.upenn.edu), Kaily Liu (liukaily@seas.upenn.edu), Andrew Lukashchuk
+(aluk@seas.upenn.edu), Ethan Ma (ethanma@seas.upenn.edu), Kayan Mohamed (kayan25@seas.upenn.edu),
+Brendan Nguyen (bmnguyen@seas.upenn.edu), Karthik Padmanabhan (ksai@seas.upenn.edu),
+Hwi-Sang (Joseph) Cho (hwisang@seas.upenn.edu), Eshan Singhal (esinghal@seas.upenn.edu),
+Royce Sun (roycesun@sas.upenn.edu), Avinash (Avi) Upadhyayula (aviu@sas.upenn.edu), Ethan
+Weisberg (ethaniw@seas.upenn.edu), Rayan Yu (rayanyu@wharton.upenn.edu), Katherine Yue
+(kyue@seas.upenn.edu), Cynthia Zhang (cynzhang@wharton.upenn.edu).
+Cynthia and Skyler are the head TAs for our class. We will soon post a detailed TA office
+hour schedule. Office hours will start from next week.
+Textbook: Introduction to Algorithms by Cormen, Leiserson, Rivest, and Stein, fourth edition,
+2022.
+Website: There is a Canvas website for the course where you can find course handouts. The
+course calendar on Canvas will contain a summary of topics covered in each lecture along with
+a reading list. You can also access all course postings through the Course calendar. We will
+use Ed Discussions for online clarifications related to the homeworks and other course material.
+Course Organization
+Homeworks: There will be 6 homeworks, worth a total of 24% of the grade. Typically,
+homeworks will be given on Mondays and will be due exactly 2 weeks later, at the beginning
+of the Monday class. The first homework will be posted online on Canvas on Monday,
+January 20 and will be due on Monday, Feb 3. The release dates for the remaining
+homeworks are Feb 3, Feb 17, Mar 17, Mar 31, and Apr 14.
+Midterms: Midterm 1 is on Wednesday, Feb 26, and Midterm 2 is on Wednesday, April 9;
+each midterm is worth 20% of the grade. They will be held during the class time.
+Final: The final exam will be held in accordance with the schedule decided by the Penn
+registrar’s office. It is worth 36% of the grade.
+All exams will be closed-book and closed-notes.
+1
+Course Policies
+• You are allowed to work on the homeworks in groups of up to 3 students. But you
+must write your solutions independently! Please write names of all the students in
+your group when submitting the homework.
+• You may consult class notes and the text for solving homework problems but no other
+resources are allowed. Any violations of this policy may be referred to the Office of
+Student Conduct.
+• You must typeset your homework. We will provide you with Latex template for
+writing homework solutions. Homeworks are to be submitted via Gradescope.
+• Please do not ask for extensions: you are allowed to submit two homeworks of your
+choice up to 48 hours late without penalty. So, for instance, if the HW is due on a
+Monday by 3:30 PM, you can submit it by Wednesday, 3:30 PM the same week if you
+choose to use one of the two allowed extensions. You do not need to ask permission
+to use this extension. Just indicate on the first page of your homework that you are
+using an extension. You will not receive any credit for a homework submitted more than
+48 hours after the original due date. You will lose 25 points on the HW if you use a
+48-hour extension beyond the 2 allowed extensions. No homeworks will be accepted past
+the 48 hour extension from the due date.
+• Use your extensions wisely! It helps to save an extension for the end of the semester
+crunch. My advice: avoid taking an extension on the first two homeworks.
+• No electronic devices (cellphones, laptops, tablets) during the class. The only
+exception to this is if you are using a laptop or tablet for note-taking – please make sure
+that your usage is strictly limited to note-taking.
+Topics
+Sorting, Selection, and Data Structures: mergesort, quicksort, counting sort, median
+selection and order statistics, heaps, hash tables, binary search trees.
+Design Techniques: divide and conquer, dynamic programming,
+greedy algorithms, randomization.
+Graph Algorithms: graph traversal and applications, minimum
+spanning trees, shortest paths, network flows.
+Advanced Topics: NP-completeness, approximation algorithms.
+Time Permitting: Machine-learning algorithms; Linear programming; an introduction
+to sublinear algorithms for very large data sets.

@@ -1,0 +1,38 @@
+Course Basics
+Description: In this special topics course, you will learn the essentials of human-computer interaction (HCI). Over the course of a semester, you will learn how to design interactive systems that satisfy and delight users by undertaking the human-centered design process, from ideation to prototyping, implementation, and assessment with human users. 
+You will learn key tools in the HCI toolkit, including need-finding, user studies, visual design, cognitive models, demo'ing, ethical considerations, and writing about your designs. This course also provides a primer on several areas of emerging technology in HCI, such as human-AI interaction and education technology.
+To hone your craft as an HCI practitioner, during this course you will undertake a group project to design an innovative user interface. The final submission will include a working interactive prototype, demonstrations of the interface at a public departmental design showcase, and a written reflection on your design findings.
+Instructor: Andrew Head (head@seas.upenn.edu)
+Lectures:  2 lectures per week, Monday/Wednesday 1:45-3:15pm Eastern
+Intended Audience: Undergraduate students (and Masters students, by permission) with interests in researching, designing, or evaluating interactive systems.
+Prerequisites: Students should be comfortable enough with programming to be able to pick up a user interface implementation language (e.g., JavaScript) for their final project. We recommend a level of programming experience equivalent to taking CIS 1210.
+In some cases, students from outside SEAS lacking these skills can enroll, taking care to choose a final project group with the requisite skills to undertake the project. If you’re in the latter category, please discuss with the instructor at the start of the course.
+Contact: To contact the entire instructional staff, email cis3990-tas@seas.upenn.edu or post on Ed Discussion.
+Office Hours
+Professor office hours are Wednesday 12:30-1:30 (right before class) in Levine 303.
+TA office hours are held in Levine 255 (opposite the elevators on the second floor, it's the first door on the left after the ramp, glass door), and will be:
+Monday, 12-1:30pm: Kepler Boonstra  (kboonst@seas.upenn.edu)
+Tuesday, 1:30-3:30pm: Joyce An-Jie Wang (joycew3@seas.upenn.edu)
+Thursday, 12:00-1:30pm: Litao Yan (ltyan@seas.upenn.edu)
+Friday, 12:00-2:00pm: Shraavasti Bhat (shraab@seas.upenn.edu)
+Logistics
+This course will require about 5-10 hours a week on average outside of lecture, divided across readings and assignments. The final project may also require more time outside of class, depending on the scope of your project.
+Grading: For details on due dates for the below, see the Assignment section of the Canvas site. This class has five components:
+Programming Practice (4%): tutorial assignments to learn the basics of prototyping interfaces with HTML, CSS, and JavaScript.
+Readings (4%): Do readings and submit reading responses.
+Attendance (2%): Attend special class events, including the project showcase.
+Quizzes (10%): Take quizzes in class. Quizzes will be given approximately every 2-3 lectures.
+Assignments (40%): A sequence of core assignments will be provided on an approximately bi-weekly cadence. In these assignments, you will practice HCI need-finding, prototyping, and evaluation methods. Some of these assignments will be solo assignments, and some will be group projects.
+Final Project (40%): Final deliverables for the course, consisting of the implementation of a prototype of an novel user interface, grounded in user research, and posters, pitches, and demos demonstrating that interface.
+For most assignments, grading will follow a check system:
+√-: (Equivalent to C or below): Some deliverables are missing, or a key part of the design process was not undertaken correctly.
+√: (Equivalent to B) You followed the process correctly and submitted the required deliverables.
+√+: (Equivalent to A) You both followed the process correctly, and did design work that we think is really good. Your work is suggestive of a design that we think could work out really well in the real world.
+√++ (Equivalent to A+): Truly exemplary work.
+The most frequent grade for most assignments is a √. Work of the level of √+ often requires starting early on assignments, critical thought, and doing careful research and ideation. We are always excited to review your work ahead of time to help you turn your work that follows the process into something that is really strong design work.
+A note about groups: For group assignments, we will typically assign all group members the same grade. If you’re having an issue with coordinating with your group, bring it up with the instructor sooner than later. 
+Masking policy: Classes will be held in person, per university policy. In the spirit of keeping the class accessible to all, everyone in attendance will be required to wear a mask while in the classroom, at least for the first few weeks of the course. Masking policy will be revisited after the add / drop deadline passes.
+Laptop policy: Unless required for in-class activities, laptops and devices are prohibited during lectures. We ask that you take notes on paper or tablets.
+Attendance: You are expected to be in lecture every day in person. There will be pop quizzes for approximately 1 of every 2-3 lectures; this is our primary way of keeping track of attendance. On about half of all Monday classes, we will hold studio sessions, where you must be physically present to receive feedback on your work and give feedback on others’. You are also required to attend the final project showcase on May 1, 2023 at 2-4pm. Book this time in your calendar now, and let the instructor know as soon as possible if you have any conflicts with that time.
+Schedule
+The course schedule can be found here.

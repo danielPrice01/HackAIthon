@@ -1,0 +1,42 @@
+Here is a list of office hours for all course personnel. You may also request office hours by appointment.
+
+Course Description
+
+This course is about the social and human problems that can arise from algorithms, AI and machine learning, and how we might design these technologies to be "better behaved" in the first place. It is first and foremost a science or engineering course, since we will be developing algorithm design principles. You can get a rough sense of course themes and topics by visiting the websites for the pilot versions of this course offered in 2021, 2020 and 2019. The first formal offering of the course was in Spring 2022, and the most recent version was Spring 2023.
+
+Here are the lecture videos from the last pilot version in 2021. Please note that they will not correspond exactly to this year's lectures, and should not be viewed as a substitute for mandatory lecture attendance.
+
+Prerequisites: Familiarity with some machine learning, basic statistics and probability theory will be helpful. While this is not a theory class, you need to be comfortable with mathematical notation and formalism. There will be some simple coding and data analysis assignments, so some basic programming ability is needed.
+
+Course content will include readings from the scientifc literature, the mainstream media and other articles and books.
+
+Grades will be based on a mixture of quizzes, coding assignments, written homeworks, and a written midterm and final.
+
+CIS 423/523 fulfills the SEAS Engineering Ethics Requirement for these programs: ASCS, BE, CMPE, CSCI, DMD and NETS (but you should confirm with your academic adivsor to be certain).
+
+
+
+
+Here’s a concise list of topics extracted from the schedule:
+
+Course Introduction and Overview
+
+Foundations of Machine Learning
+
+Bias in Machine Learning: COMPAS and ProPublica
+
+Science of Fair ML: Models and Algorithms
+
+Midterm Exam
+
+Differential Privacy and Related Topics
+
+Ethical Algorithm Design in the Generative Era
+
+Final Exam
+
+
+
+
+
+

@@ -1,0 +1,81 @@
+CIS 4710/5710: Computer Organization and Design Spring 2025
+Ultra-Low-Power RISC-V chip from CSEM and USJC
+
+CIS 4710/5710: Computer Organization and Design Spring 2025
+Course Information
+instructors: Joe Devietti and Gushu Li
+when: MW 10:15-11:45am
+where: Meyerson B1
+contact: canvas (has links to Gradescope and Ed Discussions)
+homework: github
+TAs:
+
+Maryam Ali
+Shize Che
+Audrey Keener
+Tao Liu
+Yuhao Liu
+Tarush Sharma
+Tarunyaa Sivakumar
+Erik Wei
+Zeyu (Sal) Zhang (Head TA)
+office hours
+
+See the Pinned post on Ed Discussions for OH details.
+
+Course Description
+This is a second computer organization course and focuses on computer hardware design. In this course you will design and implement a pipelined processor for the RISC-V ISA using SystemVerilog. You will learn the range of architectural techniques used in modern CPU design including superscalar design, out-of-order execution, and cache hierarchies.
+
+Frequently Asked Questions
+What's the difference between CIS 4710 and CIS 5710?
+There is no difference in the course content (assignments, exams, etc.) between CIS 4710 and 5710. If you are a graduate student, however, you'll need to take CIS 5710.
+
+Do all group partners need to be in the same course number?
+No, one member can be in CIS 4710 while the other is in CIS 5710.
+
+Prerequisites
+Undergraduate students need to have completed CIS 2400.
+
+Graduate students should be familiar with assembly language programming (the language is not so important, all assembly languages are pretty similar), digital circuits (muxes, adders, flip-flops and simple sequential circuits), binary numbers, 2's complement arithmetic, and knowledge of at least one software programming language.
+
+This course does not assume any prior experience with SystemVerilog.
+
+Course Materials
+There are no required textbooks.
+
+The most relevant textbook is Computer Organization and Design: The Hardware/Software Interface by Patterson and Hennessy. The 4th and 5th Editions are both fine. The 4th Edition is available for free on-line through the Penn Library.
+
+Introduction to Logic Synthesis using Verilog HDL by Reese and Thornton is also a nice introduction to hardware design and Verilog. It is also available as a free PDF via the Penn Library.
+
+I also like Digital Design: A Systems Approach by Dally and Harting. I'm not aware of a free version, unfortunately. It gives a nice explanation of many of the topics we'll cover in class.
+
+The official RISC-V ISA Specification and our RISC-V ISA quick-reference sheet will also be useful.
+
+Course Policies
+See details about course policies on late days, collaboration, etc.
+
+Lecture slides
+Lecture recordings are available only with justification, via Canvas under Class Recordings.
+
+Lecture slides:
+
+Introduction (pptx, pdf)
+RISC-V (pptx, pdf)
+SystemVerilog (pptx, pdf)
+Arithmetic (pptx, pdf)
+Single-Cycle Datapath (pptx, pdf)
+Performance (pptx, pdf)
+Verification (pptx, pdf)
+Pipelined Datapath (pptx, pdf)
+Branch Prediction (pptx, pdf)
+Caches (pptx, pdf)
+Course Schedule
+The course schedule is maintained on our Canvas site.
+
+Previous Editions
+CIS 4710/5710, Spring 2024
+CIS 4710/5710, Spring 2023
+CIS 471/571, Spring 2022
+CIS 471/571, Spring 2021
+CIS 371, Spring 2020
+CIS 501, Fall 2019

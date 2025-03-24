@@ -1,0 +1,81 @@
+Below is a streamlined list of topics extracted from the schedule:
+
+Introduction and Course Overview
+(Module 1, Lesson 1 – Chapter 1)
+
+Relational Model and Simple SQL Queries
+(Module 1, Lesson 2; Lesson 3.1 – Chapters 3.1–3.3, 5.1–5.2)
+
+Basic SQL
+(Module 1, Lessons 3.2–3; Module 2, Lesson 1.1 – Chapter 5.1–5.2, 5.3)
+
+Set Operations and Subqueries
+(Module 2, Lesson 1.2–3, 2.1 – Chapter 5.4)
+
+Aggregation, Null Values, and Outer Joins
+(Module 2, Lesson 2 – Chapters 5.5–5.6)
+
+Joins, Updates, and Views
+(Module 2, Lessons 2.2–3 – Chapter 3.6)
+
+Designing a Database using ER Diagrams
+(Module 3, Lessons 1 & 2 – Chapters 2.1–5)
+
+Advanced ER Modeling
+(Module 3, Lesson 3 – Chapter 3.5)
+
+Relational Design Theory: Functional Dependencies and Candidate Keys
+(Module 4, Lesson 1 – Chapter 19.1–6)
+
+Relational Design Theory: Normal Forms, Lossless Join, and 3NF Decomposition
+(Module 4, Lessons 2–3)
+
+Updates and Transactions
+(Module 6, Lessons 1 & 2 – Chapters 16.1–3)
+
+Serializability and Locking
+(Module 6, Lesson 3 – Chapter 17.1)
+
+Embedded SQL and the Web; REACT and Node.js
+(Module 5, Lessons 1 & 2)
+
+Transactions in Practice
+(Module 7, Lessons 1 & 2 – Chapter 16.6)
+
+Performance, File Storage, and Indexes
+(Module 8, Lessons 1 & 2 – Chapters 8.1–4, 9.1, 9.3–5; Lesson 3 – Chapter 8.5)
+
+B+ Tree Overview, Insertion/Deletion, and Practical Issues
+(Module 9, Lessons 1 & 2 – Chapters 8.5–6, 10.1–4)
+
+Relational Algebra and Equivalences
+(Module 10, Lesson 1 – Chapters 4.1–2, 12.1–4)
+
+One-Pass Operators; Nested Loop and Hash Joins
+(Module 10, Lesson 2)
+
+External Sorting, Sort-Merge Join, and Result Size Estimation
+(Module 10, Lessons 3.1–2 – Chapters 14.4–6)
+
+Understanding Query Performance using EXPLAIN; Why NoSQL?
+(Module 11, Lesson 1)
+
+NoSQL and MongoDB
+(Module 11, Lesson 2)
+
+MongoDB and Complex Queries
+(Module 12, Lesson 1)
+
+Neo4j and Cypher
+(Module 12, Lessons 3 & 4)
+
+Vector Databases
+(Additional topic from Module 12)
+
+This list captures the main instructional topics (including modules and lessons) as outlined in the schedule.
+
+
+
+
+
+

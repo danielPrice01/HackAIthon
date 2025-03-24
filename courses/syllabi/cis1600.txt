@@ -1,0 +1,330 @@
+Module 1: Counting, Proofs, Terminology & Notation
+
+Module 1: Counting, Proofs, Terminology & Notation
+
+Module 1 Resources
+
+1.1 Addition and Multiplication Rules (8:43) 1A
+
+1.sp1 Self-Paced Example: Counting License Plates
+
+1.2 Odd and Even (6:02) 1A
+
+1.3 Divisibility and Primes (5:07) 3Q
+
+1.4 Two Proofs About Primes (5:39)
+
+Lives of Mathematicians: Fermat (2:57)
+
+Lives of Mathematicians: Euler (1:50)
+
+1.5 Subsets and Set-Builder Notation (8:25)
+
+1.6 Set Operations and Cardinality (9:37) 1Q
+
+1.sp2 Self-Paced Example: Euler-Venn diagrams
+
+1.7 Powerset and Cartesian Product (8:15) 1Q+2A
+
+Module 2: Counting, Proofs, Terminology & Notation
+
+Module 2: Counting, Proofs, Terminology & Notation
+
+Coming Up In Module 2 (2:17)
+
+Module 2 Resources
+
+2.1 Counting Subsets (8:21)
+
+2.2 Counting Words and Strings (4:20) 1A
+
+2.3 Permutations (10:38) 1Q
+
+2.sp1 Self-Paced Example: Counting Words with Restrictions
+
+2.4 Logical Structure of Statements (8:05) 3A
+
+2.5 Two Basic Proof Patterns (7:24)
+
+2.sp2 Self-paced Example: A Proof about Sets
+
+2.6 Combinations (12:43) 1Q
+
+2.sp3 Self-paced Example: Counting Grid Shortest Paths
+
+2.7 Predicates and Quantifiers (7:19) 3A + 1Q
+
+Module 3: Counting, Proofs, Terminology & Notation
+
+Module 3: Counting, Proofs, Terminology & Notation
+
+Coming Up In Module 3 (1:56)
+
+Module 3 Resources
+
+3.1 Stars and bars (7:26)
+
+3.2 Negating Statements (8:13) 1A+1Q
+
+3.3 Converse and Contrapositive (5:52)
+
+3.4 Truth Tables (13:15) 1Q+3A
+
+3.5 Proofs by Contradiction (11:46) 1Q+1A
+
+3.sp1 Self-paced Example: There are Infinitely Many Primes
+
+Lives of Mathematicians: Pythagoras & Hippasus (1:48)
+
+3.6 Counting Anagrams (9:00) 1A
+
+Module 4: Counting, Proofs, Terminology & Notation
+
+Module 4: Counting, Proofs, Terminology & Notation
+
+Coming Up In Module 4 (1:37)
+
+Module 4 Resources
+
+4.1 Pascal's triangle (5:40)
+
+4.2 Combinatorial Proofs (5:55) 2A
+
+4.sp1 Self-paced Example: Algebraic Verification of Pascal's Identity
+
+Lives of Mathematicians: Pascal (1:34)
+
+4.sp2 Self-paced Example: Counting Committees
+
+4.3 Functions (5:38) 1Q+1A
+
+4.4 Integer Intervals (6:37) 2Q+1A
+
+4.5 Surjections and Injections (8:29) 2Q+1A
+
+Module 5: Counting, Proofs, Terminology & Notation
+
+Module 5: Counting, Proofs, Terminology & Notation
+
+Coming Up In Module 5 (1:13)
+
+Module 5 Resources
+
+5.1 Bijections (13:10)
+
+5.sp1 Self-paced Example: Inverse Functions
+
+5.2 Counting Injections (8:49) 1A
+
+5.3 Inclusion-Exclusion for Cardinality (11:46) 2A+2Q
+
+5.sp2 Self-paced Example: Inclusion-exclusion for cardinality
+
+5.sp3 Self-paced Example: Derangements
+
+5.4 The Pigeonhole Principle (7:26) 2Q
+
+5.sp4 Self-paced Example: Floor, Ceiling, and Pigeons
+
+5.5 Friends and Strangers (8:27)
+
+Lives of Mathematicians: Erdős (3:14)
+
+5.sp5 Self-paced Example: The Erdős-Szekeres Theorem
+
+Module 6: Counting, Proofs, Terminology & Notation
+
+Module 6: Counting, Proofs, Terminology & Notation
+
+Coming Up In Module 6 (1:14)
+
+Module 6 Resources
+
+6.1 Ordinary Induction (10:08) 1Q+1A
+
+6.2 Induction Examples (11:01) 1Q
+
+6.3 Strong Induction (11:58)
+
+6.4 Pizza Cutting Recurrence (7:46)
+
+6.sp1 Self-paced Example: Counting Pizza Pieces with Cross-points
+
+6.5 Fibonacci Numbers (12:29) 2A
+
+Module 7: Probability
+
+Module 7: Probability
+
+Coming Up In Module 7 (1:53)
+
+Conversation with Dr. Sampath Kannan (2:34)
+
+Conversation with Dr. Arvind Bhusnurmath (5:11)
+
+Module 7 Resources
+
+7.1 Probability Space and Events (23:41) 1Q
+
+7.2 Uniform Spaces (5:55) 1Q+1A
+
+7.3 Biased Coins and Bernoulli Trials (8:33)
+
+7.4 Probability Properties (10:48) 1A
+
+7.sp1 Self-paced Example: Proofs of probability properties
+
+7.5 Birthdays, Balls, and Bins (8:56)
+
+7.sp2 Self-paced Example: Urns and marbles
+
+Module 8: Probability
+
+Module 8: Probability
+
+Coming Up In Module 8 (1:20)
+
+Module 8 Resources
+
+8.1 Inclusion-Exclusion for Probability (9:05)
+
+8.2 Independence (10:42) 1Q+1A
+
+8.sp1 Self-paced Example: Proofs of independence properties
+
+8.3 Pairwise and Mutual Independence (13:51) 1Q+1A
+
+8.sp2 Self-paced Example: Counterexamples for independence of three events
+
+8.4 Sketching the Monty Hall problem (10:29)
+
+8.sp3 Self-paced Example: The Monty Hall problem
+
+8.5 Conditional Probability (17:28) 1A
+
+8.sp4 Self-paced Example: Conditional probability rules
+
+8.6 The Chain Rule (9:00)
+
+Module 9: Probability
+
+Module 9: Probability
+
+Coming Up In Module 9 (1:20)
+
+Module 9 Resources
+
+9.1 Random Variables (14:34) 1A
+
+9.2 Expectation (12:18) 1A
+
+9.sp1 Self-paced Example: Equivalence of expectation definitions
+
+9.3 Linearity of Expectation (13:45) 1Q
+
+9.4 Indicators (9:23) 1A
+
+9.5 More Expectations (10:17)
+
+Lives of Mathematicians: Figures in Probability (4:38)
+
+Module 10: Probability
+
+Module 10: Probability
+
+Coming Up In Module 10 (0:51)
+
+Module 10 Resources
+
+10.1 Independent Random Variables (8:50) 1Q+1A
+
+10.2 Variance (5:28) 1A
+
+10.3 Linearity of Variance? (8:59) 1Q
+
+10.sp1 Self Paced Example: Correlated random variables
+
+10.4 Binomial Distribution (12:10)
+
+Module 11: Graph Theory
+
+Module 11: Graph Theory
+
+Coming Up In Module 11 (2:02)
+
+Conversation with Dr. Sampath Kannan (3:51)
+
+Conversation with Dr. Arvind Bhusnurmath (3:26)
+
+Module 11 Resources
+
+11.1 Graphs, Handshaking (9:15) 1Q
+
+11.2 Special Graphs (10:04) 1Q+1A
+
+11.3 Walks and Paths (14:36) 2Q
+
+11.4 Connected Components (CC's) (13:21) 1Q
+
+11.5 How Many CC's? (9:43) 2Q
+
+11.sp1 Self-Paced Example: Shortest paths in a grid
+
+Module 12: Graph Theory
+
+Module 12: Graph Theory
+
+Coming Up In Module 12 (1:02)
+
+Module 12 Resources
+
+12.1 Subgraphs and Counting Paths (19:41) 1Q+1A
+
+12.2 Cycles (9:07) 2Q
+
+12.3 Forests, Trees and Leaves (18:20) 1Q
+
+12.4 Properties of Trees (16:25) 1Q+1A
+
+12.sp1 Self-paced Example: Cut edges and a characterization of trees
+
+Module 13: Graph Theory
+
+Module 13: Graph Theory
+
+Coming Up In Module 13 (1:41)
+
+Module 13 Resources
+
+13.1 Spanning Trees (21:03) 2Q
+
+13.2 Graph Coloring (12:03) 1Q
+
+13.sp1 Self-paced Example: Colorability and maximum degree
+
+13.3 No odd cycles (11:02) 1Q
+
+13.sp2 Self-paced Example: No odd cycle implies bipartite
+
+13.4 Cliques and Independent Sets (9:17) 2Q
+
+13.5 Lives of Mathematicians: Ramsey (4:18)
+
+Module 14: Graph Theory
+
+Module 14: Graph Theory
+
+Coming Up In Module 14 (1:21)
+
+Module 14 Resources
+
+14.1 Directed Graphs (13:22) 1Q+1A
+
+14.2 Reachability, Strong Connectivity (16:26) 1Q
+
+14.3 Directed Acyclic Graphs (DAGs) (18:05) 2Q+1A
+
+14.sp1 Self-paced Example: Proof of topological sorting
+
+14.4 Binary trees (22:20) 1Q+1A
+

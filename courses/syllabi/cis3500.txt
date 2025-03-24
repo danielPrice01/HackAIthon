@@ -1,0 +1,71 @@
+About This Course
+Writing a program is easy, but professional software developers face the challenge of "engineering" software: designing and implementing a software system in a way that it is efficient and reliable, and can easily be understood and modified by other developers.
+
+This course will introduce you to various tools, processes, and techniques that are used by professional software engineers to create high quality software, focusing on software design and software testing. Additionally, you will apply these in the creation of a software system including a web and mobile front-end and a web-based back-end.
+
+Developing high quality software is only part of what it means to be a professional software engineer. It is essential to be able to communicate with others, learn from others, and overcome obstacles together, particularly in a fast-paced, competitive environment. This course will give you experience working in a group, strengthen your sense of belonging in the field, and empower you to address some of the challenges facing the modern software development industry, including diversity & inclusion issues, as well as understanding the social impact of software.
+
+After completing this course, you will be able to:
+
+Apply best-practice principles and patterns to design and implement a high quality software system
+Develop mobile apps using React Native and dynamic web apps using server-side JavaScript and Node Express
+Create a comprehensive set of test cases for a piece of software
+Address some of the cultural and social concerns within the current software industry
+Work in a group to develop a complex software system
+Course Topics
+Lectures will cover the following topics:
+
+Software Process Models
+Agile models: XP, Scrum
+Continuous integration
+Software configuration management
+Designing Software
+Software design principles
+Software architecture
+Domain modeling and UML
+Software design patterns
+Distributed systems
+Implementing Software
+Defensive programming
+Readability and understandability
+Efficiency
+Web App Development
+React
+WWW Basics
+JavaScript
+NodeJ & Express
+MongoDB
+User interface design and usability
+Testing Software
+Black-box testing
+Mock objects
+White-box testing
+There is no textbook for the course, but most lectures will be supported by suggested readings that will be made available to registered students.
+
+Additional readings will cover issues of inclusion and belonging in the field of computing, as well as the global and social impact of the software development industry, and are likely to include:
+
+The importance of diversity in the tech industry
+Mental health issues in computing
+Designing for accessibility
+Bias in ML algorithms
+ACM Code of Ethics
+Course grades will be determined by a combination of reading assignments/quizzes, exams, and a semester-long group project.
+
+Diversity, Inclusion, and Wellness
+Beyond the technical content described above, a goal of this course is to prepare students for a career as a software engineer by giving them a sense of belonging within the field.
+
+This can only happen if all members of the course community – the instructor, TAs, and students – work together to create a supportive, inclusive environment that welcomes all students, regardless of their race, ethnicity, gender identity, sexuality, or socioeconomic status. Diversity, inclusion, and belonging are all core values of this course. All participants in this course deserve to and should expect to be treated with respect by other members of the community.
+
+A code of conduct that covers behavior in lecture, office hours, and online will be distributed to registered students via Canvas. Additionally, the course syllabus in Canvas will list available resources – including designated members of the instruction staff – for reporting violations of the code of conduct and for getting support if you witness or are affected by a violation.
+
+A sense of belonging can also affect students’ mental health and wellness, which is extremely important to the course instruction staff, if not the University as a whole. All members of the instruction staff will be happy to chat or just to listen if you need someone to talk to, even if it’s not specifically about this course.
+
+If you or someone you know is in distress and urgently needs to speak with someone, please do not hesitate to contact CAPS: 215-898-7021; 3624 Market St. If you are uncomfortable reaching out to CAPS, any member of the instruction staff will be happy to contact them on your behalf.
+
+
+
+Grading
+Debate: 10%
+Homework: 25%
+Exams: 30%
+Project: 35%
