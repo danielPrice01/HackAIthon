@@ -28,45 +28,47 @@ def print_table(headers, rows):
 def main():
     # Initialize Filter with the JSON file inside the "courses" folder.
     filter_file_path = "courses/courses.json"
-    course_filter = Filter(filter_file_path)
+    f = Filter(filter_file_path)
     
-    # Step 1: Filter courses whose "prereq" field contains "CIS 1200".
-    courses_with_prereq = course_filter.filter_courses("prereq", "CIS 1200")
+    # Function to extract rows based on current columns.
+    def state_rows(state):
+        # state["courses"] is a list of dictionaries; state["columns"] is the list of keys to display.
+        return [[course.get(col, "") for col in state["columns"]] for course in state["courses"]]
     
-    # Step 2: Print table of courses that have "CIS 1200" in prereqs.
-    headers = ["ID", "Name", "Prereq", "Available"]
-    rows = []
-    for course in courses_with_prereq:
-        rows.append([
-            course.get("id", ""),
-            course.get("name", ""),
-            course.get("prereq", ""),
-            course.get("available", "")
-        ])
+    # --- Initial state: default columns ("id" and "name") for all courses ---
+    state = f.get_current_state()
+    print("Initial state:")
+    print("Columns:", state["columns"])
+    print_table(state["columns"], state_rows(state))
+    print("\n---\n")
     
-    print("Courses with 'CIS 1200' in prereq:")
-    print_table(headers, rows)
+    # --- Add a filter for prereq "CIS 1200" ---
+    f.add_filter("prereq", "CIS 1200")
+    state = f.get_current_state()
+    print("After adding filter: prereq contains 'CIS 1200'")
+    print("Columns:", state["columns"])
+    print_table(state["columns"], state_rows(state))
+    print("\n---\n")
     
-    # Step 3: From these courses, filter those that are offered in "Spring".
-    spring_courses = course_filter.filter_courses("available", "Spring")
-    # Note: If you want to filter among the already filtered courses, you could use a list comprehension:
-    # spring_courses = [course for course in courses_with_prereq if "Spring" in course.get("available", "")]
+    # --- Add a filter for available "Spring" ---
+    f.add_filter("available", "Spring")
+    state = f.get_current_state()
+    print("After adding filter: available contains 'Spring'")
+    print("Columns:", state["columns"])
+    print_table(state["columns"], state_rows(state))
+    print("\n---\n")
     
-    # For clarity, let's assume we are filtering from courses_with_prereq:
-    spring_courses = [course for course in courses_with_prereq if "Spring" in course.get("available", "")]
+    # --- Delete the "available" filter ---
+    f.delete_filter("available")
+    state = f.get_current_state()
+    print("After deleting the 'available' filter")
+    print("Columns:", state["columns"])
+    print_table(state["columns"], state_rows(state))
+    print("\n---\n")
     
-    # Step 4: Print a new table with class name, prereqs, and availability.
-    headers2 = ["Name", "Prereq", "Available"]
-    rows2 = []
-    for course in spring_courses:
-        rows2.append([
-            course.get("name", ""),
-            course.get("prereq", ""),
-            course.get("available", "")
-        ])
-    
-    print("\nSpring courses with 'CIS 1200' in prereq:")
-    print_table(headers2, rows2)
+    # --- Demonstrate the prompt_ai function ---
+    print("Using prompt_ai:")
+    f.prompt_ai("This is an example input for AI prompting")
 
 if __name__ == "__main__":
     main()

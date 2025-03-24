@@ -8,46 +8,80 @@ class Filter:
         Parameters:
             filter_file (str): Path to the JSON file containing course data.
         """
-        with open(filter_file, 'r') as file:
-            self.courses = json.load(file)
-    
-    def filter_courses(self, attribute, input_parameter):
-        """
-        Filters the courses based on whether the specified attribute contains the input_parameter.
-        
-        Parameters:
-            attribute (str): The key in the course dictionary (e.g., "prereq" or "available").
-            input_parameter (str): The substring to search for within that attribute.
-        
-        Returns:
-            list: A list of course dictionaries that match the criteria.
-        """
-        filtered_courses = []
-        for course in self.courses:
-            if attribute in course and input_parameter in course[attribute]:
-                filtered_courses.append(course)
-        return filtered_courses
+        with open(filter_file, 'r') as f:
+            self.all_courses = json.load(f)
+        # Default columns always shown:
+        self.default_columns = ["id", "name"]
+        # Additional filters: attribute -> value.
+        self.filters = {}
+        # Update state based on all courses and current filters.
+        self.update_state()
 
-    def get_filter_descriptor(self, class_name, attributes, values):
+    def update_state(self):
         """
-        Returns a JSON descriptor for a class with filters.
+        Recompute the current courses and columns based on the applied filters.
+        Starting with all courses, for each filter with a non-empty value, only courses
+        with that attribute containing the value are retained.
+        The current columns are the default columns plus the attributes of the filters.
+        """
+        courses = self.all_courses
+        for attr, val in self.filters.items():
+            if val:  # Only filter if a non-empty value was provided.
+                courses = [course for course in courses if attr in course and val in course[attr]]
+        self.current_courses = courses
+        # Current columns: default columns plus the keys in filters (order is the order of insertion).
+        self.current_columns = self.default_columns + list(self.filters.keys())
+
+    def add_filter(self, attribute, value):
+        """
+        Add (or update) a filter on an attribute.
         
         Parameters:
-            class_name (str): The name of the class (e.g., "CIS 1200").
-            attributes (list): A list of attribute names (e.g., ["prereq", "available"]).
-            values (list): A list of values corresponding to each attribute.
+            attribute (str): The attribute to filter on (e.g., "prereq").
+            value (str): The substring to look for in that attribute.
+                         If empty, the column is added without filtering courses.
         
-        Returns:
-            str: A JSON formatted string representing the class and its filters.
-        
-        Raises:
-            ValueError: If the lengths of attributes and values do not match.
+        This method adds the attribute (as a new column) and then updates the current courses.
         """
-        if len(attributes) != len(values):
-            raise ValueError("The length of attributes and values must be the same.")
-       
-        descriptor = {"class": class_name}
-        for attr, val in zip(attributes, values):
-            descriptor[attr] = val
-           
-        return json.dumps(descriptor, indent=2)
+        self.filters[attribute] = value
+        self.update_state()
+
+    def delete_filter(self, attribute):
+        """
+        Remove a filter (and its column) from the current state.
+        
+        Parameters:
+            attribute (str): The attribute to remove.
+        """
+        if attribute in self.filters:
+            del self.filters[attribute]
+        self.update_state()
+
+    def get_current_state(self):
+        """
+        Returns the current state as a dictionary with two keys:
+          - "columns": a list of column names currently being displayed.
+          - "courses": a list of dictionaries where each dictionary represents a row
+                       (i.e. a course) with keys corresponding to the current columns.
+        """
+        displayed_courses = []
+        for course in self.current_courses:
+            row = {}
+            for col in self.current_columns:
+                row[col] = course.get(col, "")
+            displayed_courses.append(row)
+        return {
+            "columns": self.current_columns,
+            "courses": displayed_courses
+        }
+
+    def prompt_ai(self, input_string):
+        """
+        Tokenizes the input string and prints the tokens.
+        
+        Parameters:
+            input_string (str): The string to tokenize.
+        """
+        tokens = input_string.split()
+        print("Tokens:", tokens)
+
