@@ -1,0 +1,16 @@
+Course Topics:
+
+Week 1: What is Proceduralism?
+Week 2: Noise
+Week 3: Toolbox methods
+Week 4: Color
+Week 5: Implicit Surfaces
+Week 6: SDF Demo Tips and Tricks
+Week 7: L-systems
+Week 8: Shape Grammars
+Week 9: Houdini
+Week 10: Procedural Levels
+Week 11: Special topics
+Week 12: Special Topics
+Week 13: Special Topics
+Week 14: Final Project

@@ -1,0 +1,29 @@
+Below is a list of the main topics covered in the presentation:
+
+Cost of Software Errors
+
+Modern Software Development Lifecycle
+
+Software Analysis Techniques
+
+Code Specification and Annotation for Quality Assurance
+
+Automated Test Case Minimization and Debugging
+
+Automated Test Generation for High-Coverage
+
+Continuous Feedback and Production Monitoring
+
+Course Structure (Lectures, Supplemental Readings, Programming Labs)
+
+Programming Labs: Dynamic Analysis, Static Analysis, Constraint Solving
+
+Implementation Using the LLVM Compiler Infrastructure
+
+Course Prerequisites (Systems Programming, Data Structures & Algorithms, CS Foundations)
+
+
+
+
+
+

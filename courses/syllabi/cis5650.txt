@@ -1,0 +1,66 @@
+Course TopicsPermalink
+Introduction to CUDA
+CUDA Terminology - Kernels, Threads, Blocks
+Memory Management
+Basic Matrix Multiplication using Parallel Programming
+Built-in Variables and Functions
+Thread Scheduling
+CUDA Memory Model
+Thread Synchronization
+Matrix Multiplication Revisited
+GPU Architecture Overview
+Trends in CPU and GPU Performance
+CPU Architecture Overview
+CPU Parallelism, and Scheduling
+History of GPUs
+GPU Architecture Evolution
+Parallel Algorithms
+Reduction
+Scan (Naive and Work-Efficient)
+Stream Compaction
+Summed Area Tables
+Radix Sort
+CUDA Performance
+Parallel Reduction Revisited
+Warp Partitioning
+Memory Coalescing
+Bank Conflicts
+Dynamic Partitioning of SM Resources
+Data Pre-fetching
+Instruction Mix
+Loop Unrolling
+Thread Granularity
+CUDA Atomics
+Atomic Functions
+Atomic Add, Subtract, Exchange, CAS
+Graphics Pipeline
+Introduction to Graphics Pipeline (Forward Rendering)
+Mapping Graphics Pipeline to Hardware
+Hardware Ray Tracing
+Deferred and Forward+ Rendering
+Multi-pass Forward Rendering
+Deferred Rendering
+Tile-Based Deferred Shading
+Forward+ Rendering
+Clustered Shading
+WebGL Demos
+Advance Topics in CUDA
+CUDA Unified Memory
+Faster Memory Transfers
+Zero Copy Memory
+CUDA Streams
+CUDA Streaming Compute-Copy Overlap
+Warp Functions
+Shuffle Operations
+Warp Reduce using Shuffle
+Introduction to WebGL
+Machine Learning & CUDA
+LabsPermalink
+Debugging Lab
+Performance Lab
+Launching Nsight
+Running Performance Analysis
+Understanding Metrics
+NVIDIA Visual Profiler
+Matrix Transpose Optimization
+Reduction Optimization

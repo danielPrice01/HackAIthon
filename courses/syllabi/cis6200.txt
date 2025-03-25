@@ -1,0 +1,97 @@
+Course Description
+Machine Learning works when we have a lot of labeled data. However, in many realistic settings we do not have enough training data. In most cases this is due to semantic shift (a shift in the labels space Y) or domain shift (where the domain X of the target is different from the domain for which we have training data) but can also be due to the complexity and compositionality of the task. Some examples for these setting are:
+
+Variable label space: imagine that you classify documents into a set of topical labels, and then want to use a different label space. Or that you classify entities into their semantic types, and then want to update the set of semantic types used.
+Domain adaptation: you train a model on news data but you want to use it on email data, where you don’t have training data
+Low Resource Languages: only 30 languages (out of around 3,500 written languages) have annotated data for basic tasks such as named entity recognition. How can we develop basic NLP tools for other languages?
+Complex tasks: many natural language understanding decisions are “one-in-a-million” – they are very sparse; how can we learn models for these?
+And, of course, similar challenges exist in computer vision and other sub areas of AI.
+
+The goal of this class is to define and understand the space of Learning in Low Labels Settings – understand the problems and the methods that have been studied for these setting. We will do this mostly in the context of natural language understanding with, possibly, some digressions to computer vision.
+
+We will consider methods such as
+
+few/zero-shot setting
+semi-supervised and transductive learning
+self-supervised learning
+the use of incidental supervision signals
+transfer learning
+adaptation methods
+And do it in the context of multiple tasks.
+
+You will read, present and discuss papers, and work on two projects. A small, well-defined one, in the first third of the semester, and a large and open ended one in the rest of the semester.
+
+Pre-requisites
+Machine Learning class; CIS 419/519/520 or equivalent. NLP: Knowledge of NLP (equivalent to a basic Computational Linguistics/NLP class).
+
+Below is a list of the topics only:
+
+Introduction (Dan Roth)
+
+Learnability with Indirect Supervision Signals (Kaifu Wang)
+
+Zero-Shot Relation Extraction via Reading Comprehension (Kevin Xie)
+
+Zero-shot Learning of Classifiers from Natural Language Quantification (Young-Min Cho)
+
+Learning Dependency-Based Compositional Semantics (Krunal Shah)
+
+A Logic-Driven Framework for Consistency of Neural Models (Jiayao Zhang)
+
+An Embarrassingly Simple Approach to Zero-Shot Learning (Shriyash Upadhyay)
+
+A Closer Look at Few-Shot Classification (Kaustubh Sridhar)
+
+Partial or Complete, That's The Question (Xingyu Fu)
+
+Neural Cross-Lingual Named Entity Recognition with Minimal Resources (Vivian Lin)
+
+Multi-class Classification without Multi-class Labels (Yuchen Zhang)
+
+A Baseline for Few-Shot Image Classification (Xingfan Jia)
+
+Understanding Self-Training for Gradual Domain Adaptation (Hongrui Zheng)
+
+Few-Shot Text Classification with Distributional Signatures (Chaitanya Malaviya)
+
+A Discrete Hard EM Approach for Weakly Supervised Question Answering (Venkata Sai Nikhil Thodupunuri)
+
+Constrained Semi-Supervised Learning Using Attributes and Comparative Attributes (Rahul Shekhar)
+
+Sentiment Tagging with Partial Labels using Modular Architectures (Lishuo Pan)
+
+Neural Symbolic Machines: Learning Semantic Parsers on Freebase with Weak Supervision (Yahan Yang)
+
+Weakly Supervised Multi-Task Learning for Semantic Parsing (Matthew Scharf)
+
+Low-Resource Domain Adaptation for Compositional Task-Oriented Semantic Parsing (Jina Lo)
+
+Project 1 Presentation
+
+Learning Constraints for Structured Prediction Using Rectifier Networks (Ben Zhou)
+
+Structured Learning with Constrained Conditional Models (Sebastian Peralta)
+
+Never-Ending Learning (Helen Jin)
+
+Design Challenges in Low-Resource Cross-Lingual Entity Linking (Chunxi Liu)
+
+Weakly Supervised Learning of Nuanced Frames for Analyzing Polarization in News Media (Sihao Chen)
+
+Unsupervised Opinion Summarization with Content Planning (Siyi Liu)
+
+Project 2 Progress Presentation
+
+Aligning Books and Movies: Towards Story-like Visual Explanations by Watching Movies and Reading Books (Varun Ramakrishnan)
+
+VQA with No Questions-Answers Training (Kailin Zheng)
+
+Concept Grounding to Multiple Knowledge Bases via Indirect Supervision (Xiaodong Yu)
+
+Project 2 Final Presentation
+
+
+
+
+
+

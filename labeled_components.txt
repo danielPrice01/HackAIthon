@@ -1,0 +1,387 @@
+CIS 0099 Labels = 
+"labels": ["Operating Systems", "Computer Networks", "Internet and Web Systems", "Neural Networks", "Game Development", "Independent Study"]
+
+CIS 1050 Labels = 
+"labels": ["Introductory Programming", "Data Structures", "Operating Systems", "Data Visualization", "Machine Learning", "Reinforcement Learning", "Data Science", "Statistical Inference", "Probability and Statistics", "Python Programming"]
+
+CIS 1070 Labels = 
+"labels": ["Operating Systems", "Machine Learning", "Reinforcement Learning", "Computer Vision"]
+
+CIS 1100 Labels = 
+"labels": ["Object-Oriented Programming", "Functional Programming", "Software Engineering", "Operating Systems", "Computer Networks", "Machine Learning", "Neural Networks", "Reinforcement Learning", "Game Development", "JavaScript Programming", "Recursion Techniques", "Unit Testing"]
+
+CIS 1200 Labels = 
+"labels": ["Functional Programming", "Data Structures", "Software Engineering", "Software Design", "Operating Systems", "Computer Networks", "Internet and Web Systems", "User Interface Design", "Frontend Development", "Artificial Intelligence", "Machine Learning", "Neural Networks", "Reinforcement Learning", "Game Development", "Simulation and Modeling", "Java Programming", "OCaml Programming", "Recursion Techniques", "Iterative Methods", "Unit Testing", "Debugging Techniques"]
+
+CIS 1210 Labels = 
+"labels": ["Data Structures", "Discrete Mathematics", "Mathematical Foundations", "Proof Techniques", "Operating Systems", "Computer Networks", "Internet and Web Systems", "Data Visualization", "Ethical Algorithm Design", "Neural Networks", "Reinforcement Learning", "Probability and Statistics", "Java Programming", "Ruby on Rails", "Unit Testing", "Debugging Techniques", "Graph Algorithms"]
+
+CIS 1250 Labels = 
+"labels": ["Operating Systems"]
+
+CIS 1400 Labels = 
+"labels": ["Operating Systems", "Cognitive Science"]
+
+CIS 1600 Labels = 
+"labels": ["Data Structures", "Discrete Mathematics", "Mathematical Foundations", "Operating Systems", "Internet and Web Systems", "Data Visualization", "Neural Networks", "Probability and Statistics"]
+
+CIS 1810 Labels = 
+"labels": ["Operating Systems", "Quantum Information Science", "Seminar Courses"]
+
+CIS 1901 Labels = 
+"labels": ["Introductory Programming", "Computer Networks"]
+
+CIS 1902 Labels = 
+"labels": ["Object-Oriented Programming", "Functional Programming", "Data Structures", "Operating Systems", "Systems Programming", "Computer Networks", "Internet and Web Systems", "Data Visualization", "Web Development", "Backend Development", "DevOps", "Machine Learning", "Deep Learning", "Reinforcement Learning", "Virtual Reality", "Scientific Computing", "Data Science", "Capstone Projects"]
+
+CIS 1903 Labels = 
+"labels": ["Data Structures", "Systems Programming", "Computer Networks", "Mobile App Development", "Machine Learning", "Neural Networks", "Reinforcement Learning", "Parallel Computing", "Concurrent Programming Techniques"]
+
+CIS 1904 Labels = 
+"labels": ["Functional Programming", "Computer Networks", "Haskell Programming", "Recursion Techniques"]
+
+CIS 1905 Labels = 
+"labels": ["Operating Systems", "Systems Programming", "Computer Networks", "Artificial Intelligence", "Neural Networks", "Game Development", "Parallel Computing", "Capstone Projects", "Ruby on Rails", "Rust Programming", "Concurrent Programming Techniques"]
+
+CIS 1911 Labels = 
+"labels": ["Human\u2013Computer Interaction", "Reinforcement Learning"]
+
+CIS 1912 Labels = 
+"labels": ["Data Structures", "Test-Driven Development", "Operating Systems", "Computer Architecture", "Internet and Web Systems", "DevOps", "DevOps Practices", "Capstone Projects", "Unit Testing"]
+
+CIS 1921 Labels = 
+"labels": ["Operating Systems", "Computer Networks", "Debugging Techniques", "Heuristic Algorithms"]
+
+CIS 1951 Labels = 
+"labels": ["Object-Oriented Programming", "Data Structures", "Discrete Mathematics", "Operating Systems", "Computer Networks", "Internet and Web Systems", "Database Systems", "Human\u2013Computer Interaction", "User Interface Design", "Interaction Design", "Mobile App Development", "iOS Programming", "Frontend Development", "Artificial Intelligence", "Machine Learning", "Neural Networks", "Reinforcement Learning", "Computer Animation", "Augmented Reality", "Cognitive Science", "Capstone Projects", "JavaScript Programming", "Ruby on Rails", "Swift Programming", "Debugging Techniques", "Object-Oriented Design Patterns", "Compiler Design Techniques"]
+
+CIS 1952 Labels = 
+"labels": ["Mobile App Development"]
+
+CIS 1961 Labels = 
+"labels": ["Operating Systems", "Computer Networks", "Internet and Web Systems", "Web Development", "Frontend Development", "Machine Learning", "Ruby on Rails"]
+
+CIS 1962 Labels = 
+"labels": ["Software Design", "Operating Systems", "Computer Networks", "Internet and Web Systems", "NoSQL Databases", "Web Development", "Frontend Development", "Backend Development", "Machine Learning", "Reinforcement Learning", "Capstone Projects", "JavaScript Programming", "Ruby on Rails", "TypeScript", "Debugging Techniques", "Object-Oriented Design Patterns"]
+
+CIS 1990 Labels = 
+"labels": ["Operating Systems"]
+
+CIS 2330 Labels = 
+"labels": ["Data Structures", "Mathematical Foundations", "Distributed Systems", "Cryptography", "Reinforcement Learning", "Blockchain Technology", "Distributed Ledger Technology"]
+
+CIS 2400 Labels = 
+"labels": ["Data Structures", "Discrete Mathematics", "Operating Systems", "Computer Architecture", "Systems Programming", "Computer Networks", "Internet and Web Systems", "Human\u2013Computer Interaction", "Neural Networks", "Reinforcement Learning", "Game Development", "Probability and Statistics", "Optimization Techniques", "Special Topics", "C++ Programming", "C Programming", "Memory Management Techniques", "Compiler Design Techniques"]
+
+CIS 2450 Labels = 
+"labels": ["Data Structures", "Discrete Mathematics", "Operating Systems", "Computer Networks", "Big Data Analytics", "Data Mining", "Data Visualization", "Database Systems", "SQL and Relational Databases", "Artificial Intelligence", "Machine Learning", "Neural Networks", "Natural Language Processing", "Simulation and Modeling", "Data Science", "Probability and Statistics", "MATLAB Programming", "Debugging Techniques", "Machine Learning Techniques"]
+
+CIS 2610 Labels = 
+"labels": ["Data Structures", "Discrete Mathematics", "Mathematical Foundations", "Proof Techniques", "Operating Systems", "Computer Networks", "Internet and Web Systems", "Cloud Computing", "Frontend Development", "Machine Learning", "Reinforcement Learning", "Simulation and Modeling", "Statistical Inference", "Probability and Statistics", "Stochastic Processes", "Object-Oriented Design Patterns"]
+
+CIS 2620 Labels = 
+"labels": ["Functional Programming", "Computational Complexity", "Theory of Computation", "Discrete Mathematics", "Mathematical Foundations", "Logic and Reasoning", "Operating Systems", "Computer Networks", "Machine Learning", "Neural Networks", "Reinforcement Learning", "Stochastic Processes", "Compiler Design Techniques"]
+
+CIS 3200 Labels = 
+"labels": ["Data Structures", "Algorithms", "Computational Complexity", "Operating Systems", "Internet and Web Systems", "Neural Networks", "Probability and Statistics", "Optimization Techniques", "Research Methods", "Heuristic Algorithms", "Graph Algorithms", "Dynamic Programming", "Randomized Algorithms"]
+
+CIS 3333 Labels = 
+"labels": ["Mathematical Foundations", "Operating Systems", "Internet and Web Systems", "Machine Learning", "Reinforcement Learning", "Probability and Statistics", "Stochastic Processes", "Optimization Techniques"]
+
+CIS 3340 Labels = 
+"labels": ["Data Structures", "Cryptography", "Heuristic Algorithms", "Randomized Algorithms"]
+
+CIS 3410 Labels = 
+"labels": ["Object-Oriented Programming", "Functional Programming", "Operating Systems", "Computer Networks", "Machine Learning", "Optimization Techniques", "OCaml Programming", "Memory Management Techniques", "Compiler Design Techniques"]
+
+CIS 3500 Labels = 
+"labels": ["Software Engineering", "Agile Development", "Test-Driven Development", "Software Design", "Software Architecture", "Operating Systems", "Distributed Systems", "Internet and Web Systems", "NoSQL Databases", "User Interface Design", "Web Development", "Frontend Development", "Backend Development", "DevOps", "Machine Learning", "Reinforcement Learning", "Robotics", "Game Development", "Simulation and Modeling", "DevOps Practices", "JavaScript Programming", "Unit Testing", "Object-Oriented Design Patterns"]
+
+CIS 3900 Labels = 
+"labels": ["Data Structures", "Computer Networks", "Artificial Intelligence", "Neural Networks", "Robotics", "Cognitive Science", "Probability and Statistics"]
+
+CIS 3980 Labels = 
+"labels": ["Operating Systems", "Reinforcement Learning", "Quantum Information Science"]
+
+CIS 3990 Labels = 
+"labels": ["Operating Systems", "Computer Networks", "Internet and Web Systems", "Human\u2013Computer Interaction", "Visual Design", "Frontend Development", "Machine Learning", "Reinforcement Learning", "Capstone Projects", "Special Topics"]
+
+CIS 4000 Labels = 
+"labels": ["Capstone Projects"]
+
+CIS 4010 Labels = 
+"labels": []
+
+CIS 4100 Labels = 
+"labels": ["Operating Systems", "Computer Networks", "Reinforcement Learning", "Independent Study", "Senior Thesis"]
+
+CIS 4120 Labels = 
+"labels": ["Operating Systems", "Computer Networks", "Internet and Web Systems", "Human\u2013Computer Interaction", "User Interface Design", "Visual Design", "Frontend Development", "Artificial Intelligence", "Neural Networks", "Reinforcement Learning", "Capstone Projects"]
+
+CIS 4190 Labels = 
+"labels": ["Data Structures", "Operating Systems", "Computer Architecture", "Computer Networks", "Data Mining", "Data Visualization", "Artificial Intelligence", "Machine Learning", "Deep Learning", "Neural Networks", "Reinforcement Learning", "Natural Language Processing", "Computer Vision", "Bioinformatics", "Cognitive Science", "Data Science", "Probability and Statistics", "Capstone Projects", "Deep Learning Techniques"]
+
+CIS 4210 Labels = 
+"labels": ["Algorithms", "Discrete Mathematics", "Operating Systems", "Computer Networks", "Artificial Intelligence", "Machine Learning", "Neural Networks", "Reinforcement Learning", "Natural Language Processing", "Robotics", "Stochastic Processes", "Debugging Techniques", "Code Profiling", "Dynamic Programming"]
+
+CIS 4230 Labels = 
+"labels": ["Algorithms", "Operating Systems", "Privacy and Security", "Ethical Algorithm Design", "Artificial Intelligence", "Machine Learning", "Data Science", "Probability and Statistics"]
+
+CIS 4300 Labels = 
+"labels": ["Computer Networks", "Natural Language Processing"]
+
+CIS 4360 Labels = 
+"labels": ["Algorithms", "Computer Architecture", "Machine Learning", "Neural Networks", "Simulation and Modeling", "Computational Biology", "Data Science", "Probability and Statistics"]
+
+CIS 4410 Labels = 
+"labels": ["Object-Oriented Programming", "Programming Paradigms", "Software Architecture", "Operating Systems", "Embedded Systems", "Computer Networks", "Neural Networks", "Simulation and Modeling", "Optimization Techniques"]
+
+CIS 4480 Labels = 
+"labels": ["Advanced Programming", "Data Structures", "Software Engineering", "Operating Systems", "Systems Programming", "Computer Networks", "Internet and Web Systems", "Data Visualization", "Human\u2013Computer Interaction", "Frontend Development", "DevOps", "Privacy and Security", "Artificial Intelligence", "Machine Learning", "Neural Networks", "Reinforcement Learning", "Game Development", "Parallel Computing", "Capstone Projects", "C++ Programming", "C Programming", "Concurrent Programming Techniques", "Memory Management Techniques"]
+
+CIS 4500 Labels = 
+"labels": ["Object-Oriented Programming", "Discrete Mathematics", "Operating Systems", "Computer Networks", "Database Systems", "NoSQL Databases", "SQL and Relational Databases", "Machine Learning", "Simulation and Modeling", "Data Science", "Optimization Techniques", "JavaScript Programming"]
+
+CIS 4510 Labels = 
+"labels": ["Data Structures", "Mathematical Foundations", "Operating Systems", "Computer Networks", "Internet and Web Systems", "Database Systems", "SQL and Relational Databases", "Computer and Network Security", "Cryptography", "Privacy and Security", "Game Development"]
+
+CIS 4550 Labels = 
+"labels": ["Data Structures", "Operating Systems", "Computer Networks", "Distributed Systems", "Internet and Web Systems", "Cloud Computing", "Big Data Analytics", "Human\u2013Computer Interaction", "Web Development", "Frontend Development", "Backend Development", "Machine Learning", "Neural Networks", "Reinforcement Learning", "Augmented Reality", "Parallel Computing", "Capstone Projects", "Java Programming", "Debugging Techniques", "Concurrent Programming Techniques", "Graph Algorithms", "Dynamic Programming", "NLP Techniques"]
+
+CIS 4600 Labels = 
+"labels": ["Data Structures", "Operating Systems", "Computer Networks", "Neural Networks", "Reinforcement Learning", "Computer Animation", "Simulation and Modeling", "Capstone Projects"]
+
+CIS 4610 Labels = 
+"labels": ["Data Structures", "Software Systems", "Operating Systems", "Reinforcement Learning", "Simulation and Modeling", "C++ Programming", "Randomized Algorithms"]
+
+CIS 4620 Labels = 
+"labels": ["Data Structures", "Operating Systems", "Computer Networks", "Robotics", "Computer Animation", "Virtual Reality", "Simulation and Modeling", "Simulation and Modeling Techniques"]
+
+CIS 4670 Labels = 
+"labels": ["Data Visualization", "Parallel Computing", "Scientific Computing", "Numerical Methods", "MATLAB Programming"]
+
+CIS 4710 Labels = 
+"labels": ["Discrete Mathematics", "Software Design", "Operating Systems", "Computer Architecture", "Digital Systems", "Systems Programming", "Computer Networks", "Human\u2013Computer Interaction", "Concurrent Programming Techniques"]
+
+CIS 4810 Labels = 
+"labels": ["Data Structures", "Operating Systems", "Internet and Web Systems", "Reinforcement Learning", "Computer Vision", "Computational Photography", "Cognitive Science"]
+
+CIS 4970 Labels = 
+"labels": ["Operating Systems", "Computer Networks", "Internet and Web Systems", "Game Development"]
+
+CIS 4980 Labels = 
+"labels": ["Operating Systems", "Reinforcement Learning", "Game Development", "Capstone Projects"]
+
+CIS 5000 Labels = 
+"labels": ["Advanced Programming", "Object-Oriented Programming", "Functional Programming", "Discrete Mathematics", "Mathematical Foundations", "Proof Techniques", "Logic and Reasoning", "Operating Systems", "Computer Networks", "Neural Networks", "Reinforcement Learning"]
+
+CIS 5010 Labels = 
+"labels": ["Discrete Mathematics", "Operating Systems", "Computer Architecture", "Computer Networks", "Parallel Computing", "Iterative Methods", "Debugging Techniques", "Concurrent Programming Techniques", "Parallel Processing Techniques"]
+
+CIS 5020 Labels = 
+"labels": ["Data Structures", "Discrete Mathematics", "Operating Systems", "Computer Architecture", "Computer Networks", "Optimization Techniques", "Iterative Methods", "Debugging Techniques", "Heuristic Algorithms", "Dynamic Programming", "Randomized Algorithms"]
+
+CIS 5050 Labels = 
+"labels": ["Programming Paradigms", "Data Structures", "Discrete Mathematics", "Software Architecture", "Operating Systems", "Systems Programming", "Computer Networks", "Distributed Systems", "Big Data Analytics", "Machine Learning", "Reinforcement Learning", "Computational Photography", "Parallel Computing", "C++ Programming", "Concurrent Programming Techniques"]
+
+CIS 5110 Labels = 
+"labels": ["Data Structures", "Computational Complexity", "Theory of Computation", "Discrete Mathematics", "Mathematical Foundations", "Logic and Reasoning", "Operating Systems", "Computer Networks", "Data Visualization", "Cryptography", "Reinforcement Learning", "Stochastic Processes", "Recursion Techniques", "Compiler Design Techniques", "Dynamic Programming"]
+
+CIS 5120 Labels = 
+"labels": ["Operating Systems", "Computer Networks", "Internet and Web Systems", "Human\u2013Computer Interaction", "User Interface Design", "Visual Design", "Frontend Development", "Artificial Intelligence", "Neural Networks", "Reinforcement Learning", "Capstone Projects"]
+
+CIS 5150 Labels = 
+"labels": ["Optimization Techniques", "Code Optimization"]
+
+CIS 5180 Labels = 
+"labels": ["Computational Complexity", "Theory of Computation", "Discrete Mathematics", "Operating Systems", "Computer Networks"]
+
+CIS 5190 Labels = 
+"labels": ["Operating Systems", "Data Mining", "Machine Learning", "Deep Learning", "Neural Networks", "Reinforcement Learning", "Computer Vision", "Bioinformatics", "Cognitive Science", "Data Science"]
+
+CIS 5200 Labels = 
+"labels": ["Operating Systems", "Computer Networks", "Internet and Web Systems", "Data Mining", "Machine Learning", "Deep Learning", "Neural Networks", "Reinforcement Learning", "Cognitive Science", "Probability and Statistics", "Optimization Techniques", "Capstone Projects"]
+
+CIS 5210 Labels = 
+"labels": ["Discrete Mathematics", "Computer Networks", "Machine Learning", "Reinforcement Learning", "Natural Language Processing"]
+
+CIS 5220 Labels = 
+"labels": ["Data Structures", "Operating Systems", "Computer Architecture", "Computer Networks", "Internet and Web Systems", "Machine Learning", "Deep Learning", "Neural Networks", "Reinforcement Learning", "Natural Language Processing", "Image Processing", "Cognitive Science", "Optimization Techniques", "Debugging Techniques", "Code Optimization", "Compiler Design Techniques", "Deep Learning Techniques", "Image Processing Techniques"]
+
+CIS 5230 Labels = 
+"labels": ["Discrete Mathematics", "Privacy and Security", "Ethical Algorithm Design", "Artificial Intelligence", "Data Science"]
+
+CIS 5260 Labels = 
+"labels": ["Data Structures", "Operating Systems", "Computer Networks", "Artificial Intelligence", "Machine Learning", "Ruby on Rails"]
+
+CIS 5300 Labels = 
+"labels": ["Data Structures", "Operating Systems", "Computer Networks", "Cloud Computing", "Machine Learning", "Neural Networks", "Reinforcement Learning", "Natural Language Processing", "Simulation and Modeling", "Probability and Statistics", "Stochastic Processes", "Capstone Projects", "Compiler Design Techniques"]
+
+CIS 5350 Labels = 
+"labels": ["Discrete Mathematics", "Operating Systems", "Computer Architecture", "Computer Networks", "Internet and Web Systems", "Data Visualization", "Frontend Development", "Artificial Intelligence", "Machine Learning", "Reinforcement Learning", "Natural Language Processing", "Bioinformatics", "Computational Biology", "Data Science", "Statistical Inference", "Probability and Statistics", "Research Methods", "Policy and Technology"]
+
+CIS 5360 Labels = 
+"labels": ["Discrete Mathematics", "Neural Networks", "Simulation and Modeling", "Bioinformatics", "Computational Biology", "Probability and Statistics"]
+
+CIS 5370 Labels = 
+"labels": ["Discrete Mathematics", "Image Processing", "Biomedical Image Analysis", "Probability and Statistics", "Image Processing Techniques"]
+
+CIS 5400 Labels = 
+"labels": ["Theory of Computation", "Embedded Systems", "Neural Networks", "Reinforcement Learning", "JavaScript Programming"]
+
+CIS 5410 Labels = 
+"labels": ["Object-Oriented Programming", "Programming Paradigms", "Software Architecture", "Operating Systems", "Embedded Systems", "Computer Networks", "Neural Networks", "Simulation and Modeling", "Optimization Techniques"]
+
+CIS 5420 Labels = 
+"labels": ["Data Structures", "Parallel Computing", "Simulation and Modeling", "Concurrent Programming Techniques"]
+
+CIS 5450 Labels = 
+"labels": ["Data Structures", "Operating Systems", "Computer Networks", "Big Data Analytics", "Data Mining", "Data Visualization", "Privacy and Security", "Artificial Intelligence", "Machine Learning", "Neural Networks", "Natural Language Processing", "Game Development", "Data Science", "Statistical Inference", "Probability and Statistics", "Ruby on Rails", "MATLAB Programming"]
+
+CIS 5470 Labels = 
+"labels": ["Data Structures", "Discrete Mathematics", "Mathematical Foundations", "Software Engineering", "Operating Systems", "Systems Programming", "Neural Networks", "Probability and Statistics", "Research Methods", "Ruby on Rails", "Unit Testing", "Debugging Techniques", "Graph Algorithms"]
+
+CIS 5480 Labels = 
+"labels": ["Advanced Programming", "Data Structures", "Software Engineering", "Operating Systems", "Systems Programming", "Computer Networks", "Internet and Web Systems", "Data Visualization", "Human\u2013Computer Interaction", "Frontend Development", "DevOps", "Privacy and Security", "Artificial Intelligence", "Machine Learning", "Neural Networks", "Reinforcement Learning", "Game Development", "Parallel Computing", "Capstone Projects", "C++ Programming", "C Programming", "Concurrent Programming Techniques", "Memory Management Techniques"]
+
+CIS 5490 Labels = 
+"labels": ["Data Structures", "Software Architecture", "Operating Systems", "Computer Networks", "Internet and Web Systems", "Cloud Computing", "Frontend Development", "DevOps", "Cryptography", "Machine Learning", "Neural Networks", "Game Development", "Simulation and Modeling", "Ruby on Rails", "Concurrent Programming Techniques", "Dynamic Programming"]
+
+CIS 5500 Labels = 
+"labels": ["Object-Oriented Programming", "Discrete Mathematics", "Operating Systems", "Computer Networks", "Database Systems", "NoSQL Databases", "SQL and Relational Databases", "Machine Learning", "Simulation and Modeling", "Data Science", "Optimization Techniques", "JavaScript Programming"]
+
+CIS 5510 Labels = 
+"labels": ["Data Structures", "Mathematical Foundations", "Operating Systems", "Computer Networks", "Internet and Web Systems", "Database Systems", "SQL and Relational Databases", "Computer and Network Security", "Cryptography", "Privacy and Security", "Game Development"]
+
+CIS 5520 Labels = 
+"labels": ["Functional Programming", "Discrete Mathematics", "Software Engineering", "Software Design", "Operating Systems", "Computer Networks", "Machine Learning", "Reinforcement Learning", "Capstone Projects", "Haskell Programming"]
+
+CIS 5530 Labels = 
+"labels": ["Data Structures", "Discrete Mathematics", "Operating Systems", "Computer Networks", "Internet and Web Systems", "Computer and Network Security", "Reinforcement Learning", "Augmented Reality"]
+
+CIS 5540 Labels = 
+"labels": ["Functional Programming", "Programming Paradigms", "Discrete Mathematics", "Computer Networks", "Concurrent Programming Techniques"]
+
+CIS 5550 Labels = 
+"labels": ["Operating Systems", "Computer Networks", "Distributed Systems", "Internet and Web Systems", "Cloud Computing", "Big Data Analytics", "NoSQL Databases", "Human\u2013Computer Interaction", "Web Development", "Backend Development", "Machine Learning", "Neural Networks", "Reinforcement Learning", "Parallel Computing", "Capstone Projects", "Java Programming", "Debugging Techniques", "Concurrent Programming Techniques"]
+
+CIS 5560 Labels = 
+"labels": ["Data Structures", "Mathematical Foundations", "Cryptography", "Privacy and Security", "Neural Networks"]
+
+CIS 5570 Labels = 
+"labels": ["Software Engineering", "Agile Development", "Internet and Web Systems", "Frontend Development", "Backend Development", "Machine Learning", "Ruby on Rails"]
+
+CIS 5590 Labels = 
+"labels": ["Data Structures", "Operating Systems", "Internet and Web Systems", "Artificial Intelligence", "Machine Learning", "Neural Networks", "Simulation and Modeling", "Optimization Techniques", "Seminar Courses"]
+
+CIS 5600 Labels = 
+"labels": ["Data Structures", "Computer Networks", "Reinforcement Learning", "Computer Animation"]
+
+CIS 5610 Labels = 
+"labels": ["Data Structures", "Software Systems", "Operating Systems", "Reinforcement Learning", "Simulation and Modeling", "C++ Programming", "Randomized Algorithms"]
+
+CIS 5620 Labels = 
+"labels": ["Data Structures", "Computer Networks", "Robotics", "Computer Animation", "Virtual Reality", "Simulation and Modeling", "Simulation and Modeling Techniques"]
+
+CIS 5630 Labels = 
+"labels": ["Object-Oriented Programming", "Data Structures", "Operating Systems", "Computer Animation", "Game Development", "Simulation and Modeling", "Simulation and Modeling Techniques"]
+
+CIS 5640 Labels = 
+"labels": ["Data Structures", "Operating Systems", "Computer Architecture", "Computer Networks", "Frontend Development", "Reinforcement Learning", "Computer Animation", "Game Design", "Game Development"]
+
+CIS 5650 Labels = 
+"labels": ["Object-Oriented Programming", "Data Structures", "Operating Systems", "Computer Architecture", "Machine Learning", "Reinforcement Learning", "GPU Programming", "Parallel Computing", "Scientific Computing", "Simulation and Modeling", "Optimization Techniques", "Debugging Techniques", "Code Optimization", "Concurrent Programming Techniques", "Parallel Processing Techniques", "Memory Management Techniques"]
+
+CIS 5660 Labels = 
+"labels": ["Data Structures", "Internet and Web Systems", "Interaction Design", "Reinforcement Learning", "Computer Animation", "Simulation and Modeling", "Capstone Projects", "Special Topics"]
+
+CIS 5670 Labels = 
+"labels": ["Data Visualization", "Parallel Computing", "Scientific Computing", "Numerical Methods", "MATLAB Programming"]
+
+CIS 5680 Labels = 
+"labels": ["Data Structures", "Software Design", "Operating Systems", "Computer Architecture", "Computer Networks", "Internet and Web Systems", "Interaction Design", "Frontend Development", "Artificial Intelligence", "Neural Networks", "Computer Animation", "Game Design", "Game Development", "Virtual Reality", "Augmented Reality", "Cognitive Science", "Iterative Methods"]
+
+CIS 5690 Labels = 
+"labels": ["Data Structures", "Artificial Intelligence", "Machine Learning", "Deep Learning", "Neural Networks", "GPU Programming", "Debugging Techniques"]
+
+CIS 5710 Labels = 
+"labels": ["Discrete Mathematics", "Software Design", "Operating Systems", "Computer Architecture", "Digital Systems", "Systems Programming", "Computer Networks", "Human\u2013Computer Interaction", "Concurrent Programming Techniques"]
+
+CIS 5730 Labels = 
+"labels": ["Software Engineering", "Software Design", "Operating Systems", "Machine Learning", "Unit Testing", "Debugging Techniques"]
+
+CIS 5800 Labels = 
+"labels": ["Data Structures", "Operating Systems", "Computer Networks", "Computer Vision", "Robotics", "Simulation and Modeling", "Cognitive Science", "Probability and Statistics", "MATLAB Programming"]
+
+CIS 5810 Labels = 
+"labels": ["Data Structures", "Operating Systems", "Internet and Web Systems", "Reinforcement Learning", "Computer Vision", "Computational Photography", "Cognitive Science"]
+
+CIS 5970 Labels = 
+"labels": []
+
+CIS 5990 Labels = 
+"labels": ["Independent Study"]
+
+CIS 6010 Labels = 
+"labels": ["Data Structures", "Software Architecture", "Operating Systems", "Computer Architecture", "Internet and Web Systems", "Reinforcement Learning", "GPU Programming", "Parallel Computing", "Special Topics", "Seminar Courses", "Concurrent Programming Techniques"]
+
+CIS 6100 Labels = 
+"labels": ["Data Structures", "Operating Systems", "Computer Networks", "Data Visualization", "Machine Learning", "Neural Networks", "Computer Vision", "Robotics", "Game Development", "Simulation and Modeling", "JavaScript Programming"]
+
+CIS 6200 Labels = 
+"labels": ["Data Structures", "Discrete Mathematics", "Operating Systems", "Computer Networks", "Internet and Web Systems", "Machine Learning", "Neural Networks", "Natural Language Processing", "Computer Vision", "Cognitive Science", "Compiler Design Techniques"]
+
+CIS 6250 Labels = 
+"labels": ["Data Structures", "Discrete Mathematics", "Mathematical Foundations", "Operating Systems", "Cryptography", "Privacy and Security", "Ethical Algorithm Design", "Artificial Intelligence", "Machine Learning", "Neural Networks", "Reinforcement Learning", "Game Design", "Game Development", "Probability and Statistics", "Optimization Techniques", "Capstone Projects"]
+
+CIS 6300 Labels = 
+"labels": ["Operating Systems", "Computer Networks", "Internet and Web Systems", "Frontend Development", "Machine Learning", "Deep Learning", "Reinforcement Learning", "Natural Language Processing", "Capstone Projects", "Seminar Courses"]
+
+CIS 6400 Labels = 
+"labels": ["Object-Oriented Programming", "Discrete Mathematics", "Operating Systems", "Privacy and Security", "Memory Management Techniques"]
+
+CIS 6500 Labels = 
+"labels": ["Data Structures", "Operating Systems", "Computer Networks", "Internet and Web Systems", "Database Systems", "SQL and Relational Databases", "Machine Learning", "Neural Networks", "Reinforcement Learning", "Parallel Computing", "Probability and Statistics", "Optimization Techniques", "Capstone Projects", "Seminar Courses", "Ruby on Rails", "SQL Programming", "Code Optimization", "Concurrent Programming Techniques", "Machine Learning Techniques"]
+
+CIS 6600 Labels = 
+"labels": ["Data Structures", "Software Design", "Computer Networks", "Interaction Design", "Frontend Development", "Computer Animation", "Game Design", "Simulation and Modeling"]
+
+CIS 6700 Labels = 
+"labels": ["Object-Oriented Programming", "Functional Programming", "Theory of Computation", "Discrete Mathematics", "Mathematical Foundations", "Operating Systems", "Computer Networks", "Internet and Web Systems", "Machine Learning", "Neural Networks", "Parallel Computing", "Simulation and Modeling", "Seminar Courses", "Haskell Programming", "OCaml Programming", "Recursion Techniques", "Object-Oriented Design Patterns", "Concurrent Programming Techniques"]
+
+CIS 6730 Labels = 
+"labels": ["Object-Oriented Programming", "Data Structures", "Computational Complexity", "Theory of Computation", "Discrete Mathematics", "Logic and Reasoning", "Software Design", "Operating Systems", "Embedded Systems", "Computer Networks", "Distributed Systems", "Internet and Web Systems", "Cloud Computing", "Machine Learning", "Neural Networks", "Reinforcement Learning", "Robotics", "Numerical Methods", "Simulation and Modeling", "JavaScript Programming", "Debugging Techniques", "Heuristic Algorithms"]
+
+CIS 6770 Labels = 
+"labels": ["Data Structures", "Internet and Web Systems", "Computational Biology", "Heuristic Algorithms", "Graph Algorithms", "Randomized Algorithms"]
+
+CIS 6800 Labels = 
+"labels": ["Operating Systems", "Computer Networks", "Image Processing", "Robotics", "Simulation and Modeling", "Cognitive Science", "Seminar Courses"]
+
+CIS 6820 Labels = 
+"labels": ["Theory of Computation", "Discrete Mathematics", "Internet and Web Systems"]
+
+CIS 7000 Labels = 
+"labels": ["Mathematical Foundations", "Computer Networks", "Internet and Web Systems", "Artificial Intelligence", "Machine Learning", "Deep Learning", "Neural Networks", "Natural Language Processing"]
+
+CIS 7980 Labels = 
+"labels": ["Discrete Mathematics", "Operating Systems", "Computer Networks", "Machine Learning", "Statistical Inference"]
+
+CIS 8000 Labels = 
+"labels": ["Internet and Web Systems", "Seminar Courses"]
+
+CIS 8100 Labels = 
+"labels": []
+
+CIS 8950 Labels = 
+"labels": []
+
+CIS 8990 Labels = 
+"labels": []
+
+CIS 9950 Labels = 
+"labels": []
+
+CIS 9990 Labels = 
+"labels": []
+

@@ -1,0 +1,256 @@
+Table of Contents
+Overview
+Prerequisites
+Course Description
+Course Materials
+Website
+Github
+Gradescope
+Docker & Speclab
+Canvas
+Ed Discussion Board
+OHQ
+Textbook
+Course Components
+Lectures
+Programming Projects
+Check-in Quizzes
+Exams
+Policies
+Getting Help
+Inclusion
+Disability Services
+Grading Breakdown
+Assessment Policies
+Late Policy
+Rescheduling Exams
+Collaboration & Academic Misconduct
+Policy on Generative A.I.
+Overview
+Prerequisites
+Required: Knowledge of Computer Systems and C programming.
+For Systems topics, students should be familiar with concepts of memory, assembly instructions, data representation, binary encoding, and vaugely familiar with the idea of an operating system.
+In terms of C knowledge, students should be comfortable writing long C programs with little to no skeleton code, managing dynamically allocated memory, and interacting with C pointers. As a result, the official pre-requisite of this course is: CIS 2400 (Intro to Computer Systems) or a similar course/background (e.g. CIT 5930).
+Required: Willingness/happy to spend substantial time coding.
+Required: Ability to work well in a team with other students.
+Optional: Expereince with Data structures, algorithms, finite state machines, and graphs. This can be optained from taking CIS 1210 or CIT 5960. There won’t be any proof writing or “theory” homework assignments, but operating systems employ many algorithms that are better understood if you have expereince with these concepts. The concept of Hashing & Hash Tables will also show up briefly in the course and it will be assumed you are familar with these, but if you aren’t, you can ask in Office Hours.
+This course is currently only open to undergraduate students and assumes prior C knowledge (specifically, what is covered in CIS 2400). This includes:
+
+Pointers
+Structs
+Simple Data Structures
+C program layout
+Students in other degree programs may add themselves to the CIS course waitlist. Note that students who have not taken CIS 2400, CIT 5930 or an equivalent course have very little, if any, chance of being admitted.
+
+Course Description
+In CIS 2400, you learned some fundamentals of how computers work, starting with transistors, going through assembly, briefly discussion the idea of the Operating System and then ending with the low level programming language of C. In this course, we plan to further develop the model of a computer introduced in CIS 2400 to a model that includes handling multiple programs (and multiple operating systems) running at the same time. A big component of this is seeing how shared resources are allocated and protected across programs.
+
+More directly speaking, we plan to go over the following topics:
+
+System Calls
+Process Management
+Virtual Memory Management
+Threads
+Scheduling
+File Systems
+Device Drivers
+Synchronization
+Deadlocks
+Virutalization
+Course Materials
+Website
+The website acts as the central place for organizing material for the course. All essential material for the course is delivered through or linked through the course website. As an example, the website contains the course schedule, lecture materials, recitation materials, homework specifications, and this syllabus. We highly encourage you to explore, try some of the resources that are available, and become familiar with the site early on in the course.
+
+Github
+All programming projects will use github for version control. This is increasingly important for the later projects as they will be done with teammates. We will create repositories for you and distribute some provided code through them. You can setup your github account for the course by following the instructions here: Github Setup Instructions
+
+ You are not allowed to post your code from this course in a separate public repository. Doing so is against the academic conduct policy and can result in a failing grade in the course.
+
+Gradescope
+Gradescope is where both programming projects and exams are submitted and graded. You should be able to initially access the gradescope for the course via the canvas sidebar. After the initial access, you should be able to log into gradescope directly and see CIS 3800 on it.
+
+Docker & Speclab
+ DO NOT use eniac machines to develop projects for this class! Students caught running project code on Eniac will be penalized. In the past, CIS 5480 students have accidentally crashed eniac in creative ways, causing issues for everyone using it.
+
+Docker and speclab are the two development enviroments supported by the course. We will not give advice on how to support alternatives unless one cannot get docker or speclab to work.
+
+ Caution: do not develop on macOS directly or other UNIX environments directly (e.g. Ubuntu, other versions of Linux, WSL). There can be significant differences in how your C code is compiled and the behaviour of the systems. In the past students have thought they got a working solution only to realize after submitting that their code doesn’t compile in the grading environment. If you still use one of these environments, we urge you to at least compile and test in the course supported environments frequently to ensure your program is behaving as expected.
+
+Docker is the recommended place for developing and testing your programming projects. The environment you will use in Docker will be the same as the environment we grade projects in. Instructions will be posted on Ed shortly into the semester directing you how to setup the docker environment.
+
+You can find the instructions for setting up your docker environment here: Docker Setup
+
+If docker does not work, this is what we recommend to use for developing and testing your programming projects. Instructions for using speclab can be found here: https://cets.seas.upenn.edu/answers/speclab.html. Note that you do not need to install Docker on speclab, speclab is already a linux session that you can develop in.
+
+Canvas
+The canvas site contains the gradebook, surveys, and class recordings. You are free to use the canvas if you want, but if there is anything that is needed on canvas, it will be directly linked on the course website.
+
+Ed Discussion Board
+The Ed Discussion board provides a place for students to get support from course staff. Ed is also the primary mechanism for announcements, though we will try to repeat announcements at the beginning of lecture for convenience. Ed Discussion is also where we will host the weekly check-in quizzes.
+
+OHQ
+The course has an OHQ that we will be using for virtual office hours. Please write at least a somewhat detailed explanation of your question/problem and what you have tried so far to fix it.
+
+Textbook
+There are no strictly required texts for this course, however, some find it helpful to read the course material from a textbook. Note that none of the textbooks listed will have everything used in this course. As a result, we are suggesting the following texts:
+
+Dive Into Systems (https://diveintosystems.org/book/): this is a free online textbook that is well written and contains useful information about several of the systems topics covered in this class and in CIS 2400.
+cppreference.com (https://en.cppreference.com/w/c): This website provides a useful reference for C (and C++) programmers, and highlights many useful headers and functions that may be useful to your C (or C++ program) writing.
+online manual pages (https://linux.die.net/man) and (https://www.man7.org/linux/man-pages/): These websites are online equivalents of the man terminal command. They contains useful information on user terminal commands (section 1), System Calls (section 2) and C standard library functions (section 3).
+If you are looking for a more traditional textbook, past version of the course have required or highly recommended:
+
+A.S. Tanenbaum. Modern Operating Systems (4th Edition onwards). Prentice-Hall.
+W. Richard Stevens and Stephen A. Rago. Advanced Programming in the UNIX Environment (2/e or 3/e). Addison-Wesley Professional.
+Course Components
+Lectures
+There are approximately 27 lectures throughout the semester, which occur from 12:00 PM (Noon) to 1:30 PM on Tuesdays and Thursdays. Lectures will introduce Operating Systems concepts and reinforce those concepts with problem solving and small coding exercises. These in-class exercises are designed to prepare people for the exams and projects.
+
+Attendance is not mandatory, but highly encouraged since it is easier to ask questions and participate in activities beneficial for learning. Attending class and engaging in activities may also help you find food teammates for the second and third programming project. It will be possible to join lecture via Zoom, and lecture recordings will be available on Canvas. We will also post videos to supplement lecture, but you are not required to watch these.
+
+A few of the lectures will contain TA demos of the programming projects. We highly suggest you attend and look over the assignment before class. This is a great opportunity to ask clarifying questions to course staff to understand what you are supposed to implement.
+
+Programming Projects
+Projects will be distributed through the course website, but will be graded and submitted through the course gradescope. There will be 4 programming projects spread out through the semester:
+
+The first two projects are done individually. It is released the first week of the semester and due during the third week of the semester. The assignment also has a portion where, after you submit your code, you will pair up with a student and review each others code.
+The third project is done in teams of two. It is released in the third week of the semester, has a miletone in the 5th wekk, and is due in the seventh week of the semester.
+The fourth and final project is done in teams up to four. The project is a massive undertaking where you will write a miniture operating system. We give you the second half of the semester to complete it. More specifically, we release the project after the first midterm and it will be due in week 14, shortly before the second (and final) midterm exam. There will be a group evaluation done by the end of the semester and team members who contribute but too low (e.g. < ~15%) will get a grade deduction. Students who do not contribute at all or minimally will get a failing grade in the course.
+ Students who do not contribute to group projects will get an F grade regardless of overall score. Team members who contribute but too low (e.g. < ~15%) will get a grade deduction.
+
+If something comes up in your life that prevents you from contributing, please discuss with the instructor. We don’t need to know all personal details if something does come up, you have a right to your privacy, but please reach out.
+
+ We are highly considering moving the final project to be done in pairs but with more guidance on how to do it. This may result in more work, but should lessen the impact of getting bad teammates and also mean each person on the project is more intimately familiar with all the concepts that are tested in the project. More details to be released once we have come to a conclusion on this.
+
+Some of the projects will have optional extra credit that can be done to help your grade in the course. These will also provide interesting learning opportunities for you to get familiar with the OS concepts. We highly recommend that you at least read them and then consider doing them.
+
+Late submissions will be possible. More information can be found in the assignment policies section here.
+
+Check-in Quizzes
+These will be “open-book quizzes” on Ed Lessons that will be due before the first lecture of the week. These assignments will have unlimited submissions, so you can resubmit as many times as you wish. Some weeks will not have such an assignment, details can be found on the course calendar. The lowest two quiz scores will be dropped.
+
+These assignments will be designed based off of exam questions from previous versions of this course and should help prepare you for the exams.
+
+The lowest two check-in quizzes will be graded (this includes quizzes that were missed).
+
+Exams
+Exams will be graded by the course staff and will be posted to gradescope. As of now, these are planned to be cumulative, in-person and you can bring your own notes. The second exam a final exam during the final exam period. More information concerning how the exam is conducted will come as the exam approaches.
+
+Policies
+Getting Help
+It is very important to us that you succeed in CIS 5480. As a result, we are providing many resources to help you succeed. These include:
+
+Many office hours held by course staff
+The Ed discussion board
+Contacting staff directly via email
+Schedule a meeting with Joel here: https://calendly.com/joelrmrz-seas/joel-s-one-on-one
+Scheduling a meeting with Travis here: https://www.cis.upenn.edu/~tqmcgaha/#meetings
+Please do not be afraid to ask for help if you don’t understand something. We are here to help you succeed. Additionally, some of the course staff will get lonely and bored if no one shows up to their office hours.
+
+It is also very important to us that you maintain your mental wellness throughout the course. A few points are not worth losing sleep over. Everyone on the course staff is available to chat, and you can always attend office hours for a non-academic conversation if necessary.
+
+Additionally, if you are experiencing some unforeseen and extenuating circumstances, please feel free to reach out to course staff for help. Notably, we are still in a global pandemic! Hopefully the pandemic is winding down for everyone, but we know things can come up in the middle of the quarter (whether it is related to the pandemic or not), and we are here to help.
+
+Inclusion
+You have a right to a learning environment that feels safe, where you are treated with respect and feel that you can contribute ideas constructively. Put another way, you have the right to an inclusive learning environment.
+
+We want every student to feel that they have a safe and healthy learning environment, and if at any point you feel like this is not the case in any way, please let course staff know and we will see what we can do to help.
+
+You can contact staff by making a private post on Ed, reaching out to course staff via email, talking to course staff at office hours, or scheduling a 1-on-1 with the instructors here:
+
+Travis: https://www.cis.upenn.edu/~tqmcgaha/#meetings
+Joel: https://calendly.com/joelrmrz-seas/joel-s-one-on-one
+Disability Services
+The Student Disability Services (SDS) is a unit within the Weingarten Learning Resources Center (WLRC) dedicated to ensure equal access to all University programs, activities and services. They offer a wide range of services for students with disabilities that are individually designed and remove the need to reveal sensitive medical information to the course staff. Please submit a request if you will have a medical need for extensions of exam times or assignment deadlines.
+
+Grading Breakdown
+Check-in Quizzes: (3%)
+Project 0 penn-vector: (6%)
+Project 1 penn-shredder: (6%)
+Project 2 penn-shell: (17%)
+Project 3 PennOS: (34%)
+Midterm Exam: (17%)
+Final Exam: (17%)
+Final scores will be rounded to the nearest integer after adding extra credits. Previous versions of the course followed the following scale:
+
+A+ : 98 and above
+A : 90-97
+A- : 80-89
+B+ : 70-79
+B : 65-69
+B- : 60-64
+C+ : 55-59
+C : 50-54
+C- : 45-49
+D : 40-45 etc.
+This semester will likely follow a similar grading scale but no promises.
+
+Assessment Policies
+Late Policy
+For exams and weekly check-ins, no late submissions will be accepted, or extensions granted, except for particularly special circumstances.
+
+For homework assignments, we are granting you a total of 5 late tokens.
+
+Late tokens can be applied to any assignment to get a 48 hour extension.
+Late Tokens will be applied automatically to maximize your grade at the end of the semester
+Late Tokens will be counted and updated on the canvas gradebook. Each student should start with 5 and the number will be lowered as assignments are submitted late
+Assignments will close 96 hours after the initial due date. This means submission past that point will not be accepted with little exception. This means only up to two tokens can be used per assignment.
+If a submission is late and a token is not applied to it (becuase a student has run out), then a 5% deduction will be applied for each 48 hours late. (max of a 10% deduction).
+There are no partial tokens or partial deductions. If you are late by 30 minutes, it is the same as being late by 47 hours.
+Some assignments are done in pairs and submitted together, but late tokens are counted per individual student.
+Below is pseudo code that may help explain things. Apologies if it just makes things more confusing :X
+
+fn handle_late_submission(assignment a, map<student, int> late_token_gradebook) {
+  if (a.is_late) {
+     double diff = a.submission_date - a.due_date;
+     int tokens_used = round_up(diff / 48_hours);  // must be equal to 1 or 2
+     for (student s : assignment.group_members) {
+       late_token_gradebook[student] -= tokens_used;
+       // if the value becomes negative, then that means late deduction 
+       // will be applied when calculating final grades
+     }
+  }
+}
+Rescheduling Exams
+If you know in advance that you will be unable to take an exam, please discuss it with the instructor as soon as possible, at least a day before the exam so that the reason can be verified and plans can be put in place. Make-up exams would likely take place after the initial exam.
+
+For emergency absences, please reach out to the instructor when possible so that plans can be put in place.
+
+Policies regarding absences for the Final Exam are covered by the University Provost; for Spring semester courses, a makeup Final Exam would be scheduled at the start of the following Fall semester. Requests for a makeup Final Exam due to reasons that could reasonably be anticipated (e.g. traveling for summer break) are unlikely to be approved.
+
+Collaboration & Academic Misconduct
+In general, we encourage collaboration, but there is a very fine line between collaboration and cheating. We can learn a lot from working with each other and it can make the course more fun, but we also want to ensure that every student can get the maximum benefit from the material this course has to offer. Keep in mind that the overall goal is for YOU to learn the material so you will be prepared for the exams and for job interviews etc. in the future. Cheating turns the assignments into an exercise that is a waste of both your time and ours; save us both by not doing it.
+
+ You will be caught. Course staff carefully grades all written homework and we use MOSS (Measure of Software Similarity) to check code.
+
+Cheating consists of sharing code or solutions to assignments by either copying, retyping, looking at, or supplying a copy of a file. Examples include:
+
+Coaching a friend to arrive at a solution by simply following your instructions (i.e. no thinking involved). An example is helping a friend write a program line-by-line.
+Copying code from:
+A similar course at another university
+Using solutions/code on the web, including GitHub.
+Copying code from Stack Overflow, Geeks4Geeks or another similar website.
+Copying from another student or using their code as reference.
+Using generative AI (co-pilot, GPT, etc.) to generate solutions for you and copying that into your project code.
+Similarly, you are not allowed to show your work with anyone outside of the current CIS 3800 course staff via electronic or non-electronic means. You are also not allowed to post this work publicly.
+ You are not allowed to post your code from this course in a separate public repository or anywhere else that is publicly accessible. Doing so is against the academic conduct policy and can result in a failing grade in the course.
+
+If you want to use this as part of a resume or portfolio, instead describe the project, decribe what you did, and mention that you can show your work to potential employers upon request.
+
+Cheating is a very serious offense. If you are caught cheating, you can expect an initiation of a cheating case in the University system and a zero for the assignment. Depending on circumstances, you may receive a failing grade in the course. Cheating is an insult to the instructor and course staff, to the department and major program, and most importantly, to you and your fellow students. If you feel that you are having a problem with the material, or don’t have time to finish an assignment, or have any number of other reasons to cheat, then PLEASE talk with the instructor, we are more than happy to work with students as needed. **Just don’t cheat.**
+
+If you are in doubt about what might constitute cheating, send the instructor an email describing the situation and we will be happy to clarify it for you.
+
+See Penn’s Code of Academic Integrity for more information.
+
+Policy on Generative A.I.
+This isn’t as much a policy as it is advice. For this class, I recommend against using generative ai like ChatGPT or related technologies. However, we know many will use it regardless. We are not denying that ChatGPT can be a useful tool, we are just not convinced most students use it such that it benifits your growth and learning of the material in this class.
+
+ChatGPT is pretty good at making things sound correct, in ways that can make it hard to discern when it is actually incorrect vs when it is spouting nonsense. (See ChatGPT is a bullshit generator. But it can still be amazingly useful). When you are first learning about a topic, it can be especially hard to determine what is correct and what is “incorrect but articulated in a way that sounds like it is correct”.
+
+There are also issues with how correct GPT is in general. People with more expertise than I on this matter hypothesize that many claims of ChatGPT ability to pass exams and solve coding problems come from the fact that it memorized the solutions enough during training. In other words, ChatGPT is being evaluated on its training data, biasing the results. Tests on questions outside of its training data give a much more negative evaluation of ChatGPT’s abilities to solve problems. As a person, you are likely to encounter many issues that can’t be solved only via internet memorization (like some of the exam questions for this class). See GPT-4 and professional benchmarks: the wrong answer to the wrong question.
+
+I do not claim that ChatGPT is useless by these statements. There are many things it can do, I just doubt their usefulness in this class. We will not ban the usage of ChatGPT or similar tools except for during exams, but we expect you to be able to:
+
+explain & reason about your code yourself during office hours, project milestones and demos
+reason and think critically about exam questions without help. Questions will be designed for you to reason about them, not just to have memorized the correct answer.
+All in all, use your best judgement.

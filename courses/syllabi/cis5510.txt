@@ -1,0 +1,57 @@
+Course Description
+This course introduces the principles and practical considerations of computer and network security. It covers the following:
+
+Basic concepts: threat models, security principles
+Software Attacks: buffer and integer overflow, format string vulnerabilities, stack smashing
+Software Defenses: stack canaries, DEP, ASLR, isolation, fuzz testing
+Applied cryptography: symmetric and asymmetric encryption, digital signatures, hash functions
+Basics of networks and the Web: TCP/IP, routing, DNS, HTTP, cookies
+Network and Web attacks: BGP Hijacking, DNS forgery, SQL injection, CSRF, XSS
+Network security: firewalls, packet filtering, certificates, TLS
+Broader issues: surveillance, censorship, anonymity, legal issues, ethics
+Prerequisites
+CIS 1600: Mathematical Foundations of Computer Science
+CIS 2400: Introduction to Computer Systems
+Even though NETS students are not required to take CIS 2400, it is a prerequisite for this course.
+
+Course Staff
+Name	Office hours (location)
+Yixuan Jing	TBD
+Sriram Josyula	TBD
+Sasha Nguyen	TBD
+Alireza Shirzad	TBD
+Brady Zhou	TBD
+Textbook
+There is no required textbook for this course. The following books (available for free) are good extra sources:
+
+Operating Systems: Three Easy Pieces by Remzi and Andrea Arpaci-Dusseau
+Security Engineering by Ross Anderson
+A Graduate Course in Applied Cryptography by Dan Boneh and Victor Shoup
+Handbook of Applied Cryptography by Menezes, van Oorschot, and Vanstone
+Assignments, quizzes, and exams
+There will be 3 homework assignments to be completed individually, and 3 projects to be done in pairs. There are two non-cumulative exams.
+
+There will be 1 short quizz each week to be completed online through Canvas. The purpose of these quizzes is to keep you on track throughout the semester and make sure that you are understanding the material. We will drop the lowest 4 quizzes.
+
+Late days
+You will have a budget of five late days (24-hour periods) over the course of the semester that you may use to turn homeworks and projects in late without penalty and without needing to ask for an extension. Late pair projects will be charged to both partners. Once your late days are used up, extensions will only be granted in extraordinary circumstances. Late days can be used for homeworks and projects, but not exams nor quizzes. To use a late day, just turn in your assignment late. There is no need to notify the course staff or justify your decision. If you have an extenuating circumstance, you must contact the course staff before the assignment is due.
+Grading
+Projects: 40%
+Homeworks: 20%
+Exam 1: 15%
+Exam 2: 15%
+Quizzes: 10%
+Academic Honesty
+We encourage you to discuss the problems and your general approach with other students in the class. However, the answers you turn in must be your own original work, and you must adhere to Penn’s Code of Academic Integrity.
+
+For more information, see the Office of Student Conduct.
+
+Students with disabilities
+The University of Pennsylvania provides reasonable accommodations to students with disabilities who have self-identified and received approval from the Office of Student Disabilities Services (SDS). If SDS has approved your request for accommodations, please make an appointment to meet with me as soon as possible in order to discuss the arrangements for your accommodations. SDS services are free and confidential.
+
+Belonging, inclusion, and wellness
+The CIS department and all of the faculty and staff are committed to making your studies here at Penn a safe and rewarding experience. This can only happen if we work together to create an inclusive environment that welcomes all students, regardless of their race, ethnicity, gender identity, sexuality, or socioeconomic status. Diversity, inclusion, and belonging are all core values of this course. All participants in this course deserve, and should expect, to be treated with respect by other members of the community. We encourage all students to visit the CIS Diversity site to learn about all avaialble resources.
+
+A sense of belonging can also affect students’ mental health and wellness, which is of utmost importance to the course instruction staff, if not the University as a whole. All members of the instruction staff will be happy to chat or just to listen if you need someone to talk to, even if it’s not specifically about this course.
+
+If you or someone you know is in distress and urgently needs to speak with someone, please do not hesitate to contact CAPS: 215-898-7021; 3624 Market St. If you are uncomfortable reaching out to CAPS, any member of the instruction staff will be happy to contact them on your behalf.

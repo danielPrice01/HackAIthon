@@ -1,0 +1,87 @@
+COURSE DESCRIPTION
+
+This course is an introduction to the theory of machine learning, and provides mathematical, algorithmic, complexity-theoretic and probabilistic/statistical foundations to modern machine learning and related topics.
+
+The first part of the course will follow portions of An Introduction to Computational Learning Theory, by M. Kearns and U. Vazirani (MIT Press). We will cover perhaps 6 or 7 of the chapters in K&V over (approximately) the first half of the course, often supplementing with additional readings and materials. I will provide electronic versions of the relevant chapters of K&V.
+
+The second portion of the course will focus on a number of models and topics in learning theory and related areas not covered in K&V.
+
+The course will give a broad overview of the kinds of theoretical problems and techniques typically studied and used in machine learning, and provide a basic arsenal of powerful mathematical tools for analyzing machine learning problems.
+
+Topics likely to be covered include:
+
+Basics of the Probably Approximately Correct (PAC) Learning Model
+Occam's Razor, Compression and Learning
+Concentration, Uniform Convergence and the Vapnik-Chervonenkis Dimension
+Boosting and Related Techniques
+Learning in the Presence of Noise and Statistical Query Learning
+Learning and Cryptography
+Query Models
+Online and No-Regret Learning Models
+Agnostic Learning
+Game Theory and Machine Learning
+Learning and Differential Privacy
+Fairness in Machine Learning
+Theory of Reinforcement Learning
+
+COURSE FORMAT, REQUIREMENTS, AND PREREQUISITES
+
+The lectures will be in a mixture of "chalk talk" format and markup of lecture notes, but with ample opportunity for discussion, participation, and critique. The course will meet Tuesdays and Thursdays from 10:15 to 11:45, with the first meeting on Tuesday August 27.
+
+The course will involve advanced mathematical material and will cover formal proofs in detail, and will be taught at the doctoral level. While there are no specific formal prerequisites, background or courses in algorithms, complexity theory, discrete math, combinatorics, convex optimization, probability theory and statistics will prove helpful, as will "mathematical maturity" in general. We will be examining detailed proofs throughout the course. If you have questions about the desired background, please ask. Auditors and occasional participants are welcome.
+
+The course requirements for registered students will be a mixture of active in-class participation, problem sets, possibly leading a class discussion, and a final project. The final projects can range from actual research work, to a literature survey, to solving some additional problems.
+
+MEETING/TOPIC SCHEDULE
+
+The exact timing and set of topics below will depend on our progress and will be updated as we proceed.
+
+Module 1
+Course overview, topics, and mechanics. Analysis of rectangle learning problem. Introduction of the PAC learning model. PAC learning conjunctions. Intractability of PAC learning 3-term DNF. PAC learning 3-term DNF by 3CNF.
+
+
+Course Overview Lecture Notes
+Rectangle Learning Problem Lecture Notes
+PAC Model Lecture Notes
+K&V Chapter 1
+Module 2
+Consistency and PAC learning in the finite H case. Consistency and compression.
+
+
+Consistency and Compression Lecture Notes
+K&V Chapter 2.
+Module 3
+Consistency and PAC learning in the infinite H case. The VC dimension. Uniform convergence.
+
+
+VC Dimension Lecture Notes
+K&V Chapter 3, and here is a link to a very nice survey paper generalizing VC-style bounds to a wide variety of other learning models:
+"Decision Theoretic Generalizations of the PAC Model for Neural Net and Other Learning Applications", D. Haussler 1992.
+
+Module 4
+Boosting
+
+
+Boosting Lecture Notes
+Freund and Schapire Adaboost Paper
+Module 5
+PAC Learning with Classification Noise (CN); the Statistical Query (SQ) Model
+
+
+CN and Statistical Query Lecture Notes
+K&V Chapter 5.
+Module 6
+No-Regret Learning and Game Theory
+
+
+No-Regret Lecture Notes
+Module 7
+Fairness in Machine Learning
+
+
+Fair ML Lecture Notes
+Module 8
+Differential Privacy and Machine Learning
+
+
+Differential Privacy and ML Lecture Notes

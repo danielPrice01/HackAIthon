@@ -1,0 +1,22 @@
+Introduction
+How can a programmer verify that the system they have designed works correctly as intended? Computer-aided verification is a sub-discipline of computer science aimed at developing tools and techniques to assist programmers meet this goal. These tools have now reached a level of maturity where they are being integrated in system design in companies such as Amazon, Facebook, Google, and Microsoft. This course focuses on logical foundations necessary to formalize the question of system verification and algorithmic tools necessary to automate the challenging task of verification to the extent possible. The course will also introduce the students to the emerging research on formal methods approach to ensuring safety of systems that include components trained using modern machine learning algorithms.
+Prerequisites
+The course assumes basic knowledge of algorithms, data structures, programming languages, computational complexity, and propositional logic. The course requires mathematical maturity, and is appropriate for PhD students who wish to pursue research in formal methods, programming languages, cyber-physical systems, or safe AI, and undergraduate/Masters students who want to understand the techniques used in formal verification tools. If you need more information to decide, contact the instructor.
+Coursework
+Every week, students are expected to read course handouts and participate actively during class. There will be two homeworks, one on program verification using Dafny and one on model checking using SPIN. Furthermore, each student will be required to do a class project. The project can be (1) a case study of applying formal verification to design/debug/understand a system component, (2) an implementation, and its evaluation, to enhance features/scalability of a verification tool, or (3) a project of your choice relevant to the themes of the course. At the end of the semester, each student is required to submit a written report and give a presentation about the project.
+Topics (subject to change based on students' interests)
+Program verification: Pre/post conditions and loop invariants, From partial correctness to verification conditions to checking satisfiability of logical formulas, Boolean satisfiability and efficient SAT solvers, decidable logical theories, combination of decision procedures, SMT solvers, Ranking functions and program termination.
+Protocol verification: Modeling concurrent/distributed protocols, safety vs. liveness, temporal logic specifications, model checking, symbolic state-space exploration, predicate abstraction and counterexample-guided abstraction refinement
+Formal analysis of ML-based systems: Verifying input-output properties of neural networks, Safety of closed-loop control systems, Specification-guided reinforcement learning
+Tools
+CBMC
+Dafny
+NuSMV
+PRISM
+SPIN
+TLA+
+UPPAAL
+Resources
+Textbook: The Calculus of Computation, Bradley and Manna, Springer, 2007.
+Textbook: Principles of Cyber-Physical Systems, Alur, MIT Press, 2015.
+As an illustrative example of how formal methods are used in industry today, check out this talk by Byron Cook of Automated Reasoning Group at Amazong Web Services: An AWS Approach to Higher Standards of Assurance w/ Provable Security

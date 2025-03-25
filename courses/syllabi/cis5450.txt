@@ -1,0 +1,108 @@
+Prerequisites
+This course expects broad familiarity with probability and statistics, as well as programming in Python. CIS 110, MCIT 590, or the equivalent are required. Additional background in statistics, data analysis (e.g., in Matlab or R) is helpful but not required.
+
+Grading
+The grade breakdown will be as follows:
+
+homeworks (5-6 expected) 40%,
+
+term project 25%,
+
+midterm 15%,
+
+final exam 15%,
+
+participation (participating in person, posting to Ed) 5%
+
+Late Policy
+Homework assignments turned in late (even by one second) will receive a 10 percentage point penalty. For example, if an assignment submitted late would have gotten a score of 95%, the late assignment will instead get a score of 85%. An assignment that would have gotten a score of 100%, but is submitted late will get a score of 90%. Homework assignments can be turned in late until Dec 9th at 10pm. Late homework assignments submitted after Dec 9th at 10pm will get a score of 0.
+
+Resubmission: you can submit your work for grading after the due date multiple times, but your resubmitted work will get the 10 percentage point penalty. For example, if you submit your work on time and get a grade of 70%, you could perfect your homework (correct all errors) and resubmit late for a score of 90%. Resubmission can never raise your grade over 90%.
+
+Collaboration Policy
+You are responsible for knowing Penn's Code of Academic Integrity.  In particular, copying solutions from other students or other resources (e.g. the Web or from students who have taken the class in previous years) is NOT allowed.  While you can verbally discuss high level ideas and discuss concepts, you are NOT allowed to share code with each other. Needless to say, making answers to homework assignments or exams available to others either directly or by posting on the web is NOT allowed.
+
+We will not have a sense of humor about violations of this policy! 
+
+AI/Large Language Model (LLM) Policy
+Modern AI tools can be of great help in understanding concepts, and we have no concerns about you using ChatGPT, Gemini, etc. to get alternative explanations for topics or syntax. Such tools are a great addition to a data scientist's toolbox! You should feel free to use LLMs as much as you'd like. Keep in mind that copying and pasting a solution from ChatGPT might score you some points on the homework, but you'll be doing the midterm and final exam with pen and paper. Therefore, we highly recommend using the homework assignments as an opportunity to practice your skills.
+
+Resources:
+ColabLinks to an external site. (for homeworks; you'll need a Google@SEAS or GMail ID)
+
+Ed Discussion, see link in sidebar (questions, discussion)
+
+Canvas, you are here (for access to the lecture recordings, which will be linked below)
+
+Gradescope, see link in sidebar (for homework submission and exams; you'll be auto-added to this via Canvas)
+
+OHQLinks to an external site. (for less frustrating office hour queuing)
+
+Readings:
+We recommend several books for students of different skill levels..
+
+For students with a limited CS background: You should get the book Data Science from ScratchLinks to an external site.,Links to an external site. 2nd ed, by Grus, from O'Reilly. This book provides a quick refresher in Python, probability, statistics, and linear algebra. An online version can be accessed through the Penn librariesLinks to an external site.. You may also find the UC Berkeley free book The Foundations of Data ScienceLinks to an external site. useful.
+
+For all students: Python for Data AnalysisLinks to an external site., by McKinney, from O'Reilly. Again, an online version is accessible via the Penn librariesLinks to an external site..
+
+For advanced students: Python Machine LearningLinks to an external site., 3rd edition by Raschka, from Packt. And indeed, an online version of this book is also accessible via the Penn librariesLinks to an external site..
+
+Below is a list of the topics only:
+
+Introduction to Big Data Analytics
+
+Representing Data
+
+Information Extraction
+
+More on DataFrames
+
+"Big" Data
+
+From Databases to Compute Clusters
+
+Spark and Sharded Computation
+
+Graphs: Analyzing and Linking Big Data
+
+Big Data as Matrices
+
+Matrix Notebook
+
+Algorithmic Primitives
+
+Hypothesis Testing
+
+Data Science in Practice
+
+Clustering
+
+Principal Component Analysis
+
+Non-negative Matrix Factorization
+
+Classification & Regression
+
+Training Tips & Techniques
+
+Neural Networks
+
+Convolutional Neural Nets
+
+Word Vectors Case Study
+
+Time-Varying Data
+
+Streaming Data, Pt 1
+
+Data Science Industry Panel
+
+More on Data Visualization
+
+Data Ethics & Privacy
+
+
+
+
+
+

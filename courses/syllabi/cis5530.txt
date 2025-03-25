@@ -1,0 +1,105 @@
+CIS 5530: Networked Systems
+Spring 2025
+
+Instructor: Vincent Liu
+Lecture location: Berger Auditorium
+Time: MW 1:45 – 3:15 pm ET
+External Sites: Ed Discussion, Canvas, and Gradescope
+Office hours: Wed 12:30 – 1:30 pm ET @ Levine 574 or by appointment
+
+TAs (show Content Project):
+Wenwen Xie (wenxie@seas)
+Mon 9:00 am – 11:00 am ET @ OHQ Project
+Xuting Liu (xutingl@seas)
+Tue 1:00 pm – 3:00 pm ET @ OHQ Content Project
+Frank Wu (frwu@seas)
+Wed 9:00 am – 11:00 am ET @ OHQ Content Project
+Joan Zhang (zhangqj@seas)
+Thu 9:00 am – 11:00 am ET @ OHQ Content Project
+Yutai Zhang (yutai@seas)
+Fri 9:00 am – 11:00 am ET @ OHQ Content Project
+Chenxi Dong (dcx0702@seas)
+Fri 1:00 pm – 3:00 pm ET @ OHQ Content Project
+
+Course Description
+CIS 5530 is a graduate course in Computer Networking that gives a top-to-bottom treatment of computer networking.
+
+The course begins with an overview of communications systems, then progresses through a series of logical “layers,” each of which carries out roles in the networked system. We start with (1) “physical layers” such as radio, optical fiber and copper wiring, and rise through a series of functional abstractions (naming, addressing, routing, ...) that comprise a “stack” of protocol layers used by applications. These include: (2) the link layer which uses the physical layer to communicate, and manages device identity and access to the medium; (3) the network layer which connects sets of participants using link layers; (4) the transport layer which provides services required by applications such as reliable byte-streams.
+
+The course will involve two large programming projects and two written exams.
+
+Students who need a permit should add themselves to the waitlist.
+
+Recommended Textbooks:
+[Primary] Computer Networks: A Systems Approach (5th Edition). Larry L. Peterson and Bruce S. Davie.
+Computer Networking: A Top-Down Approach (6th Edition). James F. Kurose and Keith W. Ross
+Computer Networks (5th Edition). Andrew S. Tanenbaum and David J Wetherall.
+
+Prerequisites
+C++ experience (e.g., CIS 1901, CIS 2400, etc.) or permission of instructor. Parallel programming experience is also helpful, but not strictly necessary.
+
+Grading
+Project 1: 22.5%
+Project 2: 22.5%
+Exam 1: 25%
+Exam 2: 25%
+Participation: 5%
+
+Late Policy
+You start with 4 “slip days,” deducted in 1-day increments. That means that if you turn in an assignment 15 mins late, you lose an entire slip day. No late assignments will be accepted without slip days.
+
+
+
+Below is a list of topics only:
+
+Class Introduction
+
+The Architecture of the Internet
+
+Network Performance
+
+Components of a Network
+
+Forwarding
+
+Addressing
+
+Intradomain Routing
+
+Interdomain Routing
+
+Interdomain Routing II
+
+Discovery
+
+Discovery II
+
+Putting It All Together
+
+Overlay Networks
+
+Peer-to-Peer
+
+Transport Layer Basics
+
+TCP Features
+
+Flow Control
+
+Congestion Control
+
+Congestion Control II
+
+HTTP
+
+Modern HTTP
+
+Streaming
+
+TCP BBR
+
+Wireless
+
+Security
+
+Censorship
