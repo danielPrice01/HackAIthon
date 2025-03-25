@@ -6,7 +6,8 @@
       "available": "Fall or Spring",
       "cu": "1 Course Unit",
       "prereq": "A maximum of 2 c.u. of CIS 0099 may be applied toward the B.A.S. or B.S.E. degree requirements.",
-      "syllabus": "courses/syllabi/cis0099.txt"
+      "syllabus": "courses/syllabi/cis0099.txt",
+      "labels": ["Operating Systems", "Computer Networks", "Internet and Web Systems", "Neural Networks", "Game Development", "Independent Study"]
     },
     {
       "id": "CIS 1050",
@@ -16,7 +17,8 @@
       "cu": "1 Course Unit",
       "prereq": "",
       "syllabus": "courses/syllabi/cis1050.txt",
-      "mutuallyExclusive": "PHYS 1100"
+      "mutuallyExclusive": "PHYS 1100",
+      "labels": ["Introductory Programming", "Data Structures", "Operating Systems", "Data Visualization", "Machine Learning", "Reinforcement Learning", "Data Science", "Statistical Inference", "Probability and Statistics", "Python Programming"]
     },
     {
       "id": "CIS 1070",
@@ -26,7 +28,8 @@
       "cu": "1 Course Unit",
       "prereq": "",
       "syllabus": "",
-      "also_offered_as": "VLST 2090"
+      "also_offered_as": "VLST 2090",
+      "labels": ["Operating Systems", "Machine Learning", "Reinforcement Learning", "Computer Vision"]
     },
     {
       "id": "CIS 1100",
@@ -36,7 +39,7 @@
       "cu": "1 Course Unit",
       "prereq": "",
       "syllabus": "courses/syllabi/cis1100.txt",
-      "labels" : "Intro to Programming, Data Structures, Functional Programming, Object-Oriented Programming, Recursion, Algorithms, Unit Testing, File I/O, Type Annotations, Code Comprehension, Interactivity, Search, JSON/XML Traversal, Software Design, Homework-Driven Learning"
+      "labels": ["Object-Oriented Programming", "Functional Programming", "Software Engineering", "Operating Systems", "Computer Networks", "Machine Learning", "Neural Networks", "Reinforcement Learning", "Game Development", "JavaScript Programming", "Recursion Techniques", "Unit Testing"]
     },
     {
       "id": "CIS 1200",
@@ -45,7 +48,8 @@
       "available": "Fall or Spring",
       "cu": "1 Course Unit",
       "prereq": "",
-      "syllabus": "courses/syllabi/cis1200.txt"
+      "syllabus": "courses/syllabi/cis1200.txt",
+      "labels": ["Functional Programming", "Data Structures", "Software Engineering", "Software Design", "Operating Systems", "Computer Networks", "Internet and Web Systems", "User Interface Design", "Frontend Development", "Artificial Intelligence", "Machine Learning", "Neural Networks", "Reinforcement Learning", "Game Development", "Simulation and Modeling", "Java Programming", "OCaml Programming", "Recursion Techniques", "Iterative Methods", "Unit Testing", "Debugging Techniques"]
     },
     {
       "id": "CIS 1210",
@@ -54,7 +58,8 @@
       "available": "Spring",
       "cu": "1 Course Unit",
       "prereq": "CIS 1200 AND CIS 1600",
-      "syllabus": "courses/syllabi/cis1210.txt"
+      "syllabus": "courses/syllabi/cis1210.txt",
+      "labels": ["Data Structures", "Discrete Mathematics", "Mathematical Foundations", "Proof Techniques", "Operating Systems", "Computer Networks", "Internet and Web Systems", "Data Visualization", "Ethical Algorithm Design", "Neural Networks", "Reinforcement Learning", "Probability and Statistics", "Java Programming", "Ruby on Rails", "Unit Testing", "Debugging Techniques", "Graph Algorithms"]
     },
     {
       "id": "CIS 1250",
@@ -63,7 +68,8 @@
       "available": "",
       "cu": "1 Course Unit",
       "prereq": "",
-      "syllabus": ""
+      "syllabus": "",
+      "labels": ["Operating Systems"]
     },
     {
       "id": "CIS 1400",
@@ -73,7 +79,8 @@
       "cu": "1 Course Unit",
       "prereq": "",
       "syllabus": "",
-      "also_offered_as": "COGS 1001, LING 1005, PHIL 1840, PSYC 1333"
+      "also_offered_as": "COGS 1001, LING 1005, PHIL 1840, PSYC 1333",
+      "labels": ["Operating Systems", "Cognitive Science"]
     },
     {
       "id": "CIS 1600",
@@ -82,7 +89,8 @@
       "available": "Spring",
       "cu": "1 Course Unit",
       "prereq": "",
-      "syllabus": "courses/syllabi/cis1600.txt"
+      "syllabus": "courses/syllabi/cis1600.txt",
+      "labels": ["Data Structures", "Discrete Mathematics", "Mathematical Foundations", "Operating Systems", "Internet and Web Systems", "Data Visualization", "Neural Networks", "Probability and Statistics"]
     },
     {
       "id": "CIS 1810",
@@ -91,7 +99,8 @@
       "available": "Fall or Spring",
       "cu": "1 Course Unit",
       "prereq": "",
-      "syllabus": ""
+      "syllabus": "",
+      "labels": ["Operating Systems", "Quantum Information Science", "Seminar Courses"]
     },
     {
       "id": "CIS 1901",
@@ -100,7 +109,8 @@
       "available": "Not Offered Every Year",
       "cu": "0-0.5 Course Units",
       "prereq": "CIS 1200 and CIS 2400",
-      "syllabus": ""
+      "syllabus": "",
+      "labels": ["Introductory Programming", "Computer Networks"]
     },
     {
       "id": "CIS 1902",
@@ -109,7 +119,8 @@
       "available": "Not Offered Every Year",
       "cu": "0-0.5 Course Units",
       "prereq": "CIS 1200",
-      "syllabus": "courses/syllabi/cis1902.txt"
+      "syllabus": "courses/syllabi/cis1902.txt",
+      "labels": ["Object-Oriented Programming", "Functional Programming", "Data Structures", "Operating Systems", "Systems Programming", "Computer Networks", "Internet and Web Systems", "Data Visualization", "Web Development", "Backend Development", "DevOps", "Machine Learning", "Deep Learning", "Reinforcement Learning", "Virtual Reality", "Scientific Computing", "Data Science", "Capstone Projects"]
     },
     {
       "id": "CIS 1903",
@@ -118,7 +129,8 @@
       "available": "Not Offered Every Year",
       "cu": "0-0.5 Course Units",
       "prereq": "CIS 1100",
-      "syllabus": ""
+      "syllabus": "",
+      "labels": ["Data Structures", "Systems Programming", "Computer Networks", "Mobile App Development", "Machine Learning", "Neural Networks", "Reinforcement Learning", "Parallel Computing", "Concurrent Programming Techniques"]
     },
     {
       "id": "CIS 1904",
@@ -127,7 +139,8 @@
       "available": "Not Offered Every Year",
       "cu": "0-0.5 Course Units",
       "prereq": "CIS 1200",
-      "syllabus": "courses/syllabi/cis1904.txt"
+      "syllabus": "courses/syllabi/cis1904.txt",
+      "labels": ["Functional Programming", "Computer Networks", "Haskell Programming", "Recursion Techniques"]
     },
     {
       "id": "CIS 1905",
@@ -136,7 +149,8 @@
       "available": "Not Offered Every Year",
       "cu": "0-0.5 Course Units",
       "prereq": "CIS 1200",
-      "syllabus": "courses/syllabi/cis1905.txt"
+      "syllabus": "courses/syllabi/cis1905.txt",
+      "labels": ["Operating Systems", "Systems Programming", "Computer Networks", "Artificial Intelligence", "Neural Networks", "Game Development", "Parallel Computing", "Capstone Projects", "Ruby on Rails", "Rust Programming", "Concurrent Programming Techniques"]
     },
     {
       "id": "CIS 1911",
@@ -145,7 +159,8 @@
       "available": "Not Offered Every Year",
       "cu": "0-0.5 Course Units",
       "prereq": "CIS 1100",
-      "syllabus": ""
+      "syllabus": "",
+      "labels": ["Human\u2013Computer Interaction", "Reinforcement Learning"]
     },
     {
       "id": "CIS 1912",
@@ -154,7 +169,8 @@
       "available": "Not Offered Every Year",
       "cu": "0-0.5 Course Units",
       "prereq": "",
-      "syllabus": "courses/syllabi/cis1912.txt"
+      "syllabus": "courses/syllabi/cis1912.txt",
+      "labels": ["Data Structures", "Test-Driven Development", "Operating Systems", "Computer Architecture", "Internet and Web Systems", "DevOps", "DevOps Practices", "Capstone Projects", "Unit Testing"]
     },
     {
       "id": "CIS 1921",
@@ -163,7 +179,8 @@
       "available": "Not Offered Every Year",
       "cu": "0-0.5 Course Units",
       "prereq": "CIS 1210",
-      "syllabus": ""
+      "syllabus": "",
+      "labels": ["Operating Systems", "Computer Networks", "Debugging Techniques", "Heuristic Algorithms"]
     },
     {
       "id": "CIS 1951",
@@ -172,7 +189,8 @@
       "available": "Not Offered Every Year",
       "cu": "0-0.5 Course Units",
       "prereq": "CIS 1200 or previous programming experience",
-      "syllabus": "courses/syllabi/cis1951.txt"
+      "syllabus": "courses/syllabi/cis1951.txt",
+      "labels": ["Object-Oriented Programming", "Data Structures", "Discrete Mathematics", "Operating Systems", "Computer Networks", "Internet and Web Systems", "Database Systems", "Human\u2013Computer Interaction", "User Interface Design", "Interaction Design", "Mobile App Development", "iOS Programming", "Frontend Development", "Artificial Intelligence", "Machine Learning", "Neural Networks", "Reinforcement Learning", "Computer Animation", "Augmented Reality", "Cognitive Science", "Capstone Projects", "JavaScript Programming", "Ruby on Rails", "Swift Programming", "Debugging Techniques", "Object-Oriented Design Patterns", "Compiler Design Techniques"]
     },
     {
       "id": "CIS 1952",
@@ -181,7 +199,8 @@
       "available": "Not Offered Every Year",
       "cu": "0-0.5 Course Units",
       "prereq": "CIS 1200 or previous programming experience",
-      "syllabus": ""
+      "syllabus": "",
+      "labels": ["Mobile App Development"]
     },
     {
       "id": "CIS 1961",
@@ -190,7 +209,8 @@
       "available": "Not Offered Every Year",
       "cu": "0-0.5 Course Units",
       "prereq": "CIS 1200",
-      "syllabus": ""
+      "syllabus": "",
+      "labels": ["Operating Systems", "Computer Networks", "Internet and Web Systems", "Web Development", "Frontend Development", "Machine Learning", "Ruby on Rails"]
     },
     {
       "id": "CIS 1962",
@@ -199,7 +219,8 @@
       "available": "Not Offered Every Year",
       "cu": "0-0.5 Course Units",
       "prereq": "",
-      "syllabus": "courses/syllabi/cis1962.txt"
+      "syllabus": "courses/syllabi/cis1962.txt",
+      "labels": ["Software Design", "Operating Systems", "Computer Networks", "Internet and Web Systems", "NoSQL Databases", "Web Development", "Frontend Development", "Backend Development", "Machine Learning", "Reinforcement Learning", "Capstone Projects", "JavaScript Programming", "Ruby on Rails", "TypeScript", "Debugging Techniques", "Object-Oriented Design Patterns"]
     },
     {
       "id": "CIS 1990",
@@ -208,7 +229,8 @@
       "available": "",
       "cu": "0-0.5 Course Units",
       "prereq": "",
-      "syllabus": ""
+      "syllabus": "",
+      "labels": ["Operating Systems"]
     },
     {
       "id": "CIS 2330",
@@ -217,7 +239,8 @@
       "available": "Spring",
       "cu": "1 Course Unit",
       "prereq": "CIS 1200",
-      "syllabus": ""
+      "syllabus": "",
+      "labels": ["Data Structures", "Mathematical Foundations", "Distributed Systems", "Cryptography", "Reinforcement Learning", "Blockchain Technology", "Distributed Ledger Technology"]
     },
     {
       "id": "CIS 2400",
@@ -226,7 +249,8 @@
       "available": "Fall or Spring",
       "cu": "1 Course Unit",
       "prereq": "CIS 1200",
-      "syllabus": "courses/syllabi/cis2400.txt"
+      "syllabus": "courses/syllabi/cis2400.txt",
+      "labels": ["Data Structures", "Discrete Mathematics", "Operating Systems", "Computer Architecture", "Systems Programming", "Computer Networks", "Internet and Web Systems", "Human\u2013Computer Interaction", "Neural Networks", "Reinforcement Learning", "Game Development", "Probability and Statistics", "Optimization Techniques", "Special Topics", "C++ Programming", "C Programming", "Memory Management Techniques", "Compiler Design Techniques"]
     },
     {
       "id": "CIS 2450",
@@ -236,7 +260,8 @@
       "cu": "1 Course Unit",
       "prereq": "CIS 1200",
       "syllabus": "courses/syllabi/cis2450.txt",
-      "mutuallyExclusive": "CIS 5450"
+      "mutuallyExclusive": "CIS 5450",
+      "labels": ["Data Structures", "Discrete Mathematics", "Operating Systems", "Computer Networks", "Big Data Analytics", "Data Mining", "Data Visualization", "Database Systems", "SQL and Relational Databases", "Artificial Intelligence", "Machine Learning", "Neural Networks", "Natural Language Processing", "Simulation and Modeling", "Data Science", "Probability and Statistics", "MATLAB Programming", "Debugging Techniques", "Machine Learning Techniques"]
     },
     {
       "id": "CIS 2610",
@@ -245,7 +270,8 @@
       "available": "Fall",
       "cu": "1 Course Unit",
       "prereq": "CIS 1600",
-      "syllabus": "courses/syllabi/cis2610.txt"
+      "syllabus": "courses/syllabi/cis2610.txt",
+      "labels": ["Data Structures", "Discrete Mathematics", "Mathematical Foundations", "Proof Techniques", "Operating Systems", "Computer Networks", "Internet and Web Systems", "Cloud Computing", "Frontend Development", "Machine Learning", "Reinforcement Learning", "Simulation and Modeling", "Statistical Inference", "Probability and Statistics", "Stochastic Processes", "Object-Oriented Design Patterns"]
     },
     {
       "id": "CIS 2620",
@@ -254,7 +280,8 @@
       "available": "Fall",
       "cu": "1 Course Unit",
       "prereq": "CIS 1600",
-      "syllabus": "courses/syllabi/cis2620.txt"
+      "syllabus": "courses/syllabi/cis2620.txt",
+      "labels": ["Functional Programming", "Computational Complexity", "Theory of Computation", "Discrete Mathematics", "Mathematical Foundations", "Logic and Reasoning", "Operating Systems", "Computer Networks", "Machine Learning", "Neural Networks", "Reinforcement Learning", "Stochastic Processes", "Compiler Design Techniques"]
     },
     {
       "id": "CIS 3200",
@@ -263,7 +290,8 @@
       "available": "Fall or Spring",
       "cu": "1 Course Unit",
       "prereq": "CIS 1210 AND CIS 2620",
-      "syllabus": "courses/syllabi/cis3200.txt"
+      "syllabus": "courses/syllabi/cis3200.txt",
+      "labels": ["Data Structures", "Algorithms", "Computational Complexity", "Operating Systems", "Internet and Web Systems", "Neural Networks", "Probability and Statistics", "Optimization Techniques", "Research Methods", "Heuristic Algorithms", "Graph Algorithms", "Dynamic Programming", "Randomized Algorithms"]
     },
     {
       "id": "CIS 3333",
@@ -272,7 +300,8 @@
       "available": "Fall or Spring",
       "cu": "1 Course Unit",
       "prereq": "CIS 1600 AND STAT 4300 AND MATH 2400",
-      "syllabus": "courses/syllabi/cis3333.txt"
+      "syllabus": "courses/syllabi/cis3333.txt",
+      "labels": ["Mathematical Foundations", "Operating Systems", "Internet and Web Systems", "Machine Learning", "Reinforcement Learning", "Probability and Statistics", "Stochastic Processes", "Optimization Techniques"]
     },
     {
       "id": "CIS 3340",
@@ -281,7 +310,8 @@
       "available": "Not Offered Every Year",
       "cu": "1 Course Unit",
       "prereq": "CIS 3200",
-      "syllabus": ""
+      "syllabus": "",
+      "labels": ["Data Structures", "Cryptography", "Heuristic Algorithms", "Randomized Algorithms"]
     },
     {
       "id": "CIS 3410",
@@ -290,7 +320,8 @@
       "available": "Not Offered Every Year",
       "cu": "1 Course Unit",
       "prereq": "Two semesters of programming courses (e.g., CIS 1200, CIS 1210, CIS 2400)",
-      "syllabus": "courses/syllabi/cis3410.txt"
+      "syllabus": "courses/syllabi/cis3410.txt",
+      "labels": ["Object-Oriented Programming", "Functional Programming", "Operating Systems", "Computer Networks", "Machine Learning", "Optimization Techniques", "OCaml Programming", "Memory Management Techniques", "Compiler Design Techniques"]
     },
     {
       "id": "CIS 3500",
@@ -299,7 +330,8 @@
       "available": "Not Offered Every Year",
       "cu": "1 Course Unit",
       "prereq": "CIS 1210",
-      "syllabus": "courses/syllabi/cis3500.txt"
+      "syllabus": "courses/syllabi/cis3500.txt",
+      "labels": ["Software Engineering", "Agile Development", "Test-Driven Development", "Software Design", "Software Architecture", "Operating Systems", "Distributed Systems", "Internet and Web Systems", "NoSQL Databases", "User Interface Design", "Web Development", "Frontend Development", "Backend Development", "DevOps", "Machine Learning", "Reinforcement Learning", "Robotics", "Game Development", "Simulation and Modeling", "DevOps Practices", "JavaScript Programming", "Unit Testing", "Object-Oriented Design Patterns"]
     },
     {
       "id": "CIS 3900",
@@ -308,7 +340,8 @@
       "available": "Not Offered Every Year",
       "cu": "1 Course Unit",
       "prereq": "CIS 1210 AND MATH 2400",
-      "syllabus": ""
+      "syllabus": "",
+      "labels": ["Data Structures", "Computer Networks", "Artificial Intelligence", "Neural Networks", "Robotics", "Cognitive Science", "Probability and Statistics"]
     },
     {
       "id": "CIS 3980",
@@ -317,7 +350,8 @@
       "available": "Fall or Spring",
       "cu": "1 Course Unit",
       "prereq": "(PHYS 0151 OR PHYS 0171) AND MATH 2400 AND MATH 3120 AND MATH 3140 AND CIS 1600 AND CIS 2620",
-      "syllabus": ""
+      "syllabus": "",
+      "labels": ["Operating Systems", "Reinforcement Learning", "Quantum Information Science"]
     },
     {
       "id": "CIS 3990",
@@ -326,7 +360,8 @@
       "available": "Not Offered Every Year",
       "cu": "0.5-1 Course Unit",
       "prereq": "",
-      "syllabus": "courses/syllabi/cis3990.txt"
+      "syllabus": "courses/syllabi/cis3990.txt",
+      "labels": ["Operating Systems", "Computer Networks", "Internet and Web Systems", "Human\u2013Computer Interaction", "Visual Design", "Frontend Development", "Machine Learning", "Reinforcement Learning", "Capstone Projects", "Special Topics"]
     },
     {
       "id": "CIS 4000",
@@ -335,7 +370,8 @@
       "available": "Fall",
       "cu": "1 Course Unit",
       "prereq": "",
-      "syllabus": ""
+      "syllabus": "",
+      "labels": ["Capstone Projects"]
     },
     {
       "id": "CIS 4010",
@@ -344,7 +380,8 @@
       "available": "Spring",
       "cu": "1 Course Unit",
       "prereq": "CIS 4000",
-      "syllabus": ""
+      "syllabus": "",
+      "labels": ["Capstone Projects"]
     },
     {
       "id": "CIS 4100",
@@ -353,7 +390,8 @@
       "available": "",
       "cu": "1 Course Unit",
       "prereq": "",
-      "syllabus": "courses/syllabi/cis4100.txt"
+      "syllabus": "courses/syllabi/cis4100.txt",
+      "labels": ["Operating Systems", "Computer Networks", "Reinforcement Learning", "Independent Study", "Senior Thesis"]
     },
     {
       "id": "CIS 4120",
@@ -362,7 +400,8 @@
       "available": "Fall",
       "cu": "1 Course Unit",
       "prereq": "Prior programming experience",
-      "syllabus": "courses/syllabi/cis4120.txt"
+      "syllabus": "courses/syllabi/cis4120.txt",
+      "labels": ["Operating Systems", "Computer Networks", "Internet and Web Systems", "Human\u2013Computer Interaction", "User Interface Design", "Visual Design", "Frontend Development", "Artificial Intelligence", "Neural Networks", "Reinforcement Learning", "Capstone Projects"]
     },
     {
       "id": "CIS 4190",
@@ -372,7 +411,8 @@
       "cu": "1 Course Unit",
       "prereq": "CIS 1210",
       "syllabus": "courses/syllabi/cis4190.txt",
-      "mutuallyExclusive": "CIS 5190"
+      "mutuallyExclusive": "CIS 5190",
+      "labels": ["Data Structures", "Operating Systems", "Computer Architecture", "Computer Networks", "Data Mining", "Data Visualization", "Artificial Intelligence", "Machine Learning", "Deep Learning", "Neural Networks", "Reinforcement Learning", "Natural Language Processing", "Computer Vision", "Bioinformatics", "Cognitive Science", "Data Science", "Probability and Statistics", "Capstone Projects", "Deep Learning Techniques"]
     },
     {
       "id": "CIS 4210",
@@ -382,7 +422,8 @@
       "cu": "1 Course Unit",
       "prereq": "CIS 1210",
       "syllabus": "courses/syllabi/cis4210.txt",
-      "mutuallyExclusive": "CIS 5210"
+      "mutuallyExclusive": "CIS 5210",
+      "labels": ["Algorithms", "Discrete Mathematics", "Operating Systems", "Computer Networks", "Artificial Intelligence", "Machine Learning", "Neural Networks", "Reinforcement Learning", "Natural Language Processing", "Robotics", "Stochastic Processes", "Debugging Techniques", "Code Profiling", "Dynamic Programming"]
     },
     {
       "id": "CIS 4230",
@@ -392,7 +433,8 @@
       "cu": "1 Course Unit",
       "prereq": "CIS 1210",
       "syllabus": "courses/syllabi/cis4230.txt",
-      "mutuallyExclusive": "CIS 5230"
+      "mutuallyExclusive": "CIS 5230",
+      "labels": ["Algorithms", "Operating Systems", "Privacy and Security", "Ethical Algorithm Design", "Artificial Intelligence", "Machine Learning", "Data Science", "Probability and Statistics"]
     },
     {
       "id": "CIS 4300",
@@ -402,7 +444,8 @@
       "cu": "1 Course Unit",
       "prereq": "CIS 1210 AND CIS 1600",
       "syllabus": "",
-      "mutuallyExclusive": "CIS 5300"
+      "mutuallyExclusive": "CIS 5300",
+      "labels": ["Computer Networks", "Natural Language Processing"]
     },
     {
       "id": "CIS 4360",
@@ -413,7 +456,8 @@
       "prereq": "MATH 1400 AND (BIOL 2510 OR BIOL 5510)",
       "syllabus": "",
       "also_offered_as": "BIOL 4536",
-      "mutuallyExclusive": "BIOL 5535"
+      "mutuallyExclusive": "BIOL 5535",
+      "labels": ["Algorithms", "Computer Architecture", "Machine Learning", "Neural Networks", "Simulation and Modeling", "Computational Biology", "Data Science", "Probability and Statistics"]
     },
     {
       "id": "CIS 4410",
@@ -422,7 +466,8 @@
       "available": "Fall",
       "cu": "1 Course Unit",
       "prereq": "CIS 2400",
-      "syllabus": ""
+      "syllabus": "",
+      "labels": ["Object-Oriented Programming", "Programming Paradigms", "Software Architecture", "Operating Systems", "Embedded Systems", "Computer Networks", "Neural Networks", "Simulation and Modeling", "Optimization Techniques"]
     },
     {
       "id": "CIS 4480",
@@ -432,7 +477,8 @@
       "cu": "1 Course Unit",
       "prereq": "CIS 2400",
       "syllabus": "courses/syllabi/cis4480.txt",
-      "mutuallyExclusive": "CIS 5480"
+      "mutuallyExclusive": "CIS 5480",
+      "labels": ["Advanced Programming", "Data Structures", "Software Engineering", "Operating Systems", "Systems Programming", "Computer Networks", "Internet and Web Systems", "Data Visualization", "Human\u2013Computer Interaction", "Frontend Development", "DevOps", "Privacy and Security", "Artificial Intelligence", "Machine Learning", "Neural Networks", "Reinforcement Learning", "Game Development", "Parallel Computing", "Capstone Projects", "C++ Programming", "C Programming", "Concurrent Programming Techniques", "Memory Management Techniques"]
     },
     {
       "id": "CIS 4500",
@@ -442,7 +488,8 @@
       "cu": "1 Course Unit",
       "prereq": "CIS 1210 AND CIS 1600",
       "syllabus": "courses/syllabi/cis4500.txt",
-      "mutuallyExclusive": "CIS 5500"
+      "mutuallyExclusive": "CIS 5500",
+      "labels": ["Object-Oriented Programming", "Discrete Mathematics", "Operating Systems", "Computer Networks", "Database Systems", "NoSQL Databases", "SQL and Relational Databases", "Machine Learning", "Simulation and Modeling", "Data Science", "Optimization Techniques", "JavaScript Programming"]
     },
     {
       "id": "CIS 4510",
@@ -452,7 +499,8 @@
       "cu": "1 Course Unit",
       "prereq": "CIS 1600 AND CIS 2400",
       "syllabus": "courses/syllabi/cis4510.txt",
-      "mutuallyExclusive": "CIS 5510"
+      "mutuallyExclusive": "CIS 5510",
+      "labels": ["Data Structures", "Mathematical Foundations", "Operating Systems", "Computer Networks", "Internet and Web Systems", "Database Systems", "SQL and Relational Databases", "Computer and Network Security", "Cryptography", "Privacy and Security", "Game Development"]
     },
     {
       "id": "CIS 4550",
@@ -462,7 +510,8 @@
       "cu": "1 Course Unit",
       "prereq": "",
       "syllabus": "courses/syllabi/cis4550.txt",
-      "mutuallyExclusive": "CIS 5550"
+      "mutuallyExclusive": "CIS 5550",
+      "labels": ["Data Structures", "Operating Systems", "Computer Networks", "Distributed Systems", "Internet and Web Systems", "Cloud Computing", "Big Data Analytics", "Human\u2013Computer Interaction", "Web Development", "Frontend Development", "Backend Development", "Machine Learning", "Neural Networks", "Reinforcement Learning", "Augmented Reality", "Parallel Computing", "Capstone Projects", "Java Programming", "Debugging Techniques", "Concurrent Programming Techniques", "Graph Algorithms", "Dynamic Programming", "NLP Techniques"]
     },
     {
       "id": "CIS 4600",
@@ -471,7 +520,8 @@
       "available": "Fall or Spring",
       "cu": "1 Course Unit",
       "prereq": "CIS 1210",
-      "syllabus": "courses/syllabi/cis4600.txt"
+      "syllabus": "courses/syllabi/cis4600.txt",
+      "labels": ["Data Structures", "Operating Systems", "Computer Networks", "Neural Networks", "Reinforcement Learning", "Computer Animation", "Simulation and Modeling", "Capstone Projects"]
     },
     {
       "id": "CIS 4610",
@@ -481,7 +531,8 @@
       "cu": "1 Course Unit",
       "prereq": "C++ programming experience",
       "syllabus": "",
-      "mutuallyExclusive": "CIS 5610"
+      "mutuallyExclusive": "CIS 5610",
+      "labels": ["Data Structures", "Software Systems", "Operating Systems", "Reinforcement Learning", "Simulation and Modeling", "C++ Programming", "Randomized Algorithms"]
     },
     {
       "id": "CIS 4620",
@@ -491,7 +542,8 @@
       "cu": "1 Course Unit",
       "prereq": "Exposure to linear algebra, curves, dynamical systems, and 3D graphics",
       "syllabus": "",
-      "mutuallyExclusive": "CIS 5620"
+      "mutuallyExclusive": "CIS 5620",
+      "labels": ["Data Structures", "Operating Systems", "Computer Networks", "Robotics", "Computer Animation", "Virtual Reality", "Simulation and Modeling", "Simulation and Modeling Techniques"]
     },
     {
       "id": "CIS 4670",
@@ -501,7 +553,8 @@
       "cu": "1 Course Unit",
       "prereq": "MATH 240; knowledge of C++, Python or MATLAB",
       "syllabus": "",
-      "mutuallyExclusive": "CIS 5670"
+      "mutuallyExclusive": "CIS 5670",
+      "labels": ["Data Visualization", "Parallel Computing", "Scientific Computing", "Numerical Methods", "MATLAB Programming"]
     },
     {
       "id": "CIS 4710",
@@ -511,7 +564,8 @@
       "cu": "1 Course Unit",
       "prereq": "CIS 2400",
       "syllabus": "courses/syllabi/cis4710.txt",
-      "mutuallyExclusive" : "CIS 5710"
+      "mutuallyExclusive" : "CIS 5710",
+      "labels": ["Discrete Mathematics", "Software Design", "Operating Systems", "Computer Architecture", "Digital Systems", "Systems Programming", "Computer Networks", "Human\u2013Computer Interaction", "Concurrent Programming Techniques"]
     },
     {
         "id": "CIS 4810",
@@ -521,7 +575,8 @@
         "cu": "1",
         "prereq": "",
         "syllabus": "",
-        "mutuallyExclusive": "CIS 5810"
+        "mutuallyExclusive": "CIS 5810",
+        "labels": ["Data Structures", "Operating Systems", "Internet and Web Systems", "Reinforcement Learning", "Computer Vision", "Computational Photography", "Cognitive Science"]
       },
       {
         "id": "CIS 4970",
@@ -530,7 +585,8 @@
         "available": "Fall or Spring",
         "cu": "1",
         "prereq": "",
-        "syllabus": ""
+        "syllabus": "",
+        "labels": ["Operating Systems", "Computer Networks", "Internet and Web Systems", "Game Development"]
       },
       {
         "id": "CIS 4980",
@@ -539,7 +595,8 @@
         "available": "Fall or Spring",
         "cu": "1",
         "prereq": "",
-        "syllabus": ""
+        "syllabus": "",
+        "labels": ["Operating Systems", "Reinforcement Learning", "Game Development", "Capstone Projects"]
       },
       {
         "id": "CIS 5000",
@@ -548,7 +605,8 @@
         "available": "Fall or Spring",
         "cu": "1",
         "prereq": "Programming experience and mathematical maturity recommended",
-        "syllabus": "courses/syllabi/cis5000.txt"
+        "syllabus": "courses/syllabi/cis5000.txt",
+        "labels": ["Advanced Programming", "Object-Oriented Programming", "Functional Programming", "Discrete Mathematics", "Mathematical Foundations", "Proof Techniques", "Logic and Reasoning", "Operating Systems", "Computer Networks", "Neural Networks", "Reinforcement Learning"]
       },
       {
         "id": "CIS 5010",
@@ -557,7 +615,8 @@
         "available": "Fall or Spring",
         "cu": "1",
         "prereq": "Knowledge of computer organization and basic programming skills",
-        "syllabus": "courses/syllabi/cis5010.txt"
+        "syllabus": "courses/syllabi/cis5010.txt",
+        "labels": ["Discrete Mathematics", "Operating Systems", "Computer Architecture", "Computer Networks", "Parallel Computing", "Iterative Methods", "Debugging Techniques", "Concurrent Programming Techniques", "Parallel Processing Techniques"]
       },
       {
         "id": "CIS 5020",
@@ -566,7 +625,8 @@
         "available": "Fall or Spring",
         "cu": "1",
         "prereq": "Data Structures and Algorithms at the undergraduate level",
-        "syllabus": "courses/syllabi/cis5020.txt"
+        "syllabus": "courses/syllabi/cis5020.txt",
+        "labels": ["Data Structures", "Discrete Mathematics", "Operating Systems", "Computer Architecture", "Computer Networks", "Optimization Techniques", "Iterative Methods", "Debugging Techniques", "Heuristic Algorithms", "Dynamic Programming", "Randomized Algorithms"]
       },
       {
         "id": "CIS 5050",
@@ -575,7 +635,8 @@
         "available": "Fall or Spring",
         "cu": "1",
         "prereq": "Undergraduate-level Operating Systems and Networking knowledge plus programming experience",
-        "syllabus": "courses/syllabi/cis5050.txt"
+        "syllabus": "courses/syllabi/cis5050.txt",
+        "labels": ["Programming Paradigms", "Data Structures", "Discrete Mathematics", "Software Architecture", "Operating Systems", "Systems Programming", "Computer Networks", "Distributed Systems", "Big Data Analytics", "Machine Learning", "Reinforcement Learning", "Computational Photography", "Parallel Computing", "C++ Programming", "Concurrent Programming Techniques"]
       },
       {
         "id": "CIS 5110",
@@ -584,7 +645,8 @@
         "available": "Fall or Spring",
         "cu": "1",
         "prereq": "Discrete Mathematics, Automata Theory or Algorithms at the undergraduate level",
-        "syllabus": "courses/syllabi/cis5110.txt"
+        "syllabus": "courses/syllabi/cis5110.txt",
+        "labels": ["Data Structures", "Computational Complexity", "Theory of Computation", "Discrete Mathematics", "Mathematical Foundations", "Logic and Reasoning", "Operating Systems", "Computer Networks", "Data Visualization", "Cryptography", "Reinforcement Learning", "Stochastic Processes", "Recursion Techniques", "Compiler Design Techniques", "Dynamic Programming"]
       },
       {
         "id": "CIS 5120",
@@ -594,7 +656,8 @@
         "cu": "1",
         "prereq": "Prior programming experience",
         "syllabus": "courses/syllabi/cis4120.txt",
-        "mutuallyExclusive": "CIS 4120"
+        "mutuallyExclusive": "CIS 4120",
+        "labels": ["Operating Systems", "Computer Networks", "Internet and Web Systems", "Human\u2013Computer Interaction", "User Interface Design", "Visual Design", "Frontend Development", "Artificial Intelligence", "Neural Networks", "Reinforcement Learning", "Capstone Projects"]
       },
       {
         "id": "CIS 5150",
@@ -602,8 +665,9 @@
         "description": "Provides firm foundations in linear algebra and introduces basic optimization techniques with an emphasis on methods widely used in computer science applications.",
         "available": "Fall or Spring",
         "cu": "1",
-        "prereq": "courses/syllabi/cis5150.txt",
-        "syllabus": ""
+        "prereq": "",
+        "syllabus": "courses/syllabi/cis5150.txt",
+        "labels": ["Optimization Techniques", "Code Optimization"]
       },
       {
         "id": "CIS 5180",
@@ -612,7 +676,8 @@
         "available": "Fall or Spring",
         "cu": "1",
         "prereq": "",
-        "syllabus": ""
+        "syllabus": "",
+        "labels": ["Computational Complexity", "Theory of Computation", "Discrete Mathematics", "Operating Systems", "Computer Networks"]
       },
       {
         "id": "CIS 5190",
@@ -621,7 +686,8 @@
         "available": "Fall or Spring",
         "cu": "1",
         "prereq": "CIS 1210",
-        "syllabus": ""
+        "syllabus": "",
+        "labels": ["Operating Systems", "Data Mining", "Machine Learning", "Deep Learning", "Neural Networks", "Reinforcement Learning", "Computer Vision", "Bioinformatics", "Cognitive Science", "Data Science"]
       },
       {
         "id": "CIS 5200",
@@ -630,7 +696,8 @@
         "available": "Fall",
         "cu": "1",
         "prereq": "Elementary probability, calculus, and linear algebra; basic programming experience",
-        "syllabus": "courses/syllabi/cis5200.txt"
+        "syllabus": "courses/syllabi/cis5200.txt",
+        "labels": ["Operating Systems", "Computer Networks", "Internet and Web Systems", "Data Mining", "Machine Learning", "Deep Learning", "Neural Networks", "Reinforcement Learning", "Cognitive Science", "Probability and Statistics", "Optimization Techniques", "Capstone Projects"]
       },
       {
         "id": "CIS 5210",
@@ -639,7 +706,8 @@
         "available": "Fall or Spring",
         "cu": "1",
         "prereq": "CIS 1210",
-        "syllabus": ""
+        "syllabus": "",
+        "labels": ["Discrete Mathematics", "Computer Networks", "Machine Learning", "Reinforcement Learning", "Natural Language Processing"]
       },
       {
         "id": "CIS 5220",
@@ -648,7 +716,8 @@
         "available": "Fall",
         "cu": "1",
         "prereq": "",
-        "syllabus": "courses/syllabi/cis5220.txt"
+        "syllabus": "courses/syllabi/cis5220.txt",
+        "labels": ["Data Structures", "Operating Systems", "Computer Architecture", "Computer Networks", "Internet and Web Systems", "Machine Learning", "Deep Learning", "Neural Networks", "Reinforcement Learning", "Natural Language Processing", "Image Processing", "Cognitive Science", "Optimization Techniques", "Debugging Techniques", "Code Optimization", "Compiler Design Techniques", "Deep Learning Techniques", "Image Processing Techniques"]
       },
       {
         "id": "CIS 5230",
@@ -657,7 +726,8 @@
         "available": "Fall or Spring",
         "cu": "1",
         "prereq": "CIS 1210",
-        "syllabus": ""
+        "syllabus": "",
+        "labels": ["Discrete Mathematics", "Privacy and Security", "Ethical Algorithm Design", "Artificial Intelligence", "Data Science"]
       },
       {
         "id": "CIS 5260",
@@ -666,7 +736,8 @@
         "available": "Fall or Spring",
         "cu": "1",
         "prereq": "",
-        "syllabus": "courses/syllabi/cis5260.txt"
+        "syllabus": "courses/syllabi/cis5260.txt",
+        "labels": ["Data Structures", "Operating Systems", "Computer Networks", "Artificial Intelligence", "Machine Learning", "Ruby on Rails"]
       },
       {
         "id": "CIS 5300",
@@ -676,7 +747,8 @@
         "cu": "1",
         "prereq": "CIS 1210 and CIS 1600",
         "syllabus": "courses/syllabi/cis5300.txt",
-        "mutuallyExclusive": "CIS 4300"
+        "mutuallyExclusive": "CIS 4300",
+        "labels": ["Data Structures", "Operating Systems", "Computer Networks", "Cloud Computing", "Machine Learning", "Neural Networks", "Reinforcement Learning", "Natural Language Processing", "Simulation and Modeling", "Probability and Statistics", "Stochastic Processes", "Capstone Projects", "Compiler Design Techniques"]
       },
       {
         "id": "CIS 5350",
@@ -685,7 +757,8 @@
         "available": "Spring",
         "cu": "1",
         "prereq": "CIS 1200",
-        "syllabus": "courses/syllabi/cis5350.txt"
+        "syllabus": "courses/syllabi/cis5350.txt",
+        "labels": ["Discrete Mathematics", "Operating Systems", "Computer Architecture", "Computer Networks", "Internet and Web Systems", "Data Visualization", "Frontend Development", "Artificial Intelligence", "Machine Learning", "Reinforcement Learning", "Natural Language Processing", "Bioinformatics", "Computational Biology", "Data Science", "Statistical Inference", "Probability and Statistics", "Research Methods", "Policy and Technology"]
       },
       {
         "id": "CIS 5360",
@@ -695,7 +768,8 @@
         "cu": "1",
         "prereq": "((BIOL 1101 AND BIOL 1102) OR BIOL 1121) AND STAT 111 AND STAT 112",
         "syllabus": "",
-        "mutuallyExclusive": "BIOL 5536, GCB 5360"
+        "mutuallyExclusive": "BIOL 5536, GCB 5360",
+        "labels": ["Discrete Mathematics", "Neural Networks", "Simulation and Modeling", "Bioinformatics", "Computational Biology", "Probability and Statistics"]
       },
       {
         "id": "CIS 5370",
@@ -705,7 +779,8 @@
         "cu": "1",
         "prereq": "Multivariate calculus (MATH 2410), programming experience, and familiarity with linear algebra, physics, and statistics",
         "syllabus": "",
-        "mutuallyExclusive": "BE 5370, MPHY 6090"
+        "mutuallyExclusive": "BE 5370, MPHY 6090",
+        "labels": ["Discrete Mathematics", "Image Processing", "Biomedical Image Analysis", "Probability and Statistics", "Image Processing Techniques"]
       },
       {
         "id": "CIS 5400",
@@ -714,7 +789,8 @@
         "available": "Fall",
         "cu": "1",
         "prereq": "ESE 2100 or CIS 2620 recommended",
-        "syllabus": ""
+        "syllabus": "",
+        "labels": ["Theory of Computation", "Embedded Systems", "Neural Networks", "Reinforcement Learning", "JavaScript Programming"]
       },
       {
         "id": "CIS 5410",
@@ -723,7 +799,8 @@
         "available": "Fall or Spring",
         "cu": "1",
         "prereq": "CIS 2400",
-        "syllabus": ""
+        "syllabus": "",
+        "labels": ["Object-Oriented Programming", "Programming Paradigms", "Software Architecture", "Operating Systems", "Embedded Systems", "Computer Networks", "Neural Networks", "Simulation and Modeling", "Optimization Techniques"]
       },
       {
         "id": "CIS 5420",
@@ -732,7 +809,8 @@
         "available": "Fall or Spring",
         "cu": "1",
         "prereq": "C fluency",
-        "syllabus": ""
+        "syllabus": "",
+        "labels": ["Data Structures", "Parallel Computing", "Simulation and Modeling", "Concurrent Programming Techniques"]
       },
       {
         "id": "CIS 5450",
@@ -742,7 +820,8 @@
         "cu": "1",
         "prereq": "CIS 1200",
         "syllabus": "courses/syllabi/cis5450.txt",
-        "mutuallyExclusive": "CIS 2450"
+        "mutuallyExclusive": "CIS 2450",
+        "labels": ["Data Structures", "Operating Systems", "Computer Networks", "Big Data Analytics", "Data Mining", "Data Visualization", "Privacy and Security", "Artificial Intelligence", "Machine Learning", "Neural Networks", "Natural Language Processing", "Game Development", "Data Science", "Statistical Inference", "Probability and Statistics", "Ruby on Rails", "MATLAB Programming"]
       },
       {
         "id": "CIS 5470",
@@ -751,7 +830,8 @@
         "available": "Fall or Spring",
         "cu": "1",
         "prereq": "CIS 1200, CIS 1210, CIS 1600",
-        "syllabus": "courses/syllabi/cis5470.txt"
+        "syllabus": "courses/syllabi/cis5470.txt",
+        "labels": ["Data Structures", "Discrete Mathematics", "Mathematical Foundations", "Software Engineering", "Operating Systems", "Systems Programming", "Neural Networks", "Probability and Statistics", "Research Methods", "Ruby on Rails", "Unit Testing", "Debugging Techniques", "Graph Algorithms"]
       },
       {
         "id": "CIS 5480",
@@ -761,7 +841,8 @@
         "cu": "1",
         "prereq": "CIS 2400",
         "syllabus": "courses/syllabi/cis5480.txt",
-        "mutuallyExclusive": "CIS 4480"
+        "mutuallyExclusive": "CIS 4480",
+        "labels": ["Advanced Programming", "Data Structures", "Software Engineering", "Operating Systems", "Systems Programming", "Computer Networks", "Internet and Web Systems", "Data Visualization", "Human\u2013Computer Interaction", "Frontend Development", "DevOps", "Privacy and Security", "Artificial Intelligence", "Machine Learning", "Neural Networks", "Reinforcement Learning", "Game Development", "Parallel Computing", "Capstone Projects", "C++ Programming", "C Programming", "Concurrent Programming Techniques", "Memory Management Techniques"]
       },
       {
         "id": "CIS 5490",
@@ -770,7 +851,8 @@
         "available": "Fall or Spring",
         "cu": "1",
         "prereq": "Knowledge of C/C++ and basic networking concepts",
-        "syllabus": "courses/syllabi/cis5490.txt"
+        "syllabus": "courses/syllabi/cis5490.txt",
+        "labels": ["Data Structures", "Software Architecture", "Operating Systems", "Computer Networks", "Internet and Web Systems", "Cloud Computing", "Frontend Development", "DevOps", "Cryptography", "Machine Learning", "Neural Networks", "Game Development", "Simulation and Modeling", "Ruby on Rails", "Concurrent Programming Techniques", "Dynamic Programming"]
       },
       {
         "id": "CIS 5500",
@@ -780,7 +862,8 @@
         "cu": "1",
         "prereq": "CIS 1210 and CIS 1600",
         "syllabus": "courses/syllabi/cis4500.txt",
-        "mutuallyExclusive": "CIS 4500"
+        "mutuallyExclusive": "CIS 4500",
+        "labels": ["Object-Oriented Programming", "Discrete Mathematics", "Operating Systems", "Computer Networks", "Database Systems", "NoSQL Databases", "SQL and Relational Databases", "Machine Learning", "Simulation and Modeling", "Data Science", "Optimization Techniques", "JavaScript Programming"]
       },
       {
         "id": "CIS 5510",
@@ -790,7 +873,8 @@
         "cu": "1",
         "prereq": "CIS 1600 and CIS 2400",
         "syllabus": "courses/syllabi/cis5510.txt",
-        "mutuallyExclusive": "CIS 4510"
+        "mutuallyExclusive": "CIS 4510",
+        "labels": ["Data Structures", "Mathematical Foundations", "Operating Systems", "Computer Networks", "Internet and Web Systems", "Database Systems", "SQL and Relational Databases", "Computer and Network Security", "Cryptography", "Privacy and Security", "Game Development"]
       },
       {
         "id": "CIS 5520",
@@ -799,7 +883,8 @@
         "available": "Fall or Spring",
         "cu": "1",
         "prereq": "Enrollment by permission",
-        "syllabus": "courses/syllabi/cis5520.txt"
+        "syllabus": "courses/syllabi/cis5520.txt",
+        "labels": ["Functional Programming", "Discrete Mathematics", "Software Engineering", "Software Design", "Operating Systems", "Computer Networks", "Machine Learning", "Reinforcement Learning", "Capstone Projects", "Haskell Programming"]
       },
       {
         "id": "CIS 5530",
@@ -808,7 +893,8 @@
         "available": "Fall or Spring",
         "cu": "1",
         "prereq": "CIS 1210",
-        "syllabus": "courses/syllabi/cis5530.txt"
+        "syllabus": "courses/syllabi/cis5530.txt",
+        "labels": ["Data Structures", "Discrete Mathematics", "Operating Systems", "Computer Networks", "Internet and Web Systems", "Computer and Network Security", "Reinforcement Learning", "Augmented Reality"]
       },
       {
         "id": "CIS 5540",
@@ -817,7 +903,8 @@
         "available": "Fall or Spring",
         "cu": "1",
         "prereq": "CIS 1210 or equivalent",
-        "syllabus": ""
+        "syllabus": "",
+        "labels": ["Functional Programming", "Programming Paradigms", "Discrete Mathematics", "Computer Networks", "Concurrent Programming Techniques"]
       },
       {
         "id": "CIS 5550",
@@ -827,7 +914,8 @@
         "cu": "1",
         "prereq": "Familiarity with threads, concurrency, and strong Java programming skills",
         "syllabus": "courses/syllabi/cis5550.txt",
-        "mutuallyExclusive": "CIS 5550"
+        "mutuallyExclusive": "CIS 5550",
+        "labels": ["Operating Systems", "Computer Networks", "Distributed Systems", "Internet and Web Systems", "Cloud Computing", "Big Data Analytics", "NoSQL Databases", "Human\u2013Computer Interaction", "Web Development", "Backend Development", "Machine Learning", "Neural Networks", "Reinforcement Learning", "Parallel Computing", "Capstone Projects", "Java Programming", "Debugging Techniques", "Concurrent Programming Techniques"]
       },
       {
         "id": "CIS 5560",
@@ -836,7 +924,8 @@
         "available": "Fall or Spring",
         "cu": "1",
         "prereq": "courses/syllabi/cis5560.txt",
-        "syllabus": ""
+        "syllabus": "",
+        "labels": ["Data Structures", "Mathematical Foundations", "Cryptography", "Privacy and Security", "Neural Networks"]
       },
       {
         "id": "CIS 5570",
@@ -845,7 +934,8 @@
         "available": "Fall or Spring",
         "cu": "1",
         "prereq": "courses/syllabi/cis5570.txt",
-        "syllabus": ""
+        "syllabus": "",
+        "labels": ["Software Engineering", "Agile Development", "Internet and Web Systems", "Frontend Development", "Backend Development", "Machine Learning", "Ruby on Rails"]
       },
       {
         "id": "CIS 5590",
@@ -854,7 +944,8 @@
         "available": "Fall or Spring",
         "cu": "1",
         "prereq": "Proficiency in Java",
-        "syllabus": "courses/syllabi/cis5590.txt"
+        "syllabus": "courses/syllabi/cis5590.txt",
+        "labels": ["Data Structures", "Operating Systems", "Internet and Web Systems", "Artificial Intelligence", "Machine Learning", "Neural Networks", "Simulation and Modeling", "Optimization Techniques", "Seminar Courses"]
       },
       {
         "id": "CIS 5600",
@@ -863,7 +954,8 @@
         "available": "Fall",
         "cu": "1",
         "prereq": "CIS 1210 (recommended CIS 2400)",
-        "syllabus": ""
+        "syllabus": "",
+        "labels": ["Data Structures", "Computer Networks", "Reinforcement Learning", "Computer Animation"]
       },
       {
         "id": "CIS 5610",
@@ -873,7 +965,8 @@
         "cu": "1",
         "prereq": "C++ programming and vector geometry",
         "syllabus": "",
-        "mutuallyExclusive": "CIS 4610"
+        "mutuallyExclusive": "CIS 4610",
+        "labels": ["Data Structures", "Software Systems", "Operating Systems", "Reinforcement Learning", "Simulation and Modeling", "C++ Programming", "Randomized Algorithms"]
       },
       {
         "id": "CIS 5620",
@@ -882,7 +975,8 @@
         "available": "Fall or Spring",
         "cu": "1",
         "prereq": "Exposure to linear algebra, curves/surfaces, dynamical systems, and 3D computer graphics",
-        "syllabus": ""
+        "syllabus": "",
+        "labels": ["Data Structures", "Computer Networks", "Robotics", "Computer Animation", "Virtual Reality", "Simulation and Modeling", "Simulation and Modeling Techniques"]
       },
       {
         "id": "CIS 5630",
@@ -891,7 +985,8 @@
         "available": "Fall or Spring",
         "cu": "1",
         "prereq": "C++ programming, basic linear algebra, physics, and background in computer graphics (CIS 461/561)",
-        "syllabus": ""
+        "syllabus": "",
+        "labels": ["Object-Oriented Programming", "Data Structures", "Operating Systems", "Computer Animation", "Game Development", "Simulation and Modeling", "Simulation and Modeling Techniques"]
       },
       {
         "id": "CIS 5640",
@@ -900,7 +995,8 @@
         "available": "Fall or Spring",
         "cu": "1",
         "prereq": "Basic understanding of 3D graphics, animation, and scripting/programming (e.g., Python, C, C++)",
-        "syllabus": ""
+        "syllabus": "",
+        "labels": ["Data Structures", "Operating Systems", "Computer Architecture", "Computer Networks", "Frontend Development", "Reinforcement Learning", "Computer Animation", "Game Design", "Game Development"]
       },
       {
         "id": "CIS 5650",
@@ -909,7 +1005,8 @@
         "available": "Fall",
         "cu": "1",
         "prereq": "Background in computer architecture, graphics, and proficiency in C/C++",
-        "syllabus": "courses/syllabi/cis5650.txt"
+        "syllabus": "courses/syllabi/cis5650.txt",
+        "labels": ["Object-Oriented Programming", "Data Structures", "Operating Systems", "Computer Architecture", "Machine Learning", "Reinforcement Learning", "GPU Programming", "Parallel Computing", "Scientific Computing", "Simulation and Modeling", "Optimization Techniques", "Debugging Techniques", "Code Optimization", "Concurrent Programming Techniques", "Parallel Processing Techniques", "Memory Management Techniques"]
       },
       {
         "id": "CIS 5660",
@@ -918,7 +1015,8 @@
         "available": "Fall or Spring",
         "cu": "1",
         "prereq": "CIS 4600 or CIS 5600",
-        "syllabus": "courses/syllabi/cis5660.txt"
+        "syllabus": "courses/syllabi/cis5660.txt",
+        "labels": ["Data Structures", "Internet and Web Systems", "Interaction Design", "Reinforcement Learning", "Computer Animation", "Simulation and Modeling", "Capstone Projects", "Special Topics"]
       },
       {
         "id": "CIS 5670",
@@ -928,7 +1026,8 @@
         "cu": "1",
         "prereq": "MATH 2400; knowledge of C++, Python or MATLAB",
         "syllabus": "",
-        "mutuallyExclusive": "CIS 4670"
+        "mutuallyExclusive": "CIS 4670",
+        "labels": ["Data Visualization", "Parallel Computing", "Scientific Computing", "Numerical Methods", "MATLAB Programming"]
       },
       {
         "id": "CIS 5680",
@@ -937,7 +1036,8 @@
         "available": "Fall, Spring, and Summer Terms",
         "cu": "1",
         "prereq": "CIS 4600 or CIS 5600",
-        "syllabus": ""
+        "syllabus": "",
+        "labels": ["Data Structures", "Software Design", "Operating Systems", "Computer Architecture", "Computer Networks", "Internet and Web Systems", "Interaction Design", "Frontend Development", "Artificial Intelligence", "Neural Networks", "Computer Animation", "Game Design", "Game Development", "Virtual Reality", "Augmented Reality", "Cognitive Science", "Iterative Methods"]
       },
       {
         "id": "CIS 5690",
@@ -946,7 +1046,8 @@
         "available": "Fall",
         "cu": "1",
         "prereq": "Recommended: ESE 5460; knowledge of C/C++; also requires CIT 5930, CIT 5940, CIT 5950, CIT 5960",
-        "syllabus": "courses/syllabi/cis5690.txt"
+        "syllabus": "courses/syllabi/cis5690.txt",
+        "labels": ["Data Structures", "Artificial Intelligence", "Machine Learning", "Deep Learning", "Neural Networks", "GPU Programming", "Debugging Techniques"]
       },
       {
         "id": "CIS 5710",
@@ -956,7 +1057,8 @@
         "cu": "1",
         "prereq": "CIS 2400 or equivalent",
         "syllabus": "courses/syllabi/cis5710.txt",
-        "mutuallyExclusive": "CIS 4710"
+        "mutuallyExclusive": "CIS 4710",
+        "labels": ["Discrete Mathematics", "Software Design", "Operating Systems", "Computer Architecture", "Digital Systems", "Systems Programming", "Computer Networks", "Human\u2013Computer Interaction", "Concurrent Programming Techniques"]
       },
       {
         "id": "CIS 5730",
@@ -965,7 +1067,8 @@
         "available": "Fall",
         "cu": "1",
         "prereq": "CIS 3500 or equivalent",
-        "syllabus": ""
+        "syllabus": "",
+        "labels": ["Software Engineering", "Software Design", "Operating Systems", "Machine Learning", "Unit Testing", "Debugging Techniques"]
       },
       {
         "id": "CIS 5800",
@@ -974,7 +1077,8 @@
         "available": "Fall",
         "cu": "1",
         "prereq": "Solid grasp of linear algebra; programming in C or Matlab",
-        "syllabus": "courses/syllabi/cis5800.txt"
+        "syllabus": "courses/syllabi/cis5800.txt",
+        "labels": ["Data Structures", "Operating Systems", "Computer Networks", "Computer Vision", "Robotics", "Simulation and Modeling", "Cognitive Science", "Probability and Statistics", "MATLAB Programming"]
       },
       {
         "id": "CIS 5810",
@@ -984,7 +1088,8 @@
         "cu": "1",
         "prereq": "CIS 1210 and CIS 1600",
         "syllabus": "",
-        "mutuallyExclusive": "CIS 4810"
+        "mutuallyExclusive": "CIS 4810",
+        "labels": ["Data Structures", "Operating Systems", "Internet and Web Systems", "Reinforcement Learning", "Computer Vision", "Computational Photography", "Cognitive Science"]
       },
       {
         "id": "CIS 5970",
@@ -993,7 +1098,8 @@
         "available": "Fall or Spring",
         "cu": "1-2",
         "prereq": "",
-        "syllabus": ""
+        "syllabus": "",
+        "labels": []
       },
       {
         "id": "CIS 5990",
@@ -1002,7 +1108,8 @@
         "available": "Fall or Spring",
         "cu": "1-4",
         "prereq": "",
-        "syllabus": ""
+        "syllabus": "",
+        "labels": ["Independent Study"]
       },
       {
         "id": "CIS 6010",
@@ -1011,7 +1118,8 @@
         "available": "Fall",
         "cu": "1",
         "prereq": "CIS 5710 or CIS 4710",
-        "syllabus": "courses/syllabi/cis6010.txt"
+        "syllabus": "courses/syllabi/cis6010.txt",
+        "labels": ["Data Structures", "Software Architecture", "Operating Systems", "Computer Architecture", "Internet and Web Systems", "Reinforcement Learning", "GPU Programming", "Parallel Computing", "Special Topics", "Seminar Courses", "Concurrent Programming Techniques"]
       },
       {
         "id": "CIS 6100",
@@ -1020,7 +1128,8 @@
         "available": "Spring",
         "cu": "1",
         "prereq": "",
-        "syllabus": "courses/syllabi/cis6100.txt"
+        "syllabus": "courses/syllabi/cis6100.txt",
+        "labels": ["Data Structures", "Operating Systems", "Computer Networks", "Data Visualization", "Machine Learning", "Neural Networks", "Computer Vision", "Robotics", "Game Development", "Simulation and Modeling", "JavaScript Programming"]
       },
       {
         "id": "CIS 6200",
@@ -1029,7 +1138,8 @@
         "available": "Fall",
         "cu": "1",
         "prereq": "CIS 5200",
-        "syllabus": "courses/syllabi/cis6200.txt"
+        "syllabus": "courses/syllabi/cis6200.txt",
+        "labels": ["Data Structures", "Discrete Mathematics", "Operating Systems", "Computer Networks", "Internet and Web Systems", "Machine Learning", "Neural Networks", "Natural Language Processing", "Computer Vision", "Cognitive Science", "Compiler Design Techniques"]
       },
       {
         "id": "CIS 6250",
@@ -1038,7 +1148,8 @@
         "available": "Fall or Spring",
         "cu": "1",
         "prereq": "",
-        "syllabus": "courses/syllabi/cis6250.txt"
+        "syllabus": "courses/syllabi/cis6250.txt",
+        "labels": ["Data Structures", "Discrete Mathematics", "Mathematical Foundations", "Operating Systems", "Cryptography", "Privacy and Security", "Ethical Algorithm Design", "Artificial Intelligence", "Machine Learning", "Neural Networks", "Reinforcement Learning", "Game Design", "Game Development", "Probability and Statistics", "Optimization Techniques", "Capstone Projects"]
       },
       {
         "id": "CIS 6300",
@@ -1047,7 +1158,8 @@
         "available": "Fall or Spring",
         "cu": "1",
         "prereq": "CIS 5300",
-        "syllabus": "courses/syllabi/cis6300.txt"
+        "syllabus": "courses/syllabi/cis6300.txt",
+        "labels": ["Operating Systems", "Computer Networks", "Internet and Web Systems", "Frontend Development", "Machine Learning", "Deep Learning", "Reinforcement Learning", "Natural Language Processing", "Capstone Projects", "Seminar Courses"]
       },
       {
         "id": "CIS 6400",
@@ -1056,7 +1168,8 @@
         "available": "Spring",
         "cu": "1",
         "prereq": "(CIS 5450 OR CIS 5190) AND (CIS 5050 or CIS 5410)",
-        "syllabus": ""
+        "syllabus": "",
+        "labels": ["Object-Oriented Programming", "Discrete Mathematics", "Operating Systems", "Privacy and Security", "Memory Management Techniques"]
       },
       {
         "id": "CIS 6500",
@@ -1065,7 +1178,8 @@
         "available": "Fall",
         "cu": "1",
         "prereq": "CIS 5500 or CIS 4500",
-        "syllabus": "courses/syllabi/cis6500.txt"
+        "syllabus": "courses/syllabi/cis6500.txt",
+        "labels": ["Data Structures", "Operating Systems", "Computer Networks", "Internet and Web Systems", "Database Systems", "SQL and Relational Databases", "Machine Learning", "Neural Networks", "Reinforcement Learning", "Parallel Computing", "Probability and Statistics", "Optimization Techniques", "Capstone Projects", "Seminar Courses", "Ruby on Rails", "SQL Programming", "Code Optimization", "Concurrent Programming Techniques", "Machine Learning Techniques"]
       },
       {
         "id": "CIS 6600",
@@ -1074,7 +1188,8 @@
         "available": "Spring",
         "cu": "1",
         "prereq": "CIS 5600",
-        "syllabus": ""
+        "syllabus": "",
+        "labels": ["Data Structures", "Software Design", "Computer Networks", "Interaction Design", "Frontend Development", "Computer Animation", "Game Design", "Simulation and Modeling"]
       },
       {
         "id": "CIS 6700",
@@ -1083,7 +1198,8 @@
         "available": "Fall or Spring",
         "cu": "1",
         "prereq": "CIS 5000",
-        "syllabus": "courses/syllabi/cis6700.txt"
+        "syllabus": "courses/syllabi/cis6700.txt",
+        "labels": ["Object-Oriented Programming", "Functional Programming", "Theory of Computation", "Discrete Mathematics", "Mathematical Foundations", "Operating Systems", "Computer Networks", "Internet and Web Systems", "Machine Learning", "Neural Networks", "Parallel Computing", "Simulation and Modeling", "Seminar Courses", "Haskell Programming", "OCaml Programming", "Recursion Techniques", "Object-Oriented Design Patterns", "Concurrent Programming Techniques"]
       },
       {
         "id": "CIS 6730",
@@ -1092,7 +1208,8 @@
         "available": "Fall or Spring",
         "cu": "1",
         "prereq": "Background in algorithms, data structures, automata theory, propositional logic, operating systems, and communication protocols",
-        "syllabus": "courses/syllabi/cis6730.txt"
+        "syllabus": "courses/syllabi/cis6730.txt",
+        "labels": ["Object-Oriented Programming", "Data Structures", "Computational Complexity", "Theory of Computation", "Discrete Mathematics", "Logic and Reasoning", "Software Design", "Operating Systems", "Embedded Systems", "Computer Networks", "Distributed Systems", "Internet and Web Systems", "Cloud Computing", "Machine Learning", "Neural Networks", "Reinforcement Learning", "Robotics", "Numerical Methods", "Simulation and Modeling", "JavaScript Programming", "Debugging Techniques", "Heuristic Algorithms"]
       },
       {
         "id": "CIS 6770",
@@ -1101,7 +1218,8 @@
         "available": "Fall",
         "cu": "1",
         "prereq": "Consent of the instructor",
-        "syllabus": ""
+        "syllabus": "",
+        "labels": ["Data Structures", "Internet and Web Systems", "Computational Biology", "Heuristic Algorithms", "Graph Algorithms", "Randomized Algorithms"]
       },
       {
         "id": "CIS 6800",
@@ -1110,7 +1228,8 @@
         "available": "Spring",
         "cu": "1",
         "prereq": "Background in machine perception/image processing and Unix/C programming",
-        "syllabus": ""
+        "syllabus": "",
+        "labels": ["Operating Systems", "Computer Networks", "Image Processing", "Robotics", "Simulation and Modeling", "Cognitive Science", "Seminar Courses"]
       },
       {
         "id": "CIS 6820",
@@ -1119,7 +1238,8 @@
         "available": "Fall or Spring",
         "cu": "1",
         "prereq": "",
-        "syllabus": ""
+        "syllabus": "",
+        "labels": ["Theory of Computation", "Discrete Mathematics", "Internet and Web Systems"]
       },
       {
         "id": "CIS 7000",
@@ -1128,7 +1248,8 @@
         "available": "Not Offered Every Year",
         "cu": "1",
         "prereq": "",
-        "syllabus": "courses/syllabi/cis7000.txt"
+        "syllabus": "courses/syllabi/cis7000.txt",
+        "labels": ["Mathematical Foundations", "Computer Networks", "Internet and Web Systems", "Artificial Intelligence", "Machine Learning", "Deep Learning", "Neural Networks", "Natural Language Processing"]
       },
       {
         "id": "CIS 7980",
@@ -1138,7 +1259,8 @@
         "cu": "1",
         "prereq": "",
         "syllabus": "",
-        "mutuallyExclusive": "COMM 8980, OIDD 9530"
+        "mutuallyExclusive": "COMM 8980, OIDD 9530",
+        "labels": ["Discrete Mathematics", "Operating Systems", "Computer Networks", "Machine Learning", "Statistical Inference"]
       },
       {
         "id": "CIS 8000",
@@ -1147,7 +1269,8 @@
         "available": "Fall or Spring",
         "cu": "1",
         "prereq": "",
-        "syllabus": ""
+        "syllabus": "",
+        "labels": ["Internet and Web Systems", "Seminar Courses"]
       },
       {
         "id": "CIS 8100",
@@ -1156,7 +1279,8 @@
         "available": "Fall or Spring",
         "cu": "1",
         "prereq": "",
-        "syllabus": ""
+        "syllabus": "",
+        "labels": []
       },
       {
         "id": "CIS 8950",
@@ -1165,7 +1289,8 @@
         "available": "Fall or Spring",
         "cu": "1",
         "prereq": "",
-        "syllabus": ""
+        "syllabus": "",
+        "labels": []
       },
       {
         "id": "CIS 8990",
@@ -1174,7 +1299,8 @@
         "available": "Fall or Spring",
         "cu": "1-4",
         "prereq": "",
-        "syllabus": ""
+        "syllabus": "",
+        "labels": []
       },
       {
         "id": "CIS 9950",
@@ -1183,7 +1309,8 @@
         "available": "",
         "cu": "0",
         "prereq": "",
-        "syllabus": ""
+        "syllabus": "",
+        "labels": []
       },
       {
         "id": "CIS 9990",
@@ -1192,6 +1319,7 @@
         "available": "Fall or Spring",
         "cu": "1-4",
         "prereq": "",
-        "syllabus": ""
+        "syllabus": "",
+        "labels": []
       }
     ]                                                                                                                                                                                                                                                                                                                                                                                                                                                     
