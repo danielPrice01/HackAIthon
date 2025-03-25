@@ -2,7 +2,7 @@
 import json
 import os
 
-from labels import label_keywords  # Ensure filter.py contains your thorough label_keywords dictionary
+from courses.labels.labels import label_keywords  # Ensure filter.py contains your thorough label_keywords dictionary
 
 def assign_labels(course_text, label_dict):
     """

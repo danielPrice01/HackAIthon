@@ -39,7 +39,7 @@
       "cu": "1 Course Unit",
       "prereq": "",
       "syllabus": "courses/syllabi/cis1100.txt",
-      "labels": ["Object-Oriented Programming", "Functional Programming", "Software Engineering", "Operating Systems", "Computer Networks", "Machine Learning", "Neural Networks", "Reinforcement Learning", "Game Development", "JavaScript Programming", "Recursion Techniques", "Unit Testing"]
+      "labels": ["Introductory Programming", "Object-Oriented Programming", "Functional Programming", "Software Engineering", "Operating Systems", "Computer Networks", "Machine Learning", "Neural Networks", "Reinforcement Learning", "Game Development", "JavaScript Programming", "Recursion Techniques", "Unit Testing"]
     },
     {
       "id": "CIS 1200",
@@ -49,7 +49,7 @@
       "cu": "1 Course Unit",
       "prereq": "",
       "syllabus": "courses/syllabi/cis1200.txt",
-      "labels": ["Functional Programming", "Data Structures", "Software Engineering", "Software Design", "Operating Systems", "Computer Networks", "Internet and Web Systems", "User Interface Design", "Frontend Development", "Artificial Intelligence", "Machine Learning", "Neural Networks", "Reinforcement Learning", "Game Development", "Simulation and Modeling", "Java Programming", "OCaml Programming", "Recursion Techniques", "Iterative Methods", "Unit Testing", "Debugging Techniques"]
+      "labels": ["Introductory Programming", "Functional Programming", "Data Structures", "Software Engineering", "Software Design", "Operating Systems", "Computer Networks", "Internet and Web Systems", "User Interface Design", "Frontend Development", "Artificial Intelligence", "Machine Learning", "Neural Networks", "Reinforcement Learning", "Game Development", "Simulation and Modeling", "Java Programming", "OCaml Programming", "Recursion Techniques", "Iterative Methods", "Unit Testing", "Debugging Techniques"]
     },
     {
       "id": "CIS 1210",

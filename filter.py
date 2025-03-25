@@ -74,14 +74,3 @@ class Filter:
             "columns": self.current_columns,
             "courses": displayed_courses
         }
-
-    def prompt_ai(self, input_string):
-        """
-        Tokenizes the input string and prints the tokens.
-        
-        Parameters:
-            input_string (str): The string to tokenize.
-        """
-        tokens = input_string.split()
-        print("Tokens:", tokens)
-
