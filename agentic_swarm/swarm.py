@@ -1,16 +1,20 @@
 import json
-import numpy as np
-from course_bot import CourseBot
+from agentic_swarm.course_bot import CourseBot
+from filter import Filter
 
 class AgenticSwarm:
-    def __init__(self, courses_file, **kwargs):
+    def __init__(self, courses_file, filter_instance, **kwargs):
         self.courses_file = courses_file
+        self.filter = filter_instance
         with open(courses_file, "r") as f:
             self.courses = json.load(f)
         self.kwargs = kwargs
 
     async def run_swarm(self, user_query, filtered_courses=None):
-        courses_to_process = filtered_courses if filtered_courses is not None else self.courses
+        if filtered_courses is None:
+            courses_to_process = self.filter.get_classes()
+        else:
+            courses_to_process = filtered_courses
         results = {}
         # Process each course sequentially.
         for course in courses_to_process:

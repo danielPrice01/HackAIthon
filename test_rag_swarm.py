@@ -4,6 +4,8 @@ import openai
 import faiss
 import numpy as np
 import asyncio
+from dotenv import load_dotenv
+
 
 class CourseBot:
     # Global semaphore and embedding cache shared across all CourseBot instances.
@@ -117,6 +119,7 @@ class AgenticSwarm:
         self.kwargs = kwargs
 
     async def run_swarm(self, user_query, filtered_courses=None):
+        if(filtered_courses is not None and ):
         if (len(filtered_courses) > 10):
             return
         courses_to_process = filtered_courses if filtered_courses is not None else self.courses
@@ -130,8 +133,8 @@ class AgenticSwarm:
 
 # Example usage:
 async def main():
-    #openai.api_key = os.environ.get("API_TOKEN")
-    openai.api_key = "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"
+    openai.api_key = os.environ.get("API_TOKEN")
+    #openai.api_key = "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"
     swarm = AgenticSwarm("courses/courses.json", embedding_model="text-embedding-ada-002", chat_model="gpt-4-turbo", top_k=2)
     user_query = "do you think this class will add a lot to my work schedule?"
     results = await swarm.run_swarm(user_query)

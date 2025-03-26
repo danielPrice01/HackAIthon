@@ -8,11 +8,11 @@ from filter import Filter
 class InteractiveChatBot:
     MAX_HISTORY = 5
 
-    def __init__(self, env_file=".env", courses_file="courses/courses.json",
+    def __init__(self, env_file=".env", filter_inst=None, courses_file="courses/courses.json",
                  model="gpt-4o-mini", max_tokens=2000, temperature=0.7, top_p=0.95):
         load_dotenv(env_file)
         openai.api_key = os.environ.get("API_TOKEN")
-        self.filter_instance = Filter(courses_file)
+        self.filter_instance = filter_inst
         self.history = []
         self.model = model
         self.max_tokens = max_tokens

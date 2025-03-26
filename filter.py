@@ -88,3 +88,35 @@ class Filter:
         Returns the number of courses currently displayed.
         """
         return len(self.current_courses)
+    
+    def get_classes(self):
+        """
+        Returns the courses currently displayed.
+        """
+        return self.current_courses
+
+    def add_column(self, class_ids, attribute, values):
+        """
+        Add a column to the courses with the given attribute and corresponding values.
+        
+        Parameters:
+            class_ids (list): A list of course IDs for which the attribute should be set.
+            attribute (str): The attribute name to be added as a column.
+            values (list): A list of values corresponding to each course ID in class_ids.
+            
+        For each course in all_courses, if the course's 'id' is in class_ids, the course is updated 
+        with the given attribute set to the corresponding value. For courses whose 'id' is not in 
+        class_ids, the attribute is set to an empty string.
+        """
+        # Create a mapping from course ID to its new value.
+        mapping = dict(zip(class_ids, values))
+        for course in self.all_courses:
+            course_id = course.get("id")
+            if course_id in mapping:
+                course[attribute] = mapping[course_id]
+            else:
+                course[attribute] = ""
+        # Ensure the new attribute is always displayed by adding it to additional_columns.
+        if attribute not in self.additional_columns:
+            self.additional_columns.append(attribute)
+        self.update_state()
