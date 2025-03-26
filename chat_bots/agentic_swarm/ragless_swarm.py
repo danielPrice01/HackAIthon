@@ -57,7 +57,6 @@ class AgenticSwarm:
 
 # Example usage:
 async def main():
-    openai.api_key = "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"
     swarm = AgenticSwarm("courses/courses.json", chat_model="gpt-4")
     user_query = "In 5 words, does this course involve machine learning?"
     results = await swarm.run_swarm(user_query)
