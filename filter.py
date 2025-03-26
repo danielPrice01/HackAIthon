@@ -74,3 +74,17 @@ class Filter:
             "columns": self.current_columns,
             "courses": displayed_courses
         }
+
+    def get_current_filters(self):
+        """
+        Returns a copy of the currently applied filters.
+        
+        The returned dictionary maps filter attributes to their filter values.
+        """
+        return self.filters.copy()
+
+    def get_num_classes(self):
+        """
+        Returns the number of courses currently displayed.
+        """
+        return len(self.current_courses)
