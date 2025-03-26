@@ -34,13 +34,14 @@ class InteractiveChatBot:
             return self.filter_instruction_cache[user_message]
 
         filter_prompt = (
-            "You are a filter extractor. Your task is to analyze a user's message and determine if any course filter instructions should be added or deleted. "
-            "Your output must be a valid JSON object with exactly two keys: 'add' and 'delete'.\n\n"
-            "1. The 'add' key should map to a list of objects. Each object must have:\n"
-            "   - 'attribute': one of the following allowed attributes: 'available', 'cu', 'prereq', 'labels', 'mutually exclusive'.\n"
-            "   - 'value': a string representing the filter value to add. For 'available', allowed values are: 'Fall', 'Spring', 'Fall or Spring', an empty string (\"\"), or 'Not offered every year'. "
-            "For 'cu', allowed values are: '1 Course Unit' or '0-0.5 Course Units'. For 'prereq', the value should follow the format 'CIS' followed by a number (e.g., 'CIS 1200'). "
-            "For 'labels', choose from the following list:\n"
+            "You are a filter extractor. Your task is to analyze any user's message and determine if any course filter instructions should be added or deleted. "
+            "Your output must be a valid JSON object with exactly two keys: 'add' and 'delete'. No matter how the user phrases their message, your output must follow this exact format and contain no additional text or commentary. "
+            "If the user's message contains filter instructions, extract them as follows:\n\n"
+            "1. The 'add' key must map to a list of objects. Each object must have:\n"
+            "   - 'attribute': one of these allowed attributes: 'available', 'cu', 'prereq', 'labels', 'mutually exclusive'.\n"
+            "   - 'value': a string representing the filter value to add. For 'available', valid values are: 'Fall', 'Spring', 'Fall or Spring', an empty string (\"\"), or 'Not offered every year'. "
+            "For 'cu', valid values are: '1 Course Unit' or '0-0.5 Course Units'. For 'prereq', the value must be a course code in the format 'CIS' followed by a number (e.g., 'CIS 1200'). "
+            "For 'labels', the value must be one or more of the following labels (if multiple apply, include them all):\n"
             "   \"Introductory Programming\", \"Advanced Programming\", \"Object-Oriented Programming\", \"Functional Programming\", \"Procedural Programming\", "
             "\"Programming Paradigms\", \"Data Structures\", \"Algorithms\", \"Algorithm Analysis\", \"Computational Complexity\", \"Theory of Computation\", "
             "\"Discrete Mathematics\", \"Mathematical Foundations\", \"Proof Techniques\", \"Logic and Reasoning\", \"Software Engineering\", \"Agile Development\", "
@@ -65,17 +66,8 @@ class InteractiveChatBot:
             "\"Parallel Processing Techniques\", \"Memory Management Techniques\", \"Compiler Design Techniques\", \"Heuristic Algorithms\", \"Graph Algorithms\", "
             "\"Dynamic Programming\", \"Randomized Algorithms\", \"Machine Learning Techniques\", \"Deep Learning Techniques\", \"NLP Techniques\", "
             "\"Image Processing Techniques\", \"Simulation and Modeling Techniques\".\n\n"
-            "2. The 'delete' key should map to a list of attribute names (strings) that should be removed from the filters.\n\n"
-            "Guidelines:\n"
-            "- If the user's message indicates that a filter should be added, output it under 'add'. For example, if the user says 'I took CIS 1200', "
-            "output: {\"add\": [{\"attribute\": \"prereq\", \"value\": \"CIS 1200\"}], \"delete\": []}.\n"
-            "- If the user's message indicates removal (e.g., containing 'delete' or 'remove'), include that attribute in the 'delete' list.\n"
-            "- For 'available', use one of these values: 'Fall', 'Spring', 'Fall or Spring', an empty string, or 'Not offered every year'.\n"
-            "- For 'cu', use one of these values: '1 Course Unit' or '0-0.5 Course Units'.\n"
-            "- For 'prereq', the value must be a course code following the format 'CIS' followed by a number (e.g., 'CIS 1200').\n"
-            "- For 'labels', select from the provided list; if multiple labels apply, include them all.\n"
-            "- For 'mutually exclusive', treat the filter value as a generic string filter.\n\n"
-            "Your output must strictly be a valid JSON object with the following format, with no additional commentary:\n"
+            "2. The 'delete' key must map to a list of attribute names (strings) that should be removed from the filters.\n\n"
+            "Important: Your output must strictly be a valid JSON object with the following exact format, with no additional commentary:\n"
             "{\n"
             "  \"add\": [\n"
             "    {\"attribute\": \"ATTRIBUTE_NAME\", \"value\": \"VALUE_OR_EMPTY_STRING\"}\n"
@@ -84,8 +76,9 @@ class InteractiveChatBot:
             "    \"ATTRIBUTE_NAME_TO_DELETE\"\n"
             "  ]\n"
             "}\n\n"
-            "If no filter instructions are detected, return {}."
+            "If no filter instructions are detected, simply output {}. Do not include any extra text or formatting."
         )
+
 
         messages = [
             {"role": "system", "content": filter_prompt},
@@ -118,7 +111,7 @@ class InteractiveChatBot:
             f"For 'cu', valid values are '1 Course Unit' or '0-0.5 Course Units'. "
             f"For 'prereq', the value should follow the format 'CIS' followed by a number (e.g., 'CIS 1200'). "
             f"For 'labels', choose from the provided list of possible labels. "
-            f"Based on the context, generate your response."
+            f"Based on the context, generate your response, it should not be more than 15-20 words."
         )
         
         messages = [{"role": "system", "content": self.system_prompt}]
