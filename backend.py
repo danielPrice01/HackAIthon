@@ -1,7 +1,7 @@
 import os
 import json
 import asyncio
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, send_from_directory
 from dotenv import load_dotenv
 import openai
 
@@ -10,7 +10,11 @@ from filter import Filter
 from chat_bots.interactive_chat.interactive_chat import InteractiveChatBot
 from chat_bots.agentic_swarm.swarm import AgenticSwarm
 
-app = Flask(__name__)
+app = Flask(__name__, static_folder='frontend-dist')
+
+@app.route('/')
+def serve_index():
+    return send_from_directory(app.static_folder, 'index.html')
 
 # 1. Load environment variables and set the OpenAI API key
 load_dotenv(".env")
@@ -117,4 +121,6 @@ def agentic_swarm():
 
 if __name__ == '__main__':
     # Run Flask on localhost:5000 (or any port you prefer)
-    app.run(debug=True, port=5000)
+    # app.run(debug=True, port=5000)
+    port = int(os.getenv('PORT', 7860))
+    app.run(host='0.0.0.0', port=port)
