@@ -31,6 +31,20 @@ swarm = AgenticSwarm(
     top_k=2
 )
 
+@app.route('/filter_state', methods=['POST'])
+def filter_state():
+    """
+    Endpoint to get the current filter state.
+    - Returns the current columns and courses based on the applied filters.
+    """
+    # Get the current state from the Filter instance
+    current_state = filter_instance.get_current_state()
+    
+    return jsonify({
+        "columns": current_state.get("columns", []),
+        "courses": current_state.get("courses", [])
+    })
+
 @app.route('/interactive_chat', methods=['POST'])
 def interactive_chat():
     """
@@ -56,6 +70,8 @@ def interactive_chat():
 
     # Parse the current filter state (JSON string) into a Python dict
     state = json.loads(current_state_text)
+
+    print(public_response)  
 
     # Return the chatbot response and the state in JSON
     return jsonify({
