@@ -1,74 +1,124 @@
-import asyncio
-import json
-import os
+import gradio as gr
+import pandas as pd
 from dotenv import load_dotenv
+import os
 import openai
+
 from filter import Filter
 from chat_bots.interactive_chat.interactive_chat import InteractiveChatBot
 from chat_bots.agentic_swarm.swarm import AgenticSwarm
 
-async def main():
-    # Load environment variables and set API key.
-    load_dotenv(".env")
-    openai.api_key = os.environ.get("API_TOKEN")
-    
-    # Create a Filter instance.
-    filter_instance = Filter("courses/courses.json")
-    
-    while True:
-        print("Select mode:")
-        print("1 - Interactive Chat")
-        print("2 - Agentic Swarm")
-        mode = input("Enter 1 or 2 (or type 'quit' to exit): ").strip()
-        if mode.lower() in ["quit", "exit"]:
-            break
+# Load environment variables and set API key
+load_dotenv(".env")
+openai.api_key = os.environ.get("API_TOKEN")
 
-        if mode == "1":
-            # Instantiate InteractiveChatBot with the Filter instance.
-            chatbot = InteractiveChatBot(filter_inst=filter_instance)
-            user_message = input("Enter your message for the interactive chat: ")
-            if user_message.strip().lower() in ["exit", "quit"]:
-                break
-            public_response, current_state_text = chatbot.predict(user_message)
-            
-            print("\nInteractive Chat Response:")
-            print(public_response)
-            print("\nCurrent Filter State:")
-            state = json.loads(current_state_text)
-            headers = state.get("columns", [])
-            courses = state.get("courses", [])
-            print("Columns:", headers)
-            for course in courses:
-                row = [course.get(col, "") for col in headers]
-                print(row)
-            print("-" * 60)
+# Initialize global instances
+filter_instance = Filter("courses/courses.json")
+chatbot = InteractiveChatBot(filter_inst=filter_instance)
+agentic_swarm = AgenticSwarm("courses/courses.json", filter_instance,
+                             embedding_model="text-embedding-ada-002", 
+                             chat_model="gpt-4-turbo", top_k=2)
+
+def get_course_table():
+    """
+    Retrieve the current course table as a pandas DataFrame.
+    Reads the current state from the Filter instance and excludes the 'labels' column.
+    """
+    state = filter_instance.get_current_state()
+    headers = state.get("columns", [])
+    courses = state.get("courses", [])
+
+    # Exclude the "labels" column
+    headers = [h for h in headers if h != "labels"]
+    
+    if courses:
+        df = pd.DataFrame(courses)
+        if headers:
+            # Reorder columns according to the headers list
+            df = df[headers]
         
-        elif mode == "2":
-            # Instantiate AgenticSwarm with the Filter instance and extra options.
-            swarm = AgenticSwarm("courses/courses.json", filter_instance,
-                                  embedding_model="text-embedding-ada-002", 
-                                  chat_model="gpt-4-turbo", top_k=2)
-            user_query = input("Enter your query for Agentic Swarm: ")
-            if user_query.strip().lower() in ["exit", "quit"]:
-                break
-            results = await swarm.run_swarm(user_query)
-            
-            print("\nAgentic Swarm Results:")
-            for course_id, answer in results.items():
-                print(f"Course ID: {course_id} -> Answer: {answer}")
-            
-            current_state = filter_instance.get_current_state()
-            print("\nCurrent Filter State:")
-            headers = current_state.get("columns", [])
-            courses = current_state.get("courses", [])
-            print("Columns:", headers)
-            for course in courses:
-                row = [course.get(col, "") for col in headers]
-                print(row)
-            print("-" * 60)
-        
+        # Rename columns according to the mapping
+        column_mapping = {
+            'id': 'Course',
+            'name': 'Name',
+            'prereq': 'Prerequisite(s)',
+            'available': 'Term',
+            'swarm_answer': 'AI Attribute'
+        }
+        df = df.rename(columns=column_mapping)
+    else:
+        df = pd.DataFrame()
+    return df
+
+async def process_chat_message(chat_history, user_message, mode):
+    """
+    Process the user message:
+    - Depending on the selected mode, use either the InteractiveChatBot or AgenticSwarm.
+    - Append the exchange as (user_message, bot_response) to the chat history.
+    - Update and return both the chat history and the course table.
+    """
+    if chat_history is None:
+        chat_history = []
+    
+    if mode == "Filter":
+        public_response, _ = chatbot.predict(user_message)
+    elif mode == "Generate Attribute":
+        if len(get_course_table()) < 15:
+            await agentic_swarm.run_swarm(user_message)
+            public_response = "Done! Check the table for your results."
         else:
-            print("Invalid selection. Please choose either 1 or 2.\n")
+            public_response = "More than 15 courses are currently selected! Please narrow down your course list before using Agentic Swarm mode."
+    else:
+        public_response = "Unknown mode selected."
 
-if __name__ == "__main__":
-    asyncio.run(main())
+    # Append the conversation as dictionaries
+    chat_history.append({"role": "user", "content": user_message})
+    chat_history.append({"role": "assistant", "content": public_response})
+    
+    # Update the course table view
+    updated_table = get_course_table()
+    
+    return chat_history, updated_table, ""
+
+with gr.Blocks() as demo:
+    # Title and description at the top
+    gr.Markdown(
+        """
+        # Ask @ Penn 
+    
+        ## Find the right course, quickly.
+        """
+    )
+    
+    with gr.Row():
+        # Left column: Course table view (wider)
+        with gr.Column(scale=3):
+            course_table = gr.Dataframe(value=get_course_table(), interactive=False, wrap=True, elem_id="course_table")
+        
+        # Right column: Chat panel (narrower)
+        with gr.Column(scale=1):
+            # Mode selection toggle
+            mode_selector = gr.Radio(choices=["Filter", "Generate Attribute"], label="Select Mode", value="Filter")
+            chatbot_ui = gr.Chatbot(label="Chatbot", type="messages")
+            # Textbox: press Enter to submit and auto-clear on submit.
+            user_input = gr.Textbox(
+                placeholder="I want to take...",
+                label="Your prompt"
+            )
+            send_btn = gr.Button("Send")
+    
+    # Wire up the callback for both button click and Enter submit.
+    send_btn.click(
+        fn=process_chat_message, 
+        inputs=[chatbot_ui, user_input, mode_selector], 
+        outputs=[chatbot_ui, course_table, user_input]
+    )
+    
+    user_input.submit(
+        fn=process_chat_message, 
+        inputs=[chatbot_ui, user_input, mode_selector], 
+        outputs=[chatbot_ui, course_table, user_input]
+    )
+    
+# Launch the Gradio app.
+demo.launch()

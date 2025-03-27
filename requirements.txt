@@ -3,3 +3,4 @@ openai>=1.0.0
 python-dotenv>=0.20.0
 numpy
 faiss-cpu
+gradio
