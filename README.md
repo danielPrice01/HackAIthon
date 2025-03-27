@@ -1,3 +1,8 @@
+---
+sdk: gradio
+app_file: app.py
+---
+
 # Course Filter Chat Application
 
 This application allows students to interactively filter course data using two modes: **Interactive Chat** and **Agentic Swarm**. After each interaction, the current filter state (columns and courses) is printed.
