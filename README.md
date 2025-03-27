@@ -3,64 +3,36 @@ sdk: gradio
 app_file: app.py
 ---
 
-# Course Filter Chat Application
+# Ask @ Penn
 
-This application allows students to interactively filter course data using two modes: **Interactive Chat** and **Agentic Swarm**. After each interaction, the current filter state (columns and courses) is printed.
+Ask @ Penn is a modular application designed to make finding courses as easy as it should be. The project integrates several functionalities such as user input filtering, course query handling, multi-agent (swarm) management, and an interactive chat interface.
 
-## Components
+## Features
 
-### Filter Class (filter.py)
+- **Filter Courses:**  
+  Use natural language to filter down courses you're interested in instead of dealing with complex course attributes and filters.
+  
+- **Generate Attributes:**  
+  Create custom AI-powered attributes to get granular information about the courses you're interested in.
 
-- **Purpose:**  
-  Loads course data from a JSON file and applies filters.
-- **Key Methods:**
-  - `add_filter(attribute, value)`: Adds or updates a filter.
-  - `delete_filter(attribute)`: Removes a filter.
-  - `get_current_state()`: Returns a dictionary containing:
-    - `"columns"`: Current column headers.
-    - `"courses"`: Current filtered course rows.
-  - `add_column(class_ids, attribute, values)`: Adds a new column (e.g., swarm answers) to all courses.
-  - `delete_column(attribute)`: Removes an additional column from the filter.
+## File Structure
 
-### InteractiveChatBot Class (interactive_chat.py)
+- **app.py**  
+  The main entry point of the application. This file integrates all modules and initializes the interactive chat system.
 
-- **Purpose:**  
-  Manages an interactive chat session.
-- **Flow:**
-  1. Extracts filter instructions from the user’s message using OpenAI.
-  2. Updates the Filter instance (first processing deletion instructions, then additions).
-  3. Returns a public response along with the current filter state.
-- **Usage:**  
-  When mode 1 is selected, the user’s message is processed and the chatbot outputs a public response and the updated filter table.
+- **filter.py**  
+  Contains functions and logic for filtering and processing user inputs to ensure data integrity and proper handling.
 
-### AgenticSwarm Class (swarm.py)
+- **course_bot.py**  
+  Implements the logic specific to course-related inquiries. This module processes user questions about courses and returns relevant information.
 
-- **Purpose:**  
-  Processes a query against a limited set of courses (maximum 15).
-- **Flow:**
-  1. Retrieves courses from the current Filter state.
-  2. For each course, a `CourseBot` processes the query asynchronously.
-  3. Collects responses and adds a new column (e.g., `"swarm_answer"`) to the Filter.
-- **Usage:**  
-  When mode 2 is selected, the swarm processes the query, returns results for each course, and updates the filter table.
+- **swarm.py**  
+  Manages a group (swarm) of agents. This is useful for handling parallel processes, load balancing, or coordinating multiple service instances.
 
-### Main Loop (app.py)
+- **interactive_chat.py**  
+  Provides the interactive chat functionality that allows users to communicate with the bot in real time.
 
-- **Functionality:**  
-  The main loop repeatedly:
-  1. Prompts the user to select a mode:
-     - **1:** Interactive Chat
-     - **2:** Agentic Swarm
-  2. Processes the user's input using the selected mode.
-  3. Prints the public response.
-  4. Prints the current filter state (columns and course rows).
-  5. Re-prompts the user for a mode selection.
-  - The loop continues until the user types "quit" or "exit".
 
-## Usage
+## Contact
 
-1. **Configure Environment:**  
-   Create an environment file (e.g., `.env` or `api.env`) with your API key:
-   ```env
-   API_TOKEN=your_api_key_here
-   ```
+  For questions, feedback, or further information, please contact daprice@seas, darshk@seas, or tanaytan@seas
